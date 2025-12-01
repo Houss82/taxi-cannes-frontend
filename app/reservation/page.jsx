@@ -1,9 +1,9 @@
 // ✅ SERVER COMPONENT - Pas de "use client"
 // ISR: Revalidate toutes les 24 heures pour le SEO
-export const revalidate = 86400
+export const revalidate = 86400;
 
-import Card from "../components/ui/Card"
-import ReservationForm from "../components/client/ReservationForm"
+import ReservationForm from "../components/client/ReservationForm";
+import Card from "../components/ui/Card";
 
 export const metadata = {
   title: "Réservation - Taxi Cannes",
@@ -11,16 +11,17 @@ export const metadata = {
     "Réservez votre trajet en taxi à Cannes. Confirmation instantanée par email. Transferts aéroport Nice, Monaco, Saint-Tropez. Service disponible 24/7.",
   keywords:
     "réservation taxi cannes, réserver taxi nice, booking taxi monaco, réservation chauffeur privé",
-}
+};
 
 export default function Reservation() {
   return (
     <main className="min-h-screen bg-white">
-
       <section className="pt-32 pb-20">
         <div className="max-w-4xl mx-auto px-6">
           <div className="text-center mb-12">
-            <h1 className="text-5xl md:text-6xl font-bold mb-4">Réserver un Trajet</h1>
+            <h1 className="text-5xl md:text-6xl font-bold mb-4">
+              Réserver un Trajet
+            </h1>
             <p className="text-xl text-muted-foreground">
               Confirmation instantanée par email
             </p>
@@ -35,11 +36,11 @@ export default function Reservation() {
             {/* Sidebar Info */}
             <div className="space-y-6">
               <Card className="p-6 bg-secondary">
-                <h3 className="font-bold text-lg mb-4">Conditions d'Annulation</h3>
+                <h3 className="font-bold text-lg mb-4">
+                  Conditions d'Annulation
+                </h3>
                 <ul className="space-y-2 text-sm text-muted-foreground">
                   <li>• Gratuit jusqu'à 24h avant</li>
-                  <li>• 50% entre 12h-24h</li>
-                  <li>• 100% moins de 12h</li>
                 </ul>
               </Card>
 
@@ -69,6 +70,5 @@ export default function Reservation() {
         </div>
       </section>
     </main>
-  )
+  );
 }
-

@@ -20,7 +20,7 @@ import Button from "./components/ui/Button";
 import Card from "./components/ui/Card";
 
 const vehicles = [
-  { name: "TESLA Model S", image: "/tesla-model-s.png" },
+  { name: "TESLA Model S", image: "/tesla-model-S-2.png" },
   { name: "Mercedes SUV", image: "/mercedes-glc-luxury-suv.png" },
   { name: "Mercedes Classe V", image: "/mercedes-v-luxury-van.png" },
 ];

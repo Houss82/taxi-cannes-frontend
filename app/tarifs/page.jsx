@@ -1,40 +1,43 @@
 // ✅ SERVER COMPONENT - Pas de "use client"
 // ISR: Revalidate toutes les 24 heures pour le SEO
-export const revalidate = 86400
+export const revalidate = 86400;
 
-import Button from "../components/ui/Button"
-import Card from "../components/ui/Card"
-import { Check } from "lucide-react"
-import Link from "next/link"
+import { Check } from "lucide-react";
+import Link from "next/link";
+import Button from "../components/ui/Button";
+import Card from "../components/ui/Card";
 
 export const metadata = {
   title: "Tarifs - Taxi Cannes",
   description:
     "Tarifs transparents pour transferts aéroport Nice, Monaco, Saint-Tropez. Prix fixes sans surprise. Service premium à des tarifs compétitifs.",
-  keywords: "tarifs taxi cannes, prix transfert aéroport nice, tarif taxi monaco, prix taxi saint-tropez",
-}
+  keywords:
+    "tarifs taxi cannes, prix transfert aéroport nice, tarif taxi monaco, prix taxi saint-tropez",
+};
 
 export default function Pricing() {
   const routes = [
-    { from: "Aéroport Nice", to: "Cannes Centre", price: 55 },
-    { from: "Aéroport Nice", to: "Palaces", price: 60 },
-    { from: "Cannes", to: "Monaco", price: 95 },
-    { from: "Cannes", to: "Saint-Tropez", price: 120 },
+    { from: "Aéroport Nice", to: "Cannes Centre", price: 95 },
+    { from: "Aéroport Nice", to: "Palaces", price: 100 },
+    { from: "Cannes", to: "Monaco", price: 160 },
+    { from: "Cannes", to: "Saint-Tropez", price: 260 },
     { from: "Cannes", to: "Antibes", price: 45 },
-    { from: "Cannes", to: "Grasse", price: 75 },
-  ]
+    { from: "Cannes", to: "Grasse", price: 65 },
+  ];
 
   return (
     <main className="min-h-screen bg-white">
-
       <section className="pt-32 pb-20">
         <div className="max-w-7xl mx-auto px-6">
           <div className="text-center mb-16">
-            <h1 className="text-5xl md:text-6xl font-bold mb-6">Tarifs Transparents</h1>
+            <h1 className="text-5xl md:text-6xl font-bold mb-6">
+              Tarifs Transparents
+            </h1>
             <p className="text-xl text-muted-foreground">
-              Prix fixes, sans surprise. Service de qualité premium à des tarifs compétitifs.
-          </p>
-        </div>
+              Prix fixes, sans surprise. Service de qualité premium à des tarifs
+              compétitifs.
+            </p>
+          </div>
 
           {/* Pricing Table */}
           <Card className="overflow-hidden mb-16">
@@ -58,7 +61,7 @@ export default function Pricing() {
                       <td className="px-6 py-4 text-right font-bold text-accent">
                         {route.price}€
                       </td>
-                  </tr>
+                    </tr>
                   ))}
                 </tbody>
               </table>
@@ -71,19 +74,19 @@ export default function Pricing() {
               <h3 className="text-2xl font-bold mb-6">Chauffeur Privé</h3>
               <ul className="space-y-4 mb-8">
                 <li className="flex items-center gap-3">
-                  <Check className="w-5 h-5 text-accent flex-shrink-0" />
+                  <Check className="w-5 h-5 text-accent shrink-0" />
                   <span>Demi-journée (4h): 240€</span>
                 </li>
                 <li className="flex items-center gap-3">
-                  <Check className="w-5 h-5 text-accent flex-shrink-0" />
+                  <Check className="w-5 h-5 text-accent shrink-0" />
                   <span>Journée complète (8h): 420€</span>
                 </li>
                 <li className="flex items-center gap-3">
-                  <Check className="w-5 h-5 text-accent flex-shrink-0" />
+                  <Check className="w-5 h-5 text-accent shrink-0" />
                   <span>Itinéraires flexibles</span>
                 </li>
                 <li className="flex items-center gap-3">
-                  <Check className="w-5 h-5 text-accent flex-shrink-0" />
+                  <Check className="w-5 h-5 text-accent shrink-0" />
                   <span>Chauffeur professionnel</span>
                 </li>
               </ul>
@@ -98,19 +101,19 @@ export default function Pricing() {
               <h3 className="text-2xl font-bold mb-6">Forfait Événement</h3>
               <ul className="space-y-4 mb-8">
                 <li className="flex items-center gap-3">
-                  <Check className="w-5 h-5 text-accent flex-shrink-0" />
+                  <Check className="w-5 h-5 text-accent shrink-0" />
                   <span>Mariage: à partir de 500€</span>
                 </li>
                 <li className="flex items-center gap-3">
-                  <Check className="w-5 h-5 text-accent flex-shrink-0" />
+                  <Check className="w-5 h-5 text-accent shrink-0" />
                   <span>Festival: tarif spécial</span>
                 </li>
                 <li className="flex items-center gap-3">
-                  <Check className="w-5 h-5 text-accent flex-shrink-0" />
+                  <Check className="w-5 h-5 text-accent shrink-0" />
                   <span>Transport groupe</span>
                 </li>
                 <li className="flex items-center gap-3">
-                  <Check className="w-5 h-5 text-accent flex-shrink-0" />
+                  <Check className="w-5 h-5 text-accent shrink-0" />
                   <span>Discrétion et service blanc</span>
                 </li>
               </ul>
@@ -136,6 +139,5 @@ export default function Pricing() {
         </div>
       </section>
     </main>
-  )
+  );
 }
-
