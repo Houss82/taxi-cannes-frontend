@@ -1,18 +1,10 @@
 ---
 title: "Guide Complet : Transfert Aéroport Nice - Prix, Durées et Conseils 2025"
-date: "2025-01-15"
+date: "2025-12-02"
 excerpt: "Tout ce qu'il faut savoir pour organiser votre transfert entre l'aéroport Nice-Côte d'Azur et Cannes. Prix fixes, durées, conseils pratiques et options disponibles pour un voyage sans stress."
 image: "/aeroport-nice-cannes.png"
 category: "Guides Pratiques"
 author: "Taxi Cannes"
-keywords:
-  [
-    "transfert aéroport nice",
-    "taxi nice cannes",
-    "aéroport nice transfert",
-    "prix taxi aéroport nice",
-    "aéroport nice cannes prix",
-  ]
 ---
 
 L'aéroport Nice-Côte d'Azur est la porte d'entrée principale pour découvrir la Côte d'Azur. Situé à seulement **30 minutes de Cannes**, il accueille **plus de 14 millions de passagers chaque année** selon les statistiques de l'[Aéroport Nice Côte d'Azur](https://www.nice.aeroport.fr). Que vous veniez pour les festivals, les affaires ou les vacances, organiser votre transfert à l'avance est essentiel pour un voyage sans stress.
@@ -501,4 +493,4 @@ Pour aller plus loin dans votre découverte de Cannes et de la Côte d'Azur :
 
 ---
 
-_Article mis à jour le 15 janvier 2025_
+_Article mis à jour le 02 décembre 2025_

@@ -1,12 +1,25 @@
-const path = require('path')
+const path = require('path');
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  // S'assurer que le dossier content est inclus dans le build pour toutes les routes
-  outputFileTracingIncludes: {
-    '/sitemap.xml': ['./content/**/*'],
-    '/blog/**': ['./content/**/*'],
+  // Désactiver le cache webpack en développement pour éviter les problèmes de CSS
+  onDemandEntries: {
+    maxInactiveAge: 25 * 1000,
+    pagesBufferLength: 2,
+  },
+  webpack: (config, { dev, isServer }) => {
+    config.resolve.alias = {
+      ...config.resolve.alias,
+      '@': path.resolve(__dirname),
+    };
+    
+    // En développement, désactiver le cache webpack pour éviter les problèmes de CSS
+    if (dev && !isServer) {
+      config.cache = false;
+    }
+    
+    return config;
   },
 }
 

@@ -8,8 +8,8 @@ export default function robots() {
         userAgent: "*",
         allow: "/",
         disallow: [
-          "/api/",           // Routes API
-          "/_next/",         // Fichiers Next.js internes
+          "/api/", // Routes API
+          "/_next/", // Fichiers Next.js internes
         ],
       },
       {
@@ -19,7 +19,6 @@ export default function robots() {
         disallow: ["/api/"],
       },
     ],
-    sitemap: "https://www.cannestaxi.fr/sitemap.xml",
+    sitemap: "v",
   };
 }
-

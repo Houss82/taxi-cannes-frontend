@@ -1,7 +1,7 @@
 // ✅ SERVER COMPONENT - Génération automatique du sitemap.xml
-// ISR: Revalidate toutes les heures pour s'assurer que les nouveaux articles apparaissent rapidement
-export const revalidate = 3600; // 1 heure au lieu de 24h pour un refresh plus rapide
-export const dynamic = 'force-dynamic'; // Forcer la génération dynamique pour éviter le cache
+// Pas de cache pour s'assurer que les nouveaux articles apparaissent immédiatement
+export const dynamic = 'force-dynamic';
+export const revalidate = 0; // Pas de cache du tout
 
 import { getAllBlogPosts } from "../lib/blog";
 
