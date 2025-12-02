@@ -1,6 +1,17 @@
-// ✅ SERVER COMPONENT - Pas de "use client"
-// ISR: Revalidate toutes les 24 heures pour le SEO
+// app/page.jsx — PAGE D’ACCUEIL TAXI CANNES (SERVER)
+
+// ✅ ISR: Revalidate toutes les 24 heures pour le SEO
 export const revalidate = 86400;
+
+// ✅ Métadonnées SEO pour cette page
+export const metadata = {
+  title: "Taxi Cannes – Transferts Aéroport Nice & Chauffeur Privé",
+  description:
+    "Taxi Cannes disponible 24h/24 pour tous vos trajets : transferts aéroport Nice–Cannes, gares, hôtels, Palais des Festivals, sorties privées et business.",
+  alternates: {
+    canonical: "https://www.cannestaxi.fr/",
+  },
+};
 
 import {
   Building2,
@@ -15,6 +26,7 @@ import {
   Users,
 } from "lucide-react";
 import Image from "next/image";
+import Script from "next/script";
 import VehicleCarousel from "./components/client/VehicleCarousel";
 import Button from "./components/ui/Button";
 import Card from "./components/ui/Card";
@@ -32,7 +44,7 @@ export default function Home() {
       <section className="relative h-screen flex items-center justify-center overflow-hidden pt-20">
         <Image
           src="/taxi-cannes.png"
-          alt="Cannes Croisette"
+          alt="Taxi Cannes sur la Croisette, véhicule premium face à la mer"
           fill
           className="object-cover"
           priority
@@ -43,7 +55,12 @@ export default function Home() {
             Taxi Cannes
           </h1>
           <p className="text-xl md:text-2xl mb-8 text-white/90 text-balance">
-            Transferts Premium sur la Côte d'Azur
+            Taxi à Cannes 24h/24 – transferts aéroport Nice, gares, hôtels et
+            Palais des Festivals.
+          </p>
+          <p className="text-base md:text-lg mb-8 text-white/80">
+            Réservez un taxi à Cannes pour vos trajets privés ou professionnels
+            sur toute la Côte d&apos;Azur.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button
@@ -51,7 +68,7 @@ export default function Home() {
               size="lg"
               className="bg-accent text-accent-foreground hover:opacity-90 px-8 py-6 text-lg"
             >
-              Réserver maintenant
+              Réserver un taxi à Cannes
             </Button>
             <Button
               href="/tarifs"
@@ -59,7 +76,7 @@ export default function Home() {
               variant="outline"
               className="border-white text-white hover:bg-white/10 px-8 py-6 text-lg bg-transparent"
             >
-              Consulter les tarifs
+              Consulter les tarifs taxi Cannes
             </Button>
           </div>
         </div>
@@ -68,19 +85,36 @@ export default function Home() {
       {/* Quick Services */}
       <section className="py-16 bg-white">
         <div className="max-w-7xl mx-auto px-6">
+          <header className="text-center mb-10">
+            <h2 className="text-3xl md:text-4xl font-bold mb-3">
+              Vos trajets en taxi depuis Cannes
+            </h2>
+            <p className="text-muted-foreground">
+              Taxi Cannes pour l&apos;aéroport Nice, gares, hôtels de luxe et
+              stations balnéaires de la Côte d&apos;Azur.
+            </p>
+          </header>
           <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
             {[
-              { icon: Plane, label: "Aéroport Nice", desc: "Transfert direct" },
-              { icon: Train, label: "Gare de Cannes", desc: "Trajets rapides" },
+              {
+                icon: Plane,
+                label: "Aéroport Nice",
+                desc: "Transfert taxi Cannes ↔ Nice",
+              },
+              {
+                icon: Train,
+                label: "Gare de Cannes",
+                desc: "Arrivées & départs",
+              },
               {
                 icon: Building2,
                 label: "Palaces & Hôtels",
-                desc: "Service VIP",
+                desc: "Croisette, Martinez, Carlton",
               },
               {
                 icon: Compass,
                 label: "Longue Distance",
-                desc: "Monaco, Saint-Tropez",
+                desc: "Monaco, Saint-Tropez, Antibes",
               },
             ].map((service, i) => {
               const Icon = service.icon;
@@ -101,15 +135,157 @@ export default function Home() {
         </div>
       </section>
 
+      {/* SECTION TEXTE SEO: Taxi Cannes */}
+      <section className="py-24 bg-linear-to-b from-accent/5 via-white to-accent/5 relative overflow-hidden">
+        {/* Éléments décoratifs plus visibles */}
+        <div className="absolute inset-0 pointer-events-none">
+          <div className="absolute top-0 left-1/4 w-96 h-96 bg-accent/10 rounded-full blur-3xl animate-pulse"></div>
+          <div
+            className="absolute bottom-0 right-1/4 w-96 h-96 bg-primary/10 rounded-full blur-3xl animate-pulse"
+            style={{ animationDelay: "1s" }}
+          ></div>
+          <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] bg-accent/5 rounded-full blur-3xl"></div>
+        </div>
+
+        <div className="max-w-5xl mx-auto px-6 relative z-10">
+          {/* En-tête centré avec design moderne */}
+          <div className="mb-16 text-center">
+            <div className="inline-flex items-center gap-2 mb-6 px-4 py-2 bg-accent/10 rounded-full border border-accent/20">
+              <span className="w-2 h-2 bg-accent rounded-full animate-pulse"></span>
+              <span className="text-sm font-bold text-accent uppercase tracking-wider">
+                Service Premium
+              </span>
+            </div>
+            <h2 className="text-4xl md:text-6xl font-bold mb-8 leading-tight">
+              <span className="bg-linear-to-r from-gray-900 via-gray-800 to-gray-900 bg-clip-text text-transparent">
+                Taxi Cannes
+              </span>
+              <br />
+              <span className="text-gray-700">
+                votre chauffeur privé sur la
+              </span>{" "}
+              <span className="relative inline-block">
+                <span className="relative z-10 bg-linear-to-r from-accent to-primary bg-clip-text text-transparent font-extrabold">
+                  Côte d&apos;Azur
+                </span>
+                <span className="absolute bottom-2 left-0 right-0 h-4 bg-accent/30 -rotate-1 z-0 rounded-sm"></span>
+              </span>
+            </h2>
+            <div className="flex items-center justify-center gap-4 mb-4">
+              <div className="h-1 w-16 bg-linear-to-r from-transparent to-accent rounded-full"></div>
+              <div className="w-2 h-2 bg-accent rounded-full"></div>
+              <div className="h-1 w-24 bg-linear-to-r from-accent via-primary to-accent rounded-full"></div>
+              <div className="w-2 h-2 bg-primary rounded-full"></div>
+              <div className="h-1 w-16 bg-linear-to-r from-primary to-transparent rounded-full"></div>
+            </div>
+          </div>
+
+          {/* Contenu avec design amélioré */}
+          <div className="space-y-10 text-lg leading-relaxed">
+            {/* Premier paragraphe avec fond coloré */}
+            <div className="bg-white/80 backdrop-blur-sm rounded-2xl p-8 md:p-10 shadow-lg border border-gray-100">
+              <p className="text-gray-800 mb-0 leading-relaxed text-lg">
+                Notre service{" "}
+                <strong className="font-bold text-accent text-xl">
+                  Taxi Cannes
+                </strong>{" "}
+                assure tous vos déplacements à Cannes et dans les
+                Alpes-Maritimes : transferts entre l&apos;
+                <strong className="font-bold text-primary text-lg">
+                  aéroport Nice Côte d&apos;Azur
+                </strong>{" "}
+                et Cannes, trajets vers le{" "}
+                <strong className="font-bold text-primary text-lg">
+                  Palais des Festivals
+                </strong>
+                , les palaces de la Croisette, les ports et les quartiers
+                résidentiels.
+              </p>
+            </div>
+
+            {/* Deuxième paragraphe avec bordure accent */}
+            <div className="relative pl-6 border-l-4 border-accent bg-linear-to-r from-accent/5 to-transparent py-6 rounded-r-lg">
+              <p className="text-gray-800 leading-relaxed text-lg">
+                Que vous soyez en voyage d&apos;affaires, en séjour touristique
+                ou résident à l&apos;année, vous profitez d&apos;un{" "}
+                <strong className="font-bold text-accent text-xl">
+                  taxi à Cannes
+                </strong>{" "}
+                ponctuel, discret et confortable. Nos chauffeurs suivent votre
+                vol ou votre train en temps réel et vous attendent à
+                l&apos;arrivée avec un accueil personnalisé.
+              </p>
+            </div>
+
+            {/* Call-to-action avec design premium */}
+            <div className="bg-linear-to-r from-accent/10 via-white to-primary/10 border-2 border-accent/30 rounded-2xl p-8 md:p-10 shadow-xl relative overflow-hidden">
+              <div className="absolute top-0 right-0 w-32 h-32 bg-accent/10 rounded-full blur-2xl -mr-16 -mt-16"></div>
+              <div className="absolute bottom-0 left-0 w-32 h-32 bg-primary/10 rounded-full blur-2xl -ml-16 -mb-16"></div>
+              <p className="text-gray-800 mb-0 leading-relaxed text-lg relative z-10">
+                Vous pouvez{" "}
+                <a
+                  href="/reservation"
+                  className="inline-flex items-center gap-1 text-accent font-bold hover:text-primary transition-all duration-200 relative group text-xl"
+                >
+                  <span className="relative">
+                    réserver votre taxi à Cannes en ligne
+                    <span className="absolute bottom-0 left-0 right-0 h-1 bg-linear-to-r from-accent to-primary transform scale-x-0 group-hover:scale-x-100 transition-transform duration-300 origin-left rounded-full"></span>
+                  </span>
+                </a>{" "}
+                24h/24 ou nous contacter pour un{" "}
+                <a
+                  href="/tarifs"
+                  className="inline-flex items-center gap-1 text-accent font-bold hover:text-primary transition-all duration-200 relative group text-xl"
+                >
+                  <span className="relative">
+                    devis de transfert Cannes
+                    <span className="absolute bottom-0 left-0 right-0 h-1 bg-linear-to-r from-accent to-primary transform scale-x-0 group-hover:scale-x-100 transition-transform duration-300 origin-left rounded-full"></span>
+                  </span>
+                </a>{" "}
+                vers Nice, Antibes, Monaco, Saint-Tropez ou toute autre
+                destination.
+              </p>
+            </div>
+
+            {/* Dernier paragraphe avec icône visuelle */}
+            <div className="bg-white/80 backdrop-blur-sm rounded-xl p-8 border border-gray-200 shadow-md">
+              <p className="text-gray-800 leading-relaxed text-lg">
+                Basés au cœur de la ville, nous connaissons parfaitement les
+                contraintes de circulation lors des{" "}
+                <strong className="font-bold text-primary text-lg">
+                  congrès à Cannes
+                </strong>{" "}
+                (Festival de Cannes, MIPIM, Lions, etc.) et adaptons nos
+                itinéraires pour vous faire gagner du temps.
+              </p>
+            </div>
+          </div>
+
+          {/* Séparateur décoratif amélioré */}
+          <div className="mt-16 pt-8">
+            <div className="flex flex-col items-center justify-center gap-4">
+              <div className="flex items-center justify-center gap-3">
+                <div className="h-px w-20 bg-linear-to-r from-transparent via-accent to-transparent"></div>
+                <div className="w-3 h-3 bg-accent rounded-full"></div>
+                <div className="h-px w-20 bg-linear-to-r from-transparent via-primary to-transparent"></div>
+              </div>
+              <span className="text-base font-bold text-gray-700 bg-white/80 px-6 py-2 rounded-full border border-gray-200 shadow-sm">
+                Service disponible 24h/24
+              </span>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* Advantages Section */}
       <section className="py-20 bg-secondary">
         <div className="max-w-7xl mx-auto px-6">
           <div className="text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-bold mb-4">
-              Pourquoi nous choisir
+              Pourquoi choisir notre taxi à Cannes ?
             </h2>
             <p className="text-lg text-muted-foreground">
-              Excellence et fiabilité depuis 2015
+              Service de taxi à Cannes fiable et haut de gamme depuis 2015.
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
@@ -117,22 +293,22 @@ export default function Home() {
               {
                 icon: Users,
                 title: "Chauffeurs Professionnels",
-                desc: "Expérience et courtoisie garanties",
+                desc: "Expérience, discrétion et courtoisie garanties.",
               },
               {
                 icon: Car,
                 title: "Véhicules Premium",
-                desc: "Mercedes dernière génération",
+                desc: "Mercedes et Tesla pour vos trajets à Cannes.",
               },
               {
                 icon: Clock,
                 title: "Disponibilité 24/7",
-                desc: "Toujours à votre service",
+                desc: "Taxi Cannes disponible jour et nuit.",
               },
               {
                 icon: CreditCard,
                 title: "Paiement Flexible",
-                desc: "CB à bord ou virement",
+                desc: "CB à bord, espèces ou virement.",
               },
             ].map((advantage, i) => {
               const Icon = advantage.icon;
@@ -155,10 +331,11 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-6">
           <div className="text-center mb-12">
             <h2 className="text-4xl md:text-5xl font-bold mb-4">
-              Notre Flotte
+              Notre flotte de taxis à Cannes
             </h2>
             <p className="text-lg text-muted-foreground">
-              Véhicules haut de gamme pour votre confort
+              Véhicules haut de gamme adaptés aux trajets individuels, famille
+              ou groupes lors de vos séjours à Cannes.
             </p>
           </div>
           <VehicleCarousel vehicles={vehicles} />
@@ -170,19 +347,20 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div>
             <h2 className="text-4xl md:text-5xl font-bold mb-6 leading-tight">
-              Transfert Aéroport Nice ↔ Cannes
+              Taxi Cannes – Transfert Aéroport Nice ↔ Cannes
             </h2>
             <p className="text-lg mb-8 text-primary-foreground/90">
-              À seulement 30 minutes de l'aéroport Nice-Côte d'Azur, nous
-              proposons un service de transfert rapide, fiable et confortable
-              vers Cannes et ses environs.
+              À seulement 30 minutes de l&apos;aéroport Nice Côte d&apos;Azur,
+              notre service <strong>taxi Cannes aéroport Nice</strong> assure
+              des transferts rapides, fiables et confortables vers votre hôtel,
+              villa ou lieu d&apos;événement.
             </p>
             <ul className="space-y-4 mb-8">
               {[
-                "Prix fixe, pas de surprises",
-                "Chauffeur à l'arrivée avec panneau",
-                "Pas de supplément pour bagages",
-                "Réservation en ligne facile",
+                "Prix fixe annoncé à l’avance",
+                "Chauffeur à l’arrivée avec panneau nominatif",
+                "Pas de supplément pour bagages ou retard avion",
+                "Réservation de taxi Cannes facile en ligne ou par téléphone",
               ].map((item, i) => (
                 <li key={i} className="flex items-center gap-3">
                   <ChevronRight className="w-5 h-5 text-accent shrink-0" />
@@ -194,12 +372,12 @@ export default function Home() {
               href="/reservation"
               className="bg-accent text-accent-foreground hover:opacity-90 px-8 py-6 text-lg"
             >
-              Réserver un transfert
+              Réserver un transfert aéroport
             </Button>
           </div>
           <Image
             src="/arrivée-glc-2.jpeg"
-            alt="Aéroport Nice"
+            alt="Taxi Cannes à l'aéroport Nice Côte d'Azur"
             width={500}
             height={500}
             className="rounded-lg shadow-xl"
@@ -212,31 +390,32 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-6">
           <div className="text-center mb-12">
             <h2 className="text-4xl md:text-5xl font-bold mb-4">
-              Avis de nos clients
+              Avis de nos clients taxi Cannes
             </h2>
             <p className="text-lg text-muted-foreground">
-              Satisfait ou remboursé
+              Des centaines de trajets réussis chaque année à Cannes et sur la
+              Côte d&apos;Azur.
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {[
               {
-                name: "Marie Dupont",
+                name: "Marie D.",
                 rating: 5,
                 review:
-                  "Service impeccable pour notre séjour à Cannes. Très professionnel!",
+                  "Service de taxi à Cannes impeccable pour notre séjour. Très professionnel !",
               },
               {
-                name: "Jean Martin",
+                name: "Jean M.",
                 rating: 5,
                 review:
-                  "Chauffeur courtois, véhicule propre et à l'heure. Je recommande!",
+                  "Chauffeur courtois, véhicule propre et à l'heure pour notre transfert Nice–Cannes.",
               },
               {
-                name: "Sophie Laurent",
+                name: "Sophie L.",
                 rating: 5,
                 review:
-                  "Expérience premium du début à la fin. Excellent rapport qualité-prix.",
+                  "Expérience premium du début à la fin. Taxi Cannes parfait pour les congrès.",
               },
             ].map((review, i) => (
               <Card key={i} className="p-8">
@@ -262,21 +441,52 @@ export default function Home() {
       <section className="py-20 bg-accent text-accent-foreground">
         <div className="max-w-4xl mx-auto px-6 text-center">
           <h2 className="text-4xl md:text-5xl font-bold mb-6">
-            Prêt pour votre voyage?
+            Besoin d&apos;un taxi à Cannes maintenant ?
           </h2>
           <p className="text-lg mb-8 text-accent-foreground/90">
-            Réservez maintenant et recevez une confirmation instantanée par
-            email
+            Réservez votre trajet en quelques clics et recevez une confirmation
+            immédiate par email.
           </p>
           <Button
             href="/reservation"
             size="lg"
             className="bg-primary text-primary-foreground hover:opacity-90 px-8 py-6 text-lg"
           >
-            Réserver un trajet
+            Réserver un taxi à Cannes
           </Button>
         </div>
       </section>
+
+      {/* JSON-LD LocalBusiness pour Taxi Cannes */}
+      <Script
+        id="localbusiness-taxi-cannes"
+        type="application/ld+json"
+        strategy="afterInteractive"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "TaxiService",
+            name: "Taxi Cannes",
+            url: "https://www.cannestaxi.fr/",
+            telephone: "+33 7 49 77 76 21",
+            areaServed: [
+              "Cannes",
+              "Nice",
+              "Antibes",
+              "Monaco",
+              "Saint-Tropez",
+              "Alpes-Maritimes",
+            ],
+            address: {
+              "@type": "PostalAddress",
+              addressLocality: "Cannes",
+              addressRegion: "Provence-Alpes-Côte d'Azur",
+              addressCountry: "FR",
+            },
+            sameAs: [],
+          }),
+        }}
+      />
     </main>
   );
 }
