@@ -1,6 +1,7 @@
 // ✅ SERVER COMPONENT - Génération automatique du sitemap.xml
-// ISR: Revalidate toutes les 24 heures pour le SEO
-export const revalidate = 86400;
+// ISR: Revalidate toutes les heures pour s'assurer que les nouveaux articles apparaissent rapidement
+export const revalidate = 3600; // 1 heure au lieu de 24h pour un refresh plus rapide
+export const dynamic = 'force-dynamic'; // Forcer la génération dynamique pour éviter le cache
 
 import { getAllBlogPosts } from "../lib/blog";
 
@@ -50,11 +51,22 @@ export default function sitemap() {
   // 2. Articles de blog dynamiques avec dates réelles
   let blogPosts = [];
   try {
+    // Logs détaillés pour déboguer en production
+    console.log(`[Sitemap] Starting blog posts fetch...`);
+    console.log(`[Sitemap] NODE_ENV: ${process.env.NODE_ENV}`);
+    console.log(`[Sitemap] Process cwd: ${process.cwd()}`);
+    
     const allPosts = getAllBlogPosts();
+    console.log(`[Sitemap] getAllBlogPosts returned ${allPosts.length} posts`);
+    
     blogPosts = allPosts
       .filter((post) => {
         // Inclure tous les articles sauf ceux explicitement non publiés
-        return post.published !== false && post.slug;
+        const isValid = post.published !== false && post.slug;
+        if (!isValid) {
+          console.log(`[Sitemap] Filtered out post: ${post.slug} (published: ${post.published})`);
+        }
+        return isValid;
       })
       .map((post) => ({
         url: `${baseUrl}/blog/${post.slug}`,
@@ -63,16 +75,19 @@ export default function sitemap() {
         priority: 0.7,
       }));
     
-    // Log pour déboguer en production (sera visible dans les logs Vercel)
-    if (process.env.NODE_ENV === 'production') {
-      console.log(`[Sitemap] Found ${blogPosts.length} blog posts`);
-      blogPosts.forEach(post => {
-        console.log(`[Sitemap] Blog post: ${post.url}`);
-      });
+    // Log pour déboguer (toujours actif pour voir dans les logs Vercel)
+    console.log(`[Sitemap] Final blog posts count: ${blogPosts.length}`);
+    blogPosts.forEach(post => {
+      console.log(`[Sitemap] Blog post URL: ${post.url}`);
+    });
+    
+    if (blogPosts.length === 0) {
+      console.warn(`[Sitemap] WARNING: No blog posts found! Check logs above.`);
     }
   } catch (error) {
     // En cas d'erreur, on continue avec les pages statiques seulement
-    console.error('[Sitemap] Error fetching blog posts:', error);
+    console.error('[Sitemap] ERROR fetching blog posts:', error);
+    console.error('[Sitemap] Error stack:', error.stack);
   }
 
   // 3. Combiner toutes les URLs
