@@ -59,10 +59,10 @@ export default async function BlogPage({ searchParams }) {
   ];
 
   return (
-    <div className="min-h-screen bg-gray-50 mt-20 sm:mt-0">
+    <div className="min-h-screen bg-gray-50">
       <Header />
 
-      <div className="bg-white border-b mt-20">
+      <div className="bg-white border-b mt-20 sm:mt-0">
         <div className="max-w-7xl mx-auto px-4 py-4">
           <SEOBreadcrumb items={breadcrumbItems} />
         </div>

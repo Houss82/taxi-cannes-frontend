@@ -35,7 +35,7 @@ Selon les analyses des publications Instagram et les retours de photographes pro
 - **Cadres naturels parfaits** pour compositions équilibrées
 - **Peu de pollution visuelle** (vues dégagées sur la Méditerranée)
 
-**Statistiques Instagram** : Selon les données de géolocalisation Instagram analysées par la [Ville de Cannes](https://www.cannes.com/fr/index.html), la Croisette génère **plus de 180 000 publications par an** avec le hashtag #CannesFrance, tandis que le Suquet suit avec **120 000 publications annuelles**. Le Mont Chevalier, moins connu, offre pourtant des perspectives uniques recherchées par les photographes professionnels. Pour découvrir les meilleures photos de Cannes, consultez le compte officiel [@cannesfrance](https://www.instagram.com/cannesfrance/) qui partage régulièrement des clichés exceptionnels pris depuis ces belvédères.
+**Statistiques Instagram** : Selon les données de géolocalisation Instagram analysées par la [Ville de Cannes](https://www.cannes.com/fr/index.html), la Croisette génère **plus de 180 000 publications par an** avec le hashtag #CannesFrance, tandis que le Suquet suit avec **120 000 publications annuelles**. Le Port de Cannes, avec ses yachts de luxe et ses reflets, offre des perspectives urbaines uniques recherchées par les photographes professionnels. Pour découvrir les meilleures photos de Cannes, consultez le compte officiel [@cannesfrance](https://www.instagram.com/cannesfrance/) qui partage régulièrement des clichés exceptionnels pris depuis ces spots.
 
 **Le défi photographique** : Pour capturer ces panoramas dans les meilleures conditions, il faut connaître les **horaires de lumière optimaux**, éviter les foules qui gênent les compositions, et pouvoir transporter facilement son matériel (trépieds, objectifs multiples) jusqu'aux meilleurs spots.
 
@@ -213,49 +213,53 @@ Le Suquet offre **le panorama historique le plus étendu de Cannes**, parfait po
 
 ---
 
-## ⛰️ 3. Mont Chevalier — perspective plongeante unique
+## 🛥️ 3. Le Port de Cannes — yachts, architecture et reflets
 
-<img src="/mont-chevalier-cannes.png" alt="Mont Chevalier Cannes - Spot photo avec vue plongeante sur la baie de Cannes et perspective unique sur la Croisette" style="max-width: 100%; height: auto; border-radius: 0.75rem; margin: 1.5rem 0;" />
+<img src="/port-cannes-yachts.jpg" alt="Port de Cannes - Spot photo avec yachts de luxe, architecture portuaire et reflets sur l'eau pour compositions urbaines" style="max-width: 100%; height: auto; border-radius: 0.75rem; margin: 1.5rem 0;" />
 
 ### Pourquoi ce spot est unique pour la photo ?
 
-Le Mont Chevalier offre une **perspective plongeante exceptionnelle** impossible à obtenir ailleurs. Ce promontoire à 260 mètres d'altitude permet de capturer :
+Le Port de Cannes offre une **perspective urbaine et maritime exceptionnelle** différente des vues panoramiques. Ce port de plaisance permet de capturer :
 
-- **Vue plongeante directe** sur la baie de Cannes (angle unique)
-- **Perspective en contre-plongée** sur la Croisette et le port
-- **Végétation méditerranéenne** en premier plan (cadre naturel parfait)
-- **Profondeur de champ remarquable** avec plusieurs niveaux
+- **Yachts de luxe en premier plan** (compositions élégantes et modernes)
+- **Architecture portuaire** avec ses pontons et bâtiments caractéristiques
+- **Reflets sur l'eau** pour créer des compositions symétriques parfaites
+- **Vue sur la Croisette depuis un angle différent** (perspective horizontale unique)
+- **Lumières nocturnes** des yachts et du port (ambiance magique en soirée)
 
-**Angle de prise de vue optimal** : Positionnez-vous sur le belvédère du Mont Chevalier, avec un objectif grand-angle (16–35mm) pour inclure la végétation en premier plan et la baie en arrière-plan. Pour des photos plus dramatiques, utilisez un objectif ultra grand-angle (10–16mm) pour exagérer la perspective.
+**Angle de prise de vue optimal** : Positionnez-vous sur les pontons du port, avec un objectif standard (24–70mm) pour capturer les yachts et l'architecture. Pour des compositions plus intimes, utilisez un téléobjectif (70–200mm) pour isoler des détails architecturaux ou des yachts spécifiques. Un objectif grand-angle (16–35mm) permet d'inclure toute la perspective du port avec la Croisette en arrière-plan.
 
 ### 📸 Meilleur moment pour la photo
 
-**Matin tôt (7h–9h)** : Lumière dorée, très peu de monde, ombres douces
+**Tôt le matin (7h–9h)** : Lumière douce sur les yachts blancs, très peu de monde, reflets parfaits sur l'eau calme
 
-**Fin de journée (18h–20h)** : Couleurs du coucher de soleil sur la mer, contraste parfait
+**Fin d'après-midi (17h–19h)** : Lumière dorée sur les coques des yachts, ombres intéressantes sur les pontons
 
-**Blue Hour (20h–21h)** : Cannes illuminée en arrière-plan, ambiance magique
+**Blue Hour (20h–21h30)** : Yachts et port illuminés, reflets colorés sur l'eau, ambiance luxueuse
 
-**À éviter** : Midi et début d'après-midi (lumière trop dure, ombres marquées)
+**Nuit (21h30–23h)** : Lumières des yachts, port illuminé, compositions urbaines spectaculaires
+
+**À éviter** : Midi (lumière trop dure, reflets trop intenses sur l'eau)
 
 ### 🚗 Accès & Transport matériel photo
 
-**Contraintes pour photographes** :
+**Avantages pour photographes** :
 
-- Accès par route sinueuse (difficile avec matériel lourd)
-- Très peu de parking (problématique pour récupérer matériel)
-- Montée longue à pied depuis Cannes (1h30 avec matériel)
+- Accès facile depuis le centre-ville (5 minutes à pied)
+- Parking disponible à proximité (pratique pour récupérer matériel)
+- Pontons accessibles directement (pas de montée difficile)
+- Plusieurs angles de vue possibles (pontons, quais, promenade)
 
-👉 **Dépose taxi** : Directe au belvédère → accès immédiat. Accès direct sans marche fatigante, idéal pour transporter trépieds et filtres.
+👉 **Taxi** : Dépose directe au port → **accès immédiat aux pontons**. Idéal pour transporter trépieds et filtres pour les photos de nuit ou de poses longues. Nos chauffeurs connaissent les meilleurs points de dépose selon l'angle de vue souhaité.
 
 **Données photo** :
 
-- **Meilleur angle** : Depuis le belvédère, légèrement à gauche pour inclure la Croisette
-- **ISO recommandé** : 100–400 (jour), 800–1600 (coucher de soleil)
-- **Ouverture** : f/5.6–f/8 pour isoler la végétation ou f/11–f/16 pour tout net
-- **Temps de pose** : 1/60s (jour), 2–8s (coucher de soleil avec trépied)
+- **Meilleur angle** : Depuis les pontons centraux, face aux yachts avec la Croisette en arrière-plan
+- **ISO recommandé** : 100–400 (jour), 800–1600 (blue hour), 1600–3200 (nuit)
+- **Ouverture** : f/5.6–f/8 pour isoler les yachts ou f/11–f/16 pour tout net avec profondeur
+- **Temps de pose** : 1/125s (jour), 1–4s (blue hour avec trépied), 10–30s (nuit avec trépied)
 
-**Conseil pro** : Pour des photos vraiment exceptionnelles, utilisez un filtre polarisant pour réduire les reflets sur la mer et saturer les couleurs du ciel. Le Mont Chevalier offre également de superbes opportunités pour des photos en noir et blanc, avec ses lignes de paysage contrastées. Pour des compositions créatives, essayez d'inclure des éléments de végétation méditerranéenne (pins, oliviers) en premier plan.
+**Conseil pro** : Le Port de Cannes est idéal pour créer des **compositions symétriques** en exploitant les reflets sur l'eau. Utilisez un filtre polarisant pour réduire les reflets indésirables et saturer les couleurs des yachts. Pour des photos vraiment exceptionnelles, essayez des **poses longues en soirée** (10–30 secondes) pour créer des traînées de lumière sur l'eau et un effet de mouvement sur les yachts. Le port offre également de superbes opportunités pour des photos en **noir et blanc**, avec ses lignes architecturales nettes et ses contrastes entre yachts blancs et eau sombre.
 
 ---
 
@@ -276,7 +280,7 @@ Les spots de Cannes offrent d'excellentes opportunités pour des **poses longues
 
 **Meilleurs spots pour poses longues** :
 
-- **Mont Chevalier** : Vue sur la baie avec mouvement de l'eau
+- **Le Port de Cannes** : Reflets des yachts sur l'eau calme, traînées de lumière
 - **La Croisette** : Reflets sur la mer au coucher de soleil
 
 ### 📸 Technique 2 : Bracketing et HDR
@@ -296,7 +300,7 @@ Pour obtenir une netteté parfaite sur tous les plans (premier plan, arrière-pl
 **Meilleurs spots pour focus stacking** :
 
 - **Le Suquet** : Architecture historique en premier plan, baie en arrière-plan
-- **Mont Chevalier** : Végétation en premier plan, baie en arrière-plan
+- **Le Port de Cannes** : Yachts en premier plan, Croisette en arrière-plan
 
 ### 📸 Technique 4 : Time-lapse et vidéos
 
@@ -345,11 +349,11 @@ Les points de vue de Cannes sont parfaits pour créer des **time-lapse** spectac
       <td style="padding: 12px; border: 1px solid #e5e7eb;">14–24mm / 70–200mm</td>
     </tr>
     <tr>
-      <td style="padding: 12px; border: 1px solid #e5e7eb;"><strong>Mont Chevalier</strong></td>
+      <td style="padding: 12px; border: 1px solid #e5e7eb;"><strong>Le Port de Cannes</strong></td>
       <td style="padding: 12px; border: 1px solid #e5e7eb;">⭐⭐⭐⭐⭐</td>
-      <td style="padding: 12px; border: 1px solid #e5e7eb;">⭐⭐⭐⭐</td>
-      <td style="padding: 12px; border: 1px solid #e5e7eb;">⭐⭐⭐⭐</td>
-      <td style="padding: 12px; border: 1px solid #e5e7eb;">16–35mm / 10–16mm</td>
+      <td style="padding: 12px; border: 1px solid #e5e7eb;">⭐⭐⭐⭐⭐</td>
+      <td style="padding: 12px; border: 1px solid #e5e7eb;">⭐⭐⭐⭐⭐</td>
+      <td style="padding: 12px; border: 1px solid #e5e7eb;">24–70mm / 70–200mm</td>
     </tr>
   </tbody>
 </table>
@@ -420,7 +424,7 @@ Les meilleurs moments pour photographier Cannes varient selon les saisons :
 - Ambiance intime
 
 <div class="callout tip">
-<strong>💡 Conseil expert photo :</strong> Pour optimiser vos sessions photo à Cannes, réservez un transport privé qui vous permet de visiter plusieurs spots dans la même journée (ex: Mont Chevalier au lever de soleil, puis La Croisette au coucher). Nos chauffeurs connaissent les meilleurs itinéraires et les horaires optimaux pour chaque spot selon la saison.
+<strong>💡 Conseil expert photo :</strong> Pour optimiser vos sessions photo à Cannes, réservez un transport privé qui vous permet de visiter plusieurs spots dans la même journée (ex: Le Port de Cannes au lever de soleil, puis La Croisette au coucher). Nos chauffeurs connaissent les meilleurs itinéraires et les horaires optimaux pour chaque spot selon la saison.
 </div>
 
 ---
@@ -429,7 +433,7 @@ Les meilleurs moments pour photographier Cannes varient selon les saisons :
 
 <details class="faq">
 <summary><strong>1. Quel est le meilleur spot photo de Cannes ?</strong></summary>
-**La Croisette** offre le panorama le plus emblématique avec une vue sur la baie et les îles de Lérins. **Le Suquet** offre le panorama historique le plus étendu. **Le Mont Chevalier** offre une perspective plongeante unique. Le choix dépend de votre style photographique et de l'heure de votre session.
+**La Croisette** offre le panorama le plus emblématique avec une vue sur la baie et les îles de Lérins. **Le Suquet** offre le panorama historique le plus étendu. **Le Port de Cannes** offre une perspective urbaine et maritime unique avec yachts et reflets. Le choix dépend de votre style photographique et de l'heure de votre session.
 </details>
 
 <details class="faq">
@@ -449,7 +453,7 @@ Oui, nos véhicules Mercedes offrent un **coffre spacieux** pour transporter tr�
 
 <details class="faq">
 <summary><strong>5. Combien de spots peut-on visiter dans une journée ?</strong></summary>
-Nous recommandons de visiter **2–3 spots maximum** par journée pour profiter pleinement de chaque session photo. Avec un transport privé, vous pouvez facilement visiter le Mont Chevalier au lever de soleil, puis La Croisette au coucher de soleil, en optimisant les horaires de lumière.
+Nous recommandons de visiter **2–3 spots maximum** par journée pour profiter pleinement de chaque session photo. Avec un transport privé, vous pouvez facilement visiter Le Port de Cannes au lever de soleil, puis La Croisette au coucher de soleil, en optimisant les horaires de lumière.
 </details>
 
 <details class="faq">
@@ -459,17 +463,17 @@ Oui, surtout pour les sessions au **lever de soleil** (départ tôt le matin) ou
 
 <details class="faq">
 <summary><strong>7. Les points de vue sont-ils accessibles avec un trépied ?</strong></summary>
-Oui, tous les points de vue de ce guide sont accessibles avec un trépied. Cependant, le **Mont Chevalier** nécessite un transport privé pour transporter votre équipement sans contrainte (montée longue à pied). Nos véhicules offrent un coffre spacieux pour transporter trépieds et matériel lourd en toute sécurité.
+Oui, tous les points de vue de ce guide sont accessibles avec un trépied. Le **Port de Cannes** est particulièrement pratique avec ses pontons accessibles directement. Nos véhicules offrent un coffre spacieux pour transporter trépieds et matériel lourd en toute sécurité.
 </details>
 
 <details class="faq">
 <summary><strong>8. Quel est le meilleur spot pour photographier le coucher de soleil ?</strong></summary>
-**La Croisette** offre les plus beaux couchers de soleil avec une vue dégagée sur toute la baie. **Le Suquet** est également très beau au sunset, avec l'architecture historique en premier plan et des reflets dorés sur la mer. **Le Mont Chevalier** offre une perspective plongeante unique au coucher de soleil. Tous ces spots sont accessibles facilement avec un transport privé pour arriver avant la golden hour.
+**La Croisette** offre les plus beaux couchers de soleil avec une vue dégagée sur toute la baie. **Le Suquet** est également très beau au sunset, avec l'architecture historique en premier plan et des reflets dorés sur la mer. **Le Port de Cannes** offre des reflets spectaculaires sur l'eau au coucher de soleil, avec les yachts illuminés créant une ambiance luxueuse. Tous ces spots sont accessibles facilement avec un transport privé pour arriver avant la golden hour.
 </details>
 
 <details class="faq">
 <summary><strong>9. Peut-on faire des poses longues de la mer à Cannes ?</strong></summary>
-Oui, absolument ! Les spots de Cannes offrent d'excellentes opportunités pour des poses longues. Utilisez un filtre ND (6–10 stops) et un trépied robuste. **Le Mont Chevalier** et **La Croisette** sont parfaits pour cette technique, créant un effet de "soie" sur l'eau. Les temps de pose recommandés sont de 30 secondes à plusieurs minutes selon les conditions.
+Oui, absolument ! Les spots de Cannes offrent d'excellentes opportunités pour des poses longues. Utilisez un filtre ND (6–10 stops) et un trépied robuste. **Le Port de Cannes** et **La Croisette** sont parfaits pour cette technique, créant un effet de "soie" sur l'eau et des traînées de lumière sur les yachts. Les temps de pose recommandés sont de 30 secondes à plusieurs minutes selon les conditions.
 </details>
 
 <details class="faq">

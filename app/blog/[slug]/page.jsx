@@ -1,5 +1,5 @@
-import Footer from "@/app/components/Footer";
 import Header from "@/app/components/Header";
+import ResponsiveTableWrapper from "@/app/components/ResponsiveTableWrapper";
 import SEOBreadcrumb from "@/app/components/SEOBreadcrumb";
 import { getAllPosts, getAllPostSlugs, getPostBySlug } from "@/lib/blog";
 import Image from "next/image";
@@ -48,15 +48,15 @@ export default async function BlogPostPage({ params }) {
       <Header />
 
       {/* Breadcrumb */}
-      <div className="bg-white border-b">
-        <div className="max-w-4xl mx-auto px-4 pt-20 sm:pt-10 sm:pb-6">
+      <div className="bg-white border-b pt-24 sm:pt-24">
+        <div className="max-w-4xl mx-auto px-6 sm:px-4 pb-4 sm:pb-6">
           <SEOBreadcrumb items={breadcrumbItems} />
         </div>
       </div>
 
       {/* Article */}
       <article className="pt-4 pb-10 ">
-        <div className="max-w-4xl mx-auto px-4 pt-6">
+        <div className="max-w-4xl mx-auto px-6 sm:px-4 pt-6">
           {/* En-tête */}
           <div className="mb-6">
             <span className="px-4 py-2 bg-primary text-white rounded-full text-sm font-semibold">
@@ -130,7 +130,7 @@ export default async function BlogPostPage({ params }) {
           </div>
 
           {/* Contenu */}
-          <div
+          <ResponsiveTableWrapper
             className="prose prose-lg max-w-none blog-article"
             dangerouslySetInnerHTML={{ __html: post.contentHtml }}
           />
@@ -204,8 +204,8 @@ export default async function BlogPostPage({ params }) {
       </article>
 
       {/* Liens vers pages secteurs */}
-      <section className="py-12 bg-gradient-to-br from-cyan-50 to-blue-50 border-t border-gray-200">
-        <div className="max-w-4xl mx-auto px-4">
+      <section className="py-12 bg-linear-to-br from-cyan-50 to-blue-50 border-t border-gray-200">
+        <div className="max-w-4xl mx-auto px-6 sm:px-4">
           <div className="bg-white rounded-2xl p-8 shadow-lg border border-gray-100">
             <h2 className="text-2xl font-bold text-gray-900 mb-6">
               Découvrez nos services Taxi Cannes
@@ -213,9 +213,9 @@ export default async function BlogPostPage({ params }) {
             <div className="grid sm:grid-cols-2 gap-4">
               <Link
                 href="/services"
-                className="flex items-center gap-3 p-4 rounded-xl bg-gradient-to-r from-cyan-50 to-blue-50 hover:from-cyan-100 hover:to-blue-100 border border-cyan-200 hover:border-cyan-300 transition-all duration-300 group"
+                className="flex items-center gap-3 p-4 rounded-xl bg-linear-to-r from-cyan-50 to-blue-50 hover:from-cyan-100 hover:to-blue-100 border border-cyan-200 hover:border-cyan-300 transition-all duration-300 group"
               >
-                <div className="w-10 h-10 bg-gradient-to-br from-cyan-500 to-blue-500 rounded-lg flex items-center justify-center flex-shrink-0">
+                <div className="w-10 h-10 bg-linear-to-br from-cyan-500 to-blue-500 rounded-lg flex items-center justify-center shrink-0">
                   <svg
                     className="w-5 h-5 text-white"
                     fill="none"
@@ -239,9 +239,9 @@ export default async function BlogPostPage({ params }) {
               </Link>
               <Link
                 href="/reservation"
-                className="flex items-center gap-3 p-4 rounded-xl bg-gradient-to-r from-blue-50 to-indigo-50 hover:from-blue-100 hover:to-indigo-100 border border-blue-200 hover:border-blue-300 transition-all duration-300 group"
+                className="flex items-center gap-3 p-4 rounded-xl bg-linear-to-r from-blue-50 to-indigo-50 hover:from-blue-100 hover:to-indigo-100 border border-blue-200 hover:border-blue-300 transition-all duration-300 group"
               >
-                <div className="w-10 h-10 bg-gradient-to-br from-blue-500 to-indigo-500 rounded-lg flex items-center justify-center flex-shrink-0">
+                <div className="w-10 h-10 bg-linear-to-br from-blue-500 to-indigo-500 rounded-lg flex items-center justify-center shrink-0">
                   <svg
                     className="w-5 h-5 text-white"
                     fill="none"
@@ -267,9 +267,9 @@ export default async function BlogPostPage({ params }) {
               </Link>
               <Link
                 href="/tarifs"
-                className="flex items-center gap-3 p-4 rounded-xl bg-gradient-to-r from-indigo-50 to-purple-50 hover:from-indigo-100 hover:to-purple-100 border border-indigo-200 hover:border-indigo-300 transition-all duration-300 group"
+                className="flex items-center gap-3 p-4 rounded-xl bg-linear-to-r from-indigo-50 to-purple-50 hover:from-indigo-100 hover:to-purple-100 border border-indigo-200 hover:border-indigo-300 transition-all duration-300 group"
               >
-                <div className="w-10 h-10 bg-gradient-to-br from-indigo-500 to-purple-500 rounded-lg flex items-center justify-center flex-shrink-0">
+                <div className="w-10 h-10 bg-linear-to-br from-indigo-500 to-purple-500 rounded-lg flex items-center justify-center shrink-0">
                   <svg
                     className="w-5 h-5 text-white"
                     fill="none"
@@ -299,9 +299,9 @@ export default async function BlogPostPage({ params }) {
               </Link>
               <Link
                 href="/contact"
-                className="flex items-center gap-3 p-4 rounded-xl bg-gradient-to-r from-purple-50 to-pink-50 hover:from-purple-100 hover:to-pink-100 border border-purple-200 hover:border-purple-300 transition-all duration-300 group"
+                className="flex items-center gap-3 p-4 rounded-xl bg-linear-to-r from-purple-50 to-pink-50 hover:from-purple-100 hover:to-pink-100 border border-purple-200 hover:border-purple-300 transition-all duration-300 group"
               >
-                <div className="w-10 h-10 bg-gradient-to-br from-purple-500 to-pink-500 rounded-lg flex items-center justify-center flex-shrink-0">
+                <div className="w-10 h-10 bg-linear-to-br from-purple-500 to-pink-500 rounded-lg flex items-center justify-center shrink-0">
                   <svg
                     className="w-5 h-5 text-white"
                     fill="none"
@@ -320,9 +320,7 @@ export default async function BlogPostPage({ params }) {
                   <div className="font-semibold text-gray-900 group-hover:text-purple-600 transition-colors">
                     Contact
                   </div>
-                  <div className="text-sm text-gray-600">
-                    Nous contacter
-                  </div>
+                  <div className="text-sm text-gray-600">Nous contacter</div>
                 </div>
               </Link>
             </div>
@@ -333,7 +331,7 @@ export default async function BlogPostPage({ params }) {
       {/* Articles similaires */}
       {relatedPosts.length > 0 && (
         <section className="py-16 bg-white border-t border-gray-200">
-          <div className="max-w-7xl mx-auto px-4">
+          <div className="max-w-7xl mx-auto px-6 sm:px-4">
             <div className="text-center mb-12">
               <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
                 Articles similaires
@@ -357,7 +355,7 @@ export default async function BlogPostPage({ params }) {
                         fill
                         className="object-cover group-hover:scale-110 transition-transform duration-500"
                       />
-                      <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                      <div className="absolute inset-0 bg-linear-to-t from-black/60 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                     </div>
                     <div className="p-6">
                       {relatedPost.category && (
@@ -395,8 +393,6 @@ export default async function BlogPostPage({ params }) {
           </div>
         </section>
       )}
-
-      <Footer />
     </div>
   );
 }
