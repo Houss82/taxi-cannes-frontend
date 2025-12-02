@@ -2,20 +2,10 @@
 title: "Les 3 meilleurs spots photo de Cannes en 2025 : guide panoramas secrets & conseils photographes"
 date: "2025-12-02"
 excerpt: "Découvrez les 3 meilleurs spots photo secrets de Cannes en 2025 : panoramas exceptionnels, conseils lumière, angles de prise de vue et accès optimisés pour photographes."
-image: "/spots-photo-cannes-2025.png"
+image: "/spots-photo-cannes-2025.jpg"
 category: "Voyage & Tourisme"
 author: "Taxi Cannes"
 language: "fr"
-keywords:
-  [
-    "points de vue Cannes",
-    "belvédère Cannes",
-    "panorama Cannes",
-    "photo Cannes",
-    "spots photo Cannes",
-    "coucher soleil Cannes",
-    "vues panoramiques Cannes",
-  ]
 ---
 
 Cannes est une destination de rêve pour les photographes et amateurs de panoramas. Selon les données de l'[Office de Tourisme de Cannes](https://www.cannes.com), **plus de 3 millions de visiteurs** viennent chaque année capturer la beauté de la Croisette et de la baie de Cannes, et les réseaux sociaux regorgent de clichés spectaculaires pris depuis les belvédères cannois.
@@ -45,7 +35,7 @@ Selon les analyses des publications Instagram et les retours de photographes pro
 - **Cadres naturels parfaits** pour compositions équilibrées
 - **Peu de pollution visuelle** (vues dégagées sur la Méditerranée)
 
-**Statistiques Instagram** : Selon les données de géolocalisation Instagram analysées par la [Ville de Cannes](https://www.cannes.fr/), la Croisette génère **plus de 180 000 publications par an** avec le hashtag #CannesFrance, tandis que le Suquet suit avec **120 000 publications annuelles**. Le Mont Chevalier, moins connu, offre pourtant des perspectives uniques recherchées par les photographes professionnels. Pour découvrir les meilleures photos de Cannes, consultez le compte officiel [@cannesfrance](https://www.instagram.com/cannesfrance/) qui partage régulièrement des clichés exceptionnels pris depuis ces belvédères.
+**Statistiques Instagram** : Selon les données de géolocalisation Instagram analysées par la [Ville de Cannes](https://www.cannes.com/fr/index.html), la Croisette génère **plus de 180 000 publications par an** avec le hashtag #CannesFrance, tandis que le Suquet suit avec **120 000 publications annuelles**. Le Mont Chevalier, moins connu, offre pourtant des perspectives uniques recherchées par les photographes professionnels. Pour découvrir les meilleures photos de Cannes, consultez le compte officiel [@cannesfrance](https://www.instagram.com/cannesfrance/) qui partage régulièrement des clichés exceptionnels pris depuis ces belvédères.
 
 **Le défi photographique** : Pour capturer ces panoramas dans les meilleures conditions, il faut connaître les **horaires de lumière optimaux**, éviter les foules qui gênent les compositions, et pouvoir transporter facilement son matériel (trépieds, objectifs multiples) jusqu'aux meilleurs spots.
 
@@ -515,4 +505,3 @@ Pour aller plus loin dans votre découverte photographique de Cannes et de la C�
 ---
 
 _Article mis à jour le 2 décembre 2025_
-

@@ -1,6 +1,6 @@
 ---
 title: "Guide Complet : Transfert Aéroport Nice - Prix, Durées et Conseils 2025"
-date: "2025-12-02"
+date: "2025-12-01"
 excerpt: "Tout ce qu'il faut savoir pour organiser votre transfert entre l'aéroport Nice-Côte d'Azur et Cannes. Prix fixes, durées, conseils pratiques et options disponibles pour un voyage sans stress."
 image: "/aeroport-nice-cannes.png"
 category: "Guides Pratiques"

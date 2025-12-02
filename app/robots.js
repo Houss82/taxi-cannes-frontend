@@ -1,5 +1,4 @@
-// ✅ SERVER COMPONENT - Configuration robots.txt pour SEO
-// Génère automatiquement /robots.txt
+const baseUrl = "https://www.cannestaxi.fr";
 
 export default function robots() {
   return {
@@ -7,18 +6,9 @@ export default function robots() {
       {
         userAgent: "*",
         allow: "/",
-        disallow: [
-          "/api/", // Routes API
-          "/_next/", // Fichiers Next.js internes
-        ],
-      },
-      {
-        // Règle spécifique pour Googlebot
-        userAgent: "Googlebot",
-        allow: "/",
-        disallow: ["/api/"],
+        disallow: ["/api/", "/_next/"],
       },
     ],
-    sitemap: "v",
+    sitemap: `${baseUrl}/sitemap.xml`,
   };
 }

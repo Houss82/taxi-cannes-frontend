@@ -1,20 +1,19 @@
-import Footer from "@/app/components/Footer";
 import Header from "@/app/components/Header";
 import SEOBreadcrumb from "@/app/components/SEOBreadcrumb";
 import { getAllPosts } from "@/lib/blog";
 import blogCategories, {
-  getCategoryIdFromArticleCategory,
   getCategoryById,
+  getCategoryIdFromArticleCategory,
 } from "@/lib/blogCategories";
 import {
-  Calendar,
-  Clock,
-  User,
-  Car,
-  Compass,
-  Building2,
-  Heart,
   BookOpen,
+  Building2,
+  Calendar,
+  Car,
+  Clock,
+  Compass,
+  Heart,
+  User,
 } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
@@ -63,22 +62,22 @@ export default async function BlogPage({ searchParams }) {
     <div className="min-h-screen bg-gray-50 mt-20 sm:mt-0">
       <Header />
 
-      <div className="bg-white border-b">
+      <div className="bg-white border-b mt-20">
         <div className="max-w-7xl mx-auto px-4 py-4">
           <SEOBreadcrumb items={breadcrumbItems} />
         </div>
       </div>
 
-      <section className="relative h-[40vh] overflow-hidden">
+      <section className="relative h-[50vh] overflow-hidden">
         <Image
-          src="/service-page.jpg"
+          src="/blog-page.jpg"
           alt="Blog Taxi Cannes"
           fill
           className="object-cover"
           priority
           quality={85}
         />
-        <div className="absolute inset-0 bg-gradient-to-r from-primary/30 to-primary/90"></div>
+        <div className="absolute inset-0 bg-linear-to-r from-primary/30 to-primary/90"></div>
         <div className="container mx-auto px-4 h-full flex items-center relative z-10">
           <div className="text-white max-w-3xl space-y-4">
             <h1 className="text-5xl md:text-6xl font-bold">
@@ -93,7 +92,7 @@ export default async function BlogPage({ searchParams }) {
       </section>
 
       {/* Section Catégories */}
-      <section className="py-12 bg-gradient-to-br from-gray-50 to-white border-b">
+      <section className="py-12 bg-linear-to-br from-gray-50 to-white border-b">
         <div className="max-w-7xl mx-auto px-4">
           <div className="text-center mb-8">
             <h2 className="text-3xl font-bold text-gray-900 mb-4">
@@ -128,9 +127,7 @@ export default async function BlogPage({ searchParams }) {
               return (
                 <Link
                   key={category.id}
-                  href={
-                    isActive ? "/blog" : `/blog?category=${category.id}`
-                  }
+                  href={isActive ? "/blog" : `/blog?category=${category.id}`}
                   className={`block rounded-xl p-6 shadow-md hover:shadow-lg transition-all duration-300 border-2 ${
                     isActive
                       ? `${category.color.bg} ${category.color.border} border-2`
@@ -139,7 +136,7 @@ export default async function BlogPage({ searchParams }) {
                 >
                   <div className="flex items-start gap-4 mb-4">
                     <div
-                      className={`${category.color.iconBg} ${category.color.iconColor} p-3 rounded-xl flex-shrink-0`}
+                      className={`${category.color.iconBg} ${category.color.iconColor} p-3 rounded-xl shrink-0`}
                     >
                       <IconComponent className="w-6 h-6" />
                     </div>
@@ -154,7 +151,7 @@ export default async function BlogPage({ searchParams }) {
                         </h3>
                         {postCount > 0 && (
                           <span
-                            className={`px-2 py-1 ${category.color.bg} ${category.color.text} rounded-full text-xs font-semibold ml-2 flex-shrink-0`}
+                            className={`px-2 py-1 ${category.color.bg} ${category.color.text} rounded-full text-xs font-semibold ml-2 shrink-0`}
                           >
                             {postCount}
                           </span>
@@ -234,79 +231,79 @@ export default async function BlogPage({ searchParams }) {
                   : null;
 
                 return (
-                <article
-                  key={post.slug}
-                  className="bg-white rounded-2xl shadow-lg overflow-hidden border border-gray-100 hover:shadow-xl transition-shadow duration-300"
-                >
-                  <div className="relative">
-                    <Link href={`/blog/${post.slug}`} prefetch>
-                      <div className="relative h-64 overflow-hidden group">
-                        <Image
-                          src={post.image}
-                          alt={post.title}
-                          fill
-                          className="object-cover transition-transform duration-500 group-hover:scale-105"
-                          sizes="(max-width: 768px) 100vw, (max-width: 1200px) 33vw, 400px"
-                          priority={post.slug === displayedPosts[0]?.slug}
-                        />
-                      </div>
-                    </Link>
-                    {postCategory && (
-                      <Link
-                        href={`/blog?category=${postCategory.id}`}
-                        className="absolute top-4 left-4 z-10"
-                      >
-                        <span
-                          className={`px-3 py-1 ${postCategory.color.bg} ${postCategory.color.text} rounded-full text-xs font-semibold uppercase tracking-wide hover:opacity-80 transition-opacity border ${postCategory.color.border}`}
+                  <article
+                    key={post.slug}
+                    className="bg-white rounded-2xl shadow-lg overflow-hidden border border-gray-100 hover:shadow-xl transition-shadow duration-300"
+                  >
+                    <div className="relative">
+                      <Link href={`/blog/${post.slug}`} prefetch>
+                        <div className="relative h-64 overflow-hidden group">
+                          <Image
+                            src={post.image}
+                            alt={post.title}
+                            fill
+                            className="object-cover transition-transform duration-500 group-hover:scale-105"
+                            sizes="(max-width: 768px) 100vw, (max-width: 1200px) 33vw, 400px"
+                            priority={post.slug === displayedPosts[0]?.slug}
+                          />
+                        </div>
+                      </Link>
+                      {postCategory && (
+                        <Link
+                          href={`/blog?category=${postCategory.id}`}
+                          className="absolute top-4 left-4 z-10"
                         >
-                          {postCategory.label}
+                          <span
+                            className={`px-3 py-1 ${postCategory.color.bg} ${postCategory.color.text} rounded-full text-xs font-semibold uppercase tracking-wide hover:opacity-80 transition-opacity border ${postCategory.color.border}`}
+                          >
+                            {postCategory.label}
+                          </span>
+                        </Link>
+                      )}
+                    </div>
+
+                    <div className="p-6 space-y-4">
+                      <div className="flex items-center gap-4 text-sm text-gray-500">
+                        <span className="flex items-center gap-1">
+                          <Calendar className="w-4 h-4" />
+                          {formatDate(post.date)}
                         </span>
+                        <span className="flex items-center gap-1">
+                          <Clock className="w-4 h-4" />5 min
+                        </span>
+                      </div>
+
+                      <Link href={`/blog/${post.slug}`} prefetch>
+                        <h2 className="text-2xl font-bold text-gray-900 leading-tight hover:text-primary transition-colors">
+                          {post.title}
+                        </h2>
                       </Link>
-                    )}
-                  </div>
 
-                  <div className="p-6 space-y-4">
-                    <div className="flex items-center gap-4 text-sm text-gray-500">
-                      <span className="flex items-center gap-1">
-                        <Calendar className="w-4 h-4" />
-                        {formatDate(post.date)}
-                      </span>
-                      <span className="flex items-center gap-1">
-                        <Clock className="w-4 h-4" />5 min
-                      </span>
+                      <p className="text-gray-600 line-clamp-3">
+                        {post.excerpt}
+                      </p>
+
+                      <div className="flex items-center justify-between pt-4 border-t border-gray-100">
+                        <span className="flex items-center gap-2 text-sm text-gray-500">
+                          <User className="w-4 h-4" />
+                          {post.author}
+                        </span>
+                        <Link
+                          href={`/blog/${post.slug}`}
+                          prefetch
+                          className="text-primary font-semibold hover:underline"
+                        >
+                          Lire plus →
+                        </Link>
+                      </div>
                     </div>
-
-                    <Link href={`/blog/${post.slug}`} prefetch>
-                      <h2 className="text-2xl font-bold text-gray-900 leading-tight hover:text-primary transition-colors">
-                        {post.title}
-                      </h2>
-                    </Link>
-
-                    <p className="text-gray-600 line-clamp-3">{post.excerpt}</p>
-
-                    <div className="flex items-center justify-between pt-4 border-t border-gray-100">
-                      <span className="flex items-center gap-2 text-sm text-gray-500">
-                        <User className="w-4 h-4" />
-                        {post.author}
-                      </span>
-                      <Link
-                        href={`/blog/${post.slug}`}
-                        prefetch
-                        className="text-primary font-semibold hover:underline"
-                      >
-                        Lire plus →
-                      </Link>
-                    </div>
-                  </div>
-                </article>
+                  </article>
                 );
               })}
             </div>
           )}
         </div>
       </section>
-
-      <Footer />
     </div>
   );
 }
