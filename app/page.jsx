@@ -54,10 +54,10 @@ export default function Home() {
           <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight text-balance">
             Taxi Cannes
           </h1>
-          <p className="text-xl md:text-2xl mb-8 text-white/90 text-balance">
-            Taxi à Cannes 24h/24 – transferts aéroport Nice, gares, hôtels et
-            Palais des Festivals.
-          </p>
+          <h2 className="text-xl md:text-2xl mb-8 text-white/90 text-balance">
+            Réservation de Taxi à Cannes 24h/24 – transferts aéroport Nice,
+            gares, hôtels et Palais des Festivals.
+          </h2>
           <p className="text-base md:text-lg mb-8 text-white/80">
             Réservez un taxi à Cannes pour vos trajets privés ou professionnels
             sur toute la Côte d&apos;Azur.
@@ -232,7 +232,7 @@ export default function Home() {
                     <span className="absolute bottom-0 left-0 right-0 h-1 bg-linear-to-r from-accent to-primary transform scale-x-0 group-hover:scale-x-100 transition-transform duration-300 origin-left rounded-full"></span>
                   </span>
                 </a>{" "}
-                24h/24 ou nous contacter pour un{" "}
+                24h/24 et 7j/7 ou nous contacter pour un{" "}
                 <a
                   href="/tarifs"
                   className="inline-flex items-center gap-1 text-accent font-bold hover:text-primary transition-all duration-200 relative group text-xl"
@@ -270,7 +270,7 @@ export default function Home() {
                 <div className="h-px w-20 bg-linear-to-r from-transparent via-primary to-transparent"></div>
               </div>
               <span className="text-base font-bold text-gray-700 bg-white/80 px-6 py-2 rounded-full border border-gray-200 shadow-sm">
-                Service disponible 24h/24
+                Service disponible 24h/24 7j/7
               </span>
             </div>
           </div>

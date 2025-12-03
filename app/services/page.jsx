@@ -23,18 +23,21 @@ export default function Services() {
       desc: "Service rapide et fiable vers/depuis l'aéroport Nice-Côte d'Azur",
       image: "/aeroport-nice-cannes.jpg",
       details: ["Prix fixe", "Chauffeur à l'accueil", "24h/24 disponible"],
+      href: "/services/transfert-aeroport-nice-cannes",
     },
     {
       title: "Trajets Palaces",
       desc: "Service VIP pour les hôtels Majestic, Martinez et Carlton",
       image: "/palace-cannes.jpg",
       details: ["Discrétion garantie", "Service blanc", "Ponctualité premium"],
+      href: "/services/trajets-palaces",
     },
     {
       title: "Cannes → Monaco",
       desc: "Transfert vers la Principauté de Monaco",
       image: "/yacht-monaco.jpg",
       details: ["Confort assuré", "Trajets réguliers", "WiFi à bord"],
+      href: "/services/cannes-monaco",
     },
     {
       title: "Cannes → Saint-Tropez",
@@ -88,7 +91,7 @@ export default function Services() {
             {services.map((service, i) => (
               <Card
                 key={i}
-                className="overflow-hidden hover:shadow-xl transition-shadow"
+                className="overflow-hidden hover:shadow-xl transition-shadow flex flex-col"
               >
                 <Image
                   src={service.image || "/placeholder.svg"}
@@ -97,20 +100,20 @@ export default function Services() {
                   height={300}
                   className="w-full h-48 object-cover"
                 />
-                <div className="p-6">
+                <div className="p-6 flex flex-col flex-1">
                   <h3 className="text-xl font-bold mb-2">{service.title}</h3>
                   <p className="text-muted-foreground mb-4">{service.desc}</p>
-                  <ul className="space-y-2 mb-6">
+                  <ul className="space-y-2 mb-6 flex-1">
                     {service.details.map((detail, j) => (
                       <li key={j} className="flex items-center gap-2 text-sm">
-                        <ChevronRight className="w-4 h-4 text-accent" />
+                        <ChevronRight className="w-4 h-4 text-accent shrink-0" />
                         {detail}
                       </li>
                     ))}
                   </ul>
-                  <Link href="/reservation">
+                  <Link href={service.href || "/reservation"} className="mt-auto">
                     <Button className="w-full bg-accent text-accent-foreground hover:opacity-90">
-                      Réserver ce service
+                      Voir
                     </Button>
                   </Link>
                 </div>

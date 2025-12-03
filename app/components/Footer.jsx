@@ -1,7 +1,7 @@
 // ✅ SERVER COMPONENT - Pas de "use client"
 
-import Link from "next/link"
-import { Phone, Mail, MapPin, Clock } from "lucide-react"
+import { Clock, Mail, MapPin, Phone } from "lucide-react";
+import Link from "next/link";
 
 export default function Footer() {
   return (
@@ -12,12 +12,15 @@ export default function Footer() {
           <div>
             <div className="flex items-center gap-2 mb-4">
               <div className="w-8 h-8 bg-accent rounded-full flex items-center justify-center">
-                <span className="text-accent-foreground font-bold text-sm">T</span>
+                <span className="text-accent-foreground font-bold text-sm">
+                  T
+                </span>
               </div>
               <span className="font-bold text-lg">Taxi Cannes</span>
             </div>
             <p className="text-primary-foreground/80 text-sm leading-relaxed">
-              Service de taxi premium à Cannes depuis 2015. Qualité, confort et ponctualité garantis.
+              Service de taxi premium à Cannes depuis 2015. Qualité, confort et
+              ponctualité garantis.
             </p>
           </div>
 
@@ -26,22 +29,34 @@ export default function Footer() {
             <h3 className="font-bold mb-4">Services</h3>
             <ul className="space-y-2 text-sm text-primary-foreground/80">
               <li>
-                <Link href="/services" className="hover:text-accent transition-colors">
+                <Link
+                  href="/services"
+                  className="hover:text-accent transition-colors"
+                >
                   Transfert Aéroport
                 </Link>
               </li>
               <li>
-                <Link href="/services" className="hover:text-accent transition-colors">
+                <Link
+                  href="/services"
+                  className="hover:text-accent transition-colors"
+                >
                   Chauffeur Privé
                 </Link>
               </li>
               <li>
-                <Link href="/services" className="hover:text-accent transition-colors">
+                <Link
+                  href="/services"
+                  className="hover:text-accent transition-colors"
+                >
                   Longue Distance
                 </Link>
               </li>
               <li>
-                <Link href="/services" className="hover:text-accent transition-colors">
+                <Link
+                  href="/services"
+                  className="hover:text-accent transition-colors"
+                >
                   Événements
                 </Link>
               </li>
@@ -58,7 +73,7 @@ export default function Footer() {
               </li>
               <li className="flex items-center gap-2">
                 <Mail className="w-4 h-4" />
-                <span>info@taxicannes.fr</span>
+                <span>taxicannes2025@gmail.com</span>
               </li>
               <li className="flex items-center gap-2">
                 <MapPin className="w-4 h-4" />
@@ -76,17 +91,26 @@ export default function Footer() {
             <h3 className="font-bold mb-4">Légal</h3>
             <ul className="space-y-2 text-sm text-primary-foreground/80">
               <li>
-                <Link href="#" className="hover:text-accent transition-colors">
+                <Link
+                  href="/conditions-utilisation"
+                  className="hover:text-accent transition-colors"
+                >
                   Conditions d'utilisation
                 </Link>
               </li>
               <li>
-                <Link href="#" className="hover:text-accent transition-colors">
+                <Link
+                  href="/politique-confidentialite"
+                  className="hover:text-accent transition-colors"
+                >
                   Politique de confidentialité
                 </Link>
               </li>
               <li>
-                <Link href="#" className="hover:text-accent transition-colors">
+                <Link
+                  href="/mentions-legales"
+                  className="hover:text-accent transition-colors"
+                >
                   Mentions légales
                 </Link>
               </li>
@@ -98,17 +122,11 @@ export default function Footer() {
           <p>&copy; 2025 Taxi Cannes. Tous droits réservés.</p>
           <div className="flex gap-6">
             <Link href="#" className="hover:text-accent transition-colors">
-              Facebook
-            </Link>
-            <Link href="#" className="hover:text-accent transition-colors">
-              Instagram
-            </Link>
-            <Link href="#" className="hover:text-accent transition-colors">
               WhatsApp
             </Link>
           </div>
         </div>
       </div>
     </footer>
-  )
+  );
 }

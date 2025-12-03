@@ -68,10 +68,40 @@ export default function ReservationForm() {
         commentaires: formData.notes || undefined, // Optionnel
       };
 
-      // Appeler l'API
+      // Appeler l'API backend (code existant)
       const result = await createReservation(reservationData);
 
       if (result.result) {
+        // Envoyer également à Formspree pour recevoir les emails (en parallèle, sans bloquer)
+        try {
+          const formspreeData = {
+            name: formData.name,
+            phone: `${indicatifPays} ${telephone}`,
+            email: formData.email || "Non renseigné",
+            from: formData.from,
+            to: formData.to,
+            date: formData.date,
+            time: formData.time,
+            passengers: formData.passengers,
+            luggage: formData.luggage,
+            vehicle: formData.vehicle === "classe-e" ? "TESLA Model S" : 
+                    formData.vehicle === "glc" ? "Mercedes SUV" : 
+                    formData.vehicle === "vito" ? "Classe V (van)" : formData.vehicle,
+            notes: formData.notes || "Aucune note",
+          };
+
+          await fetch("https://formspree.io/f/mldqnkoq", {
+            method: "POST",
+            headers: {
+              "Content-Type": "application/json",
+            },
+            body: JSON.stringify(formspreeData),
+          });
+        } catch (formspreeError) {
+          // Ne pas bloquer le processus si Formspree échoue
+          console.warn("Erreur Formspree (non bloquant):", formspreeError);
+        }
+
         setSubmitted(true);
         // Réinitialiser le formulaire après 5 secondes
         setTimeout(() => {

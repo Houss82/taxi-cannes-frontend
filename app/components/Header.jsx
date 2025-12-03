@@ -6,7 +6,15 @@ import HeaderClient from "./client/HeaderClient"
 
 const navItems = [
   { label: "Accueil", href: "/" },
-  { label: "Services", href: "/services" },
+  { 
+    label: "Services", 
+    href: "/services",
+    subItems: [
+      { label: "Transfert Aéroport Nice", href: "/services/transfert-aeroport-nice-cannes" },
+      { label: "Trajets Palaces", href: "/services/trajets-palaces" },
+      { label: "Cannes → Monaco", href: "/services/cannes-monaco" },
+    ]
+  },
   { label: "Tarifs", href: "/tarifs" },
   { label: "Blog", href: "/blog" },
   { label: "Contact", href: "/contact" },
