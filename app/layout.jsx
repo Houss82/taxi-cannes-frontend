@@ -47,19 +47,12 @@ export const metadata = {
   icons: {
     icon: [
       {
-        url: "/icon-light-32x32.png",
-        media: "(prefers-color-scheme: light)",
-      },
-      {
-        url: "/icon-dark-32x32.png",
-        media: "(prefers-color-scheme: dark)",
-      },
-      {
-        url: "/icon.svg",
-        type: "image/svg+xml",
+        url: "/Taxi_Cannes-removebg-preview.png",
+        sizes: "any",
+        type: "image/png",
       },
     ],
-    apple: "/apple-icon.png",
+    apple: "/Taxi_Cannes-removebg-preview.png",
   },
 };
 
