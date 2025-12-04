@@ -303,10 +303,10 @@ export default function PolitiqueConfidentialite() {
                       <Mail className="w-4 h-4 inline mr-2 text-accent" />
                       Pour exercer vos droits, contactez-nous à{" "}
                       <a
-                        href="mailto:info@taxicannes.fr"
+                        href="mailto:taxicannes2025@gmail.com"
                         className="text-accent font-bold hover:underline"
                       >
-                        info@taxicannes.fr
+                        taxicannes2025@gmail.com
                       </a>
                     </p>
                   </div>

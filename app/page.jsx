@@ -468,7 +468,7 @@ export default function Home() {
             "@type": "TaxiService",
             name: "Taxi Cannes",
             url: "https://www.cannestaxi.fr/",
-            telephone: "+33 7 49 77 76 21",
+            telephone: "+33 6 25 61 73 11",
             areaServed: [
               "Cannes",
               "Nice",

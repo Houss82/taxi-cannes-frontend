@@ -489,7 +489,7 @@ Pour aller plus loin dans votre découverte de Cannes et de la Côte d'Azur :
 
 **Besoin d'un transfert entre l'aéroport Nice et Cannes ?** Réservez votre taxi en quelques clics et profitez d'un service premium avec chauffeur dédié, suivi de vol automatique et véhicules haut de gamme. Nos prix sont fixes et transparents, sans surprise.
 
-**Contactez-nous** | **info@taxicannes.fr**
+**Contactez-nous** | **taxicannes2025@gmail.com**
 
 ---
 

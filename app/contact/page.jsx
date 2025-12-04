@@ -21,23 +21,23 @@ export default function Contact() {
     {
       icon: Phone,
       title: "Téléphone",
-      info: "+33 4 93 XX XX XX",
+      info: "+33 6 25 61 73 11",
       action: "Appeler",
-      href: "tel:+33493XXXXXX",
+      href: "tel:+33625617311",
     },
     {
       icon: MessageCircle,
       title: "WhatsApp",
-      info: "+33 6 XX XX XX XX",
+      info: "+33 6 25 61 73 11",
       action: "Envoyer",
-      href: "https://wa.me/336XXXXXXXX",
+      href: "https://wa.me/33625617311",
     },
     {
       icon: Mail,
       title: "Email",
-      info: "info@taxicannes.fr",
+      info: "taxicannes2025@gmail.com",
       action: "Écrire",
-      href: "mailto:info@taxicannes.fr",
+      href: "mailto:taxicannes2025@gmail.com",
     },
   ]
 

@@ -74,7 +74,7 @@ export default function MentionsLegales() {
                       <Phone className="w-5 h-5 text-accent shrink-0 mt-1" />
                       <div>
                         <p className="font-bold mb-1">Téléphone :</p>
-                        <p>+33 7 49 77 76 21</p>
+                        <p>+33 6 25 61 73 11</p>
                       </div>
                     </div>
                     <div className="flex items-start gap-3">
@@ -82,7 +82,7 @@ export default function MentionsLegales() {
                       <div>
                         <p className="font-bold mb-1">Email :</p>
                         <a
-                          href="mailto:info@taxicannes.fr"
+                          href="mailto:taxicannes2025@gmail.com"
                           className="text-accent hover:underline font-bold"
                         >
                           taxicannes2025@gmail.com
