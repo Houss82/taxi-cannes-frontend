@@ -491,7 +491,7 @@ Pour aller plus loin dans votre découverte photographique de Cannes et de la C�
 
 - 👉 [Taxi Cannes 24/7](/services) – Service complet pour tous vos déplacements photo à Cannes
 
-- 👉 [Transfert Aéroport Nice](/services/transferts-aeroport) – Service premium depuis l'aéroport vers tous les spots photo
+- 👉 [Transfert Aéroport Nice](/services/transfert-aeroport-nice-cannes) – Service premium depuis l'aéroport vers tous les spots photo
 
 - 👉 [Blog Voyage & Tourisme](/blog) – Tous nos articles sur Cannes et la région
 
