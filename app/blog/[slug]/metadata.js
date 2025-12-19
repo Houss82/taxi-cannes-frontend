@@ -20,6 +20,7 @@ export async function generateMetadata({ params }) {
 
   // Définir l'URL canonique
   const canonicalUrl = `https://www.cannestaxi.fr/blog/${post.slug}`;
+  
   const imageUrl = post.image.startsWith("http")
     ? post.image
     : `https://www.cannestaxi.fr${post.image}`;
