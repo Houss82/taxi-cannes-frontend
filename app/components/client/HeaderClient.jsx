@@ -69,12 +69,11 @@ export default function HeaderClient({ navItems, children }) {
                   key={item.href}
                   ref={dropdownRef}
                   className="relative"
+                  onMouseEnter={() => setOpenDropdown(item.href)}
+                  onMouseLeave={() => setOpenDropdown(null)}
                 >
-                  <button
-                    onClick={() => {
-                      // Si le dropdown est déjà ouvert, on le ferme, sinon on l'ouvre
-                      setOpenDropdown(openDropdown === item.href ? null : item.href)
-                    }}
+                  <Link
+                    href={item.href}
                     className={`text-sm font-medium transition-colors hover:text-accent flex items-center gap-1 ${
                       isScrolled
                         ? "text-foreground hover:text-accent"
@@ -85,7 +84,7 @@ export default function HeaderClient({ navItems, children }) {
                     <ChevronDown className={`w-4 h-4 transition-transform ${
                       openDropdown === item.href ? "rotate-180" : ""
                     }`} />
-                  </button>
+                  </Link>
                   {openDropdown === item.href && (
                     <div className="absolute top-full left-0 mt-2 w-64 bg-background rounded-lg shadow-lg border border-border py-2 z-50">
                       <Link
@@ -93,7 +92,7 @@ export default function HeaderClient({ navItems, children }) {
                         onClick={() => setOpenDropdown(null)}
                         className="block px-4 py-2 text-sm font-medium text-foreground hover:bg-accent/10 hover:text-accent transition-colors"
                       >
-                        Tous les services
+                        {item.label === "Nos secteurs" ? "Tous les secteurs" : `Tous les ${item.label.toLowerCase()}`}
                       </Link>
                       <div className="border-t border-border my-1"></div>
                       {item.subItems.map((subItem) => (
@@ -157,15 +156,23 @@ export default function HeaderClient({ navItems, children }) {
                 if (item.subItems && item.subItems.length > 0) {
                   return (
                     <div key={item.href} className="flex flex-col gap-2">
-                      <button
-                        onClick={() => setOpenDropdown(openDropdown === item.href ? null : item.href)}
-                        className="text-foreground hover:text-accent transition-colors font-medium flex items-center justify-between"
-                      >
-                        {item.label}
-                        <ChevronDown className={`w-4 h-4 transition-transform ${
-                          openDropdown === item.href ? "rotate-180" : ""
-                        }`} />
-                      </button>
+                      <div className="flex items-center justify-between">
+                        <Link
+                          href={item.href}
+                          className="text-foreground hover:text-accent transition-colors font-medium flex-1"
+                          onClick={() => setIsMobileMenuOpen(false)}
+                        >
+                          {item.label}
+                        </Link>
+                        <button
+                          onClick={() => setOpenDropdown(openDropdown === item.href ? null : item.href)}
+                          className="text-foreground hover:text-accent transition-colors p-1"
+                        >
+                          <ChevronDown className={`w-4 h-4 transition-transform ${
+                            openDropdown === item.href ? "rotate-180" : ""
+                          }`} />
+                        </button>
+                      </div>
                       {openDropdown === item.href && (
                         <div className="flex flex-col gap-2 pl-4 border-l-2 border-accent/20">
                           <Link
@@ -173,7 +180,7 @@ export default function HeaderClient({ navItems, children }) {
                             className="text-foreground/80 hover:text-accent transition-colors text-sm font-medium"
                             onClick={() => setIsMobileMenuOpen(false)}
                           >
-                            Tous les services
+                            {item.label === "Nos secteurs" ? "Tous les secteurs" : `Tous les ${item.label.toLowerCase()}`}
                           </Link>
                           {item.subItems.map((subItem) => (
                             <Link

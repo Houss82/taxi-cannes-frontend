@@ -18,6 +18,17 @@ const navItems = [
       { label: "Cannes → Monaco", href: "/services/cannes-monaco" },
     ],
   },
+  {
+    label: "Nos secteurs",
+    href: "/secteurs",
+    subItems: [
+      {
+        label: "Boulevard Carnot",
+        href: "/secteurs/boulevard-carnot",
+      },
+      { label: "La Croisette", href: "/secteurs/la-croisette" },
+    ],
+  },
   { label: "Tarifs", href: "/tarifs" },
   { label: "Blog", href: "/blog" },
   { label: "Contact", href: "/contact" },

@@ -5,7 +5,7 @@ export const revalidate = 86400;
 
 // ✅ Métadonnées SEO pour cette page
 export const metadata = {
-  title: "Taxi Cannes – Transferts Aéroport Nice & Chauffeur Privé",
+  title: "Taxi Cannes – Transferts Aéroport Nice & Service Taxi Local",
   description:
     "Taxi Cannes disponible 24h/24 pour tous vos trajets : transferts aéroport Nice–Cannes, gares, hôtels, Palais des Festivals, sorties privées et business.",
   alternates: {
@@ -135,6 +135,22 @@ export default function Home() {
         </div>
       </section>
 
+      {/* BLOC CORRECTIF SEO - Identification claire pour Google */}
+      <section className="py-12 bg-white border-y border-gray-200">
+        <div className="max-w-4xl mx-auto px-6">
+          <h2 className="text-2xl md:text-3xl font-bold mb-4 text-center text-gray-900">
+            Taxi à Cannes – Service local officiel 24h/24
+          </h2>
+          <p className="text-lg text-gray-700 text-center leading-relaxed">
+            Nous sommes une entreprise de taxi locale à Cannes. Nous assurons
+            les trajets en taxi à Cannes centre, La Bocca, la Croisette, le
+            Suquet et les transferts vers l&apos;aéroport Nice Côte d&apos;Azur.
+            Service de taxi disponible 24h/24 et 7j/7 sur Cannes et les
+            Alpes-Maritimes.
+          </p>
+        </div>
+      </section>
+
       {/* SECTION TEXTE SEO: Taxi Cannes */}
       <section className="py-24 bg-linear-to-b from-accent/5 via-white to-accent/5 relative overflow-hidden">
         {/* Éléments décoratifs plus visibles */}
@@ -162,7 +178,7 @@ export default function Home() {
               </span>
               <br />
               <span className="text-gray-700">
-                votre chauffeur privé sur la
+                votre service de taxi sur la
               </span>{" "}
               <span className="relative inline-block">
                 <span className="relative z-10 bg-linear-to-r from-accent to-primary bg-clip-text text-transparent font-extrabold">
