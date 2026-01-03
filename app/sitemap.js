@@ -15,15 +15,46 @@ export default function sitemap() {
   const staticPages = [
     { path: "", priority: 1.0, changeFrequency: "daily" },
     { path: "/services", priority: 0.9, changeFrequency: "monthly" },
-    { path: "/services/transfert-aeroport-nice-cannes", priority: 0.85, changeFrequency: "monthly" },
-    { path: "/services/trajets-palaces", priority: 0.85, changeFrequency: "monthly" },
-    { path: "/services/cannes-monaco", priority: 0.85, changeFrequency: "monthly" },
+    {
+      path: "/services/transfert-aeroport-nice-cannes",
+      priority: 0.85,
+      changeFrequency: "monthly",
+    },
+    {
+      path: "/services/trajets-palaces",
+      priority: 0.85,
+      changeFrequency: "monthly",
+    },
+    {
+      path: "/services/cannes-monaco",
+      priority: 0.85,
+      changeFrequency: "monthly",
+    },
+    { path: "/secteurs", priority: 0.9, changeFrequency: "monthly" },
+    {
+      path: "/secteurs/boulevard-carnot",
+      priority: 0.85,
+      changeFrequency: "monthly",
+    },
+    {
+      path: "/secteurs/la-croisette",
+      priority: 0.85,
+      changeFrequency: "monthly",
+    },
     { path: "/tarifs", priority: 0.9, changeFrequency: "monthly" },
     { path: "/blog", priority: 0.8, changeFrequency: "weekly" },
     { path: "/reservation", priority: 0.9, changeFrequency: "monthly" },
     { path: "/contact", priority: 0.8, changeFrequency: "monthly" },
-    { path: "/conditions-utilisation", priority: 0.5, changeFrequency: "yearly" },
-    { path: "/politique-confidentialite", priority: 0.5, changeFrequency: "yearly" },
+    {
+      path: "/conditions-utilisation",
+      priority: 0.5,
+      changeFrequency: "yearly",
+    },
+    {
+      path: "/politique-confidentialite",
+      priority: 0.5,
+      changeFrequency: "yearly",
+    },
     { path: "/mentions-legales", priority: 0.5, changeFrequency: "yearly" },
   ].map(({ path, priority, changeFrequency }) => ({
     url: `${baseUrl}${path}`,
