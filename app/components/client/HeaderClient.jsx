@@ -14,6 +14,7 @@ export default function HeaderClient({ navItems, children }) {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false)
   const [openDropdown, setOpenDropdown] = useState(null)
   const dropdownRef = useRef(null)
+  const timeoutRef = useRef(null)
 
   useEffect(() => {
     // Si on n'est pas sur la page d'accueil, toujours avoir le fond
@@ -29,22 +30,14 @@ export default function HeaderClient({ navItems, children }) {
     return () => window.removeEventListener("scroll", handleScroll)
   }, [isHomePage])
 
-  // Fermer le dropdown si on clique en dehors
+  // Nettoyer le timeout au démontage
   useEffect(() => {
-    const handleClickOutside = (event) => {
-      if (dropdownRef.current && !dropdownRef.current.contains(event.target)) {
-        setOpenDropdown(null)
+    return () => {
+      if (timeoutRef.current) {
+        clearTimeout(timeoutRef.current)
       }
     }
-
-    if (openDropdown) {
-      document.addEventListener("mousedown", handleClickOutside)
-    }
-
-    return () => {
-      document.removeEventListener("mousedown", handleClickOutside)
-    }
-  }, [openDropdown])
+  }, [])
 
   return (
     <div
@@ -67,10 +60,21 @@ export default function HeaderClient({ navItems, children }) {
               return (
                 <div
                   key={item.href}
-                  ref={dropdownRef}
                   className="relative"
-                  onMouseEnter={() => setOpenDropdown(item.href)}
-                  onMouseLeave={() => setOpenDropdown(null)}
+                  onMouseEnter={() => {
+                    // Annuler le timeout de fermeture s'il existe
+                    if (timeoutRef.current) {
+                      clearTimeout(timeoutRef.current)
+                      timeoutRef.current = null
+                    }
+                    setOpenDropdown(item.href)
+                  }}
+                  onMouseLeave={() => {
+                    // Délai avant de fermer le dropdown pour permettre de naviguer vers le menu
+                    timeoutRef.current = setTimeout(() => {
+                      setOpenDropdown(null)
+                    }, 200)
+                  }}
                 >
                   <Link
                     href={item.href}
@@ -86,7 +90,21 @@ export default function HeaderClient({ navItems, children }) {
                     }`} />
                   </Link>
                   {openDropdown === item.href && (
-                    <div className="absolute top-full left-0 mt-2 w-64 bg-background rounded-lg shadow-lg border border-border py-2 z-50">
+                    <div
+                      className="absolute top-full left-0 pt-2 w-64 z-50"
+                      onMouseEnter={() => {
+                        // Annuler le timeout de fermeture quand on survole le dropdown
+                        if (timeoutRef.current) {
+                          clearTimeout(timeoutRef.current)
+                          timeoutRef.current = null
+                        }
+                      }}
+                      onMouseLeave={() => {
+                        // Fermer le dropdown quand on quitte le dropdown
+                        setOpenDropdown(null)
+                      }}
+                    >
+                      <div className="bg-background rounded-lg shadow-lg border border-border py-2">
                       <Link
                         href={item.href}
                         onClick={() => setOpenDropdown(null)}
@@ -105,6 +123,7 @@ export default function HeaderClient({ navItems, children }) {
                           {subItem.label}
                         </Link>
                       ))}
+                      </div>
                     </div>
                   )}
                 </div>
