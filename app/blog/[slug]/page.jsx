@@ -118,15 +118,18 @@ export default async function BlogPostPage({ params }) {
           </div>
 
           {/* Image principale */}
-          <div className="relative h-96 rounded-2xl overflow-hidden mb-12">
-            <Image
-              src={post.image}
-              alt={post.title}
-              fill
-              className="object-cover"
-              priority={true}
-              quality={85}
-            />
+          <div className="relative w-full rounded-2xl overflow-hidden mb-12 bg-gray-50">
+            <div className="relative w-full aspect-video md:aspect-auto md:h-[600px] lg:h-[700px]">
+              <Image
+                src={post.image}
+                alt={post.title}
+                fill
+                className="object-contain"
+                priority={true}
+                quality={85}
+                sizes="(max-width: 768px) 100vw, 1200px"
+              />
+            </div>
           </div>
 
           {/* Contenu */}
@@ -200,6 +203,57 @@ export default async function BlogPostPage({ params }) {
               }),
             }}
           />
+
+          {/* Schema JSON-LD TaxiService pour l'article "taxi gare de Cannes" */}
+          {post.slug === "taxi-gare-cannes-service-transport-sncf-2025" && (
+            <Script
+              id="taxiservice-schema"
+              type="application/ld+json"
+              dangerouslySetInnerHTML={{
+                __html: JSON.stringify({
+                  "@context": "https://schema.org",
+                  "@type": "TaxiService",
+                  name: "Taxi Cannes - Service Gare SNCF",
+                  url: `https://www.cannestaxi.fr/blog/${post.slug}`,
+                  telephone: "+33 6 25 61 73 11",
+                  areaServed: {
+                    "@type": "City",
+                    name: "Cannes",
+                  },
+                  address: {
+                    "@type": "PostalAddress",
+                    addressLocality: "Cannes",
+                    addressRegion: "Provence-Alpes-Côte d'Azur",
+                    postalCode: "06400",
+                    streetAddress: "Avenue de la Gare",
+                    addressCountry: "FR",
+                  },
+                  serviceType: "Taxi depuis la gare SNCF de Cannes",
+                  description: "Service de taxi disponible 24h/24 pour la gare SNCF de Cannes. Prise en charge immédiate, aide aux bagages, tarifs transparents.",
+                  availableChannel: {
+                    "@type": "ServiceChannel",
+                    serviceUrl: "https://www.cannestaxi.fr/reservation",
+                    servicePhone: "+33 6 25 61 73 11",
+                    serviceSmsNumber: "+33 6 25 61 73 11",
+                  },
+                  hoursAvailable: {
+                    "@type": "OpeningHoursSpecification",
+                    dayOfWeek: [
+                      "Monday",
+                      "Tuesday",
+                      "Wednesday",
+                      "Thursday",
+                      "Friday",
+                      "Saturday",
+                      "Sunday",
+                    ],
+                    opens: "00:00",
+                    closes: "23:59",
+                  },
+                }),
+              }}
+            />
+          )}
         </div>
       </article>
 
