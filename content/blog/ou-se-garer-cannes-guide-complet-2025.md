@@ -580,4 +580,6 @@ Se garer à Cannes peut être un véritable défi, surtout pendant les périodes
 
 **Taxi Cannes** – Votre partenaire de confiance pour tous vos déplacements à Cannes et sur la Côte d'Azur.
 
+Plusieurs parkings recommandés sont situés dans le quartier du Boulevard Carnot. Pour découvrir notre service de taxi dans ce secteur résidentiel, consultez notre [page secteur Boulevard Carnot](/secteurs/boulevard-carnot).
+
 _Article mis à jour le 10 décembre 2025_

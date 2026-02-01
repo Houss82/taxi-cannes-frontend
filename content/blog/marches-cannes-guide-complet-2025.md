@@ -568,3 +568,5 @@ Avec ce guide complet, vous disposez de toutes les informations nécessaires pou
 ---
 
 **Taxi Cannes** – Votre partenaire de confiance pour découvrir les marchés de Cannes dans les meilleures conditions.
+
+Les marchés Forville et Saint-Antoine sont situés dans le quartier du Suquet, à proximité du Boulevard Carnot. Pour découvrir notre service de taxi dans ce quartier résidentiel, consultez notre [page secteur Boulevard Carnot](/secteurs/boulevard-carnot).

@@ -13,8 +13,9 @@ export const metadata = {
 };
 
 import Button from "@/app/components/ui/Button";
-import { Award, Building2, Car, Clock, Phone, Star } from "lucide-react";
+import { Award, BookOpen, Building2, Car, Clock, Moon, Phone, Plane, Star, Train, Umbrella } from "lucide-react";
 import Image from "next/image";
+import Link from "next/link";
 
 export default function LaCroisette() {
   return (
@@ -136,6 +137,19 @@ export default function LaCroisette() {
                 chaque année et représente l&apos;excellence du tourisme de luxe
                 français.
               </p>
+              <div className="mt-6 p-4 bg-blue-50 border-l-4 border-blue-400 rounded-r-lg">
+                <p className="text-gray-700 text-sm mb-0">
+                  <BookOpen className="w-4 h-4 inline mr-2 text-blue-600" />
+                  Pour découvrir l&apos;histoire complète de la Croisette, ses palaces emblématiques, ses restaurants étoilés et tous ses secrets, consultez notre{" "}
+                  <Link 
+                    href="/blog/la-croisette-cannes-guide-complet-2026" 
+                    className="text-blue-600 font-semibold hover:text-blue-700 hover:underline"
+                  >
+                    guide complet de la Croisette de Cannes
+                  </Link>
+                  .
+                </p>
+              </div>
             </div>
           </div>
 
@@ -277,7 +291,7 @@ export default function LaCroisette() {
               </h3>
               <ul className="space-y-3 text-gray-700 mb-6">
                 <li className="flex items-start gap-3">
-                  <Car className="w-5 h-5 text-accent mt-1 shrink-0" />
+                  <Building2 className="w-5 h-5 text-accent mt-1 shrink-0" />
                   <span>
                     <strong>Transport depuis les palaces</strong> : Prise en
                     charge à l&apos;hôtel (Carlton, Martinez, Majestic, etc.)
@@ -285,7 +299,7 @@ export default function LaCroisette() {
                   </span>
                 </li>
                 <li className="flex items-start gap-3">
-                  <Car className="w-5 h-5 text-accent mt-1 shrink-0" />
+                  <Plane className="w-5 h-5 text-accent mt-1 shrink-0" />
                   <span>
                     <strong>Transferts aéroport</strong> : Depuis la Croisette
                     vers l&apos;aéroport Nice Côte d&apos;Azur avec suivi de vol
@@ -293,7 +307,7 @@ export default function LaCroisette() {
                   </span>
                 </li>
                 <li className="flex items-start gap-3">
-                  <Car className="w-5 h-5 text-accent mt-1 shrink-0" />
+                  <Award className="w-5 h-5 text-accent mt-1 shrink-0" />
                   <span>
                     <strong>Transport vers le Palais des Festivals</strong> :
                     Service pour les événements et congrès (Festival de Cannes,
@@ -301,7 +315,7 @@ export default function LaCroisette() {
                   </span>
                 </li>
                 <li className="flex items-start gap-3">
-                  <Car className="w-5 h-5 text-accent mt-1 shrink-0" />
+                  <Moon className="w-5 h-5 text-accent mt-1 shrink-0" />
                   <span>
                     <strong>Service de nuit</strong> : Transport disponible même
                     tard dans la nuit pour vos retours de soirée depuis les
@@ -309,21 +323,21 @@ export default function LaCroisette() {
                   </span>
                 </li>
                 <li className="flex items-start gap-3">
-                  <Car className="w-5 h-5 text-accent mt-1 shrink-0" />
+                  <Umbrella className="w-5 h-5 text-accent mt-1 shrink-0" />
                   <span>
                     <strong>Transport vers les plages privées</strong> : Dépose
                     directement sur les plages des palaces et clubs de plage
                   </span>
                 </li>
                 <li className="flex items-start gap-3">
-                  <Car className="w-5 h-5 text-accent mt-1 shrink-0" />
+                  <Star className="w-5 h-5 text-accent mt-1 shrink-0" />
                   <span>
                     <strong>Service VIP</strong> : Véhicules haut de gamme
                     (Mercedes, Tesla) pour une expérience premium
                   </span>
                 </li>
                 <li className="flex items-start gap-3">
-                  <Car className="w-5 h-5 text-accent mt-1 shrink-0" />
+                  <Train className="w-5 h-5 text-accent mt-1 shrink-0" />
                   <span>
                     <strong>Transport depuis la gare SNCF</strong> : Liaison
                     entre la gare et les hôtels de la Croisette avec assistance

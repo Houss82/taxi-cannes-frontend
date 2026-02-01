@@ -269,7 +269,7 @@ Cannes accueille plusieurs événements sportifs majeurs tout au long de l'anné
 - Disponibilité tôt le matin et tard le soir
 - Véhicules premium adaptés aux besoins professionnels
 
-**Tarifs** : Sur devis selon la distance, la durée, et le type de service. Consultez notre [page Tarifs](/tarifs) ou [contactez-nous](/contact) pour un devis personnalisé.
+**Tarifs** : Sur devis selon la distance, la durée, et le type de service. Pour les événements au Palais des Festivals et sur la Croisette, notre [service de taxi Palaces Cannes](/services/trajets-palaces) propose des tarifs adaptés. Consultez notre [page Tarifs](/tarifs) ou [contactez-nous](/contact) pour un devis personnalisé.
 
 ---
 
@@ -361,11 +361,11 @@ En utilisant un **service de taxi avec réservation**, vous pouvez éviter le st
 
 ### 🚖 Réservez votre taxi pour les événements de Cannes
 
-Préparez votre venue aux événements majeurs de Cannes en réservant votre transport à l'avance :
+Préparez votre venue aux événements majeurs de Cannes en réservant votre transport à l'avance. Pour les événements sur la Croisette et au Palais des Festivals, notre [service de taxi La Croisette](/secteurs/la-croisette) est spécialement adapté aux contraintes de ces quartiers prestigieux.
 
 - 📞 **Appelez-nous** : +33 6 25 61 73 11
 - 📧 **Réservez en ligne** : [Formulaire de réservation](/reservation)
-- 💬 **Contactez-nous** : [Page de contact](/contact)
+- 🏨 **Service Palaces** : [Taxi Palaces Cannes](/services/trajets-palaces)
 
 **Service disponible 24h/24 et 7j/7** pour tous les événements de Cannes.
 

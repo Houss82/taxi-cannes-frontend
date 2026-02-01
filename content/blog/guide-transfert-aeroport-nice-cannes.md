@@ -475,10 +475,9 @@ Votre chauffeur vous attendra dans le **hall des arrivées** avec un **panneau �
 
 Pour aller plus loin dans votre découverte de Cannes et de la Côte d'Azur :
 
-- [Services Taxi Cannes](/services) – Transferts, excursions, chauffeur privé
+- [Service Transfert Aéroport Nice-Cannes](/services/transfert-aeroport-nice-cannes) – Détails complets sur notre service de transfert aéroport
+- [Taxi Cannes → Monaco](/services/cannes-monaco) – Service premium vers la Principauté de Monaco
 - [Tarifs Transparents](/tarifs) – Grille tarifaire complète pour tous vos trajets
-- [Contact & Réservation](/contact) – Réservez votre transfert en quelques clics
-- [Blog Cannes](/blog) – Guides, conseils et actualités sur Cannes
 
 ---
 

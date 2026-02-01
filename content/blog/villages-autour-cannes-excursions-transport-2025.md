@@ -430,3 +430,5 @@ Avec ce guide complet, vous disposez de toutes les informations nécessaires pou
 ---
 
 **Taxi Cannes** – Votre partenaire de confiance pour découvrir les villes et villages exceptionnels de la Côte d'Azur.
+
+Pour découvrir tous nos services d'excursions et de transport sur la Côte d'Azur, consultez nos [services de taxi à Cannes](/services).

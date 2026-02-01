@@ -413,9 +413,9 @@ Nos tarifs pour le trajet Cannes → Monaco sont **fixes**, **clairs** et **sans
 
 Pour connaître le tarif précis de votre transfert, nous vous invitons à :
 
-- **Consulter notre page Tarifs** : [voir les tarifs](/tarifs)
-- **Utiliser notre formulaire de réservation** : [réserver en ligne](/reservation)
-- **Nous contacter directement** : [nous appeler](/contact) ou [nous écrire](/contact)
+- **Consulter notre service Cannes → Monaco** : [détails complets du service](/services/cannes-monaco)
+- **Voir nos tarifs** : [grille tarifaire transparente](/tarifs)
+- **Réserver en ligne** : [formulaire de réservation](/reservation)
 
 ### 📋 Options de service disponibles
 
@@ -530,3 +530,5 @@ Notre objectif est simple : vous offrir le meilleur service de taxi premium sur 
 ---
 
 **Taxi Cannes** – Votre partenaire de confiance pour tous vos déplacements premium sur la Côte d'Azur.
+
+Pour découvrir tous nos services de transport sur la Côte d'Azur, consultez notre [service complet Cannes → Monaco](/services/cannes-monaco) et nos autres [services de taxi à Cannes](/services).

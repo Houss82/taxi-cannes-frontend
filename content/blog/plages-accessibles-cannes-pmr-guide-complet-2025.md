@@ -424,7 +424,7 @@ Pour toute question sur l'accessibilité des plages de Cannes ou pour réserver 
 
 **Besoin d'un transport adapté vers les plages de Cannes ?** Réservez votre taxi PMR dès maintenant et profitez d'un service de qualité avec assistance et véhicules équipés.
 
-[📞 Réserver un taxi PMR](/reservation) | [📧 Nous contacter](/contact) | [ℹ️ En savoir plus sur nos services](/services)
+[📞 Réserver un taxi PMR](/reservation) | [📧 Nous contacter](/contact) | [🏖️ Service taxi La Croisette](/secteurs/la-croisette) | [ℹ️ En savoir plus sur nos services](/services)
 
 ---
 
