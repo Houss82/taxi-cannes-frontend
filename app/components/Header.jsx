@@ -27,6 +27,7 @@ const navItems = [
         href: "/secteurs/boulevard-carnot",
       },
       { label: "La Croisette", href: "/secteurs/la-croisette" },
+      { label: "Le Suquet", href: "/secteurs/le-suquet" },
     ],
   },
   { label: "Tarifs", href: "/tarifs" },

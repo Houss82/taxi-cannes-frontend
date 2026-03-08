@@ -3,9 +3,9 @@
 export const metadata = {
   title: "Nos Secteurs | Taxi Cannes | Quartiers Desservis | Taxi Cannes",
   description:
-    "Découvrez les quartiers de Cannes desservis par Taxi Cannes : Boulevard Carnot, La Croisette. Service de taxi disponible 24h/24 dans tous les secteurs de Cannes.",
+    "Découvrez les quartiers de Cannes desservis par Taxi Cannes : Boulevard Carnot, La Croisette, Le Suquet. Service de taxi disponible 24h/24 dans tous les secteurs de Cannes.",
   keywords:
-    "secteurs taxi cannes, quartiers cannes, taxi boulevard carnot, taxi croisette, zones desservies cannes",
+    "secteurs taxi cannes, quartiers cannes, taxi boulevard carnot, taxi croisette, taxi suquet cannes, zones desservies cannes",
   alternates: {
     canonical: "https://www.cannestaxi.fr/secteurs",
   },
@@ -40,6 +40,19 @@ export default function Secteurs() {
         "Palais des Festivals",
         "Plages privées",
         "Boutiques de luxe",
+      ],
+    },
+    {
+      name: "Le Suquet",
+      description:
+        "Quartier historique avec marché Forville et vues panoramiques",
+      href: "/secteurs/le-suquet",
+      image: "/taxi-cannes-le-suquet.png",
+      features: [
+        "Vieille ville et château",
+        "Marché Forville",
+        "Restaurants typiques",
+        "Vue panoramique sur la baie",
       ],
     },
   ];
@@ -79,7 +92,7 @@ export default function Secteurs() {
             </p>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {secteurs.map((secteur) => (
               <div
                 key={secteur.href}
