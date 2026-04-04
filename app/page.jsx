@@ -26,6 +26,7 @@ import {
   Users,
 } from "lucide-react";
 import Image from "next/image";
+import Link from "next/link";
 import Script from "next/script";
 import VehicleCarousel from "./components/client/VehicleCarousel";
 import Button from "./components/ui/Button";
@@ -100,35 +101,47 @@ export default function Home() {
                 icon: Plane,
                 label: "Aéroport Nice",
                 desc: "Transfert taxi Cannes ↔ Nice",
+                href: "/services/transfert-aeroport-nice-cannes",
               },
               {
                 icon: Train,
                 label: "Gare de Cannes",
                 desc: "Arrivées & départs",
+                href: "/blog/taxi-gare-cannes-service-transport-sncf-2025",
               },
               {
                 icon: Building2,
                 label: "Palaces & Hôtels",
                 desc: "Croisette, Martinez, Carlton",
+                href: "/services/trajets-palaces",
               },
               {
                 icon: Compass,
                 label: "Longue Distance",
                 desc: "Monaco, Saint-Tropez, Antibes",
+                href: "/services/cannes-monaco",
               },
             ].map((service, i) => {
               const Icon = service.icon;
-              return (
-                <Card
-                  key={i}
-                  className="p-6 text-center hover:shadow-lg transition-shadow"
-                >
+              const card = (
+                <Card className="p-6 text-center hover:shadow-lg transition-shadow h-full">
                   <Icon className="w-8 h-8 mx-auto mb-4 text-accent" />
                   <h3 className="font-bold mb-2">{service.label}</h3>
                   <p className="text-sm text-muted-foreground">
                     {service.desc}
                   </p>
                 </Card>
+              );
+              return service.href ? (
+                <Link
+                  key={i}
+                  href={service.href}
+                  className="block focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent rounded-lg"
+                >
+                  {card}
+                </Link>
+              ) : (
+                <div key={i}>{card}</div>
               );
             })}
           </div>

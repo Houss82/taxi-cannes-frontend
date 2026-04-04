@@ -254,6 +254,56 @@ export default async function BlogPostPage({ params }) {
               }}
             />
           )}
+
+          {post.slug === "taxi-pmr-cannes-transport-accessible-service-2026" && (
+            <Script
+              id="taxi-pmr-schema"
+              type="application/ld+json"
+              dangerouslySetInnerHTML={{
+                __html: JSON.stringify({
+                  "@context": "https://schema.org",
+                  "@type": "TaxiService",
+                  name: "Taxi Cannes - Transport PMR & accessible",
+                  url: `https://www.cannestaxi.fr/blog/${post.slug}`,
+                  telephone: "+33 6 25 61 73 11",
+                  areaServed: {
+                    "@type": "City",
+                    name: "Cannes",
+                  },
+                  address: {
+                    "@type": "PostalAddress",
+                    addressLocality: "Cannes",
+                    addressRegion: "Provence-Alpes-Côte d'Azur",
+                    postalCode: "06400",
+                    addressCountry: "FR",
+                  },
+                  serviceType:
+                    "Taxi PMR, personnes à mobilité réduite, transport adapté",
+                  description:
+                    "Réservation taxi accessible à Cannes : véhicule adapté sur demande, transferts aéroport Nice, gare SNCF, Palais des Festivals et hôtels.",
+                  availableChannel: {
+                    "@type": "ServiceChannel",
+                    serviceUrl: "https://www.cannestaxi.fr/reservation",
+                    servicePhone: "+33 6 25 61 73 11",
+                  },
+                  hoursAvailable: {
+                    "@type": "OpeningHoursSpecification",
+                    dayOfWeek: [
+                      "Monday",
+                      "Tuesday",
+                      "Wednesday",
+                      "Thursday",
+                      "Friday",
+                      "Saturday",
+                      "Sunday",
+                    ],
+                    opens: "00:00",
+                    closes: "23:59",
+                  },
+                }),
+              }}
+            />
+          )}
         </div>
       </article>
 

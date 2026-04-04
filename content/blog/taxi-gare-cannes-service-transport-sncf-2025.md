@@ -1,41 +1,63 @@
 ---
-title: "Taxi Gare de Cannes – Réservation 24/7 | Prise en Charge Immédiate"
-date: "2026-01-17"
-excerpt: "Taxi gare de Cannes : prise en charge immédiate à la sortie de la gare SNCF (Avenue de la Gare). Réservation 24/7, aide aux bagages, tarif annoncé avant départ. Appelez le +33 6 25 61 73 11 ou réservez en ligne."
+title: "Taxi gare SNCF Cannes : prise en charge, horaires d’affluence & tarifs 2026"
+date: "2026-03-28"
+excerpt: "Guide pratique taxi gare de Cannes : où attendre le chauffeur, file d’attente vs réservation, affluence matin/soir et week-ends, tarifs vers centre-ville, Croisette et aéroport Nice. Téléphone +33 6 25 61 73 11."
 image: "/taxi-gare-de-cannes.jpeg"
 category: "Transport"
 author: "Taxi Cannes"
 language: "fr"
-keywords: ["taxi gare de Cannes", "taxi gare SNCF Cannes", "transport gare Cannes", "taxi depuis gare Cannes", "taxi vers gare Cannes"]
+keywords: ["taxi gare de Cannes", "taxi gare SNCF Cannes", "stationnement taxi Cannes gare", "affluence gare Cannes", "taxi depuis gare Cannes", "TER Cannes Nice taxi"]
 ---
 
-# Taxi Gare de Cannes – Réservation 24/7
+# Taxi gare SNCF Cannes : prise en charge, horaires d’affluence & tarifs
 
-**Taxi gare de Cannes** : prise en charge immédiate à la sortie de la gare SNCF (Avenue de la Gare). Réservation 24/7, aide aux bagages, tarif annoncé avant départ. Appelez le **+33 6 25 61 73 11** ou [réservez en ligne](/reservation).
+**Taxi gare de Cannes** : prise en charge à la sortie de la gare (avenue de la Gare, 06400 Cannes), réservation possible 24h/24, aide aux bagages, **tarif annoncé avant le départ**. Appelez le **+33 6 25 61 73 11** ou [réservez en ligne](/reservation).
 
-Arriver à la gare SNCF de Cannes avec des bagages, parfois après plusieurs heures de trajet en train, nécessite un transport fiable vers votre destination. Notre service de **taxi gare de Cannes** vous accueille directement à la sortie de la gare, disponible 24h/24 et 7j/7, même pour les trains de nuit ou très tôt le matin.
+Cet article ne reprend pas un discours générique « transport rapide, chauffeur professionnel » : il décrit **ce que les voyageurs voient vraiment** à la gare de Cannes : où se placer, quand la gare est chargée, et comment éviter d’attendre sur le quai avec des valises pendant que les taxis partent en série.
+
+---
+
+## En bref : pourquoi la gare de Cannes est un cas particulier
+
+La gare SNCF de Cannes n’est pas une grande plaque tournante comme Nice-Ville : c’est une **gare urbaine** en bordure du quartier Carnot, très proche du centre (souvent **5 minutes en voiture** jusqu’à la rue d’Antibes). Conséquence : les trajets sont **courts mais sensibles au trafic** — surtout l’été, les week-ends et pendant le **Festival de Cannes** ou les gros congrès au Palais des Festivals.
+
+- **Arrivées fréquentes** : liaisons **TER** (axe vers Nice, Grasse, Mandelieu, etc.), trains longue distance selon période. Les voyageurs arrivent souvent **par vagues** quand un train se vide.
+- **Point fort** : la proximité immédiate du **Boulevard Carnot** et de la **Place du 18 Juin** — pour le détail du quartier, voir notre page [Boulevard Carnot](/secteurs/boulevard-carnot) et le [guide taxi Boulevard Carnot](/blog/boulevard-carnot-cannes-guide-complet-2026).
 
 <div class="kpi-strip">
-  <span class="badge success">🚂 Service 24h/24</span>
-  <span class="badge info">💼 Coffre spacieux bagages</span>
-  <span class="badge success">⏱️ Disponible immédiatement</span>
-  <span class="badge info">📍 5 min du centre-ville</span>
-  <span class="badge accent">🎯 Tarifs transparents</span>
+  <span class="badge success">🚂 Prise en charge à la sortie gare</span>
+  <span class="badge info">💼 Coffre adapté aux bagages</span>
+  <span class="badge success">⏱️ Suivi train si réservation</span>
+  <span class="badge info">📍 ~5 min vers centre piéton</span>
+  <span class="badge accent">🎯 Tarif communiqué avant départ</span>
 </div>
 
 ---
 
-## Où nous trouver à la gare de Cannes
+## Où se trouve le taxi : sortie, file d’attente et rendez-vous nominatif
 
-**Point de prise en charge** : Sortie principale de la gare SNCF, **Avenue de la Gare, 06400 Cannes**
+**Adresse de la gare** : avenue de la Gare, 06400 Cannes.
 
-Si vous avez réservé à l'avance, votre chauffeur vous attendra avec un **panneau à votre nom** pour faciliter la rencontre. La gare dispose d'une zone de dépose-minute dédiée aux taxis, permettant une prise en charge rapide et sécurisée.
+1. **Sortie voyageurs** : en général, les voyageurs sortent côté **façade principale** (avenue de la Gare). C’est là que se fait la **rencontre** avec un chauffeur si vous avez réservé : panneau au nom ou prise de contact par téléphone.
+2. **Stationnement taxi** : la gare dispose d’une **aire dédiée aux taxis** (dépose-minute / stationnement réglementé selon signalisation locale). En période chargée, la rotation est rapide : avoir **l’adresse exacte** et le **nombre de bagages** évite de refaire la file.
+3. **Réservation à l’avance** : intérêt principal — **pas de surprise d’horaire** si vous donnez le **numéro de train** : on peut adapter l’heure d’arrivée du véhicule en cas de retard SNCF (dans la mesure du possible opérationnellement), comme expliqué plus bas.
 
-**Adresse de la gare** : Avenue de la Gare, 06400 Cannes  
-**Distance du centre-ville** : 5 minutes en taxi  
-**Distance de la Croisette** : 10 minutes en taxi
+**Distance indicative** : centre-ville (rue d’Antibes) **~1,5 km** ; **Croisette** souvent **8 à 12 minutes** selon trafic ; **Palais des Festivals** sur un axe proche Croisette / Carnot.
 
-La gare SNCF de Cannes est située dans le quartier résidentiel du Boulevard Carnot, à proximité immédiate du centre-ville historique. Pour en savoir plus sur notre service de taxi dans ce quartier, consultez notre page dédiée au [Boulevard Carnot](/secteurs/boulevard-carnot).
+---
+
+## Affluence à la gare : quand prévoir plus de temps
+
+Sans chiffres inventés, le ressenti terrain à Cannes :
+
+| Créneau | Ce qu’on observe souvent |
+|--------|---------------------------|
+| **Matin en semaine** | Arrivées régulières + flux vers bureaux / lycées proches : files taxi et rues Carnot plus denses **vers 8h–9h30**. |
+| **Fin d’après-midi** | Retours, connexions : tension sur le **Boulevard Carnot** et accès centre **vers 17h–19h**. |
+| **Week-ends & vacances** | Plus de valises, rotations taxis plus lentes ; prévoir **5 à 10 minutes** de marge sur l’horaire « idéal ». |
+| **Festival & gros événements** | Blocages ponctuels, déviations : le trajet **gare → hôtel Croisette** peut **allonger** même si la distance reste courte. |
+
+Si vous avez un **train de nuit** ou une arrivée **très tôt**, le taxi reste souvent le mode le plus simple : le bus local n’a pas la même fréquence à toutes les heures, et la marche avec valises vers le centre n’est pas agréable à 6 h du matin.
 
 ---
 
@@ -43,180 +65,172 @@ La gare SNCF de Cannes est située dans le quartier résidentiel du Boulevard Ca
 
 ### Réservation en ligne
 
-Réservez votre taxi depuis la gare de Cannes en quelques clics via notre [formulaire de réservation](/reservation). Indiquez votre numéro de train pour que nous puissions suivre son arrivée en temps réel et ajuster automatiquement l'heure de prise en charge en cas de retard, **sans frais supplémentaires**.
+[Formulaire de réservation](/reservation) : indiquez **gare de Cannes** comme point de départ, la **destination**, le **nombre de passagers et de bagages**, et si possible le **numéro de train** pour le suivi.
 
 ### Réservation par téléphone
 
-Appelez le **+33 6 25 61 73 11** 24h/24 et 7j/7. Notre équipe vous confirmera immédiatement la disponibilité et vous communiquera le tarif exact avant le départ.
+**+33 6 25 61 73 11** — confirmation de disponibilité et **prix annoncé avant la course**.
 
-### Informations à communiquer lors de la réservation
+### Infos utiles à communiquer
 
-- **Numéro de train** : Pour le suivi en temps réel de l'arrivée
-- **Nombre et taille des bagages** : Pour vous proposer le véhicule adapté
-- **Destination exacte** : Adresse complète de votre hôtel, résidence, ou point d'intérêt
-- **Heure d'arrivée prévue** : Pour garantir la ponctualité
+- **Numéro de train** (pour ajuster en cas de retard)
+- **Bagages** (format des valises, poussette, matériel sport)
+- **Adresse précise** (nom d’hôtel + rue, ou accès résidence)
+- **Sortie prévue** si vous connaissez le quai / le retard annoncé sur l’appli SNCF
 
 ---
 
-## Tarifs taxi depuis la gare de Cannes
+## Tarifs taxi depuis la gare de Cannes (indicatifs)
 
-Les tarifs de taxi depuis la gare de Cannes varient selon votre destination finale. Voici les tarifs indicatifs pour les principales destinations :
+Les montants ci-dessous sont des **fourchettes** : le tarif définitif vous est communiqué **avant le départ**. Pour une course longue (aéroport), préférez une **réservation** : voir aussi notre page [transfert aéroport Nice – Cannes](/services/transfert-aeroport-nice-cannes) et les [tarifs](/tarifs).
 
 <div class="content-box" style="overflow-x: auto; -webkit-overflow-scrolling: touch;">
   <table style="width: 100%; border-collapse: collapse; margin: 1.5rem 0; min-width: 600px;">
     <thead>
       <tr style="background-color: #f3f4f6;">
         <th style="padding: 12px 8px; text-align: left; border: 1px solid #e5e7eb; font-size: 0.875rem;">Destination</th>
-        <th style="padding: 12px 8px; text-align: left; border: 1px solid #e5e7eb; font-size: 0.875rem;">Durée</th>
-        <th style="padding: 12px 8px; text-align: left; border: 1px solid #e5e7eb; font-size: 0.875rem;">Tarif approximatif</th>
+        <th style="padding: 12px 8px; text-align: left; border: 1px solid #e5e7eb; font-size: 0.875rem;">Durée (ordre de grandeur)</th>
+        <th style="padding: 12px 8px; text-align: left; border: 1px solid #e5e7eb; font-size: 0.875rem;">Tarif indicatif</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Centre-ville</strong></td>
+        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Centre-ville (rue d’Antibes)</strong></td>
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">5 min</td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">8-12€</td>
+        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">8–12€</td>
       </tr>
       <tr style="background-color: #f9fafb;">
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>La Croisette</strong></td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">10 min</td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">12-18€</td>
+        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">8–12 min</td>
+        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">12–18€</td>
       </tr>
       <tr>
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Palais des Festivals</strong></td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">8 min</td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">10-15€</td>
+        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">8–10 min</td>
+        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">10–15€</td>
       </tr>
       <tr style="background-color: #f9fafb;">
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Suquet</strong></td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">6 min</td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">10-14€</td>
+        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Le Suquet</strong></td>
+        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">6–10 min</td>
+        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">10–14€</td>
       </tr>
       <tr>
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>La Bocca</strong></td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">12 min</td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">15-22€</td>
+        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">10–15 min</td>
+        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">15–22€</td>
       </tr>
       <tr style="background-color: #f9fafb;">
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Aéroport Nice</strong></td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">30 min</td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">90-120€</td>
+        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Aéroport Nice Côte d’Azur</strong></td>
+        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">25–40 min selon trafic</td>
+        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">90–120€</td>
       </tr>
     </tbody>
   </table>
 </div>
 
-*Tarifs indicatifs selon le trafic et l'itinéraire. Tarif exact disponible sur devis.*
+*Indicatif : trafic, détours événementiels et type de véhicule peuvent faire varier le prix. Pour l’aéroport, la fourchette **90–120€** est cohérente avec une course longue depuis Cannes ; un devis ferme évite toute ambiguïté.*
 
-**Transparence tarifaire** : Nous vous communiquons toujours le **tarif exact avant le départ**, sans surprise. Pour les réservations à l'avance, le tarif est garanti et convenu avant votre arrivée.
-
-**Facteurs influençant le tarif** : La distance, le trafic (heures de pointe), le nombre de bagages, l'heure (trajets de nuit), et les événements majeurs (Festival de Cannes) peuvent influencer le tarif final.
+**Facteurs qui font bouger la note** : embouteillages sur le **Boulevard Carnot**, accès piétonnisés temporaires, **Festival de Cannes**, nombre de bagages, véhicule **berline / monospace**.
 
 ---
 
-## Destinations principales depuis la gare
+## Destinations détaillées depuis la gare
 
-### Centre-ville de Cannes
+### Centre-ville
 
-**Durée** : 5 minutes en taxi  
-**Distance** : 1,5 km
-
-L'itinéraire le plus direct depuis la gare vers le centre-ville emprunte le Boulevard Carnot, une artère principale qui traverse le quartier résidentiel et rejoint directement la Rue d'Antibes, la principale rue commerçante de Cannes.
+Trajet typique par le **Boulevard Carnot** puis bifurcation vers la **rue d’Antibes**. Court, mais les **feux** et le flux piéton peuvent ajouter quelques minutes en haute saison.
 
 ### La Croisette
 
-**Durée** : 10 minutes en taxi  
-**Distance** : 3 km
-
-Pour rejoindre la Croisette depuis la gare, l'itinéraire traverse le centre-ville et longe le Boulevard de la Croisette, offrant une vue magnifique sur la Méditerranée et les palaces de luxe. Découvrez notre service de taxi dédié à [La Croisette](/secteurs/la-croisette).
+Itinéraire classique : rejoindre le front de mer — lien avec notre [guide La Croisette](/blog/la-croisette-cannes-guide-complet-2026) et la page [taxi La Croisette](/secteurs/la-croisette).
 
 ### Palais des Festivals
 
-**Durée** : 8 minutes en taxi  
-**Distance** : 2,5 km
+Même logistique que pour la Croisette selon sens de circulation ; en période de congrès, prévoir marge. Voir aussi [taxi Palais des Festivals](/blog/taxi-palais-des-festivals-cannes-acces-congres-evenements-2026).
 
-Le Palais des Festivals est facilement accessible depuis la gare, avec un itinéraire direct via le Boulevard Carnot et la Croisette.
+### Aéroport Nice
 
-### Aéroport Nice Côte d'Azur
-
-**Durée** : 30 minutes en taxi  
-**Tarif** : 90-120€ selon le trafic
-
-Pour les transferts vers l'aéroport Nice depuis la gare, consultez notre [service de transfert aéroport](/services/transfert-aeroport-nice-cannes).
+**Durée** : comptez souvent **30 à 45 minutes** selon trafic (et plus aux heures denses), pas une durée « fixe » de 30 minutes. **Tarif** : alignez-vous sur la **fourchette du tableau** (90–120€) et non sur des montants contradictoires — le devis téléphonique ou en ligne fait foi.
 
 ---
 
-## Service adapté aux voyageurs avec bagages
+## Bagages, train de nuit, familles
 
-Notre service de taxi depuis la gare de Cannes est spécialement adapté pour les voyageurs avec bagages :
-
-- **Coffre spacieux** : Nos véhicules disposent d'un coffre suffisamment grand pour accueillir plusieurs valises, sacs de voyage, ou équipements sportifs
-- **Aide au chargement** : Nos chauffeurs vous aident à charger et décharger vos bagages
-- **Véhicules adaptés** : Pour les groupes ou les bagages très volumineux, nous proposons des véhicules plus spacieux (berlines, monospaces)
-- **Sécurité** : Vos bagages sont transportés en toute sécurité, avec un suivi de votre trajet
+- **Coffre** : précisez **nombre et format** des valises pour qu’on affecte le bon véhicule.
+- **Aide** : chargement / déchargement standard pour un service de taxi.
+- **Groupes** : van ou monospace sur demande.
 
 ---
 
-## Alternatives de transport depuis la gare
+## Bus Palm Bus vs taxi : quand le taxi gagne
 
-Le bus Palm Bus (ligne 1) relie la gare au centre-ville et à la Croisette (1,50€, 10-15 minutes), mais peu pratique avec des bagages et pas de service de nuit. La marche à pied vers le centre-ville prend 15-20 minutes, mais épuisante après un long trajet en train. **Le taxi reste la solution la plus simple avec bagages, de nuit, ou pour des horaires précis.**
+Le réseau **Palm Bus** dessert l’agglomération ; depuis la gare, des lignes relient le centre et le littoral pour un **coût modique**, mais avec **arrêts**, **horaires** à respecter et **peu de place** pour les grosses valises. **La nuit** ou avec **enfants / matériel lourd**, le taxi reste le choix le plus prévisible — c’est souvent ce que les voyageurs choisissent après un **TGV** ou un **TER** long.
 
 ---
 
-## FAQ : Questions fréquentes
+## Liens internes utiles (parcours sur le site)
+
+- [Transfert aéroport Nice – Cannes](/services/transfert-aeroport-nice-cannes)
+- [Tarifs](/tarifs) et [réservation](/reservation)
+- [Guide Le Suquet](/blog/taxi-cannes-le-suquet-guide-complet-2026) (arrivée gare + montée vers le quartier historique)
+- [Où se garer à Cannes](/blog/ou-se-garer-cannes-guide-complet-2025) si vous combinez train + voiture de location
+
+---
+
+## FAQ
 
 <details class="faq">
   <summary>Combien coûte un taxi depuis la gare de Cannes vers le centre-ville ?</summary>
-  <p>Le tarif d'un taxi depuis la gare de Cannes vers le centre-ville varie entre **8€ et 12€** selon le trafic et l'itinéraire exact. Nous vous communiquons toujours le tarif exact avant le départ.</p>
+  <p>En pratique souvent entre <strong>8€ et 12€</strong> pour une course courte vers le cœur commerçant, selon trafic et arrêt exact. Le prix vous est annoncé avant le départ.</p>
 </details>
 
 <details class="faq">
-  <summary>Le service de taxi est-il disponible 24h/24 depuis la gare ?</summary>
-  <p>Oui, notre service de taxi est disponible **24h/24 et 7j/7** depuis la gare de Cannes, y compris pour les trains de nuit ou très tôt le matin. Pour garantir un service optimal, surtout pendant les périodes de forte affluence, nous recommandons de réserver à l'avance.</p>
+  <summary>Le taxi est-il disponible 24h/24 à la gare ?</summary>
+  <p>Oui pour <strong>notre service</strong> (réservation et téléphone). La disponibilité des taxis sur la station évolue selon l’heure : pour les trains tardifs ou très matinaux, la <strong>réservation</strong> évite l’incertitude.</p>
 </details>
 
 <details class="faq">
-  <summary>Puis-je réserver un taxi à l'avance pour mon arrivée à la gare ?</summary>
-  <p>Oui, vous pouvez réserver votre taxi à l'avance en ligne ou par téléphone au **+33 6 25 61 73 11**. Si vous communiquez votre numéro de train, nous suivons son arrivée en temps réel et ajustons automatiquement l'heure de prise en charge en cas de retard, **sans frais supplémentaires**.</p>
+  <summary>Puis-je réserver avant l’arrivée du train ?</summary>
+  <p>Oui — <a href="/reservation">en ligne</a> ou au <strong>+33 6 25 61 73 11</strong>. Avec le <strong>numéro de train</strong>, on peut ajuster l’heure de prise en charge si le SNCF annonce un retard (selon faisabilité).</p>
 </details>
 
 <details class="faq">
-  <summary>Les taxis peuvent-ils transporter des bagages volumineux depuis la gare ?</summary>
-  <p>Oui, nos véhicules disposent d'un **coffre spacieux** pour accueillir plusieurs valises, sacs de voyage, ou équipements sportifs. Nos chauffeurs vous aident également à charger et décharger vos bagages. Pour les bagages très volumineux, nous proposons des véhicules plus spacieux (berlines, monospaces).</p>
+  <summary>Bagages volumineux : faut-il un monospace ?</summary>
+  <p>Oui si plusieurs grandes valises ou équipement encombrant : indiquez-le à la réservation pour qu’on envoie un <strong>véhicule adapté</strong>.</p>
 </details>
 
 <details class="faq">
-  <summary>Où se trouve le point de prise en charge des taxis à la gare de Cannes ?</summary>
-  <p>Le point de prise en charge principal se trouve à la **sortie principale de la gare**, avenue de la Gare. Si vous avez réservé à l'avance, votre chauffeur vous attendra avec un **panneau à votre nom** pour faciliter la rencontre.</p>
+  <summary>Où le chauffeur attend-il à la gare ?</summary>
+  <p>À la <strong>sortie principale</strong>, côté avenue de la Gare, sauf consigne différente par SMS ou appel. Réservation nominative : souvent un <strong>panneau</strong> au nom du client.</p>
 </details>
 
 <details class="faq">
-  <summary>Combien de temps faut-il pour rejoindre la Croisette depuis la gare en taxi ?</summary>
-  <p>Le trajet depuis la gare de Cannes vers la Croisette prend environ **10 minutes en taxi**, selon le trafic. L'itinéraire traverse le centre-ville et longe le Boulevard de la Croisette, offrant une vue magnifique sur la Méditerranée et les palaces de luxe.</p>
+  <summary>Temps pour rejoindre la Croisette en taxi depuis la gare ?</summary>
+  <p>Souvent <strong>8 à 12 minutes</strong> ; plus si le trafic est dense (été, événements). Voir aussi le <a href="/blog/la-croisette-cannes-guide-complet-2026">guide Croisette</a>.</p>
 </details>
 
 <details class="faq">
-  <summary>Puis-je prendre un taxi depuis la gare pour aller à l'aéroport Nice ?</summary>
-  <p>Oui, notre service de taxi peut vous transporter depuis la gare de Cannes vers l'aéroport Nice Côte d'Azur. Le trajet prend environ **30 minutes** et le tarif varie entre **50€ et 70€** selon le trafic et l'itinéraire. Nous recommandons de réserver à l'avance pour garantir un service optimal.</p>
+  <summary>Taxi de la gare vers l’aéroport Nice : prix et durée ?</summary>
+  <p>Comptez typiquement <strong>90 à 120€</strong> et <strong>25 à 45 minutes</strong> selon circulation — le même ordre de grandeur que sur notre <a href="/services/transfert-aeroport-nice-cannes">page transfert aéroport</a>. Évitez les estimations basses irréalistes pour cette distance.</p>
 </details>
 
 <details class="faq">
-  <summary>Le service de taxi suit-il les retards de train ?</summary>
-  <p>Oui, si vous réservez à l'avance et communiquez votre numéro de train, nous suivons l'arrivée de votre train en temps réel et ajustons automatiquement l'heure de prise en charge en cas de retard, **sans frais supplémentaires**. Vous n'avez pas à vous soucier de votre train qui arrive en retard.</p>
+  <summary>Suivez-vous les retards SNCF ?</summary>
+  <p>Si vous avez réservé avec le <strong>numéro de train</strong>, on peut suivre l’horaire réel et adapter la prise en charge dans la mesure du possible, <strong>sans frais de « retard »</strong> côté client lorsque c’est annoncé ainsi à la réservation.</p>
 </details>
 
 ---
 
 <div class="highlight-box">
-  <strong>Besoin d'un taxi depuis la gare de Cannes ?</strong><br/>
-  Réservez votre transport dès maintenant pour garantir un service optimal à votre arrivée. Service disponible 24h/24, coffre spacieux pour vos bagages, et chauffeurs professionnels connaissant parfaitement Cannes.
+  <strong>Taxi depuis la gare de Cannes</strong><br/>
+  Course courte vers le centre ou transfert vers l’aéroport Nice : un seul numéro, <strong>tarif clarifié avant départ</strong>. Idéal après un long trajet en train.
 </div>
 
 <div class="cta">
-  <a href="/reservation" class="cta-button">📞 Réserver un taxi depuis la gare</a>
-  <a href="/contact" class="cta-button secondary">📧 Nous contacter</a>
+  <a href="/reservation" class="cta-button">Réserver depuis la gare</a>
+  <a href="/contact" class="cta-button secondary">Nous contacter</a>
 </div>
 
 ---
 
-*Article mis à jour en janvier 2026. Tarifs et informations sujets à modification. Pour les tarifs exacts et les disponibilités, contactez-nous directement au +33 6 25 61 73 11.*
+*Article actualisé en mars 2026. Tarifs indicatifs : demandez un devis pour une fourchette ferme, surtout vers l’aéroport Nice. Téléphone : +33 6 25 61 73 11.*
