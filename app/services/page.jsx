@@ -44,6 +44,7 @@ export default function Services() {
       desc: "Découvrez la Côte d'Azur en style",
       image: "/saint-tropez-cannes.jpg",
       details: ["Trajets panoramiques", "Durée: 1h30", "Forfait groupes"],
+      href: "/blog/taxi-cannes-saint-tropez-transfert-guide-2026",
     },
     {
       title: "Cannes → Antibes",
