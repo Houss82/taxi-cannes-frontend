@@ -26,6 +26,17 @@ export default function Services() {
       href: "/services/transfert-aeroport-nice-cannes",
     },
     {
+      title: "Taxi conventionné CPAM — transport médical assis",
+      desc: "Transport médical assis, hôpitaux, cliniques : éligibilité à confirmer au téléphone",
+      image: "/Taxi-PMR-Cannes-2026.jpg",
+      details: [
+        "Dossier CPAM (selon conditions)",
+        "Transport assis & infos au téléphone",
+        "Renseignement sans engagement",
+      ],
+      href: "/services/taxi-conventionne-cpam-cannes",
+    },
+    {
       title: "Trajets Palaces",
       desc: "Service VIP pour les hôtels Majestic, Martinez et Carlton",
       image: "/palace-cannes.jpg",

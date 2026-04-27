@@ -14,6 +14,10 @@ const navItems = [
         label: "Transfert Aéroport Nice",
         href: "/services/transfert-aeroport-nice-cannes",
       },
+      {
+        label: "Taxi conventionné CPAM — médical assis",
+        href: "/services/taxi-conventionne-cpam-cannes",
+      },
       { label: "Trajets Palaces", href: "/services/trajets-palaces" },
       { label: "Cannes → Monaco", href: "/services/cannes-monaco" },
     ],
@@ -37,7 +41,7 @@ const navItems = [
 
 export default function Header() {
   return (
-    <header className="fixed top-0 w-full z-50">
+    <header className="fixed top-0 w-full z-[120]">
       <HeaderClient navItems={navItems}>
         {/* Logo */}
         <Link href="/" className="flex items-center gap-2">

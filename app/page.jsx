@@ -1,18 +1,5 @@
 // app/page.jsx — PAGE D’ACCUEIL TAXI CANNES (SERVER)
 
-// ✅ ISR: Revalidate toutes les 24 heures pour le SEO
-export const revalidate = 86400;
-
-// ✅ Métadonnées SEO pour cette page
-export const metadata = {
-  title: "Taxi Cannes – Transferts Aéroport Nice & Service Taxi Local",
-  description:
-    "Taxi Cannes disponible 24h/24 pour tous vos trajets : transferts aéroport Nice–Cannes, gares, hôtels, Palais des Festivals, sorties privées et business.",
-  alternates: {
-    canonical: "https://www.cannestaxi.fr/",
-  },
-};
-
 import {
   Building2,
   Car,
@@ -20,6 +7,8 @@ import {
   Clock,
   Compass,
   CreditCard,
+  HeartPulse,
+  Phone,
   Plane,
   Star,
   Train,
@@ -31,6 +20,40 @@ import Script from "next/script";
 import VehicleCarousel from "./components/client/VehicleCarousel";
 import Button from "./components/ui/Button";
 import Card from "./components/ui/Card";
+import { SITE_PHONE_DISPLAY, SITE_PHONE_TEL } from "./lib/contact";
+
+// ✅ ISR: Revalidate toutes les 24 heures pour le SEO
+export const revalidate = 86400;
+
+// ✅ Métadonnées SEO (local + services, sans sur-optimisation)
+export const metadata = {
+  title:
+    "Taxi Cannes 24h/24 | Aéroport Nice, gare, Croisette — 06 25 61 73 11",
+  description:
+    "Taxi Cannes 24h/24 : aéroport Nice, gare SNCF, Croisette, centre-ville. Transferts, transport médical assis et taxi conventionné CPAM selon éligibilité. Appelez le 06 25 61 73 11.",
+  keywords: [
+    "taxi cannes",
+    "taxi cannes aeroport nice",
+    "taxi croisette cannes",
+    "taxi cannes gare",
+    "taxi conventionné cannes",
+    "taxi cpam cannes",
+    "transport medical assis cannes",
+    "transport medical cannes",
+  ],
+  alternates: {
+    canonical: "https://www.cannestaxi.fr/",
+  },
+  openGraph: {
+    title: "Taxi Cannes 24h/24 | Aéroport, gare, Croisette",
+    description:
+      "Taxi Cannes : aéroport Nice, gare, Croisette. Transport médical assis et taxi conventionné CPAM selon éligibilité. 06 25 61 73 11.",
+    url: "https://www.cannestaxi.fr/",
+    siteName: "Taxi Cannes",
+    locale: "fr_FR",
+    type: "website",
+  },
+};
 
 const vehicles = [
   { name: "TESLA Model S", image: "/tesla-model-S-2.png" },
@@ -41,44 +64,166 @@ const vehicles = [
 export default function Home() {
   return (
     <main className="min-h-screen bg-white">
-      {/* Hero Section */}
-      <section className="relative h-screen flex items-center justify-center overflow-hidden pt-20">
+      {/* Hero — overlay dégradé pour lisibilité, CTA alignés, palette premium */}
+      <section className="relative min-h-dvh flex items-center justify-center overflow-hidden pt-20 pb-10">
         <Image
           src="/taxi-cannes.png"
           alt="Taxi Cannes sur la Croisette, véhicule premium face à la mer"
           fill
-          className="object-cover"
+          className="object-cover object-center"
           priority
         />
-        <div className="absolute inset-0 bg-black/40" />
-        <div className="relative z-10 text-center text-white max-w-3xl px-6">
-          <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight text-balance">
-            Taxi Cannes
-          </h1>
-          <h2 className="text-xl md:text-2xl mb-8 text-white/90 text-balance">
-            Réservation de Taxi à Cannes 24h/24 – transferts aéroport Nice,
-            gares, hôtels et Palais des Festivals.
-          </h2>
-          <p className="text-base md:text-lg mb-8 text-white/80">
-            Réservez un taxi à Cannes pour vos trajets privés ou professionnels
-            sur toute la Côte d&apos;Azur.
+        <div
+          className="absolute inset-0 bg-linear-to-b from-black/50 via-black/45 to-zinc-950/80"
+          aria-hidden
+        />
+        <div className="absolute inset-0 bg-[radial-gradient(ellipse_80%_50%_at_50%_-20%,rgba(255,255,255,0.12),transparent)] pointer-events-none" />
+        <div className="relative z-10 w-full max-w-3xl mx-auto px-5 sm:px-8 text-center text-white">
+          <p className="text-xs sm:text-sm uppercase tracking-[0.2em] text-white/60 mb-3 font-medium">
+            Service premium &middot; Côte d&apos;Azur
           </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Button
-              href="/reservation"
-              size="lg"
-              className="bg-accent text-accent-foreground hover:opacity-90 px-8 py-6 text-lg"
+          <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold mb-4 leading-[1.1] text-balance drop-shadow-sm">
+            Taxi Cannes 24h/24
+          </h1>
+          <p className="text-lg sm:text-xl md:text-2xl mb-3 text-white/95 text-balance font-medium max-w-2xl mx-auto leading-snug">
+            Aéroport Nice, gare SNCF, Croisette, centre-ville & Palais des
+            Festivals.
+          </p>
+          <p className="text-sm sm:text-base mb-8 text-white/70 max-w-xl mx-auto text-balance leading-relaxed">
+            <Link
+              href="/services/taxi-conventionne-cpam-cannes"
+              className="text-white/95 font-medium underline decoration-white/30 underline-offset-2 hover:text-white hover:decoration-white/60"
             >
-              Réserver un taxi à Cannes
-            </Button>
-            <Button
-              href="/tarifs"
-              size="lg"
-              variant="outline"
-              className="border-white text-white hover:bg-white/10 px-8 py-6 text-lg bg-transparent"
+              Taxi conventionné CPAM
+            </Link>{" "}
+            et{" "}
+            <span className="text-white/90">transport médical assis</span> (selon
+            éligibilité) — indiquez votre situation au décroché.
+          </p>
+
+          <div className="mx-auto w-full max-w-md sm:max-w-2xl space-y-3">
+            <a
+              href={SITE_PHONE_TEL}
+              className="group flex w-full items-stretch justify-center overflow-hidden rounded-2xl bg-white text-zinc-900 shadow-[0_8px_40px_-12px_rgba(0,0,0,0.5)] ring-1 ring-white/30 transition hover:bg-zinc-50 hover:ring-white/50 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white"
             >
-              Consulter les tarifs taxi Cannes
-            </Button>
+              <span className="flex flex-1 flex-col items-center justify-center gap-0.5 px-5 py-4 sm:flex-row sm:gap-3 sm:py-5">
+                <span className="inline-flex items-center gap-2 text-sm font-semibold text-zinc-600 sm:text-base">
+                  <span className="flex h-9 w-9 items-center justify-center rounded-full bg-zinc-900 text-white transition group-hover:scale-105">
+                    <Phone className="h-4 w-4" aria-hidden />
+                  </span>
+                  Appeler
+                </span>
+                <span className="font-mono text-lg font-semibold tracking-wide text-zinc-900 sm:text-xl whitespace-nowrap tabular-nums">
+                  {SITE_PHONE_DISPLAY}
+                </span>
+              </span>
+            </a>
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 sm:gap-3">
+              <Button
+                href="/reservation"
+                size="lg"
+                className="h-12 sm:h-14 w-full rounded-2xl bg-accent text-accent-foreground text-base font-semibold shadow-lg shadow-black/20 hover:opacity-95"
+              >
+                Réserver en ligne
+              </Button>
+              <Button
+                href="/tarifs"
+                size="lg"
+                variant="outline"
+                className="h-12 sm:h-14 w-full rounded-2xl border-2 border-white/40 bg-white/5 text-white backdrop-blur-sm hover:bg-white/15 hover:border-white/60 text-base font-semibold"
+              >
+                Voir les tarifs
+              </Button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Bloc info / SEO — style éditorial, pas de “mur”, liens discrets */}
+      <section
+        className="relative py-8 sm:py-10 border-b border-zinc-200/80 bg-linear-to-b from-zinc-100 to-zinc-50/80"
+        aria-label="Taxi Cannes, services et zone"
+      >
+        <div className="max-w-3xl mx-auto px-5 sm:px-8">
+          <div className="relative rounded-2xl border border-zinc-200/90 bg-white/80 p-6 sm:p-8 shadow-[0_2px_24px_-8px_rgba(0,0,0,0.08)] backdrop-blur-sm">
+            <div
+              className="absolute left-0 top-6 bottom-6 w-1 rounded-full bg-accent sm:top-8 sm:bottom-8"
+              aria-hidden
+            />
+            <p className="pl-4 sm:pl-5 text-[15px] sm:text-base text-zinc-600 leading-[1.7] text-left">
+              <span className="font-semibold text-zinc-900">Taxi à Cannes</span> — nous
+              couvrons l&apos;{" "}
+              <Link
+                href="/services/transfert-aeroport-nice-cannes"
+                className="text-zinc-800 underline decoration-zinc-300 underline-offset-4 transition hover:text-accent hover:decoration-accent/50"
+              >
+                aéroport de Nice
+              </Link>
+              , la{" "}
+              <Link
+                href="/blog/taxi-gare-cannes-service-transport-sncf-2025"
+                className="text-zinc-800 underline decoration-zinc-300 underline-offset-4 transition hover:text-accent hover:decoration-accent/50"
+              >
+                gare SNCF
+              </Link>{" "}
+              et la{" "}
+              <Link
+                href="/secteurs/la-croisette"
+                className="text-zinc-800 underline decoration-zinc-300 underline-offset-4 transition hover:text-accent hover:decoration-accent/50"
+              >
+                Croisette
+              </Link>
+              .{" "}
+              <span className="text-zinc-700">
+                <Link
+                  href="/services/taxi-conventionne-cpam-cannes"
+                  className="font-semibold text-zinc-900 underline decoration-zinc-300 underline-offset-2 hover:text-accent hover:decoration-accent/50"
+                >
+                  Taxi conventionné
+                </Link>{" "}
+                ou transport médical assis (CPAM) : les conditions se confirment à
+                l&apos;appel selon votre dossier.
+              </span>
+            </p>
+          </div>
+        </div>
+      </section>
+
+      {/* Transport médical — carte premium, même tonalité qu’en haut */}
+      <section className="py-6 sm:py-8 px-4 sm:px-6 border-b border-zinc-200/80 bg-zinc-50">
+        <div className="max-w-3xl mx-auto">
+          <div className="flex flex-col sm:flex-row sm:items-center gap-5 rounded-2xl border border-zinc-200/90 bg-zinc-900 p-5 sm:p-6 text-left shadow-lg shadow-zinc-900/10">
+            <div className="flex shrink-0 items-center justify-center sm:justify-start">
+              <div className="flex h-12 w-12 items-center justify-center rounded-xl bg-white/10 ring-1 ring-white/20">
+                <HeartPulse
+                  className="h-6 w-6 text-amber-100/90"
+                  aria-hidden
+                />
+              </div>
+            </div>
+            <div className="min-w-0 flex-1 space-y-1">
+              <p className="text-sm font-semibold tracking-wide text-white/90">
+                Transport médical &amp; taxi conventionné CPAM
+              </p>
+              <p className="text-sm text-zinc-400 leading-relaxed">
+                Hôpitaux, cliniques, rendez-vous :{" "}
+                <span className="text-zinc-300">selon éligibilité</span>. Un conseiller
+                vous guide au téléphone.{" "}
+                <Link
+                  href="/services/taxi-conventionne-cpam-cannes"
+                  className="font-medium text-sky-300/95 underline decoration-sky-500/50 underline-offset-2 hover:text-white"
+                >
+                  Fiche taxi conventionné CPAM
+                </Link>
+              </p>
+            </div>
+            <a
+              href={SITE_PHONE_TEL}
+              className="inline-flex h-12 shrink-0 items-center justify-center gap-2 self-stretch sm:self-center rounded-xl bg-white px-6 text-sm font-semibold text-zinc-900 transition hover:bg-zinc-100 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white sm:min-w-36"
+            >
+              <Phone className="h-4 w-4" aria-hidden />
+              Appeler
+            </a>
           </div>
         </div>
       </section>
@@ -95,7 +240,7 @@ export default function Home() {
               stations balnéaires de la Côte d&apos;Azur.
             </p>
           </header>
-          <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 max-w-5xl mx-auto">
             {[
               {
                 icon: Plane,
@@ -120,6 +265,12 @@ export default function Home() {
                 label: "Longue Distance",
                 desc: "Monaco, Saint-Tropez, Antibes",
                 href: "/services/cannes-monaco",
+              },
+              {
+                icon: HeartPulse,
+                label: "Taxi conventionné CPAM",
+                desc: "Médical assis, hôpitaux (selon éligibilité)",
+                href: "/services/taxi-conventionne-cpam-cannes",
               },
             ].map((service, i) => {
               const Icon = service.icon;
@@ -159,7 +310,16 @@ export default function Home() {
             les trajets en taxi à Cannes centre, La Bocca, la Croisette, le
             Suquet et les transferts vers l&apos;aéroport Nice Côte d&apos;Azur.
             Service de taxi disponible 24h/24 et 7j/7 sur Cannes et les
-            Alpes-Maritimes.
+            Alpes-Maritimes. Pour un{" "}
+            <Link
+              href="/services/taxi-conventionne-cpam-cannes"
+              className="font-bold text-gray-900 underline decoration-gray-300 underline-offset-2 hover:text-accent hover:decoration-accent/50"
+            >
+              taxi conventionné à Cannes
+            </Link>{" "}
+            ou un{" "}
+            <strong>transport médical assis conventionné CPAM</strong>, l&apos;éligibilité se confirme
+            lors de l&apos;appel.
           </p>
         </div>
       </section>

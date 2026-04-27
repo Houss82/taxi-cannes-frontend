@@ -30,6 +30,11 @@ export default function sitemap() {
       priority: 0.85,
       changeFrequency: "monthly",
     },
+    {
+      path: "/services/taxi-conventionne-cpam-cannes",
+      priority: 0.86,
+      changeFrequency: "monthly",
+    },
     { path: "/secteurs", priority: 0.9, changeFrequency: "monthly" },
     {
       path: "/secteurs/boulevard-carnot",

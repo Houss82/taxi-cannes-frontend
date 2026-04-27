@@ -1,6 +1,8 @@
 import { Inter } from "next/font/google";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
+import MobileScrollCTA from "./components/client/MobileScrollCTA";
+import { Providers } from "./providers";
 import "./globals.css";
 
 const inter = Inter({
@@ -66,9 +68,12 @@ export default function RootLayout({ children }) {
         className={`${inter.variable} font-sans antialiased`}
         suppressHydrationWarning
       >
-        <Header />
-        <main>{children}</main>
-        <Footer />
+        <Providers>
+          <Header />
+          <main className="min-h-screen pb-28 md:pb-0">{children}</main>
+          <Footer />
+          <MobileScrollCTA />
+        </Providers>
       </body>
     </html>
   );

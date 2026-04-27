@@ -30,7 +30,7 @@ export default function Footer() {
             <ul className="space-y-2 text-sm text-primary-foreground/80">
               <li>
                 <Link
-                  href="/services"
+                  href="/services/transfert-aeroport-nice-cannes"
                   className="hover:text-accent transition-colors"
                 >
                   Transfert Aéroport
@@ -38,10 +38,18 @@ export default function Footer() {
               </li>
               <li>
                 <Link
+                  href="/services/taxi-conventionne-cpam-cannes"
+                  className="hover:text-accent transition-colors"
+                >
+                  Taxi conventionné CPAM
+                </Link>
+              </li>
+              <li>
+                <Link
                   href="/services"
                   className="hover:text-accent transition-colors"
                 >
-                  Chauffeur Privé
+                  Tous les services
                 </Link>
               </li>
               <li>
