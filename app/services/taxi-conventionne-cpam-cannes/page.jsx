@@ -27,7 +27,7 @@ export const metadata = {
   title:
     "Taxi conventionné CPAM à Cannes | Transport médical assis — Taxi Cannes",
   description:
-    "Taxi conventionné à Cannes (CPAM) : déplacements vers hôpital, clinique ou centre de soins, transport médical assis selon éligibilité. 06 25 61 73 11.",
+    "Taxi conventionné à Cannes (CPAM) : déplacements vers hôpital, clinique ou centre de soins, transport médical assis selon éligibilité. 07 56 82 77 99.",
   keywords: [
     "taxi conventionné cannes",
     "taxi conventionné cpam cannes",
@@ -43,7 +43,7 @@ export const metadata = {
   openGraph: {
     title: "Taxi conventionné CPAM à Cannes | Taxi Cannes",
     description:
-      "Taxi conventionné à Cannes, taxi CPAM : infos sur le transport médical et l’éligibilité. Appelez le 06 25 61 73 11.",
+      "Taxi conventionné à Cannes, taxi CPAM : infos sur le transport médical et l’éligibilité. Appelez le 07 56 82 77 99.",
     url: canonical,
     siteName: "Taxi Cannes",
     locale: "fr_FR",

@@ -571,7 +571,7 @@ Se garer à Cannes peut être un véritable défi, surtout pendant les périodes
   </div>
   
   <p style="margin-top: 1rem; font-size: 0.9rem; color: #666;">
-    📞 <strong>+33 6 25 61 73 11</strong> | ✉️ <strong>taxicannes2025@gmail.com</strong><br/>
+    📞 <strong>+33 7 56 82 77 99</strong> | ✉️ <strong>taxicannes2025@gmail.com</strong><br/>
     Service disponible 24h/24 et 7j/7 • Réponse garantie sous 2 heures
   </p>
 </div>

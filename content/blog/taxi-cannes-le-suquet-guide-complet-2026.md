@@ -206,6 +206,6 @@ Nous assurons des trajets **professionnels**, une **connaissance locale** des ac
 **Taxi Cannes Le Suquet**, c'est la combinaison d'un **service de transport fiable** (aéroport, gare, Croisette, Palais) et d'une **connaissance du quartier historique** : déposes réalistes, gain de temps face au stationnement, retours de soirée sécurisés.
 
 **Besoin d'un taxi pour le Suquet ?**  
-📞 **+33 6 25 61 73 11** | [Réserver en ligne](/reservation)
+📞 **+33 7 56 82 77 99** | [Réserver en ligne](/reservation)
 
 [🚖 Découvrir notre service taxi Le Suquet Cannes](/secteurs/le-suquet) | [📋 Réserver un taxi](/reservation)

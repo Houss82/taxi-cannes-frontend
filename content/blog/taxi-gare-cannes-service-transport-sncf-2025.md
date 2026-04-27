@@ -1,7 +1,7 @@
 ---
 title: "Taxi gare SNCF Cannes : prise en charge, horaires d’affluence & tarifs 2026"
 date: "2026-03-28"
-excerpt: "Guide pratique taxi gare de Cannes : où attendre le chauffeur, file d’attente vs réservation, affluence matin/soir et week-ends, tarifs vers centre-ville, Croisette et aéroport Nice. Téléphone +33 6 25 61 73 11."
+excerpt: "Guide pratique taxi gare de Cannes : où attendre le chauffeur, file d’attente vs réservation, affluence matin/soir et week-ends, tarifs vers centre-ville, Croisette et aéroport Nice. Téléphone +33 7 56 82 77 99."
 image: "/taxi-gare-de-cannes.jpeg"
 category: "Transport"
 author: "Taxi Cannes"
@@ -11,7 +11,7 @@ keywords: ["taxi gare de Cannes", "taxi gare SNCF Cannes", "stationnement taxi C
 
 # Taxi gare SNCF Cannes : prise en charge, horaires d’affluence & tarifs
 
-**Taxi gare de Cannes** : prise en charge à la sortie de la gare (avenue de la Gare, 06400 Cannes), réservation possible 24h/24, aide aux bagages, **tarif annoncé avant le départ**. Appelez le **+33 6 25 61 73 11** ou [réservez en ligne](/reservation).
+**Taxi gare de Cannes** : prise en charge à la sortie de la gare (avenue de la Gare, 06400 Cannes), réservation possible 24h/24, aide aux bagages, **tarif annoncé avant le départ**. Appelez le **+33 7 56 82 77 99** ou [réservez en ligne](/reservation).
 
 Cet article ne reprend pas un discours générique « transport rapide, chauffeur professionnel » : il décrit **ce que les voyageurs voient vraiment** à la gare de Cannes : où se placer, quand la gare est chargée, et comment éviter d’attendre sur le quai avec des valises pendant que les taxis partent en série.
 
@@ -69,7 +69,7 @@ Si vous avez un **train de nuit** ou une arrivée **très tôt**, le taxi reste 
 
 ### Réservation par téléphone
 
-**+33 6 25 61 73 11** — confirmation de disponibilité et **prix annoncé avant la course**.
+**+33 7 56 82 77 99** — confirmation de disponibilité et **prix annoncé avant la course**.
 
 ### Infos utiles à communiquer
 
@@ -191,7 +191,7 @@ Le réseau **Palm Bus** dessert l’agglomération ; depuis la gare, des lignes 
 
 <details class="faq">
   <summary>Puis-je réserver avant l’arrivée du train ?</summary>
-  <p>Oui — <a href="/reservation">en ligne</a> ou au <strong>+33 6 25 61 73 11</strong>. Avec le <strong>numéro de train</strong>, on peut ajuster l’heure de prise en charge si le SNCF annonce un retard (selon faisabilité).</p>
+  <p>Oui — <a href="/reservation">en ligne</a> ou au <strong>+33 7 56 82 77 99</strong>. Avec le <strong>numéro de train</strong>, on peut ajuster l’heure de prise en charge si le SNCF annonce un retard (selon faisabilité).</p>
 </details>
 
 <details class="faq">
@@ -233,4 +233,4 @@ Le réseau **Palm Bus** dessert l’agglomération ; depuis la gare, des lignes 
 
 ---
 
-*Article actualisé en mars 2026. Tarifs indicatifs : demandez un devis pour une fourchette ferme, surtout vers l’aéroport Nice. Téléphone : +33 6 25 61 73 11.*
+*Article actualisé en mars 2026. Tarifs indicatifs : demandez un devis pour une fourchette ferme, surtout vers l’aéroport Nice. Téléphone : +33 7 56 82 77 99.*

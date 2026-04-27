@@ -19,7 +19,7 @@ Il complète notre **[guide des plages accessibles à Cannes](/blog/plages-acces
   <span class="badge info">✈️ Aéroport Nice & gare Cannes</span>
   <span class="badge success">🏛️ Palais & congrès</span>
   <span class="badge info">🏨 Dépose hôtels Croisette</span>
-  <span class="badge accent">📞 +33 6 25 61 73 11</span>
+  <span class="badge accent">📞 +33 7 56 82 77 99</span>
 </div>
 
 ---
@@ -34,7 +34,7 @@ Un **service de taxi** structuré pour le **PMR** ou le **transport accessible**
 - prévoir **le temps d’assistance** sans pression ;
 - choisir des **points de dépose** réalistes (voir ci-dessous pour le Suquet et le Palais).
 
-**Important** : les besoins varient énormément (fauteuil pliable vs non pliable, personne seule vs accompagnateur). **Aucun article web** ne remplace un **échange direct** : appelez le **+33 6 25 61 73 11** ou passez par le **[formulaire de réservation](/reservation)** en décrivant précisément la situation.
+**Important** : les besoins varient énormément (fauteuil pliable vs non pliable, personne seule vs accompagnateur). **Aucun article web** ne remplace un **échange direct** : appelez le **+33 7 56 82 77 99** ou passez par le **[formulaire de réservation](/reservation)** en décrivant précisément la situation.
 
 ---
 
@@ -175,7 +175,7 @@ Pour la **baignade** ou une **journée** à la plage, le volet « taxi » est le
 
 <details class="faq">
   <summary>Existe-t-il un taxi « officiel » PMR à Cannes ?</summary>
-  <p>Il n’existe pas une seule étiquette nationale « taxi PMR » : ce qui compte est la <strong>capacité du véhicule</strong>, l’<strong>expérience</strong> du chauffeur et une <strong>réservation</strong> explicite. Contactez-nous au <strong>+33 6 25 61 73 11</strong> pour Cannes et la métropole.</p>
+  <p>Il n’existe pas une seule étiquette nationale « taxi PMR » : ce qui compte est la <strong>capacité du véhicule</strong>, l’<strong>expérience</strong> du chauffeur et une <strong>réservation</strong> explicite. Contactez-nous au <strong>+33 7 56 82 77 99</strong> pour Cannes et la métropole.</p>
 </details>
 
 <details class="faq">
@@ -212,4 +212,4 @@ Pour la **baignade** ou une **journée** à la plage, le volet « taxi » est le
 
 ---
 
-_Article mis à jour en mars 2026. Transport PMR : disponibilités et véhicules selon calendrier ; Cannes, Alpes-Maritimes. Téléphone : +33 6 25 61 73 11._
+_Article mis à jour en mars 2026. Transport PMR : disponibilités et véhicules selon calendrier ; Cannes, Alpes-Maritimes. Téléphone : +33 7 56 82 77 99._

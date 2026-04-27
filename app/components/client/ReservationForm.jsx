@@ -175,7 +175,7 @@ export default function ReservationForm() {
                   </label>
                   <Input
                     type="tel"
-                    placeholder="+33 6 XX XX XX XX"
+                    placeholder="+33 7 XX XX XX XX"
                     required
                     value={formData.phone}
                     onChange={(e) =>

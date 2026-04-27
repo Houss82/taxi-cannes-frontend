@@ -1,7 +1,7 @@
 ---
 title: "Taxi Cannes Saint-Tropez 2026 : durée, itinéraire, tarif & réservation"
 date: "2026-04-15"
-excerpt: "Transfert taxi Cannes → Saint-Tropez : durée réelle selon saison, itinéraire A8 et accès au golfe, forfait indicatif aligné sur nos tarifs, dépose port ou hôtel. Réservez 24h/24 ou appelez le +33 6 25 61 73 11."
+excerpt: "Transfert taxi Cannes → Saint-Tropez : durée réelle selon saison, itinéraire A8 et accès au golfe, forfait indicatif aligné sur nos tarifs, dépose port ou hôtel. Réservez 24h/24 ou appelez le +33 7 56 82 77 99."
 image: "/taxi-cannes-st-tropez.jpeg"
 category: "Transferts & Déplacements"
 author: "Taxi Cannes"
@@ -10,7 +10,7 @@ language: "fr"
 
 # Taxi Cannes → Saint-Tropez 2026 : durée, itinéraire, tarif & réservation
 
-**Transfert taxi Cannes Saint-Tropez** : liaison longue sur le Var et le golfe de Saint-Tropez — **environ 1 h 20 à 1 h 50** selon trafic et saison, **forfait type affiché sur notre grille tarifaire** (**260 €** pour la liaison Cannes → Saint-Tropez sur la page [Tarifs](/tarifs), sous réserve de confirmation au moment de la réservation). Appelez le **+33 6 25 61 73 11** ou [réservez en ligne](/reservation) en indiquant l’heure souhaitée et l’adresse précise de **prise en charge** (Croisette, gare, hôtel, villa) et de **dépose** (port, centre-ville, Ramatuelle, hôtels du littoral).
+**Transfert taxi Cannes Saint-Tropez** : liaison longue sur le Var et le golfe de Saint-Tropez — **environ 1 h 20 à 1 h 50** selon trafic et saison, **forfait type affiché sur notre grille tarifaire** (**260 €** pour la liaison Cannes → Saint-Tropez sur la page [Tarifs](/tarifs), sous réserve de confirmation au moment de la réservation). Appelez le **+33 7 56 82 77 99** ou [réservez en ligne](/reservation) en indiquant l’heure souhaitée et l’adresse précise de **prise en charge** (Croisette, gare, hôtel, villa) et de **dépose** (port, centre-ville, Ramatuelle, hôtels du littoral).
 
 Ce guide est **local et pratique** : il complète notre **[taxi Cannes → Monaco](/blog/taxi-cannes-monaco-guide-complet)** et les **[excursions villages autour de Cannes](/blog/villages-autour-cannes-excursions-transport-2025)** en ciblant **une seule liaison** très demandée l’été et les week-ends.
 
@@ -192,4 +192,4 @@ Indiquez **toujours** le **nom de l’établissement** ou un **lien maps** pour 
 
 ---
 
-_Article mis à jour en avril 2026. Tarifs et temps de parcours indicatifs ; confirmation à la réservation. Taxi Cannes — +33 6 25 61 73 11._
+_Article mis à jour en avril 2026. Tarifs et temps de parcours indicatifs ; confirmation à la réservation. Taxi Cannes — +33 7 56 82 77 99._

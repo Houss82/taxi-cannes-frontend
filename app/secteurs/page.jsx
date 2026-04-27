@@ -161,7 +161,7 @@ export default function Secteurs() {
             </Button>
           </div>
           <p className="mt-6 text-sm text-accent-foreground/80">
-            📞 <strong>+33 6 25 61 73 11</strong> | ✉️{" "}
+            📞 <strong>+33 7 56 82 77 99</strong> | ✉️{" "}
             <strong>taxicannes2025@gmail.com</strong>
             <br />
             Service disponible 24h/24 et 7j/7 • Réponse garantie sous 2 heures

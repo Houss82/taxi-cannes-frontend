@@ -504,7 +504,7 @@ Pour aller plus loin dans votre découverte photographique de Cannes et de la C�
 
 **Besoin d'un transport pour vos sessions photo à Cannes ?** Réservez votre taxi en quelques clics et profitez de nos chauffeurs locaux pour accéder aux meilleurs points de vue avec votre matériel photo. Nos véhicules Mercedes haut de gamme offrent un coffre spacieux pour transporter trépieds, objectifs multiples et filtres en toute sécurité.
 
-📞 **+33 6 25 61 73 11** | ✉️ **taxicannes2025@gmail.com**
+📞 **+33 7 56 82 77 99** | ✉️ **taxicannes2025@gmail.com**
 
 ---
 

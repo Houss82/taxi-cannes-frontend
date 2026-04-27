@@ -355,7 +355,7 @@ Pour découvrir d'autres plages accessibles sur la Côte d'Azur et en France, co
 
 **Taxi PMR Cannes** :
 
-- **Téléphone** : +33 6 25 61 73 11
+- **Téléphone** : +33 7 56 82 77 99
 - **Email** : taxicannes2025@gmail.com
 - **Réservation** : [www.cannestaxi.fr/reservation](/reservation)
 

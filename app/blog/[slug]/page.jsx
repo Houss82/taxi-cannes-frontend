@@ -215,7 +215,7 @@ export default async function BlogPostPage({ params }) {
                   "@type": "TaxiService",
                   name: "Taxi Cannes - Service Gare SNCF",
                   url: `https://www.cannestaxi.fr/blog/${post.slug}`,
-                  telephone: "+33 6 25 61 73 11",
+                  telephone: "+33 7 56 82 77 99",
                   areaServed: {
                     "@type": "City",
                     name: "Cannes",
@@ -233,8 +233,8 @@ export default async function BlogPostPage({ params }) {
                   availableChannel: {
                     "@type": "ServiceChannel",
                     serviceUrl: "https://www.cannestaxi.fr/reservation",
-                    servicePhone: "+33 6 25 61 73 11",
-                    serviceSmsNumber: "+33 6 25 61 73 11",
+                    servicePhone: "+33 7 56 82 77 99",
+                    serviceSmsNumber: "+33 7 56 82 77 99",
                   },
                   hoursAvailable: {
                     "@type": "OpeningHoursSpecification",
@@ -265,7 +265,7 @@ export default async function BlogPostPage({ params }) {
                   "@type": "TaxiService",
                   name: "Taxi Cannes - Transport PMR & accessible",
                   url: `https://www.cannestaxi.fr/blog/${post.slug}`,
-                  telephone: "+33 6 25 61 73 11",
+                  telephone: "+33 7 56 82 77 99",
                   areaServed: {
                     "@type": "City",
                     name: "Cannes",
@@ -284,7 +284,7 @@ export default async function BlogPostPage({ params }) {
                   availableChannel: {
                     "@type": "ServiceChannel",
                     serviceUrl: "https://www.cannestaxi.fr/reservation",
-                    servicePhone: "+33 6 25 61 73 11",
+                    servicePhone: "+33 7 56 82 77 99",
                   },
                   hoursAvailable: {
                     "@type": "OpeningHoursSpecification",
@@ -315,7 +315,7 @@ export default async function BlogPostPage({ params }) {
                   "@type": "TaxiService",
                   name: "Taxi Cannes - Transfert Saint-Tropez",
                   url: `https://www.cannestaxi.fr/blog/${post.slug}`,
-                  telephone: "+33 6 25 61 73 11",
+                  telephone: "+33 7 56 82 77 99",
                   areaServed: [
                     {
                       "@type": "City",
@@ -339,7 +339,7 @@ export default async function BlogPostPage({ params }) {
                   availableChannel: {
                     "@type": "ServiceChannel",
                     serviceUrl: "https://www.cannestaxi.fr/reservation",
-                    servicePhone: "+33 6 25 61 73 11",
+                    servicePhone: "+33 7 56 82 77 99",
                   },
                   hoursAvailable: {
                     "@type": "OpeningHoursSpecification",

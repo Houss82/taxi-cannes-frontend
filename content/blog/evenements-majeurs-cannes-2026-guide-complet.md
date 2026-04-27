@@ -323,7 +323,7 @@ Cannes accueille plusieurs événements sportifs majeurs tout au long de l'anné
 
 ### Comment réserver un taxi pour un événement à Cannes ?
 
-Vous pouvez réserver un taxi pour un événement à Cannes en appelant le **+33 6 25 61 73 11** ou en utilisant notre [formulaire de réservation en ligne](/reservation). Nous recommandons de réserver **plusieurs jours à l'avance** pendant les événements majeurs pour garantir la disponibilité.
+Vous pouvez réserver un taxi pour un événement à Cannes en appelant le **+33 7 56 82 77 99** ou en utilisant notre [formulaire de réservation en ligne](/reservation). Nous recommandons de réserver **plusieurs jours à l'avance** pendant les événements majeurs pour garantir la disponibilité.
 
 ### Les tarifs de taxi sont-ils plus élevés pendant les événements ?
 
@@ -363,7 +363,7 @@ En utilisant un **service de taxi avec réservation**, vous pouvez éviter le st
 
 Préparez votre venue aux événements majeurs de Cannes en réservant votre transport à l'avance. Pour les événements sur la Croisette et au Palais des Festivals, notre [service de taxi La Croisette](/secteurs/la-croisette) est spécialement adapté aux contraintes de ces quartiers prestigieux.
 
-- 📞 **Appelez-nous** : +33 6 25 61 73 11
+- 📞 **Appelez-nous** : +33 7 56 82 77 99
 - 📧 **Réservez en ligne** : [Formulaire de réservation](/reservation)
 - 🏨 **Service Palaces** : [Taxi Palaces Cannes](/services/trajets-palaces)
 

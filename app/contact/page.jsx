@@ -21,16 +21,16 @@ export default function Contact() {
     {
       icon: Phone,
       title: "Téléphone",
-      info: "+33 6 25 61 73 11",
+      info: "+33 7 56 82 77 99",
       action: "Appeler",
-      href: "tel:+33625617311",
+      href: "tel:+33756827799",
     },
     {
       icon: MessageCircle,
       title: "WhatsApp",
-      info: "+33 6 25 61 73 11",
+      info: "+33 7 56 82 77 99",
       action: "Envoyer",
-      href: "https://wa.me/33625617311",
+      href: "https://wa.me/33756827799",
     },
     {
       icon: Mail,

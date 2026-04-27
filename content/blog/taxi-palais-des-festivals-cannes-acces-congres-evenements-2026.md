@@ -175,7 +175,7 @@ Le trajet coûte environ **12 à 18€** pour une durée de 10 minutes. Tarif va
 
 ### Peut-on réserver un taxi pour un congrès au Palais des Festivals ?
 
-Oui. Nous proposons des **réservations à l'avance** pour tous vos déplacements vers le Palais des Festivals. Appelez le **+33 6 25 61 73 11** ou réservez en ligne via notre [formulaire de réservation](/reservation).
+Oui. Nous proposons des **réservations à l'avance** pour tous vos déplacements vers le Palais des Festivals. Appelez le **+33 7 56 82 77 99** ou réservez en ligne via notre [formulaire de réservation](/reservation).
 
 ### Le taxi est-il disponible la nuit pour les événements au Palais ?
 
@@ -198,6 +198,6 @@ Le Palais des Festivals étant le lieu le plus fréquenté de Cannes pendant les
 Notre [service de taxi La Croisette](/secteurs/la-croisette) et notre [service de taxi Palaces Cannes](/services/trajets-palaces) assurent des trajets réguliers vers le Palais des Festivals depuis l'aéroport Nice, la gare SNCF, ou depuis votre hôtel. Disponible 24h/24, nous vous déposons directement devant l'entrée du Palais, vous évitant les problèmes de stationnement et les retards.
 
 **Besoin d'un taxi vers le Palais des Festivals ?**  
-📞 **+33 6 25 61 73 11** | [Réserver en ligne](/reservation)
+📞 **+33 7 56 82 77 99** | [Réserver en ligne](/reservation)
 
 [🚖 Service taxi La Croisette](/secteurs/la-croisette) | [📋 Réserver un taxi](/reservation) | [📅 Événements Cannes 2026](/blog/evenements-majeurs-cannes-2026-guide-complet)

@@ -15,7 +15,7 @@ const inter = Inter({
 export const metadata = {
   metadataBase: new URL("https://www.cannestaxi.fr"),
   title: {
-    default: "Taxi Cannes – Transferts Aéroport Nice & Chauffeur Privé",
+    default: "Taxi Cannes – Transferts Aéroport Nice & Taxi conventionné CPAM",
     template: "%s | Taxi Cannes",
   },
   description:
@@ -25,7 +25,7 @@ export const metadata = {
     "taxi Cannes",
     "taxi à Cannes",
     "transfert aéroport Nice Cannes",
-    "chauffeur privé Cannes",
+    "taxi conventionné CPAM Cannes",
     "taxi Croisette",
     "Palais des Festivals taxi",
   ],
@@ -33,9 +33,9 @@ export const metadata = {
     canonical: "/", // la home a en plus son canonical absolu dans page.jsx
   },
   openGraph: {
-    title: "Taxi Cannes – Transferts Aéroport Nice & Chauffeur Privé",
+    title: "Taxi Cannes – Transferts Aéroport Nice & Taxi conventionné CPAM",
     description:
-      "Service de taxi à Cannes haut de gamme : transferts aéroport Nice, gares, hôtels et congrès. Réservation 24h/24.",
+      "Service de taxi à Cannes haut de gamme : transferts aéroport Nice, Conventionné CPAM, hôtels et congrès. Réservation 24h/24.",
     url: "/",
     siteName: "Taxi Cannes",
     locale: "fr_FR",

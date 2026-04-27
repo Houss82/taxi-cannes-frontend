@@ -339,6 +339,6 @@ La Croisette de Cannes est bien plus qu'un simple boulevard : c'est un **symbole
 Pour profiter pleinement de votre visite sans vous soucier du stationnement ou des transports, notre **service de taxi La Croisette** vous accompagne 24h/24 vers tous les points d'intérêt de ce quartier prestigieux.
 
 **Besoin d'un transport vers la Croisette ?**  
-📞 **+33 6 25 61 73 11** | [Réserver en ligne](/reservation)
+📞 **+33 7 56 82 77 99** | [Réserver en ligne](/reservation)
 
 [🚖 Découvrir notre service de taxi La Croisette](/secteurs/la-croisette) | [📋 Réserver un taxi](/reservation)

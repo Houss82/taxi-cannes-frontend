@@ -28,9 +28,9 @@ export const revalidate = 86400;
 // ✅ Métadonnées SEO (local + services, sans sur-optimisation)
 export const metadata = {
   title:
-    "Taxi Cannes 24h/24 | Aéroport Nice, gare, Croisette — 06 25 61 73 11",
+    "Taxi Cannes 24h/24 | Aéroport Nice, gare, Croisette & taxi conventionné CPAM — 07 56 82 77 99",
   description:
-    "Taxi Cannes 24h/24 : aéroport Nice, gare SNCF, Croisette, centre-ville. Transferts, transport médical assis et taxi conventionné CPAM selon éligibilité. Appelez le 06 25 61 73 11.",
+    "Taxi Cannes 24h/24 : aéroport Nice, gare SNCF, Croisette, centre-ville. Transferts, transport médical assis et taxi conventionné CPAM selon éligibilité. Appelez le 07 56 82 77 99.",
   keywords: [
     "taxi cannes",
     "taxi cannes aeroport nice",
@@ -45,9 +45,10 @@ export const metadata = {
     canonical: "https://www.cannestaxi.fr/",
   },
   openGraph: {
-    title: "Taxi Cannes 24h/24 | Aéroport, gare, Croisette",
+    title:
+      "Taxi Cannes 24h/24 | Aéroport, gare, Croisette & taxi conventionné CPAM",
     description:
-      "Taxi Cannes : aéroport Nice, gare, Croisette. Transport médical assis et taxi conventionné CPAM selon éligibilité. 06 25 61 73 11.",
+      "Taxi Cannes : aéroport Nice, gare, Croisette. Transport médical assis et taxi conventionné CPAM selon éligibilité. 07 56 82 77 99.",
     url: "https://www.cannestaxi.fr/",
     siteName: "Taxi Cannes",
     locale: "fr_FR",
@@ -303,12 +304,11 @@ export default function Home() {
       <section className="py-12 bg-white border-y border-gray-200">
         <div className="max-w-4xl mx-auto px-6">
           <h2 className="text-2xl md:text-3xl font-bold mb-4 text-center text-gray-900">
-            Taxi à Cannes – Service local officiel 24h/24
+            Taxi à Cannes – Taxi conventionné CPAM & transferts 24h/24
           </h2>
           <p className="text-lg text-gray-700 text-center leading-relaxed">
-            Nous sommes une entreprise de taxi locale à Cannes. Nous assurons
-            les trajets en taxi à Cannes centre, La Bocca, la Croisette, le
-            Suquet et les transferts vers l&apos;aéroport Nice Côte d&apos;Azur.
+            À Cannes, nous assurons les trajets en taxi (Cannes centre, La Bocca, la Croisette, le
+            Suquet) et les transferts vers l&apos;aéroport Nice Côte d&apos;Azur.
             Service de taxi disponible 24h/24 et 7j/7 sur Cannes et les
             Alpes-Maritimes. Pour un{" "}
             <Link
@@ -657,7 +657,7 @@ export default function Home() {
             "@type": "TaxiService",
             name: "Taxi Cannes",
             url: "https://www.cannestaxi.fr/",
-            telephone: "+33 6 25 61 73 11",
+            telephone: "+33 7 56 82 77 99",
             areaServed: [
               "Cannes",
               "Nice",

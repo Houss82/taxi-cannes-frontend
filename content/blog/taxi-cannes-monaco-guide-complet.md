@@ -435,7 +435,7 @@ Pour connaître le tarif précis de votre transfert, nous vous invitons à :
   <p><strong>Trois méthodes simples pour réserver :</strong></p>
   <ol>
     <li><strong>En ligne</strong> : Utilisez notre [formulaire de réservation](/reservation) disponible 24/7</li>
-    <li><strong>Par téléphone</strong> : Appelez-nous au <strong>+33 6 25 61 73 11</strong> (disponible 24/7)</li>
+    <li><strong>Par téléphone</strong> : Appelez-nous au <strong>+33 7 56 82 77 99</strong> (disponible 24/7)</li>
     <li><strong>Par email</strong> : Écrivez-nous à <strong>taxicannes2025@gmail.com</strong></li>
   </ol>
   <p>Pour les réservations en avance, nous recommandons de réserver au moins 24 heures à l'avance, surtout pendant les périodes de forte affluence (Festival de Cannes, Grand Prix de Monaco, été).</p>
@@ -522,7 +522,7 @@ Notre objectif est simple : vous offrir le meilleur service de taxi premium sur 
   </div>
   
   <p style="margin-top: 1rem; font-size: 0.9rem; color: #666;">
-    📞 <strong>+33 6 25 61 73 11</strong> | ✉️ <strong>taxicannes2025@gmail.com</strong><br/>
+    📞 <strong>+33 7 56 82 77 99</strong> | ✉️ <strong>taxicannes2025@gmail.com</strong><br/>
     Service disponible 24h/24 et 7j/7 • Réponse garantie sous 2 heures
   </p>
 </div>
