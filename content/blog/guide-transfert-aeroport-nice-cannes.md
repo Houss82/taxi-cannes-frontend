@@ -1,10 +1,11 @@
 ---
-title: "Guide Complet : Transfert Aéroport Nice - Prix, Durées et Conseils 2025"
-date: "2025-12-01"
-excerpt: "Tout ce qu'il faut savoir pour organiser votre transfert entre l'aéroport Nice-Côte d'Azur et Cannes. Prix fixes, durées, conseils pratiques et options disponibles pour un voyage sans stress."
-image: "/aeroport-nice-cannes.png"
+title: "Guide Complet : Transfert Aéroport Nice Cannes — Prix, Durées et Conseils 2026"
+date: "2026-05-01"
+excerpt: "Tout ce qu'il faut savoir pour organiser votre transfert entre l'aéroport Nice-Côte d'Azur et Cannes. Prix fixes, durées, comparatif bus / navette / taxi, FAQ. Page pilier du site."
+image: "/transfert-aeroport-nice-cannes.png"
 category: "Guides Pratiques"
 author: "Taxi Cannes"
+language: "fr"
 ---
 
 L'aéroport Nice-Côte d'Azur est la porte d'entrée principale pour découvrir la Côte d'Azur. Situé à seulement **30 minutes de Cannes**, il accueille **plus de 14 millions de passagers chaque année** selon les statistiques de l'[Aéroport Nice Côte d'Azur](https://www.nice.aeroport.fr). Que vous veniez pour les festivals, les affaires ou les vacances, organiser votre transfert à l'avance est essentiel pour un voyage sans stress.
@@ -22,6 +23,12 @@ Ce guide vous révèle **tout ce qu'il faut savoir sur les transferts aéroport 
   <span class="badge info">Coffre spacieux bagages</span>
   <span class="badge accent">Chauffeur dédié</span>
 </div>
+
+---
+
+## Festival de Cannes, Cannes Lions, MIPIM : où lire les durées « événement » ?
+
+Ce guide reste la **référence complète** (toutes les options de transport, tableaux, FAQ). Pour les **marges**, **durées en pic** et la **logistique délégués** (vol → hôtel → Palais) sans dupliquer ces pages, ouvrez plutôt **[Aéroport Nice → Cannes 2026 : Festival, Lions, congrès](/blog/aeroport-nice-cannes-festival-congres-2026)** — article satellite optimisé pour ces périodes.
 
 ---
 
@@ -247,6 +254,7 @@ Basés sur notre expérience avec des milliers de voyageurs, voici les erreurs l
 Nous recommandons fortement de réserver votre transfert **au moins 24 heures à l'avance**, surtout pendant :
 
 - Le Festival de Cannes (mai)
+- Cannes Lions et autres **gros congrès** au Palais (voir aussi [durées & réservation événements](/blog/aeroport-nice-cannes-festival-congres-2026))
 - La haute saison estivale (juillet-août)
 - Les événements importants (Monaco Grand Prix, etc.)
 - Les périodes de vacances scolaires
@@ -475,6 +483,7 @@ Votre chauffeur vous attendra dans le **hall des arrivées** avec un **panneau �
 
 Pour aller plus loin dans votre découverte de Cannes et de la Côte d'Azur :
 
+- [Aéroport Nice → Cannes : Festival, Lions, congrès 2026](/blog/aeroport-nice-cannes-festival-congres-2026) – Durées en pic et réservation événements
 - [Service Transfert Aéroport Nice-Cannes](/services/transfert-aeroport-nice-cannes) – Détails complets sur notre service de transfert aéroport
 - [Taxi Cannes → Monaco](/services/cannes-monaco) – Service premium vers la Principauté de Monaco
 - [Tarifs Transparents](/tarifs) – Grille tarifaire complète pour tous vos trajets
@@ -492,4 +501,4 @@ Pour aller plus loin dans votre découverte de Cannes et de la Côte d'Azur :
 
 ---
 
-_Article mis à jour le 02 décembre 2025_
+_Article mis à jour le 7 mai 2026_

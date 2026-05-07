@@ -88,7 +88,7 @@ Les montants ci-dessous sont des **ordres de grandeur** ; le tarif officiel dép
       <tr style="background-color: #f9fafb;">
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Aéroport Nice → Le Suquet</strong></td>
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">30-45 min</td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">50-70€</td>
+        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>95 €</strong> (forfait centre)</td>
       </tr>
       <tr>
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Croisette (hôtel) → Le Suquet</strong></td>
@@ -171,7 +171,7 @@ En général **8€ à 12€** pour **3 à 5 minutes** de trajet (indicatif). De
 
 ### Peut-on prendre un taxi de l'aéroport Nice directement au Suquet ?
 
-Oui. Comptez **30 à 45 minutes** et une fourchette **50 à 70€** indicative. Service dédié : **[transfert aéroport Nice Cannes](/services/transfert-aeroport-nice-cannes)**.
+Oui. Comptez **30 à 45 minutes** (ou plus en **Festival / congrès**) et un **forfait réservation** de **95 €** centre type Suquet selon [guide transfert aéroport](/blog/guide-transfert-aeroport-nice-cannes). Service dédié : **[transfert aéroport Nice Cannes](/services/transfert-aeroport-nice-cannes)**.
 
 ### Le taxi dessert-il le marché Forville ?
 

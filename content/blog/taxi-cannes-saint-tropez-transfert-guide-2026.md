@@ -147,7 +147,7 @@ Indiquez **toujours** le **nom de l’établissement** ou un **lien maps** pour 
 ## Liens utiles sur le site
 
 - [Réserver](/reservation) · [Contact](/contact) · [Tarifs](/tarifs) · [Nos services](/services)
-- [Taxi Cannes Monaco](/blog/taxi-cannes-monaco-guide-complet) · [Guide transfert aéroport Nice–Cannes](/blog/guide-transfert-aeroport-nice-cannes)
+- [Taxi Cannes Monaco](/blog/taxi-cannes-monaco-guide-complet) · [Guide transfert aéroport Nice–Cannes](/blog/guide-transfert-aeroport-nice-cannes) · [Nice → Cannes : Festival & congrès](/blog/aeroport-nice-cannes-festival-congres-2026)
 
 ---
 

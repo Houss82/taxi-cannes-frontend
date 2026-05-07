@@ -17,6 +17,7 @@ const blogCategories = [
     // Mapping des catégories d'articles vers cette catégorie
     articleCategories: [
       "Transferts Aéroport",
+      "Transferts & Déplacements",
       "Taxi",
       "Transport",
     ],

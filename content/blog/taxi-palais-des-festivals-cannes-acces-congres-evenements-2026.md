@@ -79,7 +79,7 @@ Le taxi peut vous déposer **directement devant l'entrée principale** du Palais
       <tr style="background-color: #f9fafb;">
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Aéroport Nice → Palais des Festivals</strong></td>
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">30-45 min</td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">50-70€</td>
+        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>100 €</strong> (forfait réservation Croisette / palaces)</td>
       </tr>
       <tr>
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Croisette (hôtel) → Palais des Festivals</strong></td>
@@ -95,7 +95,7 @@ Le taxi peut vous déposer **directement devant l'entrée principale** du Palais
   </table>
 </div>
 
-_Tarifs variables selon le trafic et la période. Contactez-nous pour un devis précis._
+_Tarifs indicatifs : course courte en ville peut varier au compteur ; pour l’aéroport Nice, les **forfaits prix fixe réservation** sont ceux du [guide transfert aéroport Nice–Cannes](/blog/guide-transfert-aeroport-nice-cannes) (95 € centre / Ouest, **100 €** palaces-Croisette-Palais). Devis précis à la réservation._
 
 ---
 

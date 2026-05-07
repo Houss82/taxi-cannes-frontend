@@ -200,7 +200,7 @@ Le Boulevard Carnot offre une **qualité de vie** appréciée :
 
 **Distance** : 27 km  
 **Durée** : 30-45 minutes selon le trafic  
-**Tarif taxi** : 50-70€
+**Tarif taxi (forfait réservation)** : **95–100 €** selon secteur précis à Cannes ([grille transfert Nice](/blog/guide-transfert-aeroport-nice-cannes)) ; durée voir ci-dessus.
 
 Le trajet depuis l'aéroport Nice vers le Boulevard Carnot traverse la Promenade des Anglais à Nice puis longe la côte jusqu'à Cannes. Notre [service de taxi Boulevard Carnot](/secteurs/boulevard-carnot) assure des transferts directs depuis l'aéroport vers votre résidence ou hôtel sur le Boulevard Carnot.
 

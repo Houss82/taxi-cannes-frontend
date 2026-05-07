@@ -122,13 +122,13 @@ Les montants ci-dessous sont des **fourchettes** : le tarif définitif vous est 
       <tr style="background-color: #f9fafb;">
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Aéroport Nice Côte d’Azur</strong></td>
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">25–40 min selon trafic</td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">90–120€</td>
+        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">95–120€</td>
       </tr>
     </tbody>
   </table>
 </div>
 
-*Indicatif : trafic, détours événementiels et type de véhicule peuvent faire varier le prix. Pour l’aéroport, la fourchette **90–120€** est cohérente avec une course longue depuis Cannes ; un devis ferme évite toute ambiguïté.*
+*Indicatif : trafic, détours événementiels et type de véhicule peuvent faire varier le prix. Pour l’aéroport, alignez-vous sur la grille du [guide transfert aéroport Nice–Cannes](/blog/guide-transfert-aeroport-nice-cannes) : **95–100 €** berline (centre / palaces), **120 €** van 8 places ; un devis ferme évite toute ambiguïté.*
 
 **Facteurs qui font bouger la note** : embouteillages sur le **Boulevard Carnot**, accès piétonnisés temporaires, **Festival de Cannes**, nombre de bagages, véhicule **berline / monospace**.
 
@@ -150,7 +150,7 @@ Même logistique que pour la Croisette selon sens de circulation ; en période d
 
 ### Aéroport Nice
 
-**Durée** : comptez souvent **30 à 45 minutes** selon trafic (et plus aux heures denses), pas une durée « fixe » de 30 minutes. **Tarif** : alignez-vous sur la **fourchette du tableau** (90–120€) et non sur des montants contradictoires — le devis téléphonique ou en ligne fait foi.
+**Durée** : comptez souvent **30 à 45 minutes** selon trafic (et plus aux heures denses), pas une durée « fixe » de 30 minutes. **Tarif** : alignez-vous sur la **fourchette du tableau** (95–120€) et sur le [guide transfert aéroport](/blog/guide-transfert-aeroport-nice-cannes) — le devis téléphonique ou en ligne fait foi.
 
 ---
 

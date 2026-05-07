@@ -235,7 +235,7 @@ Pour en savoir plus sur tous les événements majeurs à Cannes, consultez notre
 
 **Distance** : 27 km  
 **Durée** : 30-45 minutes selon le trafic  
-**Tarif taxi** : 50-70€
+**Tarif taxi (forfait réservation)** : **100 €** jusqu’aux palaces / Croisette (aligné sur notre grille [guide transfert aéroport](/blog/guide-transfert-aeroport-nice-cannes)) ; trajectoire et trafic : 30 à 55 min selon période — voir [Nice → Cannes événements](/blog/aeroport-nice-cannes-festival-congres-2026) en pic Festival / Lions.
 
 Le trajet depuis l'aéroport Nice vers la Croisette traverse la Promenade des Anglais à Nice puis longe la côte jusqu'à Cannes. Pendant les périodes de forte affluence (été, événements), le trafic peut être dense.
 
