@@ -90,6 +90,8 @@ Les parcours les plus fréquents ne sont pas toujours « **Cannes → même vill
 
 Si votre trajet include la **gare de Cannes** (correspondance, fatigue), vous pouvez croiser notre [guide sur le **taxi gare de Cannes**](/blog/taxi-gare-cannes-service-transport-sncf-2025) — un **raccordement** en **taxi** peut s’inscrire dans le même **cours** de logistique.
 
+Si votre rendez-vous est au **[Centre Antoine Lacassagne](/blog/taxi-conventionne-cannes-centre-antoine-lacassagne-nice)** à Nice (site **Valombrose** ou autre selon dossier médical), notre **[article dédié](/blog/taxi-conventionne-cannes-centre-antoine-lacassagne-nice)** reprend **adresses officielles**, accès véhicule et **infos utiles avant d’appeler**.
+
 ---
 
 ## 5. Après la réservation : quoi vérifier de votre côté

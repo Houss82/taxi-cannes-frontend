@@ -1,4 +1,6 @@
-import Header from "@/app/components/Header";
+import BlogPagination, {
+  BLOG_POSTS_PER_PAGE,
+} from "@/app/components/BlogPagination";
 import SEOBreadcrumb from "@/app/components/SEOBreadcrumb";
 import { getAllPosts } from "@/lib/blog";
 import blogCategories, {
@@ -46,9 +48,22 @@ export default async function BlogPage({ searchParams }) {
     });
   }
 
-  const displayedPosts = selectedCategory
-    ? filteredPosts
-    : filteredPosts.slice(0, 9);
+  const totalFiltered = filteredPosts.length;
+  const totalPages = Math.max(
+    1,
+    Math.ceil(totalFiltered / BLOG_POSTS_PER_PAGE),
+  );
+
+  const rawPage = Number(resolvedSearchParams?.page);
+  const requestedPage =
+    Number.isFinite(rawPage) && rawPage >= 1 ? Math.floor(rawPage) : 1;
+  const currentPage = Math.min(requestedPage, totalPages);
+
+  const sliceStart = (currentPage - 1) * BLOG_POSTS_PER_PAGE;
+  const displayedPosts = filteredPosts.slice(
+    sliceStart,
+    sliceStart + BLOG_POSTS_PER_PAGE,
+  );
 
   const breadcrumbItems = [
     {
@@ -60,8 +75,6 @@ export default async function BlogPage({ searchParams }) {
 
   return (
     <div className="min-h-screen bg-gray-50">
-      <Header />
-
       <div className="bg-white border-b mt-20 sm:mt-0">
         <div className="max-w-7xl mx-auto px-4 py-4">
           <SEOBreadcrumb items={breadcrumbItems} />
@@ -209,7 +222,7 @@ export default async function BlogPage({ searchParams }) {
         </div>
       </section>
 
-      <section className="py-16">
+      <section id="articles" className="scroll-mt-28 py-16">
         <div className="max-w-7xl mx-auto px-4">
           {displayedPosts.length === 0 ? (
             <div className="text-center py-20">
@@ -301,6 +314,14 @@ export default async function BlogPage({ searchParams }) {
                 );
               })}
             </div>
+          )}
+          {totalFiltered > 0 && (
+            <BlogPagination
+              currentPage={currentPage}
+              totalPages={totalPages}
+              totalPosts={totalFiltered}
+              categoryId={selectedCategoryId}
+            />
           )}
         </div>
       </section>

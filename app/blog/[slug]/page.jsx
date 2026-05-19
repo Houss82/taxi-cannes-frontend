@@ -1,4 +1,3 @@
-import Header from "@/app/components/Header";
 import ResponsiveTableWrapper from "@/app/components/ResponsiveTableWrapper";
 import SEOBreadcrumb from "@/app/components/SEOBreadcrumb";
 import { getAllPosts, getAllPostSlugs, getPostBySlug } from "@/lib/blog";
@@ -45,8 +44,6 @@ export default async function BlogPostPage({ params }) {
 
   return (
     <div className="min-h-screen bg-gray-50">
-      <Header />
-
       {/* Breadcrumb */}
       <div className="bg-white border-b pt-24 sm:pt-24">
         <div className="max-w-4xl mx-auto px-6 sm:px-4 pb-4 sm:pb-6">
@@ -300,6 +297,135 @@ export default async function BlogPostPage({ params }) {
                     opens: "00:00",
                     closes: "23:59",
                   },
+                }),
+              }}
+            />
+          )}
+
+          {post.slug === "taxi-conventionne-cannes-centre-antoine-lacassagne-nice" && (
+            <Script
+              id="lacassagne-medical-schema"
+              type="application/ld+json"
+              dangerouslySetInnerHTML={{
+                __html: JSON.stringify({
+                  "@context": "https://schema.org",
+                  "@graph": [
+                    {
+                      "@type": "FAQPage",
+                      "@id": `https://www.cannestaxi.fr/blog/${post.slug}#faq`,
+                      mainEntity: [
+                        {
+                          "@type": "Question",
+                          name: "Le remboursement par la CPAM est-il garanti par Taxi Cannes ?",
+                          acceptedAnswer: {
+                            "@type": "Answer",
+                            text:
+                              "Non — seule votre caisse et votre dossier médical peuvent répondre. Nous vous aidons pour le transport ; les droits financiers vous concernent vous et vos interlocuteurs santé administratifs.",
+                          },
+                        },
+                        {
+                          "@type": "Question",
+                          name: "Combien de temps entre Cannes et l’entrée au 33 avenue de Valombrose ?",
+                          acceptedAnswer: {
+                            "@type": "Answer",
+                            text:
+                              "Cela dépend de l’heure, du trafic et du point de départ à Cannes. Réservez en annonçant une marge sécuritaire avant l’accueil.",
+                          },
+                        },
+                        {
+                          "@type": "Question",
+                          name: "Y a-t-il un numéro pour le Centre Antoine Lacassagne ?",
+                          acceptedAnswer: {
+                            "@type": "Answer",
+                            text:
+                              "Le centre publie ses coordonnées sur son site officiel centreantoinelacassagne.org — section nous contacter / secrétariat.",
+                          },
+                        },
+                        {
+                          "@type": "Question",
+                          name: "Je dois me rendre à l’IMPT avenue de la Lanterne, pas au Valombrose.",
+                          acceptedAnswer: {
+                            "@type": "Answer",
+                            text:
+                              "Indiquez-le à la réservation : depuis Cannes, les accès peuvent changer. Consulter la page Venir au centre (site Ouest) du Centre Antoine Lacassagne.",
+                          },
+                        },
+                        {
+                          "@type": "Question",
+                          name: "Prenez-vous en charge depuis Le Cannet, Mandelieu ou Antibes pour le même centre ?",
+                          acceptedAnswer: {
+                            "@type": "Answer",
+                            text:
+                              "Oui sur demande téléphonique, sous réserve de disponibilité — les temps et tarifs diffèrent selon la commune de départ ; citez votre adresse précise lors de l’appel.",
+                          },
+                        },
+                      ],
+                    },
+                    {
+                      "@type": "TaxiService",
+                      "@id": `https://www.cannestaxi.fr/blog/${post.slug}#service`,
+                      name: "Taxi Cannes — trajets conventionnés vers Centre Antoine Lacassagne Nice",
+                      url: `https://www.cannestaxi.fr/blog/${post.slug}`,
+                      telephone: "+33 7 56 82 77 99",
+                      description:
+                        "Transport patient et taxi conventionné sous réserve de dossier CPAM : trajets Cannes et Alpes-Maritimes vers Centre Antoine Lacassagne (Nice Est Valombrose, IMPT Lanterne).",
+                      areaServed: [
+                        {
+                          "@type": "City",
+                          name: "Cannes",
+                          containedInPlace: {
+                            "@type": "AdministrativeArea",
+                            name: "Alpes-Maritimes",
+                          },
+                        },
+                        { "@type": "City", name: "Nice" },
+                        { "@type": "City", name: "Le Cannet" },
+                        { "@type": "City", name: "Mandalieu-la-Napoule" },
+                        { "@type": "City", name: "Mougins" },
+                        { "@type": "City", name: "Vallauris" },
+                        { "@type": "City", name: "Antibes" },
+                        {
+                          "@type": "Place",
+                          name: "Juan-les-Pins",
+                          containedInPlace: { "@type": "City", name: "Antibes" },
+                        },
+                        {
+                          "@type": "Place",
+                          name: "Golfe-Juan",
+                          containedInPlace: {
+                            "@type": "City",
+                            name: "Vallauris",
+                          },
+                        },
+                      ],
+                      address: {
+                        "@type": "PostalAddress",
+                        addressLocality: "Cannes",
+                        postalCode: "06400",
+                        addressRegion: "Provence-Alpes-Côte d'Azur",
+                        addressCountry: "FR",
+                      },
+                      availableChannel: {
+                        "@type": "ServiceChannel",
+                        serviceUrl: "https://www.cannestaxi.fr/reservation",
+                        servicePhone: "+33 7 56 82 77 99",
+                      },
+                      hoursAvailable: {
+                        "@type": "OpeningHoursSpecification",
+                        dayOfWeek: [
+                          "Monday",
+                          "Tuesday",
+                          "Wednesday",
+                          "Thursday",
+                          "Friday",
+                          "Saturday",
+                          "Sunday",
+                        ],
+                        opens: "00:00",
+                        closes: "23:59",
+                      },
+                    },
+                  ],
                 }),
               }}
             />
