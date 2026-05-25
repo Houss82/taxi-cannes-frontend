@@ -13,6 +13,7 @@ export const metadata = {
 
 import { Plane, Clock, Shield, CheckCircle, MapPin, Users } from "lucide-react";
 import Image from "next/image";
+import Link from "next/link";
 import Button from "@/app/components/ui/Button";
 
 export default function TransfertAeroportNiceCannes() {
@@ -204,6 +205,28 @@ export default function TransfertAeroportNiceCannes() {
                 souhaitée.
               </p>
             </div>
+          </div>
+
+          {/* Lien service croisière — intention distincte du guide blog */}
+          <div className="mb-12 max-w-3xl mx-auto rounded-2xl border border-primary/15 bg-primary/5 px-6 py-5 text-center">
+            <p className="text-gray-800 leading-relaxed">
+              <strong>Débarquement croisière au port de Cannes</strong> puis vol
+              depuis Nice&nbsp;? Nous proposons aussi un{" "}
+              <Link
+                href="/services/transfert-port-croisiere-cannes-aeroport-nice"
+                className="text-accent font-semibold hover:underline underline-offset-2"
+              >
+                transfert dédié port → aéroport
+              </Link>{" "}
+              (prix fixe, van). Le{" "}
+              <Link
+                href="/blog/taxi-port-croisiere-cannes-transfert-aeroport-nice-guide-2026"
+                className="text-primary font-semibold hover:underline underline-offset-2"
+              >
+                guide pratique avec tableaux &amp; FAQ
+              </Link>{" "}
+              est sur le blog.
+            </p>
           </div>
 
           {/* CTA Section */}

@@ -26,6 +26,13 @@ export default function Services() {
       href: "/services/transfert-aeroport-nice-cannes",
     },
     {
+      title: "Port croisière Cannes → Aéroport Nice",
+      desc: "Débarquement, transfert prix fixe vers T1/T2 — van si bagages groupe",
+      image: "/taxi-cannes-port-croisiere.jpeg",
+      details: ["Port → Nice réservé", "Valises / van", "Même sérieux qu’aéroport"],
+      href: "/services/transfert-port-croisiere-cannes-aeroport-nice",
+    },
+    {
       title: "Taxi conventionné CPAM — transport médical assis",
       desc: "Transport médical assis, hôpitaux, cliniques : éligibilité à confirmer au téléphone",
       image: "/Taxi-PMR-Cannes-2026.jpg",

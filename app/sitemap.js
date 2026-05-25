@@ -21,6 +21,11 @@ export default function sitemap() {
       changeFrequency: "monthly",
     },
     {
+      path: "/services/transfert-port-croisiere-cannes-aeroport-nice",
+      priority: 0.82,
+      changeFrequency: "monthly",
+    },
+    {
       path: "/services/trajets-palaces",
       priority: 0.85,
       changeFrequency: "monthly",

@@ -431,6 +431,122 @@ export default async function BlogPostPage({ params }) {
             />
           )}
 
+          {post.slug ===
+            "taxi-port-croisiere-cannes-transfert-aeroport-nice-guide-2026" && (
+            <Script
+              id="port-croisiere-schema"
+              type="application/ld+json"
+              dangerouslySetInnerHTML={{
+                __html: JSON.stringify({
+                  "@context": "https://schema.org",
+                  "@graph": [
+                    {
+                      "@type": "FAQPage",
+                      "@id": `https://www.cannestaxi.fr/blog/${post.slug}#faq`,
+                      mainEntity: [
+                        {
+                          "@type": "Question",
+                          name: "Combien de temps avant mon vol dois-je quitter le port de Cannes en taxi ?",
+                          acceptedAnswer: {
+                            "@type": "Answer",
+                            text:
+                              "Additionnez la durée de route, une marge sécurité trafic et les recommandations de votre compagnie aérienne pour l’enregistrement. En cas de doute, viser tôt — l’aérogare de Nice peut être dense en haute saison.",
+                          },
+                        },
+                        {
+                          "@type": "Question",
+                          name: "Peut-on réserver un van pour une famille avec beaucoup de valises ?",
+                          acceptedAnswer: {
+                            "@type": "Answer",
+                            text:
+                              "Oui, sous réserve de disponibilité — indiquez le nombre de passagers et une estimation des bagages lors de l’appel pour proposer un van adapté.",
+                          },
+                        },
+                        {
+                          "@type": "Question",
+                          name: "Mon navire accoste en retard — le chauffeur peut-il ajuster ?",
+                          acceptedAnswer: {
+                            "@type": "Answer",
+                            text:
+                              "Pour les réservations accompagnées, nous faisons de notre mieux pour adapter le créneau lorsque vous nous informez. Communiquez le retard dès que la compagnie le confirme.",
+                          },
+                        },
+                        {
+                          "@type": "Question",
+                          name: "Faut-il préciser Terminal 1 ou Terminal 2 à Nice ?",
+                          acceptedAnswer: {
+                            "@type": "Answer",
+                            text:
+                              "Oui. Les accès piétons et dépose peuvent différer — vérifiez votre billet ou l’application compagnie avant de prendre la route depuis Cannes.",
+                          },
+                        },
+                        {
+                          "@type": "Question",
+                          name: "Cet article remplace votre guide transfert Nice–Cannes ?",
+                          acceptedAnswer: {
+                            "@type": "Answer",
+                            text:
+                              "Non. Le guide pilier conserve le détail des options (bus, navette, comparatifs) sur cannestaxi.fr ; cet article cible l’intention port et croisière.",
+                          },
+                        },
+                      ],
+                    },
+                    {
+                      "@type": "TaxiService",
+                      "@id": `https://www.cannestaxi.fr/blog/${post.slug}#service`,
+                      name: "Taxi Cannes — transfert port de croisière Cannes vers aéroport Nice",
+                      url: `https://www.cannestaxi.fr/blog/${post.slug}`,
+                      telephone: "+33 7 56 82 77 99",
+                      description:
+                        "Transferts taxi depuis le port de Cannes (croisière, débarquement) vers l’aéroport Nice Côte d’Azur (T1/T2), bagages et vans sur demande — réservation 24h/24.",
+                      areaServed: [
+                        {
+                          "@type": "City",
+                          name: "Cannes",
+                          containedInPlace: {
+                            "@type": "AdministrativeArea",
+                            name: "Alpes-Maritimes",
+                          },
+                        },
+                        {
+                          "@type": "Airport",
+                          name: "Aéroport Nice Côte d'Azur",
+                          iataCode: "NCE",
+                        },
+                      ],
+                      address: {
+                        "@type": "PostalAddress",
+                        addressLocality: "Cannes",
+                        postalCode: "06400",
+                        addressRegion: "Provence-Alpes-Côte d'Azur",
+                        addressCountry: "FR",
+                      },
+                      availableChannel: {
+                        "@type": "ServiceChannel",
+                        serviceUrl: "https://www.cannestaxi.fr/reservation",
+                        servicePhone: "+33 7 56 82 77 99",
+                      },
+                      hoursAvailable: {
+                        "@type": "OpeningHoursSpecification",
+                        dayOfWeek: [
+                          "Monday",
+                          "Tuesday",
+                          "Wednesday",
+                          "Thursday",
+                          "Friday",
+                          "Saturday",
+                          "Sunday",
+                        ],
+                        opens: "00:00",
+                        closes: "23:59",
+                      },
+                    },
+                  ],
+                }),
+              }}
+            />
+          )}
+
           {post.slug === "taxi-cannes-saint-tropez-transfert-guide-2026" && (
             <Script
               id="taxi-st-tropez-schema"

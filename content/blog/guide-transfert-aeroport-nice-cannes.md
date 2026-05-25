@@ -30,6 +30,8 @@ Ce guide vous révèle **tout ce qu'il faut savoir sur les transferts aéroport 
 
 Ce guide reste la **référence complète** (toutes les options de transport, tableaux, FAQ). Pour les **marges**, **durées en pic** et la **logistique délégués** (vol → hôtel → Palais) sans dupliquer ces pages, ouvrez plutôt **[Aéroport Nice → Cannes 2026 : Festival, Lions, congrès](/blog/aeroport-nice-cannes-festival-congres-2026)** — article satellite optimisé pour ces périodes.
 
+**Débarquement croisière à Cannes puis vol depuis Nice ?** L’itinéraire **port → Terminal 1 / T2**, **bagages** et marges temps sont détaillés dans **[Taxi port de croisière à Cannes — transfert aéroport Nice (guide 2026)](/blog/taxi-port-croisiere-cannes-transfert-aeroport-nice-guide-2026)** — complément sans remplacer ce guide. **Pour réserver ce trajet en service premium** (prix fixe, van)&nbsp;: **[transfert port croisière Cannes → aéroport Nice](/services/transfert-port-croisiere-cannes-aeroport-nice)**.
+
 ---
 
 ## Pourquoi organiser son transfert à l'avance ?

@@ -15,6 +15,10 @@ const navItems = [
         href: "/services/transfert-aeroport-nice-cannes",
       },
       {
+        label: "Port croisière → Aéroport Nice",
+        href: "/services/transfert-port-croisiere-cannes-aeroport-nice",
+      },
+      {
         label: "Taxi conventionné CPAM — médical assis",
         href: "/services/taxi-conventionne-cpam-cannes",
       },

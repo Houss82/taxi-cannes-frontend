@@ -14,6 +14,7 @@ import {
   Phone,
   Plane,
   ShieldCheck,
+  Ship,
   Star,
   Train,
   Users,
@@ -49,6 +50,12 @@ const popularRoutes = [
     icon: Plane,
   },
   {
+    title: "Port croisière → Nice",
+    desc: "Après débarquement : transfert fixe vers Terminal 1 ou T2, berline ou van.",
+    href: "/services/transfert-port-croisiere-cannes-aeroport-nice",
+    icon: Ship,
+  },
+  {
     title: "Taxi gare de Cannes",
     desc: "Prise en charge à la sortie SNCF, bagages gérés, idéal après un TGV ou un TER.",
     href: "/blog/taxi-gare-cannes-service-transport-sncf-2025",
@@ -79,6 +86,11 @@ const serviceBlocks = [
     title: "Transferts aéroport",
     desc: "Nice-Côte d’Azur ↔ Cannes, pancarte à l’arrivée, aide bagages.",
     href: "/services/transfert-aeroport-nice-cannes",
+  },
+  {
+    title: "Port croisière → Nice",
+    desc: "Débarquement Cannes, direction T1/T2 avec prix fixe réservé.",
+    href: "/services/transfert-port-croisiere-cannes-aeroport-nice",
   },
   {
     title: "Transferts gare",

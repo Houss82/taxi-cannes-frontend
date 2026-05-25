@@ -1,6 +1,6 @@
 ---
 title: "Taxi conventionné Cannes — Centre Antoine Lacassagne Nice : trajet et réservation"
-date: "2026-06-02"
+date: "2026-05-15"
 excerpt: "Taxi conventionné ou transport patient Cannes ↔ Centre Antoine Lacassagne (Valombrose, Nice Est) : taxi CPAM Nice, chauffeur conventionné, zones Le Cannet Mandelieu Mougins Antibes, durées, réservation +33 7 56 82 77 99."
 image: "/taxi-conventionne-cannes-lacassagne.png"
 category: "Santé"
@@ -171,4 +171,4 @@ Le **Centre Antoine Lacassagne** est un **établissement de lutte contre le canc
 
 ---
 
-_Article enrichi pour intention santé locale — juin 2026. Sources officielles Centre Antoine Lacassagne pour les accès ; tarifs au devis ; CPAM : vérifier avec votre assurance maladie._
+_Article enrichi pour intention santé locale — mai 2026. Sources officielles Centre Antoine Lacassagne pour les accès ; tarifs au devis ; CPAM : vérifier avec votre assurance maladie._

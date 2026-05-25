@@ -38,6 +38,14 @@ export default function Footer() {
               </li>
               <li>
                 <Link
+                  href="/services/transfert-port-croisiere-cannes-aeroport-nice"
+                  className="hover:text-accent transition-colors"
+                >
+                  Port croisière → Nice
+                </Link>
+              </li>
+              <li>
+                <Link
                   href="/services/taxi-conventionne-cpam-cannes"
                   className="hover:text-accent transition-colors"
                 >
