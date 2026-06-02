@@ -136,10 +136,19 @@ export default function Footer() {
 
         <div className="border-t border-primary-foreground/10 pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-primary-foreground/60">
           <p>&copy; 2025 Taxi Cannes. Tous droits réservés.</p>
-          <div className="flex gap-6">
+          <div className="flex flex-wrap justify-center gap-6">
             <Link href="#" className="hover:text-accent transition-colors">
               WhatsApp
             </Link>
+            <a
+              href="https://hoodspot.fr/taxi/taxi-cannes-99092661000017/"
+              title="Taxi Cannes"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-accent transition-colors"
+            >
+              Taxi Cannes
+            </a>
           </div>
         </div>
       </div>
