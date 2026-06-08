@@ -8,11 +8,9 @@ author: "Taxi Cannes"
 language: "fr"
 ---
 
-# Aéroport Nice → Cannes 2026 : Festival, Lions, congrès (durées & réservation)
-
 **Transfert aéroport Nice–Cannes** en période **Festival de Cannes**, **Cannes Lions**, **MIPIM** ou tout autre **gros congrès** au [Palais des Festivals](/blog/taxi-palais-des-festivals-cannes-acces-congres-evenements-2026) : ce guide répond à une intention précise — **combien de temps prévoir**, **comment éviter le stress** et **comment réserver** sans recopier notre page pilier.
 
-Pour le **comparatif complet** (bus 210, navette, location, taxi premium, FAQ détaillée), utilisez le **[guide transfert aéroport Nice–Cannes](/blog/guide-transfert-aeroport-nice-cannes)**. Ici, nous restons sur le **calendrier événementiel** et la **planification** : moins de cannibalisation, plus de pertinence pour les requêtes du type _Nice Cannes Festival durée_ ou _taxi aéroport congrès Cannes_.
+Pour le **comparatif complet** (bus 210, navette, location, taxi premium, FAQ détaillée), utilisez le **[guide transfert aéroport Nice–Cannes](/blog/guide-transfert-aeroport-nice-cannes)**. Ici, nous restons sur l'**axe Nice → Cannes** en période événementielle. Pour la **mobilité sur place pendant les Cannes Lions** (hôtels, Palais, soirées, van délégation), voir le **[guide taxi Cannes Lions 2026](/blog/taxi-cannes-lions-2026-guide-chauffeur-reservation)**.
 
 <div class="kpi-strip">
   <span class="badge info">30–50 min selon période</span>
@@ -182,6 +180,7 @@ Téléphone **+33 7 56 82 77 99** ou [formulaire en ligne](/reservation).
 - [Taxi gare SNCF Cannes](/blog/taxi-gare-cannes-service-transport-sncf-2025)
 - [Taxi Cannes → Saint-Tropez](/blog/taxi-cannes-saint-tropez-transfert-guide-2026)
 - [Événements majeurs Cannes 2026](/blog/evenements-majeurs-cannes-2026-guide-complet)
+- [Taxi Cannes Lions 2026 — guide chauffeur & réservation](/blog/taxi-cannes-lions-2026-guide-chauffeur-reservation)
 
 ---
 

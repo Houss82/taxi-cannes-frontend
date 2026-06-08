@@ -472,8 +472,16 @@ export default function LaCroisette() {
                 </summary>
                 <p className="mt-4 text-gray-700">
                   Oui, nous assurons un service renforcé pendant tous les grands
-                  congrès de Cannes. Nous recommandons de réserver à
-                  l&apos;avance pour garantir votre transport.
+                  congrès de Cannes. Pour les{" "}
+                  <Link
+                    href="/blog/taxi-cannes-lions-2026-guide-chauffeur-reservation"
+                    className="text-accent font-medium hover:underline"
+                  >
+                    Cannes Lions 2026
+                  </Link>
+                  , consultez notre guide dédié (créneaux, hôtels, réservation).
+                  Nous recommandons de réserver à l&apos;avance pour garantir
+                  votre transport.
                 </p>
               </details>
               <details className="bg-white rounded-lg p-6 border border-gray-200">

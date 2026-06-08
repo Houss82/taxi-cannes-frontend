@@ -141,7 +141,7 @@ Le **Cannes Lions** est le plus prestigieux festival international de la créati
 
 **Défis de transport** : Les événements se déroulent sur plusieurs sites (Palais des Festivals, hôtels de la Croisette, espaces événementiels). Se déplacer entre les différents lieux nécessite un transport fiable.
 
-**Solution taxi** : Service de transport adapté pour se déplacer entre les différents sites du festival. Réservation recommandée pour éviter les attentes pendant les périodes de forte affluence.
+**Solution taxi** : Service de transport adapté pour se déplacer entre les différents sites du festival. Guide détaillé (créneaux, lieux, tarifs, FAQ) : **[Taxi Cannes Lions 2026 — guide chauffeur & réservation](/blog/taxi-cannes-lions-2026-guide-chauffeur-reservation)**.
 
 ### 🏢 Autres congrès et salons majeurs 2026
 

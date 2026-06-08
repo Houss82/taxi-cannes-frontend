@@ -25,13 +25,18 @@ export async function generateMetadata({ params }) {
     ? post.image
     : `https://www.cannestaxi.fr${post.image}`;
 
-  // Optimisation SEO : pour "taxi-gare-cannes", le title commence par le mot-clé principal
-  const seoTitle = post.slug === "taxi-gare-cannes-service-transport-sncf-2025"
-    ? `Taxi Gare de Cannes – Réservation 24/7 | Taxi Cannes`
-    : `${post.title} | Taxi Cannes`;
+  // Title absolu pour éviter le double suffixe "| Taxi Cannes" du layout template
+  const seoTitleBySlug = {
+    "taxi-gare-cannes-service-transport-sncf-2025":
+      "Taxi Gare de Cannes – Réservation 24/7 | Taxi Cannes",
+    "taxi-cannes-lions-2026-guide-chauffeur-reservation":
+      "Taxi Cannes Lions 2026 : chauffeur, tarifs & réservation | Taxi Cannes",
+  };
+  const seoTitle =
+    seoTitleBySlug[post.slug] ?? `${post.title} | Taxi Cannes`;
 
   return {
-    title: seoTitle,
+    title: { absolute: seoTitle },
     description: post.excerpt || `Découvrez ${post.title.toLowerCase()}.`,
     keywords: Array.isArray(post.keywords)
       ? post.keywords.join(", ")
