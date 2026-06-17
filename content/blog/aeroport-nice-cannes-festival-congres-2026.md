@@ -63,7 +63,7 @@ Ce n’est pas la distance (souvent **~25 à 30 km** d’itinéraire autoroutier
   </table>
 </div>
 
-**Conseil pro** : pour une **première prise de rendez-vous** le jour d’arrivée, laissez **au moins 90 minutes** entre l’atterrissage annoncé et votre rendez-vous à Cannes en période Festival / Lions (bagages, sortie terminal, trafic). Pour le retour **Cannes → Nice**, suivez les marges **vol intérieur / international** du [guide pilier](/blog/guide-transfert-aeroport-nice-cannes) et ajoutez **15–30 min** en pic événementiel.
+**Conseil pro** : pour une **première prise de rendez-vous** le jour d'arrivée, laissez **au moins 90 minutes** entre l'atterrissage annoncé et votre rendez-vous à Cannes en période Festival / Lions (bagages, sortie terminal, trafic). Pour le **départ retour Cannes → Nice** (marges vol, heure de prise en charge, T1/T2), voir **[Taxi Cannes → Aéroport Nice 2026](/blog/taxi-cannes-aeroport-nice-depart-guide-2026)** — cet article reste focalisé sur l'**arrivée** Nice → Cannes.
 
 ---
 
@@ -181,6 +181,7 @@ Téléphone **+33 7 56 82 77 99** ou [formulaire en ligne](/reservation).
 - [Taxi Cannes → Saint-Tropez](/blog/taxi-cannes-saint-tropez-transfert-guide-2026)
 - [Événements majeurs Cannes 2026](/blog/evenements-majeurs-cannes-2026-guide-complet)
 - [Taxi Cannes Lions 2026 — guide chauffeur & réservation](/blog/taxi-cannes-lions-2026-guide-chauffeur-reservation)
+- [Taxi Cannes → Aéroport Nice — départ & marges vol](/blog/taxi-cannes-aeroport-nice-depart-guide-2026)
 
 ---
 

@@ -28,7 +28,7 @@ Ce guide vous révèle **tout ce qu'il faut savoir sur les transferts aéroport 
 
 ## Festival de Cannes, Cannes Lions, MIPIM : où lire les durées « événement » ?
 
-Ce guide reste la **référence complète** (toutes les options de transport, tableaux, FAQ). Pour les **marges** et **durées Nice → Cannes** en pic événementiel : **[Aéroport Nice → Cannes 2026 : Festival, Lions, congrès](/blog/aeroport-nice-cannes-festival-congres-2026)**. Pour la **mobilité à Cannes pendant les Lions** (Palais, hôtels, soirées) : **[Taxi Cannes Lions 2026](/blog/taxi-cannes-lions-2026-guide-chauffeur-reservation)**.
+Ce guide reste la **référence complète** (toutes les options de transport, tableaux, FAQ). Pour les **marges** et **durées Nice → Cannes** en pic événementiel : **[Aéroport Nice → Cannes 2026](/blog/aeroport-nice-cannes-festival-congres-2026)**. Pour la **mobilité à Cannes pendant les Lions** : **[Taxi Cannes Lions 2026](/blog/taxi-cannes-lions-2026-guide-chauffeur-reservation)**. Pour le **départ retour Cannes → Nice** : **[Taxi Cannes → Aéroport Nice](/blog/taxi-cannes-aeroport-nice-depart-guide-2026)**.
 
 **Débarquement croisière à Cannes puis vol depuis Nice ?** L’itinéraire **port → Terminal 1 / T2**, **bagages** et marges temps sont détaillés dans **[Taxi port de croisière à Cannes — transfert aéroport Nice (guide 2026)](/blog/taxi-port-croisiere-cannes-transfert-aeroport-nice-guide-2026)** — complément sans remplacer ce guide. **Pour réserver ce trajet en service premium** (prix fixe, van)&nbsp;: **[transfert port croisière Cannes → aéroport Nice](/services/transfert-port-croisiere-cannes-aeroport-nice)**.
 
@@ -287,7 +287,7 @@ Pour garantir un service optimal, n'oubliez pas de préciser :
 - **Vols internationaux** : Départ de Cannes **3 heures avant** l'heure de décollage
 - **Périodes de forte affluence** : Ajoutez 30 minutes supplémentaires
 
-Nos chauffeurs connaissent parfaitement les temps de trajet et vous conseilleront sur l'heure de départ optimale selon votre vol.
+Nos chauffeurs connaissent parfaitement les temps de trajet et vous conseilleront sur l'heure de départ optimale selon votre vol. Pour un **guide détaillé départ** (marges par terminal, durées depuis Croisette/gare, pics matin, FAQ départ) : **[Taxi Cannes → Aéroport Nice 2026](/blog/taxi-cannes-aeroport-nice-depart-guide-2026)**.
 
 ---
 
@@ -488,6 +488,7 @@ Pour aller plus loin dans votre découverte de Cannes et de la Côte d'Azur :
 - [Taxi conventionné Cannes — Centre Antoine Lacassagne Nice](/blog/taxi-conventionne-cannes-centre-antoine-lacassagne-nice) – Trajet santé Cannes ↔ oncologie Nice (addresses officielles)
 - [Aéroport Nice → Cannes : Festival, Lions, congrès 2026](/blog/aeroport-nice-cannes-festival-congres-2026) – Durées en pic et réservation événements
 - [Taxi Cannes Lions 2026](/blog/taxi-cannes-lions-2026-guide-chauffeur-reservation) – Guide chauffeur, déposes Palais & Croisette
+- [Taxi Cannes → Aéroport Nice (départ)](/blog/taxi-cannes-aeroport-nice-depart-guide-2026) – Marges vol, heure de départ & réservation retour
 - [Service Transfert Aéroport Nice-Cannes](/services/transfert-aeroport-nice-cannes) – Détails complets sur notre service de transfert aéroport
 - [Taxi Cannes → Monaco](/services/cannes-monaco) – Service premium vers la Principauté de Monaco
 - [Tarifs Transparents](/tarifs) – Grille tarifaire complète pour tous vos trajets

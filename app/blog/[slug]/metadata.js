@@ -31,6 +31,8 @@ export async function generateMetadata({ params }) {
       "Taxi Gare de Cannes – Réservation 24/7 | Taxi Cannes",
     "taxi-cannes-lions-2026-guide-chauffeur-reservation":
       "Taxi Cannes Lions 2026 : chauffeur, tarifs & réservation | Taxi Cannes",
+    "taxi-cannes-aeroport-nice-depart-guide-2026":
+      "Taxi Cannes Aéroport Nice : départ, marges vol & réservation | Taxi Cannes",
   };
   const seoTitle =
     seoTitleBySlug[post.slug] ?? `${post.title} | Taxi Cannes`;

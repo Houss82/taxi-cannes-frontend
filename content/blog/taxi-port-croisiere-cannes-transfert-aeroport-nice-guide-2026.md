@@ -18,7 +18,7 @@ keywords:
 
 À la fin d’une **croisière** ou lors d’un **jour d’escale** à Cannes, l’étape suivante fait souvent l’unanimité : gagner **l’aéroport Nice–Côte d’Azur (NCE)** sans stress, avec des **bagages volumineux** et parfois un **horaire de vol serré**. Le **port de Cannes** attire chaque saison de nombreux passagers : taxis et VTC sérieux jouent alors un rôle simple mais critique — **ponctualité**, **coffre adapté**, **prise en charge claire**.
 
-Ce guide répond aux intentions « **taxi port Cannes croisière** », « **transfert Cannes port → Nice aéroport** », « **combien de temps avant mon vol** ». Pour le comparatif général Nice ↔ Cannes (navette, bus, tableau des options, grandes FAQ), gardez notre **[guide complet transfert aéroport Nice–Cannes](/blog/guide-transfert-aeroport-nice-cannes)** comme **page pilier** — ici nous restons sur la **logistique port / escale** et le **sens Cannes → Nice** le plus demandé après un débarquement.
+Ce guide répond aux intentions « **taxi port Cannes croisière** », « **transfert Cannes port → Nice aéroport** », « **combien de temps avant mon vol** ». Pour le comparatif général Nice ↔ Cannes, gardez le **[guide pilier](/blog/guide-transfert-aeroport-nice-cannes)** — ici nous restons sur la **logistique port / escale**. Pour un départ **hôtel ou Croisette → Nice** (hors port), voir **[Taxi Cannes → Aéroport Nice](/blog/taxi-cannes-aeroport-nice-depart-guide-2026)**.
 
 <div class="info-box">
 

@@ -431,6 +431,93 @@ export default async function BlogPostPage({ params }) {
             />
           )}
 
+            />
+          )}
+
+          {post.slug === "taxi-cannes-aeroport-nice-depart-guide-2026" && (
+            <Script
+              id="cannes-aeroport-depart-schema"
+              type="application/ld+json"
+              dangerouslySetInnerHTML={{
+                __html: JSON.stringify({
+                  "@context": "https://schema.org",
+                  "@graph": [
+                    {
+                      "@type": "FAQPage",
+                      "@id": `https://www.cannestaxi.fr/blog/${post.slug}#faq`,
+                      mainEntity: [
+                        {
+                          "@type": "Question",
+                          name: "Combien de temps de Cannes à l'aéroport de Nice ?",
+                          acceptedAnswer: {
+                            "@type": "Answer",
+                            text: "Souvent 30 à 40 min depuis la Croisette en circulation normale ; 40 à 55 min en été ou événement.",
+                          },
+                        },
+                        {
+                          "@type": "Question",
+                          name: "À quelle heure partir de Cannes pour un vol à 10h00 ?",
+                          acceptedAnswer: {
+                            "@type": "Answer",
+                            text: "Vol intérieur : prise en charge vers 07h00–07h15 depuis la Croisette. Vol international : plutôt 06h00–06h15.",
+                          },
+                        },
+                        {
+                          "@type": "Question",
+                          name: "Quel est le prix d'un taxi de Cannes à l'aéroport Nice ?",
+                          acceptedAnswer: {
+                            "@type": "Answer",
+                            text: "Forfait réservation : 95 € (centre), 100 € (Croisette/Palais), 120 € (van 8 places).",
+                          },
+                        },
+                        {
+                          "@type": "Question",
+                          name: "Terminal 1 ou Terminal 2 depuis Cannes ?",
+                          acceptedAnswer: {
+                            "@type": "Answer",
+                            text: "Dépose au terminal indiqué sur votre billet. Précisez le n° de vol à la réservation.",
+                          },
+                        },
+                        {
+                          "@type": "Question",
+                          name: "Taxi depuis Le Cannet ou Mougins vers l'aéroport Nice ?",
+                          acceptedAnswer: {
+                            "@type": "Answer",
+                            text: "Oui. Le Cannet : 35–48 min. Mougins : 25–38 min via A8.",
+                          },
+                        },
+                      ],
+                    },
+                    {
+                      "@type": "TaxiService",
+                      "@id": `https://www.cannestaxi.fr/blog/${post.slug}#service`,
+                      name: "Taxi Cannes Aéroport Nice — départ depuis Cannes",
+                      url: `https://www.cannestaxi.fr/blog/${post.slug}`,
+                      telephone: "+33 7 56 82 77 99",
+                      description:
+                        "Transfert taxi départ Cannes vers aéroport Nice Côte d'Azur (T1/T2). Prix fixe, chauffeur local, van 8 places, 24h/24.",
+                      areaServed: [
+                        { "@type": "City", name: "Cannes" },
+                        { "@type": "City", name: "Le Cannet" },
+                        { "@type": "City", name: "Mougins" },
+                        {
+                          "@type": "Airport",
+                          name: "Aéroport Nice Côte d'Azur",
+                          iataCode: "NCE",
+                        },
+                      ],
+                      availableChannel: {
+                        "@type": "ServiceChannel",
+                        serviceUrl: "https://www.cannestaxi.fr/reservation",
+                        servicePhone: "+33 7 56 82 77 99",
+                      },
+                    },
+                  ],
+                }),
+              }}
+            />
+          )}
+
           {post.slug ===
             "taxi-port-croisiere-cannes-transfert-aeroport-nice-guide-2026" && (
             <Script

@@ -211,7 +211,7 @@ Le réseau **Palm Bus** dessert l’agglomération ; depuis la gare, des lignes 
 
 <details class="faq">
   <summary>Taxi de la gare vers l’aéroport Nice : prix et durée ?</summary>
-  <p>Comptez typiquement <strong>90 à 120€</strong> et <strong>25 à 45 minutes</strong> selon circulation — le même ordre de grandeur que sur notre <a href="/services/transfert-aeroport-nice-cannes">page transfert aéroport</a>. Évitez les estimations basses irréalistes pour cette distance.</p>
+  <p>Comptez typiquement <strong>35 à 50 minutes</strong> selon circulation — aligné sur notre guide <a href="/blog/taxi-cannes-aeroport-nice-depart-guide-2026">départ Cannes → aéroport Nice</a> et la <a href="/services/transfert-aeroport-nice-cannes">page transfert</a>. Forfait réservation : <strong>95–100 €</strong> berline.</p>
 </details>
 
 <details class="faq">

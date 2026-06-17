@@ -422,6 +422,7 @@ Des **solutions sur mesure** sont disponibles pour les délégations, les marque
 ## Liens utiles (maillage interne)
 
 - [Aéroport Nice → Cannes : Festival, Lions, congrès](/blog/aeroport-nice-cannes-festival-congres-2026)
+- [Taxi Cannes → Aéroport Nice (départ)](/blog/taxi-cannes-aeroport-nice-depart-guide-2026)
 - [Guide complet transfert aéroport Nice–Cannes](/blog/guide-transfert-aeroport-nice-cannes)
 - [Taxi Palais des Festivals — accès & congrès 2026](/blog/taxi-palais-des-festivals-cannes-acces-congres-evenements-2026)
 - [Événements majeurs Cannes 2026](/blog/evenements-majeurs-cannes-2026-guide-complet)
