@@ -431,9 +431,6 @@ export default async function BlogPostPage({ params }) {
             />
           )}
 
-            />
-          )}
-
           {post.slug === "taxi-cannes-aeroport-nice-depart-guide-2026" && (
             <Script
               id="cannes-aeroport-depart-schema"
