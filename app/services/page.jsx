@@ -67,12 +67,13 @@ export default function Services() {
     {
       title: "Cannes → Antibes",
       desc: "Explorez la Côte d'Azur côté ouest",
-      image: "/antibes-cannes.jpg",
+      image: "/taxi-cannes-antibes-2026.png",
       details: [
         "Express disponible",
         "Trajets touristiques",
         "Guides recommandés",
       ],
+      href: "/blog/taxi-cannes-antibes-juan-les-pins-transfert-guide-2026",
     },
     {
       title: "Chauffeur Privé",

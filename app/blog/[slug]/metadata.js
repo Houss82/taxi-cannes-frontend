@@ -33,6 +33,8 @@ export async function generateMetadata({ params }) {
       "Taxi Cannes Lions 2026 : chauffeur, tarifs & réservation | Taxi Cannes",
     "taxi-cannes-aeroport-nice-depart-guide-2026":
       "Taxi Cannes Aéroport Nice : départ, marges vol & réservation | Taxi Cannes",
+    "taxi-cannes-antibes-juan-les-pins-transfert-guide-2026":
+      "Taxi Cannes Antibes 2026 : durée, tarif Juan-les-Pins & réservation | Taxi Cannes",
   };
   const seoTitle =
     seoTitleBySlug[post.slug] ?? `${post.title} | Taxi Cannes`;

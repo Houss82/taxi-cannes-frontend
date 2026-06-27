@@ -36,6 +36,7 @@ const navItems = [
       },
       { label: "La Croisette", href: "/secteurs/la-croisette" },
       { label: "Le Suquet", href: "/secteurs/le-suquet" },
+      { label: "La Bocca", href: "/secteurs/la-bocca" },
     ],
   },
   { label: "Tarifs", href: "/tarifs" },

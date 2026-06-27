@@ -152,6 +152,10 @@ Même logistique que pour la Croisette selon sens de circulation ; en période d
 
 **Durée** : comptez souvent **30 à 45 minutes** selon trafic (et plus aux heures denses), pas une durée « fixe » de 30 minutes. **Tarif** : alignez-vous sur la **fourchette du tableau** (95–120€) et sur le [guide transfert aéroport](/blog/guide-transfert-aeroport-nice-cannes) — le devis téléphonique ou en ligne fait foi.
 
+### Antibes et Juan-les-Pins
+
+**Durée** : souvent **15 à 25 minutes** depuis la gare ou le centre. Liaison fréquente pour correspondances **TER** ou escale entre **gare Cannes** et **gare Antibes**. Voir le **[guide taxi Cannes → Antibes](/blog/taxi-cannes-antibes-juan-les-pins-transfert-guide-2026)** (forfait **45 €** sur la grille).
+
 ---
 
 ## Bagages, train de nuit, familles

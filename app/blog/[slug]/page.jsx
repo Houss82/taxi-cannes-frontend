@@ -631,6 +631,90 @@ export default async function BlogPostPage({ params }) {
             />
           )}
 
+          {post.slug ===
+            "taxi-cannes-antibes-juan-les-pins-transfert-guide-2026" && (
+            <Script
+              id="taxi-antibes-schema"
+              type="application/ld+json"
+              dangerouslySetInnerHTML={{
+                __html: JSON.stringify({
+                  "@context": "https://schema.org",
+                  "@graph": [
+                    {
+                      "@type": "FAQPage",
+                      "@id": `https://www.cannestaxi.fr/blog/${post.slug}#faq`,
+                      mainEntity: [
+                        {
+                          "@type": "Question",
+                          name: "Combien de temps en taxi de Cannes à Antibes ?",
+                          acceptedAnswer: {
+                            "@type": "Answer",
+                            text: "15 à 25 minutes vers le centre ou Juan-les-Pins hors pic ; 25 à 35 minutes en été ou week-end.",
+                          },
+                        },
+                        {
+                          "@type": "Question",
+                          name: "Quel est le prix d'un taxi Cannes Antibes ?",
+                          acceptedAnswer: {
+                            "@type": "Answer",
+                            text: "45 € sur la grille tarifaire Taxi Cannes pour Cannes → Antibes, confirmé à la réservation.",
+                          },
+                        },
+                        {
+                          "@type": "Question",
+                          name: "Proposez-vous des trajets vers Juan-les-Pins ?",
+                          acceptedAnswer: {
+                            "@type": "Answer",
+                            text: "Oui, Juan-les-Pins fait partie d'Antibes. Dépose hôtel, plage ou adresse précise.",
+                          },
+                        },
+                        {
+                          "@type": "Question",
+                          name: "Peut-on aller à Sophia Antipolis depuis Cannes ?",
+                          acceptedAnswer: {
+                            "@type": "Answer",
+                            text: "Oui, trajets professionnels quotidiens vers Sophia Antipolis depuis Cannes.",
+                          },
+                        },
+                        {
+                          "@type": "Question",
+                          name: "Prenez-vous en charge à la gare SNCF d'Antibes ?",
+                          acceptedAnswer: {
+                            "@type": "Answer",
+                            text: "Oui, prise en charge à la sortie gare vers Cannes ou autre destination.",
+                          },
+                        },
+                      ],
+                    },
+                    {
+                      "@type": "TaxiService",
+                      "@id": `https://www.cannestaxi.fr/blog/${post.slug}#service`,
+                      name: "Taxi Cannes - Transfert Antibes Juan-les-Pins",
+                      url: `https://www.cannestaxi.fr/blog/${post.slug}`,
+                      telephone: "+33 7 56 82 77 99",
+                      description:
+                        "Transfert taxi Cannes vers Antibes, Juan-les-Pins et Sophia Antipolis : réservation 24h/24, forfait 45 €, chauffeur local.",
+                      areaServed: [
+                        { "@type": "City", name: "Cannes" },
+                        { "@type": "City", name: "Antibes" },
+                        {
+                          "@type": "Place",
+                          name: "Juan-les-Pins",
+                          containedInPlace: { "@type": "City", name: "Antibes" },
+                        },
+                      ],
+                      availableChannel: {
+                        "@type": "ServiceChannel",
+                        serviceUrl: "https://www.cannestaxi.fr/reservation",
+                        servicePhone: "+33 7 56 82 77 99",
+                      },
+                    },
+                  ],
+                }),
+              }}
+            />
+          )}
+
           {post.slug === "taxi-cannes-saint-tropez-transfert-guide-2026" && (
             <Script
               id="taxi-st-tropez-schema"

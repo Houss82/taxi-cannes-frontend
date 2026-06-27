@@ -151,7 +151,7 @@ Se rendre aux villes et villages autour de Cannes présente plusieurs défis :
 
 - **Voiture** : D6007 (20 min) - Stationnement difficile en été
 - **Bus** : Ligne 200 (Lignes d'Azur) - 25-30 minutes, toutes les 15-20 min
-- **Taxi** (recommandé) : 20 minutes direct - À partir de 30€
+- **Taxi** (recommandé) : 20 minutes direct - À partir de 30€ — voir notre **[guide taxi Cannes → Antibes & Juan-les-Pins](/blog/taxi-cannes-antibes-juan-les-pins-transfert-guide-2026)** (durées, forfait 45 €, Sophia Antipolis)
 
 ### 🎭 Saint-Paul-de-Vence : village perché des artistes
 

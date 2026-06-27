@@ -12,7 +12,7 @@ language: "fr"
 
 **Transfert taxi Cannes Saint-Tropez** : liaison longue sur le Var et le golfe de Saint-Tropez — **environ 1 h 20 à 1 h 50** selon trafic et saison, **forfait type affiché sur notre grille tarifaire** (**260 €** pour la liaison Cannes → Saint-Tropez sur la page [Tarifs](/tarifs), sous réserve de confirmation au moment de la réservation). Appelez le **+33 7 56 82 77 99** ou [réservez en ligne](/reservation) en indiquant l’heure souhaitée et l’adresse précise de **prise en charge** (Croisette, gare, hôtel, villa) et de **dépose** (port, centre-ville, Ramatuelle, hôtels du littoral).
 
-Ce guide est **local et pratique** : il complète notre **[taxi Cannes → Monaco](/blog/taxi-cannes-monaco-guide-complet)** et les **[excursions villages autour de Cannes](/blog/villages-autour-cannes-excursions-transport-2025)** en ciblant **une seule liaison** très demandée l’été et les week-ends.
+Ce guide est **local et pratique** : il complète notre **[taxi Cannes → Monaco](/blog/taxi-cannes-monaco-guide-complet)**, **[taxi Cannes → Antibes](/blog/taxi-cannes-antibes-juan-les-pins-transfert-guide-2026)** et les **[excursions villages autour de Cannes](/blog/villages-autour-cannes-excursions-transport-2025)** en ciblant **une seule liaison** très demandée l’été et les week-ends.
 
 <div class="kpi-strip">
   <span class="badge info">1 h 20 – 1 h 50</span>
