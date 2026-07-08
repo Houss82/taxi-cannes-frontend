@@ -35,6 +35,8 @@ export async function generateMetadata({ params }) {
       "Taxi Cannes Aéroport Nice : départ, marges vol & réservation | Taxi Cannes",
     "taxi-cannes-antibes-juan-les-pins-transfert-guide-2026":
       "Taxi Cannes Antibes 2026 : durée, tarif Juan-les-Pins & réservation | Taxi Cannes",
+    "chauffeur-prive-cannes-mise-a-disposition-2026":
+      "Chauffeur privé à Cannes : mise à disposition 4h/8h | Taxi Cannes",
   };
   const seoTitle =
     seoTitleBySlug[post.slug] ?? `${post.title} | Taxi Cannes`;

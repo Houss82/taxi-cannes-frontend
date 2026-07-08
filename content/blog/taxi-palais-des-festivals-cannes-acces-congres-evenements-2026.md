@@ -57,6 +57,8 @@ Le taxi peut vous déposer **directement devant l'entrée principale** du Palais
 - **Disponible 24h/24** : Même pour les événements tôt le matin ou tard le soir
 - **Coffre spacieux** : Idéal pour les valises, matériel de congrès ou échantillons
 
+Si vous enchaînez plusieurs rendez-vous (hôtel → Palais → déjeuner → second rendez‑vous), la **mise à disposition** avec chauffeur dédié est souvent la solution la plus fluide : **[Chauffeur privé Cannes (4h/8h)](/blog/chauffeur-prive-cannes-mise-a-disposition-2026)**.
+
 ### Tarifs indicatifs
 
 <div class="content-box" style="overflow-x: auto; -webkit-overflow-scrolling: touch;">

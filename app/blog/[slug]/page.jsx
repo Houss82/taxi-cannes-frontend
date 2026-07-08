@@ -715,6 +715,85 @@ export default async function BlogPostPage({ params }) {
             />
           )}
 
+          {post.slug === "chauffeur-prive-cannes-mise-a-disposition-2026" && (
+            <Script
+              id="chauffeur-prive-schema"
+              type="application/ld+json"
+              dangerouslySetInnerHTML={{
+                __html: JSON.stringify({
+                  "@context": "https://schema.org",
+                  "@graph": [
+                    {
+                      "@type": "FAQPage",
+                      "@id": `https://www.cannestaxi.fr/blog/${post.slug}#faq`,
+                      mainEntity: [
+                        {
+                          "@type": "Question",
+                          name: "Taxi Cannes propose-t-il aussi un chauffeur privé ?",
+                          acceptedAnswer: {
+                            "@type": "Answer",
+                            text: "Oui. Taxi Cannes est un service de taxi premium local qui propose des mises à disposition (4h/8h) avec chauffeur dédié, en plus des trajets classiques.",
+                          },
+                        },
+                        {
+                          "@type": "Question",
+                          name: "Quelle est la différence entre taxi et mise à disposition ?",
+                          acceptedAnswer: {
+                            "@type": "Answer",
+                            text: "Le taxi classique = 1 trajet, forfait au trajet. La mise à disposition = plusieurs trajets sur une durée (4h/8h), même chauffeur, attente incluse.",
+                          },
+                        },
+                        {
+                          "@type": "Question",
+                          name: "Quel est le tarif d'une mise à disposition à Cannes ?",
+                          acceptedAnswer: {
+                            "@type": "Answer",
+                            text: "Repères : 240€ (4h) et 420€ (8h), confirmés à la réservation selon planning et véhicule.",
+                          },
+                        },
+                        {
+                          "@type": "Question",
+                          name: "Combien de déplacements en 8 heures ?",
+                          acceptedAnswer: {
+                            "@type": "Answer",
+                            text: "En général 6 à 12 déplacements selon la distance entre chaque point et le temps d'attente sur place.",
+                          },
+                        },
+                        {
+                          "@type": "Question",
+                          name: "La Mercedes Classe S est-elle disponible ?",
+                          acceptedAnswer: {
+                            "@type": "Answer",
+                            text: "Oui, sur demande et selon disponibilité. Indiquez ce choix à la réservation pour confirmation.",
+                          },
+                        },
+                      ],
+                    },
+                    {
+                      "@type": "TaxiService",
+                      "@id": `https://www.cannestaxi.fr/blog/${post.slug}#service`,
+                      name: "Taxi Cannes - Chauffeur privé (mise à disposition)",
+                      url: `https://www.cannestaxi.fr/blog/${post.slug}`,
+                      telephone: "+33 7 56 82 77 99",
+                      description:
+                        "Chauffeur privé à Cannes : mise à disposition 4h/8h pour congrès, événements et déplacements multi-arrêts. Réservation 24h/24, Mercedes Classe S selon disponibilité, van sur demande.",
+                      areaServed: [
+                        { "@type": "City", name: "Cannes" },
+                        { "@type": "Place", name: "La Croisette" },
+                        { "@type": "Place", name: "Palais des Festivals" },
+                      ],
+                      availableChannel: {
+                        "@type": "ServiceChannel",
+                        serviceUrl: "https://www.cannestaxi.fr/reservation",
+                        servicePhone: "+33 7 56 82 77 99",
+                      },
+                    },
+                  ],
+                }),
+              }}
+            />
+          )}
+
           {post.slug === "taxi-cannes-saint-tropez-transfert-guide-2026" && (
             <Script
               id="taxi-st-tropez-schema"

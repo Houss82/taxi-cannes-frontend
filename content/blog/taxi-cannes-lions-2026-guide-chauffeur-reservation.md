@@ -63,6 +63,8 @@ Depuis plusieurs années, la semaine des Cannes Lions fait partie des **période
 
 Contrairement au **Festival de Cannes** (cinéma), où les déplacements concernent surtout projections et hôtels, les participants du Cannes Lions **multiplient les rendez-vous dans toute la ville**. Un directeur créatif peut commencer au **Palais** à 9h, déjeuner sur une **plage privée** à midi, rejoindre un **brand experience** au **Port Canto** à 16h et terminer au **Martinez** à 23h.
 
+Dans ce cas, la solution la plus confortable est souvent une **mise à disposition** avec **chauffeur dédié** (plusieurs trajets dans la journée, moins d'attente). Voir notre guide **[Chauffeur privé Cannes (4h/8h)](/blog/chauffeur-prive-cannes-mise-a-disposition-2026)**.
+
 **Exemple concret** (anonymisé) : une délégation d'agence londonienne arrive à **Nice T2** un lundi matin. Nous assurons le **transfert vers le Carlton** (bagages + 4 passagers), puis trois courses locales dans l'après-midi (Palais ↔ plage), et un retour **Palais → hôtel** après 22h. Sans réservation anticipée, le créneau de fin de soirée est le plus difficile à couvrir « à la volée ».
 
 Les demandes concernent principalement :
