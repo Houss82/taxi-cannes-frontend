@@ -106,7 +106,7 @@ Se rendre aux villes et villages autour de Cannes présente plusieurs défis :
 
 - **Voiture** : D6185 puis D2085 (20 min) - Stationnement difficile
 - **Bus** : Ligne 600 (Palm Bus) - 30-40 minutes, toutes les 30 min
-- **Taxi** (recommandé) : 20 minutes direct, pas de stationnement - À partir de 35€
+- **Taxi** (recommandé) : 25–35 minutes direct — forfait **65 €** sur notre grille — voir le **[guide taxi Cannes → Grasse](/blog/taxi-cannes-grasse-transfert-guide-2026)** (parfumeries, aller-retour, gare)
 
 ### 🎨 Mougins : village des arts et de la gastronomie
 

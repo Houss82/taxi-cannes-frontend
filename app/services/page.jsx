@@ -76,6 +76,13 @@ export default function Services() {
       href: "/blog/taxi-cannes-antibes-juan-les-pins-transfert-guide-2026",
     },
     {
+      title: "Cannes → Grasse",
+      desc: "Capitale du parfum : parfumeries, vieille ville, gare",
+      image: "/taxi-cannes-grasse-2026.png",
+      details: ["Forfait 65 €", "Dépose parfumeries", "Aller-retour possible"],
+      href: "/blog/taxi-cannes-grasse-transfert-guide-2026",
+    },
+    {
       title: "Chauffeur Privé",
       desc: "Location avec chauffeur pour demi-journée ou journée complète",
       image: "/chauffeur-prive.jpg",

@@ -247,7 +247,7 @@ Objectif : pas de parking à gérer, pas d'« app-hunting » en période dense.
 
 - **Cannes → Antibes vieille ville → Juan-les-Pins → retour** — [guide Antibes](/blog/taxi-cannes-antibes-juan-les-pins-transfert-guide-2026) ;
 - **Croisette → Palais → déjeuner → rendez-vous → hôtel** ;
-- **Cannes → Mougins → Grasse → retour** — [villages autour de Cannes](/blog/villages-autour-cannes-excursions-transport-2025) ;
+- **Cannes → Mougins → Grasse → retour** — [taxi Cannes → Grasse](/blog/taxi-cannes-grasse-transfert-guide-2026) et [villages autour de Cannes](/blog/villages-autour-cannes-excursions-transport-2025) ;
 - **Sortie soirée** : hôtel → restaurant → club → retour.
 
 ---

@@ -794,6 +794,85 @@ export default async function BlogPostPage({ params }) {
             />
           )}
 
+          {post.slug === "taxi-cannes-grasse-transfert-guide-2026" && (
+            <Script
+              id="taxi-grasse-schema"
+              type="application/ld+json"
+              dangerouslySetInnerHTML={{
+                __html: JSON.stringify({
+                  "@context": "https://schema.org",
+                  "@graph": [
+                    {
+                      "@type": "FAQPage",
+                      "@id": `https://www.cannestaxi.fr/blog/${post.slug}#faq`,
+                      mainEntity: [
+                        {
+                          "@type": "Question",
+                          name: "Combien de temps en taxi de Cannes à Grasse ?",
+                          acceptedAnswer: {
+                            "@type": "Answer",
+                            text: "25 à 40 minutes selon l'heure et le point de dépose ; 35 à 45 minutes en haute saison touristique.",
+                          },
+                        },
+                        {
+                          "@type": "Question",
+                          name: "Quel est le prix d'un taxi Cannes Grasse ?",
+                          acceptedAnswer: {
+                            "@type": "Answer",
+                            text: "65 € sur la grille tarifaire Taxi Cannes pour Cannes → Grasse, confirmé à la réservation.",
+                          },
+                        },
+                        {
+                          "@type": "Question",
+                          name: "Proposez-vous une dépose devant une parfumerie à Grasse ?",
+                          acceptedAnswer: {
+                            "@type": "Answer",
+                            text: "Oui. Indiquez le nom exact de la parfumerie (Fragonard, Galimard, Molinard…) à la réservation.",
+                          },
+                        },
+                        {
+                          "@type": "Question",
+                          name: "Peut-on réserver un aller-retour avec attente ?",
+                          acceptedAnswer: {
+                            "@type": "Answer",
+                            text: "Oui. Précisez la durée d'attente ou optez pour une mise à disposition 4h.",
+                          },
+                        },
+                        {
+                          "@type": "Question",
+                          name: "Peut-on combiner Mougins et Grasse le même jour ?",
+                          acceptedAnswer: {
+                            "@type": "Answer",
+                            text: "Oui, souvent en mise à disposition demi-journée ou journée.",
+                          },
+                        },
+                      ],
+                    },
+                    {
+                      "@type": "TaxiService",
+                      "@id": `https://www.cannestaxi.fr/blog/${post.slug}#service`,
+                      name: "Taxi Cannes - Transfert Grasse",
+                      url: `https://www.cannestaxi.fr/blog/${post.slug}`,
+                      telephone: "+33 7 56 82 77 99",
+                      description:
+                        "Transfert taxi Cannes vers Grasse : parfumeries, vieille ville, gare SNCF. Forfait 65 €, réservation 24h/24, van sur demande.",
+                      areaServed: [
+                        { "@type": "City", name: "Cannes" },
+                        { "@type": "City", name: "Grasse" },
+                        { "@type": "City", name: "Mougins" },
+                      ],
+                      availableChannel: {
+                        "@type": "ServiceChannel",
+                        serviceUrl: "https://www.cannestaxi.fr/reservation",
+                        servicePhone: "+33 7 56 82 77 99",
+                      },
+                    },
+                  ],
+                }),
+              }}
+            />
+          )}
+
           {post.slug === "taxi-cannes-saint-tropez-transfert-guide-2026" && (
             <Script
               id="taxi-st-tropez-schema"

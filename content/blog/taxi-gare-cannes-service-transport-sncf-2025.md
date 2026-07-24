@@ -156,6 +156,10 @@ Même logistique que pour la Croisette selon sens de circulation ; en période d
 
 **Durée** : souvent **15 à 25 minutes** depuis la gare ou le centre. Liaison fréquente pour correspondances **TER** ou escale entre **gare Cannes** et **gare Antibes**. Voir le **[guide taxi Cannes → Antibes](/blog/taxi-cannes-antibes-juan-les-pins-transfert-guide-2026)** (forfait **45 €** sur la grille).
 
+### Grasse
+
+**Durée** : souvent **25 à 40 minutes**. Utile pour une correspondance **TER** vers la gare de Grasse ou une excursion parfumeries. Voir le **[guide taxi Cannes → Grasse](/blog/taxi-cannes-grasse-transfert-guide-2026)** (forfait **65 €**).
+
 ---
 
 ## Bagages, train de nuit, familles
