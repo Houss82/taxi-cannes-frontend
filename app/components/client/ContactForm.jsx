@@ -1,12 +1,14 @@
 "use client"
 
 import { useState } from "react"
-import { CheckCircle, AlertCircle } from "lucide-react"
+import { useRouter } from "next/navigation"
+import { AlertCircle } from "lucide-react"
 import Card from "../ui/Card"
 import Button from "../ui/Button"
 import Input from "../ui/Input"
 
 export default function ContactForm() {
+  const router = useRouter()
   const [formData, setFormData] = useState({
     name: "",
     email: "",
@@ -14,7 +16,6 @@ export default function ContactForm() {
     message: "",
   })
 
-  const [submitted, setSubmitted] = useState(false)
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState("")
 
@@ -43,17 +44,8 @@ export default function ContactForm() {
         throw new Error("Erreur lors de l'envoi du message")
       }
 
-      setSubmitted(true)
-      // Réinitialiser le formulaire après 5 secondes
-      setTimeout(() => {
-        setSubmitted(false)
-        setFormData({
-          name: "",
-          email: "",
-          subject: "",
-          message: "",
-        })
-      }, 5000)
+      router.push("/contact/succes")
+      return
     } catch (err) {
       setError(err.message || "Une erreur est survenue. Veuillez réessayer.")
       console.error("Erreur lors de la soumission:", err)
@@ -65,25 +57,15 @@ export default function ContactForm() {
   return (
     <Card className="p-8">
       <h2 className="text-2xl font-bold mb-6">Formulaire de Contact</h2>
-      {submitted ? (
-        <div className="flex flex-col items-center justify-center py-12">
-          <CheckCircle className="w-16 h-16 text-accent mb-4" />
-          <h3 className="text-2xl font-bold mb-2">Message Envoyé!</h3>
-          <p className="text-muted-foreground text-center">
-            Votre message a été envoyé avec succès. Nous vous répondrons dans les plus brefs délais.
-          </p>
+      {error && (
+        <div className="mb-6 p-4 bg-destructive/10 border border-destructive/20 rounded-lg flex items-start gap-3">
+          <AlertCircle className="w-5 h-5 text-destructive shrink-0 mt-0.5" />
+          <div>
+            <p className="text-sm font-medium text-destructive">{error}</p>
+          </div>
         </div>
-      ) : (
-        <>
-          {error && (
-            <div className="mb-6 p-4 bg-destructive/10 border border-destructive/20 rounded-lg flex items-start gap-3">
-              <AlertCircle className="w-5 h-5 text-destructive shrink-0 mt-0.5" />
-              <div>
-                <p className="text-sm font-medium text-destructive">{error}</p>
-              </div>
-            </div>
-          )}
-          <form onSubmit={handleSubmit} className="space-y-4">
+      )}
+      <form onSubmit={handleSubmit} className="space-y-4">
             <div>
               <label className="block text-sm font-medium mb-2">Nom</label>
               <Input
@@ -138,9 +120,6 @@ export default function ContactForm() {
               {loading ? "Envoi en cours..." : "Envoyer le Message"}
             </Button>
           </form>
-        </>
-      )}
     </Card>
   )
 }
-
