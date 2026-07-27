@@ -1,5 +1,6 @@
 import { CheckCircle, Phone } from "lucide-react";
 import Link from "next/link";
+import Script from "next/script";
 import Button from "@/app/components/ui/Button";
 
 export const metadata = {
@@ -18,6 +19,13 @@ export const metadata = {
 export default function ReservationSuccesPage() {
   return (
     <main className="min-h-screen bg-white pt-32 pb-20">
+      {/* Event snippet for Envoi de formulaire de lead conversion page */}
+      <Script id="google-ads-conversion-lead" strategy="afterInteractive">
+        {`
+          gtag('event', 'conversion', {'send_to': 'AW-18336988709/b6r_CLztu9ccEKX84KdE'});
+        `}
+      </Script>
+
       <div className="max-w-2xl mx-auto px-6 text-center">
         <div className="inline-flex items-center justify-center w-20 h-20 rounded-full bg-accent/10 mb-6">
           <CheckCircle className="w-12 h-12 text-accent" />
