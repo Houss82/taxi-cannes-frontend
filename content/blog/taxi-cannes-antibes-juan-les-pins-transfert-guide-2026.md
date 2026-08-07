@@ -109,7 +109,7 @@ La distance routière entre **Cannes centre** et **Antibes centre** est d'enviro
   </table>
 </div>
 
-**Pics de trafic** à anticiper : sortie de **Cannes** (Boulevard Carnot, La Bocca) le matin ; **entrée Juan-les-Pins** les après-midis d'été ; axe **Antibes → Nice** en parallèle des flux aéroport (voir notre guide **[départ Cannes → aéroport Nice](/blog/taxi-cannes-aeroport-nice-depart-guide-2026)** pour la logique de marge sur l'A8).
+**Pics de trafic** à anticiper : sortie de **Cannes** ([Boulevard Carnot](/secteurs/boulevard-carnot), [La Bocca](/blog/taxi-cannes-la-bocca-guide-2026)) le matin ; **entrée Juan-les-Pins** les après-midis d'été ; axe **Antibes → Nice** en parallèle des flux aéroport (voir notre guide **[départ Cannes → aéroport Nice](/blog/taxi-cannes-aeroport-nice-depart-guide-2026)** pour la logique de marge sur l'A8).
 
 ---
 

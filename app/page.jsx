@@ -307,10 +307,16 @@ export default function Home() {
             Taxi à Cannes – Taxi conventionné CPAM & transferts 24h/24
           </h2>
           <p className="text-lg text-gray-700 text-center leading-relaxed">
-            À Cannes, nous assurons les trajets en taxi (Cannes centre, La Bocca, la Croisette, le
-            Suquet) et les transferts vers l&apos;aéroport Nice Côte d&apos;Azur.
-            Service de taxi disponible 24h/24 et 7j/7 sur Cannes et les
-            Alpes-Maritimes. Pour un{" "}
+            À Cannes, nous assurons les trajets en taxi (Cannes centre,{" "}
+            <Link
+              href="/secteurs/la-bocca"
+              className="font-bold text-gray-900 underline decoration-gray-300 underline-offset-2 hover:text-accent hover:decoration-accent/50"
+            >
+              La Bocca
+            </Link>
+            , la Croisette, le Suquet) et les transferts vers l&apos;aéroport
+            Nice Côte d&apos;Azur. Service de taxi disponible 24h/24 et 7j/7 sur
+            Cannes et les Alpes-Maritimes. Pour un{" "}
             <Link
               href="/services/taxi-conventionne-cpam-cannes"
               className="font-bold text-gray-900 underline decoration-gray-300 underline-offset-2 hover:text-accent hover:decoration-accent/50"

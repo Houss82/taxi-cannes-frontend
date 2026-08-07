@@ -118,7 +118,14 @@ export default function LaBocca() {
               Nous assurons les trajets vers et depuis les plages, le marché,
               l&apos;Avenue Francis Tonner, les résidences et commerces du
               secteur. Service disponible 24h/24 et 7j/7 sur Cannes et les
-              Alpes-Maritimes.
+              Alpes-Maritimes. Guide détaillé :{" "}
+              <Link
+                href="/blog/taxi-cannes-la-bocca-guide-2026"
+                className="text-accent font-semibold hover:underline underline-offset-2"
+              >
+                taxi Cannes La Bocca
+              </Link>{" "}
+              (durées, tarifs, FAQ).
             </p>
           </div>
 
@@ -344,7 +351,14 @@ export default function LaBocca() {
                 </summary>
                 <p className="mt-4 text-gray-700">
                   Comptez environ <strong>20€ à 35€</strong> selon l&apos;adresse
-                  exacte et le trafic. Contactez-nous pour un devis précis.
+                  exacte et le trafic. Détails dans notre{" "}
+                  <Link
+                    href="/blog/taxi-cannes-la-bocca-guide-2026"
+                    className="text-accent font-semibold hover:underline"
+                  >
+                    guide taxi La Bocca
+                  </Link>
+                  . Contactez-nous pour un devis précis.
                 </p>
               </details>
               <details className="bg-white rounded-lg p-6 border border-gray-200">

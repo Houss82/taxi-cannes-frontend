@@ -873,6 +873,84 @@ export default async function BlogPostPage({ params }) {
             />
           )}
 
+          {post.slug === "taxi-cannes-la-bocca-guide-2026" && (
+            <Script
+              id="taxi-la-bocca-schema"
+              type="application/ld+json"
+              dangerouslySetInnerHTML={{
+                __html: JSON.stringify({
+                  "@context": "https://schema.org",
+                  "@graph": [
+                    {
+                      "@type": "FAQPage",
+                      "@id": `https://www.cannestaxi.fr/blog/${post.slug}#faq`,
+                      mainEntity: [
+                        {
+                          "@type": "Question",
+                          name: "Combien coûte un taxi La Bocca → Croisette ?",
+                          acceptedAnswer: {
+                            "@type": "Answer",
+                            text: "Souvent 20 € à 35 € selon l'adresse exacte et le trafic. Devis précis à la réservation.",
+                          },
+                        },
+                        {
+                          "@type": "Question",
+                          name: "Combien de temps de La Bocca à l'aéroport Nice ?",
+                          acceptedAnswer: {
+                            "@type": "Answer",
+                            text: "En général 30 à 45 minutes ; 40 à 55 minutes en été ou pic de trafic.",
+                          },
+                        },
+                        {
+                          "@type": "Question",
+                          name: "Peut-on réserver un taxi pour la plage de La Bocca ?",
+                          acceptedAnswer: {
+                            "@type": "Answer",
+                            text: "Oui — dépose au plus près de la promenade. En haute saison, réservez le créneau à l'avance.",
+                          },
+                        },
+                        {
+                          "@type": "Question",
+                          name: "Desservez-vous le marché de La Bocca ?",
+                          acceptedAnswer: {
+                            "@type": "Answer",
+                            text: "Oui, avec possibilité d'attente pendant les courses selon durée.",
+                          },
+                        },
+                        {
+                          "@type": "Question",
+                          name: "Taxi La Bocca vers Antibes : quel prix ?",
+                          acceptedAnswer: {
+                            "@type": "Answer",
+                            text: "Liaison ouest proche ; forfait type 45 € depuis Cannes centre, confirmation selon adresse exacte à La Bocca.",
+                          },
+                        },
+                      ],
+                    },
+                    {
+                      "@type": "TaxiService",
+                      "@id": `https://www.cannestaxi.fr/blog/${post.slug}#service`,
+                      name: "Taxi Cannes - La Bocca",
+                      url: `https://www.cannestaxi.fr/blog/${post.slug}`,
+                      telephone: "+33 7 56 82 77 99",
+                      description:
+                        "Taxi Cannes La Bocca : plage, Avenue Francis Tonner, marché, transferts aéroport Nice et Croisette. Réservation 24h/24.",
+                      areaServed: [
+                        { "@type": "City", name: "Cannes" },
+                        { "@type": "Place", name: "La Bocca" },
+                      ],
+                      availableChannel: {
+                        "@type": "ServiceChannel",
+                        serviceUrl: "https://www.cannestaxi.fr/reservation",
+                        servicePhone: "+33 7 56 82 77 99",
+                      },
+                    },
+                  ],
+                }),
+              }}
+            />
+          )}
+
           {post.slug === "taxi-cannes-saint-tropez-transfert-guide-2026" && (
             <Script
               id="taxi-st-tropez-schema"
