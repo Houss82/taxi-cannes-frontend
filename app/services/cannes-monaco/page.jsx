@@ -13,6 +13,7 @@ export const metadata = {
 
 import { MapPin, Clock, Shield, CheckCircle, Compass, Users } from "lucide-react";
 import Image from "next/image";
+import Link from "next/link";
 import Button from "@/app/components/ui/Button";
 
 export default function CannesMonaco() {
@@ -156,9 +157,16 @@ export default function CannesMonaco() {
                 Que vous vous rendiez à Monaco pour les affaires, le Grand Prix,
                 un événement au Casino ou simplement pour découvrir la
                 Principauté, nos chauffeurs connaissent parfaitement les
-                itinéraires et les horaires de circulation. Ils adaptent le trajet
-                selon vos besoins et vous garantissent une arrivée ponctuelle à
-                destination.
+                itinéraires et les horaires de circulation. Arrivée{" "}
+                <Link
+                  href="/services/transfert-aeroport-nice-cannes"
+                  className="text-accent font-semibold hover:underline underline-offset-2"
+                >
+                  taxi depuis l&apos;aéroport Nice
+                </Link>{" "}
+                puis continuation vers Monaco possible sur devis. Ils adaptent
+                le trajet selon vos besoins et vous garantissent une arrivée
+                ponctuelle à destination.
               </p>
             </div>
 

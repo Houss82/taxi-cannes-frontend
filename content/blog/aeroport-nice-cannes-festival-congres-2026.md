@@ -154,7 +154,7 @@ Téléphone **+33 7 56 82 77 99** ou [formulaire en ligne](/reservation).
 
 <details class="faq">
   <summary>Quel prix pour l’aéroport de Nice jusqu’au Palais des Festivals ?</summary>
-  <p>Sur notre grille actuelle : <strong>100 €</strong> en forfait réservation (palaces / Croisette / dépose Palais dans cette logique tarifaire). Détail dans le <a href="/blog/guide-transfert-aeroport-nice-cannes">guide pilier</a>.</p>
+  <p>Sur notre grille actuelle : <strong>100 €</strong> en forfait réservation (palaces / Croisette / dépose Palais dans cette logique tarifaire). Détail dans le <a href="/blog/guide-transfert-aeroport-nice-cannes">guide pilier</a> · <a href="/services/transfert-aeroport-nice-cannes">taxi depuis l'aéroport Nice</a>.</p>
 </details>
 
 <details class="faq">

@@ -24,6 +24,7 @@ import {
   UtensilsCrossed,
 } from "lucide-react";
 import Image from "next/image";
+import Link from "next/link";
 
 export default function LeSuquet() {
   return (
@@ -243,7 +244,13 @@ export default function LeSuquet() {
                   <Car className="w-5 h-5 text-accent mt-1 shrink-0" />
                   <span>
                     <strong>Transferts aéroport</strong> : Depuis le Suquet vers
-                    l&apos;aéroport Nice Côte d&apos;Azur
+                    l&apos;
+                    <Link
+                      href="/services/transfert-aeroport-nice-cannes"
+                      className="text-accent font-semibold hover:underline underline-offset-2"
+                    >
+                      aéroport Nice Côte d&apos;Azur
+                    </Link>
                   </span>
                 </li>
                 <li className="flex items-start gap-3">
@@ -330,6 +337,22 @@ export default function LeSuquet() {
                   Le trajet depuis la Croisette vers le Suquet coûte environ{" "}
                   <strong>8€ à 12€</strong> pour une durée de 3 à 5 minutes.
                   Contactez-nous pour un devis précis.
+                </p>
+              </details>
+              <details className="bg-white rounded-lg p-6 border border-gray-200">
+                <summary className="font-bold text-lg cursor-pointer">
+                  Taxi Le Suquet depuis l&apos;aéroport Nice ?
+                </summary>
+                <p className="mt-4 text-gray-700">
+                  Oui — forfait réservation type centre / Suquet. Détails et
+                  réservation sur{" "}
+                  <Link
+                    href="/services/transfert-aeroport-nice-cannes"
+                    className="text-accent font-semibold hover:underline underline-offset-2"
+                  >
+                    transfert vers Cannes
+                  </Link>
+                  .
                 </p>
               </details>
               <details className="bg-white rounded-lg p-6 border border-gray-200">

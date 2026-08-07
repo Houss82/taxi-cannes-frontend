@@ -128,7 +128,7 @@ Le **MIPIM** (Marché International des Professionnels de l'Immobilier) est le p
 
 **Défis de transport** : Les délégués ont besoin de transport fiable pour se rendre aux congrès depuis leurs hôtels, souvent situés à plusieurs kilomètres du Palais des Festivals. Le stationnement est limité et coûteux pendant le MIPIM.
 
-**Solution taxi** : Service de transport professionnel pour les délégués, avec réservation à l'avance pour garantir la ponctualité. Transport vers et depuis les hôtels, aéroport, et lieux de congrès.
+**Solution taxi** : Service de transport professionnel pour les délégués, avec réservation à l'avance pour garantir la ponctualité. Transport vers et depuis les hôtels, [transfert privé aéroport Nice](/services/transfert-aeroport-nice-cannes), et lieux de congrès.
 
 ### 🎯 Cannes Lions 2026 – Festival international de la créativité
 
@@ -156,7 +156,7 @@ Cannes accueille également de nombreux autres congrès internationaux tout au l
 
 **Défis de transport** : Les délégués ont besoin de transport fiable pour se rendre aux congrès depuis leurs hôtels. Le stationnement est limité et coûteux pendant les périodes de congrès.
 
-**Solution taxi** : Service de transport professionnel avec réservation à l'avance pour garantir la ponctualité. Transport vers et depuis les hôtels, aéroport, et lieux de congrès.
+**Solution taxi** : Service de transport professionnel avec réservation à l'avance pour garantir la ponctualité. Transport vers et depuis les hôtels, [transfert vers Cannes](/services/transfert-aeroport-nice-cannes) depuis Nice, et lieux de congrès.
 
 ### 🏃 Événements sportifs 2026
 

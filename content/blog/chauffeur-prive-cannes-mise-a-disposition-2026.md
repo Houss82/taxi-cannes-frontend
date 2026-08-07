@@ -58,7 +58,7 @@ Cet article est le **guide pilier** de notre offre mise à disposition. Il compl
 
 <h2 id="taxi-ou-chauffeur">Taxi Cannes ou chauffeur privé : quelle différence ?</h2>
 
-**Taxi Cannes** assure au quotidien des **trajets classiques** : aéroport Nice, gare SNCF, Croisette, Antibes, Monaco… Un **forfait par trajet**, un chauffeur, une dépose.
+**Taxi Cannes** assure au quotidien des **trajets classiques** : [taxi Cannes aéroport Nice](/services/transfert-aeroport-nice-cannes), gare SNCF, Croisette, Antibes, Monaco… Un **forfait par trajet**, un chauffeur, une dépose.
 
 La **mise à disposition** (souvent appelée « chauffeur privé ») est une **prestation différente** : vous louez le chauffeur **pour une durée** (4 h ou 8 h typiquement) et vous effectuez **plusieurs déplacements** dans cette fenêtre horaire.
 
@@ -340,7 +340,7 @@ Arrivée aéroport avec bagages : **[Transfert aéroport Nice–Cannes](/service
 
 <details class="faq">
   <summary>La mise à disposition inclut-elle l'aéroport de Nice ?</summary>
-  <p>Oui possible. Voir le <a href="/blog/guide-transfert-aeroport-nice-cannes">guide pilier aéroport</a> et précisez T1/T2.</p>
+  <p>Oui possible. Pour un <strong>trajet unique</strong> (arrivée ou départ) : <a href="/services/transfert-aeroport-nice-cannes">service de transfert aéroport</a>. Pour le détail info : <a href="/blog/guide-transfert-aeroport-nice-cannes">guide pilier aéroport</a> — précisez T1/T2.</p>
 </details>
 
 <details class="faq">

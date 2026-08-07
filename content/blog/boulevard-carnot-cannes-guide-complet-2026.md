@@ -200,9 +200,9 @@ Le Boulevard Carnot offre une **qualité de vie** appréciée :
 
 **Distance** : 27 km  
 **Durée** : 30-45 minutes selon le trafic  
-**Tarif taxi (forfait réservation)** : **95–100 €** selon secteur précis à Cannes ([grille transfert Nice](/blog/guide-transfert-aeroport-nice-cannes)) ; durée voir ci-dessus.
+**Tarif taxi (forfait réservation)** : **95–100 €** selon secteur précis à Cannes ([grille transfert Nice](/blog/guide-transfert-aeroport-nice-cannes) · [taxi depuis l'aéroport Nice](/services/transfert-aeroport-nice-cannes)) ; durée voir ci-dessus.
 
-Le trajet depuis l'aéroport Nice vers le Boulevard Carnot traverse la Promenade des Anglais à Nice puis longe la côte jusqu'à Cannes. Notre [service de taxi Boulevard Carnot](/secteurs/boulevard-carnot) assure des transferts directs depuis l'aéroport vers votre résidence ou hôtel sur le Boulevard Carnot.
+Le trajet depuis l'aéroport Nice vers le Boulevard Carnot traverse la Promenade des Anglais à Nice puis longe la côte jusqu'à Cannes. Notre [service de taxi Boulevard Carnot](/secteurs/boulevard-carnot) assure des [transferts aéroport Nice Cannes](/services/transfert-aeroport-nice-cannes) directs vers votre résidence ou hôtel sur le Boulevard Carnot.
 
 ### Depuis la gare SNCF de Cannes
 
@@ -288,7 +288,7 @@ Non, il n'y a pas de parkings gratuits directement sur le Boulevard Carnot. Les 
 
 ### Quel est le meilleur moyen de transport pour accéder au Boulevard Carnot ?
 
-Le **taxi** est le moyen le plus pratique pour accéder au Boulevard Carnot, surtout si vous avez des bagages, des courses, ou si vous venez de l'aéroport ou de la gare. Notre [service de taxi Boulevard Carnot](/secteurs/boulevard-carnot) vous dépose directement devant votre destination.
+Le **taxi** est le moyen le plus pratique pour accéder au Boulevard Carnot, surtout si vous avez des bagages, des courses, ou si vous venez de l'[aéroport Nice](/services/transfert-aeroport-nice-cannes) ou de la gare. Notre [service de taxi Boulevard Carnot](/secteurs/boulevard-carnot) vous dépose directement devant votre destination.
 
 ### Le Boulevard Carnot est-il animé le soir ?
 

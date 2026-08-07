@@ -3,9 +3,9 @@
 export const metadata = {
   title: "Nos Secteurs | Taxi Cannes | Quartiers Desservis | Taxi Cannes",
   description:
-    "Découvrez les quartiers de Cannes desservis par Taxi Cannes : Boulevard Carnot, La Croisette, Le Suquet, La Bocca. Service de taxi disponible 24h/24 dans tous les secteurs de Cannes.",
+    "Découvrez les quartiers desservis par Taxi Cannes : Boulevard Carnot, La Croisette, Le Suquet, La Bocca, Le Cannet. Service de taxi disponible 24h/24.",
   keywords:
-    "secteurs taxi cannes, quartiers cannes, taxi boulevard carnot, taxi croisette, taxi suquet cannes, taxi la bocca cannes, zones desservies cannes",
+    "secteurs taxi cannes, quartiers cannes, taxi boulevard carnot, taxi croisette, taxi suquet cannes, taxi la bocca cannes, taxi le cannet, zones desservies cannes",
   alternates: {
     canonical: "https://www.cannestaxi.fr/secteurs",
   },
@@ -68,6 +68,19 @@ export default function Secteurs() {
         "Proche Antibes et A8",
       ],
     },
+    {
+      name: "Le Cannet",
+      description:
+        "Commune voisine : résidences, Vieux Cannet, Rocheville",
+      href: "/secteurs/le-cannet",
+      image: "/taxi-cannes-le-cannet.png",
+      features: [
+        "Villas et résidences",
+        "Musée Bonnard / Vieux Cannet",
+        "Liaison Croisette & gare",
+        "Transfert aéroport Nice",
+      ],
+    },
   ];
 
   return (
@@ -101,11 +114,18 @@ export default function Secteurs() {
             </h2>
             <p className="text-lg text-muted-foreground">
               Nous assurons un service de transport professionnel dans tous les
-              secteurs de Cannes
+              secteurs de Cannes — y compris les{" "}
+              <Link
+                href="/services/transfert-aeroport-nice-cannes"
+                className="text-accent font-semibold hover:underline underline-offset-2"
+              >
+                transferts entre Nice et Cannes
+              </Link>{" "}
+              depuis chaque quartier.
             </p>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {secteurs.map((secteur) => (
               <div
                 key={secteur.href}
@@ -156,7 +176,14 @@ export default function Secteurs() {
           </h2>
           <p className="text-lg mb-8 text-accent-foreground/90">
             Réservez votre trajet en quelques clics et recevez une confirmation
-            immédiate.
+            immédiate. Arrivée ou départ{" "}
+            <Link
+              href="/services/transfert-aeroport-nice-cannes"
+              className="underline font-semibold underline-offset-2 hover:opacity-90"
+            >
+              aéroport Nice
+            </Link>{" "}
+            depuis tous les quartiers listés.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button

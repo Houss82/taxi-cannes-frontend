@@ -13,6 +13,7 @@ export const metadata = {
 
 import { Building2, Star, Shield, CheckCircle, Clock, Users } from "lucide-react";
 import Image from "next/image";
+import Link from "next/link";
 import Button from "@/app/components/ui/Button";
 
 export default function TrajetsPalaces() {
@@ -163,7 +164,14 @@ export default function TrajetsPalaces() {
                 personnalisé, assistance avec les bagages, véhicules impeccables
                 et conduite fluide : chaque détail compte pour offrir une
                 expérience digne des plus grands établissements de la Côte
-                d&apos;Azur.
+                d&apos;Azur. Pour un{" "}
+                <Link
+                  href="/services/transfert-aeroport-nice-cannes"
+                  className="text-accent font-semibold hover:underline underline-offset-2"
+                >
+                  transfert privé aéroport Nice
+                </Link>{" "}
+                vers Carlton, Martinez ou Majestic : forfait Croisette / palaces.
               </p>
             </div>
 

@@ -351,7 +351,7 @@ Des **solutions sur mesure** sont disponibles pour les délégations, les marque
 
 <details class="faq">
   <summary>Combien coûte un taxi de Nice à Cannes pendant les Lions ?</summary>
-  <p>En réservation Taxi Cannes : <strong>95 €</strong> vers le centre, <strong>100 €</strong> vers Croisette / Palais / palaces, <strong>120 €</strong> en van 8 places. Détail dans notre <a href="/blog/guide-transfert-aeroport-nice-cannes">guide transfert Nice–Cannes</a>.</p>
+  <p>En réservation Taxi Cannes : <strong>95 €</strong> vers le centre, <strong>100 €</strong> vers Croisette / Palais / palaces, <strong>120 €</strong> en van 8 places. Détail dans notre <a href="/blog/guide-transfert-aeroport-nice-cannes">guide transfert Nice–Cannes</a> · <a href="/services/transfert-aeroport-nice-cannes">réserver votre transfert aéroport</a>.</p>
 </details>
 
 <details class="faq">

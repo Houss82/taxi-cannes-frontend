@@ -293,7 +293,19 @@ export default function TaxiConventionneCpamCannesPage() {
               },
               {
                 title: "Cannes → Nice",
-                desc: "Trajets vers des structures niçoises ; durée et créneau à confirmer ensemble.",
+                desc: (
+                  <>
+                    Trajets vers des structures niçoises ; durée et créneau à
+                    confirmer. Pour un trajet non médical vers NCE, voir le{" "}
+                    <Link
+                      href="/services/transfert-aeroport-nice-cannes"
+                      className="text-accent font-semibold hover:underline"
+                    >
+                      transfert aéroport Nice Cannes
+                    </Link>
+                    .
+                  </>
+                ),
               },
               {
                 title: "Cannes → Antibes ou Grasse",
@@ -403,7 +415,7 @@ export default function TaxiConventionneCpamCannesPage() {
               { href: "/tarifs", label: "Tarifs" },
               {
                 href: "/services/transfert-aeroport-nice-cannes",
-                label: "Transfert aéroport Nice",
+                label: "Taxi Cannes aéroport Nice",
               },
               { href: "/secteurs/la-croisette", label: "Secteur Croisette" },
               {

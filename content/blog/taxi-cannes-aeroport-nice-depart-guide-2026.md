@@ -422,7 +422,7 @@ Téléphone **+33 7 56 82 77 99** ou [formulaire en ligne](/reservation). Idéal
 
 <details class="faq">
   <summary>Quel est le prix d'un taxi de Cannes à l'aéroport Nice ?</summary>
-  <p>Forfait réservation : <strong>95 €</strong> (centre), <strong>100 €</strong> (Croisette/Palais), <strong>120 €</strong> (van 8 places). Détail : <a href="/blog/guide-transfert-aeroport-nice-cannes">guide pilier</a>.</p>
+  <p>Forfait réservation : <strong>95 €</strong> (centre), <strong>100 €</strong> (Croisette/Palais), <strong>120 €</strong> (van 8 places). Détail : <a href="/blog/guide-transfert-aeroport-nice-cannes">guide pilier</a> · <a href="/services/transfert-aeroport-nice-cannes">réserver votre transfert aéroport</a>.</p>
 </details>
 
 <details class="faq">

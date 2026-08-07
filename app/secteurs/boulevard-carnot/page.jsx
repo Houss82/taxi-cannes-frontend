@@ -23,6 +23,7 @@ import {
   UtensilsCrossed,
 } from "lucide-react";
 import Image from "next/image";
+import Link from "next/link";
 
 export default function BoulevardCarnot() {
   return (
@@ -239,7 +240,13 @@ export default function BoulevardCarnot() {
                   <Car className="w-5 h-5 text-accent mt-1 shrink-0" />
                   <span>
                     <strong>Transferts aéroport</strong> : Depuis le Boulevard
-                    Carnot vers l&apos;aéroport Nice Côte d&apos;Azur
+                    Carnot vers l&apos;
+                    <Link
+                      href="/services/transfert-aeroport-nice-cannes"
+                      className="text-accent font-semibold hover:underline underline-offset-2"
+                    >
+                      aéroport Nice Côte d&apos;Azur
+                    </Link>
                   </span>
                 </li>
                 <li className="flex items-start gap-3">
@@ -346,8 +353,14 @@ export default function BoulevardCarnot() {
                   Le trajet depuis le Boulevard Carnot vers l&apos;aéroport Nice
                   Côte d&apos;Azur prend environ
                   <strong> 30 à 40 minutes</strong> selon le trafic. Nous
-                  recommandons de réserver à l&apos;avance pour les transferts
-                  aéroport.
+                  recommandons de réserver à l&apos;avance vos{" "}
+                  <Link
+                    href="/services/transfert-aeroport-nice-cannes"
+                    className="text-accent font-semibold hover:underline underline-offset-2"
+                  >
+                    transferts aéroport
+                  </Link>
+                  .
                 </p>
               </details>
             </div>

@@ -14,7 +14,7 @@ Mais **tous les moyens de transport ne se valent pas** pour rejoindre Cannes dep
 
 En tant que service local depuis 2015, nous accompagnons régulièrement des voyageurs vers Cannes depuis l'aéroport Nice. Nos chauffeurs connaissent parfaitement **les meilleurs itinéraires**, **les horaires optimaux** pour éviter les embouteillages et **les points de dépose les plus pratiques** selon votre destination finale à Cannes.
 
-Ce guide vous révèle **tout ce qu'il faut savoir sur les transferts aéroport Nice-Cannes**, avec des prix transparents, des durées réalistes, des conseils pratiques et des recommandations pour choisir la meilleure option selon vos besoins.
+Ce guide vous révèle **tout ce qu'il faut savoir sur les transferts aéroport Nice-Cannes**, avec des prix transparents, des durées réalistes, des conseils pratiques et des recommandations pour choisir la meilleure option selon vos besoins. Pour **réserver votre transfert aéroport** (prix fixe, suivi de vol, T1/T2) : page service **[transfert aéroport Nice Cannes](/services/transfert-aeroport-nice-cannes)**.
 
 <div class="kpi-strip">
   <span class="badge success">30 minutes de trajet</span>
@@ -58,7 +58,7 @@ Selon les statistiques de l'aéroport Nice-Côte d'Azur et notre expérience ave
 
 ### Taxi et VTC Premium
 
-Le moyen le plus confortable et direct pour rejoindre Cannes depuis l'aéroport Nice. Avec un service de taxi premium, vous bénéficiez de :
+Le moyen le plus confortable et direct pour **[rejoindre Cannes depuis l'aéroport](/services/transfert-aeroport-nice-cannes)**. Avec un [service de transfert aéroport](/services/transfert-aeroport-nice-cannes) premium, vous bénéficiez de :
 
 - **Prix fixe** : Pas de surprise, le tarif est convenu à l'avance
 - **Chauffeur à l'arrivée** : Votre chauffeur vous attend avec un panneau à votre nom dans le hall des arrivées

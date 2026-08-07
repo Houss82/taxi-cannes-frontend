@@ -61,6 +61,11 @@ export default function sitemap() {
       priority: 0.85,
       changeFrequency: "monthly",
     },
+    {
+      path: "/secteurs/le-cannet",
+      priority: 0.85,
+      changeFrequency: "monthly",
+    },
     { path: "/tarifs", priority: 0.9, changeFrequency: "monthly" },
     { path: "/blog", priority: 0.8, changeFrequency: "weekly" },
     { path: "/reservation", priority: 0.9, changeFrequency: "monthly" },

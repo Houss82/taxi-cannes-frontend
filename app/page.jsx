@@ -540,9 +540,15 @@ export default function Home() {
             </h2>
             <p className="text-lg mb-8 text-primary-foreground/90">
               À seulement 30 minutes de l&apos;aéroport Nice Côte d&apos;Azur,
-              notre service <strong>taxi Cannes aéroport Nice</strong> assure
-              des transferts rapides, fiables et confortables vers votre hôtel,
-              villa ou lieu d&apos;événement.
+              notre service{" "}
+              <Link
+                href="/services/transfert-aeroport-nice-cannes"
+                className="text-accent font-semibold underline underline-offset-2 hover:opacity-90"
+              >
+                taxi Cannes aéroport Nice
+              </Link>{" "}
+              assure des transferts rapides, fiables et confortables vers votre
+              hôtel, villa ou lieu d&apos;événement.
             </p>
             <ul className="space-y-4 mb-8">
               {[
@@ -558,10 +564,10 @@ export default function Home() {
               ))}
             </ul>
             <Button
-              href="/reservation"
+              href="/services/transfert-aeroport-nice-cannes"
               className="bg-accent text-accent-foreground hover:opacity-90 px-8 py-6 text-lg"
             >
-              Réserver un transfert aéroport
+              Voir le transfert aéroport
             </Button>
           </div>
           <Image

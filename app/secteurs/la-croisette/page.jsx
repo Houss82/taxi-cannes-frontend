@@ -302,8 +302,14 @@ export default function LaCroisette() {
                   <Plane className="w-5 h-5 text-accent mt-1 shrink-0" />
                   <span>
                     <strong>Transferts aéroport</strong> : Depuis la Croisette
-                    vers l&apos;aéroport Nice Côte d&apos;Azur avec suivi de vol
-                    en temps réel
+                    vers l&apos;
+                    <Link
+                      href="/services/transfert-aeroport-nice-cannes"
+                      className="text-accent font-semibold hover:underline underline-offset-2"
+                    >
+                      aéroport Nice Côte d&apos;Azur
+                    </Link>{" "}
+                    avec suivi de vol en temps réel
                   </span>
                 </li>
                 <li className="flex items-start gap-3">
@@ -448,10 +454,15 @@ export default function LaCroisette() {
                   Croisette ?
                 </summary>
                 <p className="mt-4 text-gray-700">
-                  Le tarif pour un transfert depuis l&apos;aéroport Nice Côte
-                  d&apos;Azur vers la Croisette est de{" "}
-                  <strong>45€ à 60€</strong> selon le trafic et l&apos;hôtel
-                  exact. Prix fixe annoncé à l&apos;avance, sans surprise.
+                  Forfait réservation :{" "}
+                  <strong>100 €</strong> vers la Croisette / palaces (voir{" "}
+                  <Link
+                    href="/services/transfert-aeroport-nice-cannes"
+                    className="text-accent font-semibold hover:underline underline-offset-2"
+                  >
+                    taxi Cannes aéroport Nice
+                  </Link>
+                  ). Prix fixe annoncé à l&apos;avance, sans surprise.
                 </p>
               </details>
               <details className="bg-white rounded-lg p-6 border border-gray-200">

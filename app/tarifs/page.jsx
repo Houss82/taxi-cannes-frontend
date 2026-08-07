@@ -17,12 +17,32 @@ export const metadata = {
 
 export default function Pricing() {
   const routes = [
-    { from: "Aéroport Nice", to: "Cannes Centre", price: 95 },
-    { from: "Aéroport Nice", to: "Palaces", price: 100 },
-    { from: "Cannes", to: "Monaco", price: 160 },
+    {
+      from: "Aéroport Nice",
+      to: "Cannes Centre",
+      price: 95,
+      href: "/services/transfert-aeroport-nice-cannes",
+    },
+    {
+      from: "Aéroport Nice",
+      to: "Palaces",
+      price: 100,
+      href: "/services/transfert-aeroport-nice-cannes",
+    },
+    { from: "Cannes", to: "Monaco", price: 160, href: "/services/cannes-monaco" },
     { from: "Cannes", to: "Saint-Tropez", price: 260 },
-    { from: "Cannes", to: "Antibes", price: 45 },
-    { from: "Cannes", to: "Grasse", price: 65 },
+    {
+      from: "Cannes",
+      to: "Antibes",
+      price: 45,
+      href: "/blog/taxi-cannes-antibes-juan-les-pins-transfert-guide-2026",
+    },
+    {
+      from: "Cannes",
+      to: "Grasse",
+      price: 65,
+      href: "/blog/taxi-cannes-grasse-transfert-guide-2026",
+    },
   ];
 
   return (
@@ -56,7 +76,18 @@ export default function Pricing() {
                       key={i}
                       className="border-b border-border last:border-b-0 hover:bg-secondary transition-colors"
                     >
-                      <td className="px-6 py-4">{route.from}</td>
+                      <td className="px-6 py-4">
+                        {route.href ? (
+                          <Link
+                            href={route.href}
+                            className="text-accent font-medium hover:underline underline-offset-2"
+                          >
+                            {route.from}
+                          </Link>
+                        ) : (
+                          route.from
+                        )}
+                      </td>
                       <td className="px-6 py-4">{route.to}</td>
                       <td className="px-6 py-4 text-right font-bold text-accent">
                         {route.price}€
@@ -66,6 +97,16 @@ export default function Pricing() {
                 </tbody>
               </table>
             </div>
+            <p className="px-6 py-4 text-sm text-muted-foreground border-t border-border">
+              Détail du{" "}
+              <Link
+                href="/services/transfert-aeroport-nice-cannes"
+                className="text-accent font-semibold hover:underline underline-offset-2"
+              >
+                transport aéroport Nice Cannes
+              </Link>{" "}
+              (suivi de vol, T1/T2, quartiers desservis).
+            </p>
           </Card>
 
           {/* Additional Services */}

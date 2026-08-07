@@ -235,7 +235,7 @@ Pour en savoir plus sur tous les événements majeurs à Cannes, consultez notre
 
 **Distance** : 27 km  
 **Durée** : 30-45 minutes selon le trafic  
-**Tarif taxi (forfait réservation)** : **100 €** jusqu’aux palaces / Croisette (aligné sur notre grille [guide transfert aéroport](/blog/guide-transfert-aeroport-nice-cannes)) ; trajectoire et trafic : 30 à 55 min selon période — voir [Nice → Cannes événements](/blog/aeroport-nice-cannes-festival-congres-2026) en pic Festival / Lions.
+**Tarif taxi (forfait réservation)** : **100 €** jusqu’aux palaces / Croisette (aligné sur notre grille [guide transfert aéroport](/blog/guide-transfert-aeroport-nice-cannes) et la page [transfert aéroport Nice Cannes](/services/transfert-aeroport-nice-cannes)) ; trajectoire et trafic : 30 à 55 min selon période — voir [Nice → Cannes événements](/blog/aeroport-nice-cannes-festival-congres-2026) en pic Festival / Lions.
 
 Le trajet depuis l'aéroport Nice vers la Croisette traverse la Promenade des Anglais à Nice puis longe la côte jusqu'à Cannes. Pendant les périodes de forte affluence (été, événements), le trafic peut être dense.
 
@@ -328,7 +328,7 @@ Non, la Croisette reste ouverte au public pendant le Festival de Cannes, mais ce
 
 La Croisette étant très difficile d'accès en voiture, le **taxi reste la solution la plus pratique** pour rejoindre les palaces, plages privées et événements. Avec des parkings saturés, une circulation dense pendant les périodes de forte affluence (Festival de Cannes, MIPIM, été), et des rues souvent fermées pour les événements, le taxi vous garantit un accès direct et sans stress à tous les points d'intérêt de la Croisette.
 
-Notre [service de taxi La Croisette](/secteurs/la-croisette) vous dépose directement devant votre palace, restaurant ou plage privée, vous évitant les problèmes de stationnement et les retards. Disponible 24h/24, nous assurons également les transferts depuis l'aéroport Nice, la gare SNCF, ou depuis votre hôtel vers tous les établissements de la Croisette.
+Notre [service de taxi La Croisette](/secteurs/la-croisette) vous dépose directement devant votre palace, restaurant ou plage privée, vous évitant les problèmes de stationnement et les retards. Disponible 24h/24, nous assurons également les [transferts entre Nice et Cannes](/services/transfert-aeroport-nice-cannes), la gare SNCF, ou depuis votre hôtel vers tous les établissements de la Croisette.
 
 ---
 

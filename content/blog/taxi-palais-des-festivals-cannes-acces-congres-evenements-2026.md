@@ -95,7 +95,7 @@ Si vous enchaînez plusieurs rendez-vous (hôtel → Palais → déjeuner → se
   </table>
 </div>
 
-_Tarifs indicatifs : course courte en ville peut varier au compteur ; pour l’aéroport Nice, les **forfaits prix fixe réservation** sont ceux du [guide transfert aéroport Nice–Cannes](/blog/guide-transfert-aeroport-nice-cannes) (95 € centre / Ouest, **100 €** palaces-Croisette-Palais). Devis précis à la réservation._
+_Tarifs indicatifs : course courte en ville peut varier au compteur ; pour l’aéroport Nice, les **forfaits prix fixe réservation** sont ceux du [guide transfert aéroport Nice–Cannes](/blog/guide-transfert-aeroport-nice-cannes) et de la page [transfert aéroport Nice Cannes](/services/transfert-aeroport-nice-cannes) (95 € centre / Ouest, **100 €** palaces-Croisette-Palais). Devis précis à la réservation._
 
 ---
 

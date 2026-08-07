@@ -1,39 +1,38 @@
-// app/secteurs/la-bocca/page.jsx — TAXI CANNES LA BOCCA
+// app/secteurs/le-cannet/page.jsx — TAXI LE CANNET
 
 export const metadata = {
-  title: "Taxi Cannes La Bocca | Service 24h/24 Plages & Quartier | Taxi Cannes",
+  title: "Taxi Le Cannet | Service 24h/24 Cannes & Alpes-Maritimes | Taxi Cannes",
   description:
-    "Service de taxi Cannes La Bocca disponible 24h/24. Transport vers les plages, le marché, les résidences et commerces du quartier La Bocca. Réservez votre chauffeur local.",
+    "Service de taxi Le Cannet disponible 24h/24. Transport vers résidences, Vieux Cannet, musée Bonnard, Rocheville. Transfert aéroport Nice, Croisette, gare SNCF. Réservez votre taxi.",
   keywords:
-    "taxi la bocca cannes, taxi cannes la bocca, transport la bocca, taxi plage la bocca, chauffeur la bocca cannes, taxi avenue francis tonner",
+    "taxi le cannet, taxi cannet cannes, transport le cannet, taxi rocheville, taxi musée bonnard, chauffeur le cannet, taxi cannes le cannet",
   alternates: {
-    canonical: "https://www.cannestaxi.fr/secteurs/la-bocca",
+    canonical: "https://www.cannestaxi.fr/secteurs/le-cannet",
   },
 };
 
 import Button from "@/app/components/ui/Button";
 import {
+  Building2,
   Car,
   Clock,
+  Home,
   MapPin,
   Phone,
   Star,
-  Sun,
-  Umbrella,
-  UtensilsCrossed,
-  Waves,
+  Trees,
 } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 
-export default function LaBocca() {
+export default function LeCannet() {
   return (
     <main className="min-h-screen bg-white">
       {/* Hero Section */}
       <section className="relative h-screen flex items-center justify-center overflow-hidden pt-20">
         <Image
-          src="/taxi-cannes-la-bocca.png"
-          alt="Taxi Cannes La Bocca - Mercedes GLC service 24h/24 vers plages et quartier ouest de Cannes"
+          src="/taxi-cannes-le-cannet.png"
+          alt="Taxi Tesla Le Cannet - Service de transport résidentiel près de Cannes"
           fill
           className="object-cover"
           priority
@@ -41,24 +40,24 @@ export default function LaBocca() {
         <div className="absolute inset-0 bg-black/40" />
         <div className="relative z-10 text-center text-white max-w-3xl px-6">
           <div className="inline-flex items-center gap-2 mb-6 px-4 py-2 bg-accent/20 rounded-full border border-accent/30">
-            <Waves className="w-5 h-5 text-accent" />
+            <Home className="w-5 h-5 text-accent" />
             <span className="text-sm font-bold text-white uppercase tracking-wider">
-              Quartier Littoral Ouest
+              Commune voisine de Cannes
             </span>
           </div>
           <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight text-balance">
-            Taxi Cannes La Bocca
+            Taxi Le Cannet
           </h1>
           <p className="text-xl md:text-2xl mb-8 text-white/90 text-balance">
-            Service de taxi premium 24h/24 pour le quartier La Bocca : plages,
-            marché, résidences et commerces de l&apos;ouest cannois
+            Service de taxi disponible 24h/24 pour Le Cannet, Rocheville et les
+            résidences proches de Cannes
           </p>
           <Button
             href="/reservation"
             size="lg"
             className="bg-accent text-accent-foreground hover:opacity-90 px-8 py-6 text-lg"
           >
-            Réserver un taxi La Bocca
+            Réserver un taxi Le Cannet
           </Button>
         </div>
       </section>
@@ -69,9 +68,9 @@ export default function LaBocca() {
           <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
             {[
               {
-                icon: Sun,
-                label: "Plages & Littoral",
-                desc: "Plage de la Bocca, promenade",
+                icon: MapPin,
+                label: "Proche Cannes",
+                desc: "Quelques minutes du centre",
               },
               {
                 icon: Clock,
@@ -80,12 +79,12 @@ export default function LaBocca() {
               },
               {
                 icon: Car,
-                label: "Chauffeur local",
-                desc: "Connaissance du quartier",
+                label: "Réservation rapide",
+                desc: "En ligne ou par téléphone",
               },
               {
                 icon: Star,
-                label: "Mercedes GLC",
+                label: "Service Premium",
                 desc: "Véhicules haut de gamme",
               },
             ].map((info, i) => {
@@ -108,199 +107,186 @@ export default function LaBocca() {
       {/* Main Content Section */}
       <section className="py-24 bg-linear-to-b from-accent/5 via-white to-accent/5">
         <div className="max-w-5xl mx-auto px-6">
+          {/* Identification claire pour Google */}
           <div className="mb-12 p-8 bg-white rounded-xl border-2 border-accent/30 shadow-lg">
             <h2 className="text-3xl font-bold mb-4 text-gray-900">
-              Taxi La Bocca – Service local officiel 24h/24
+              Taxi Le Cannet – Service local officiel 24h/24
             </h2>
             <p className="text-lg text-gray-700 leading-relaxed">
-              Nous sommes une entreprise de taxi locale à Cannes qui dessert le
-              quartier de <strong>La Bocca</strong>, à l&apos;ouest de la ville.
-              Nous assurons les trajets vers et depuis les plages, le marché,
-              l&apos;Avenue Francis Tonner, les résidences et commerces du
-              secteur. Service disponible 24h/24 et 7j/7 sur Cannes et les
-              Alpes-Maritimes.
+              Nous sommes une entreprise de taxi locale à Cannes qui dessert{" "}
+              <strong>Le Cannet</strong>. Nous assurons les trajets en taxi vers
+              et depuis le Cannet, Rocheville, le Vieux Cannet, les résidences
+              et les commerces. Service de taxi disponible 24h/24 et 7j/7 sur
+              Cannes et les Alpes-Maritimes.
             </p>
           </div>
 
+          {/* Présentation du quartier */}
           <div className="mb-16">
             <h2 className="text-4xl font-bold mb-6 text-gray-900">
-              La Bocca à Cannes : le quartier littoral de l&apos;ouest
+              Le Cannet : ville résidentielle aux portes de Cannes
             </h2>
-            <div className="relative w-full h-72 md:h-96 rounded-xl overflow-hidden mb-8 shadow-lg">
+            <div className="prose prose-lg max-w-none">
+              <p className="text-lg text-gray-700 leading-relaxed mb-6">
+                Le <strong>Cannet</strong> est une commune limitrophe de Cannes,
+                réputée pour ses quartiers résidentiels, ses villas et sa
+                proximité immédiate avec la Croisette. Beaucoup d&apos;habitants
+                et de visiteurs y logent tout en se déplaçant quotidiennement
+                vers le centre de Cannes, la gare SNCF ou l&apos;aéroport Nice
+                Côte d&apos;Azur.
+              </p>
+              <p className="text-lg text-gray-700 leading-relaxed mb-6">
+                Entre le <strong>Vieux Cannet</strong>,{" "}
+                <strong>Rocheville</strong>, les axes vers Mougins et les
+                résidences en hauteur, le taxi évite le stationnement difficile
+                et les correspondances. Notre équipe connaît les adresses
+                précises, les codes d&apos;accès et les meilleurs itinéraires
+                selon l&apos;heure.
+              </p>
+            </div>
+            <div className="relative mt-8 h-64 md:h-80 rounded-xl overflow-hidden border border-gray-200 shadow-md">
               <Image
-                src="/taxi-cannes-la-bocca-plage.png"
-                alt="Taxi Cannes La Bocca - Mercedes devant la plage de La Bocca et la Méditerranée"
+                src="/taxi-cannes-le-cannet-vieux.png"
+                alt="Taxi Tesla Le Cannet — prise en charge Vieux Cannet et résidences"
                 fill
                 className="object-cover"
               />
             </div>
-            <div className="prose prose-lg max-w-none">
-              <p className="text-lg text-gray-700 leading-relaxed mb-6">
-                <strong>La Bocca</strong> est un quartier cannois en bord de
-                mer, situé à l&apos;ouest du centre-ville, entre la{" "}
-                <strong>Croisette</strong> et <strong>Golfe-Juan</strong>. C&apos;est
-                un secteur résidentiel et familial réputé pour sa{" "}
-                <strong>longue plage de sable</strong>, sa promenade ombragée
-                de palmiers et son ambiance plus authentique que le front de
-                mer prestige.
-              </p>
-              <p className="text-lg text-gray-700 leading-relaxed mb-6">
-                L&apos;<strong>Avenue Francis Tonner</strong>, axe principal du
-                quartier, concentre commerces, restaurants et services. Le{" "}
-                <strong>marché de La Bocca</strong> et le{" "}
-                <strong>Port de la Bocca</strong> animent la vie locale. La
-                Bocca est aussi un point de départ pratique vers{" "}
-                <Link
-                  href="/blog/taxi-cannes-antibes-juan-les-pins-transfert-guide-2026"
-                  className="text-accent font-semibold hover:underline"
-                >
-                  Antibes et Juan-les-Pins
-                </Link>
-                , l&apos;
-                <Link
-                  href="/services/transfert-aeroport-nice-cannes"
-                  className="text-accent font-semibold hover:underline"
-                >
-                  aéroport Nice
-                </Link>{" "}
-                ou la{" "}
-                <Link
-                  href="/blog/taxi-gare-cannes-service-transport-sncf-2025"
-                  className="text-accent font-semibold hover:underline"
-                >
-                  gare SNCF de Cannes
-                </Link>
-                .
-              </p>
-            </div>
           </div>
 
+          {/* Points d'intérêt */}
           <div className="mb-16">
             <h2 className="text-4xl font-bold mb-8 text-gray-900">
-              Points d&apos;intérêt de La Bocca
+              Points d&apos;intérêt au Cannet
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
               <div className="bg-white rounded-xl p-6 border border-gray-200 shadow-sm">
-                <Umbrella className="w-8 h-8 mb-4 text-accent" />
-                <h3 className="text-xl font-bold mb-3">Plage de la Bocca</h3>
+                <Trees className="w-8 h-8 mb-4 text-accent" />
+                <h3 className="text-xl font-bold mb-3">Vieux Cannet & culture</h3>
                 <ul className="space-y-2 text-gray-700">
-                  <li>• Grande plage de sable familiale</li>
-                  <li>• Promenade du littoral</li>
-                  <li>• Accès facile depuis les résidences</li>
-                  <li>• Forte affluence estivale</li>
+                  <li>• Vieux village et ruelles provençales</li>
+                  <li>• Musée Bonnard</li>
+                  <li>• Places et commerces de proximité</li>
+                  <li>• Ambiance résidentielle calme</li>
                 </ul>
               </div>
               <div className="bg-white rounded-xl p-6 border border-gray-200 shadow-sm">
-                <UtensilsCrossed className="w-8 h-8 mb-4 text-accent" />
-                <h3 className="text-xl font-bold mb-3">Marché & Commerces</h3>
+                <Home className="w-8 h-8 mb-4 text-accent" />
+                <h3 className="text-xl font-bold mb-3">Résidences & quartiers</h3>
                 <ul className="space-y-2 text-gray-700">
-                  <li>• Marché de La Bocca (matinées)</li>
-                  <li>• Avenue Francis Tonner</li>
-                  <li>• Restaurants et brasseries</li>
-                  <li>• Commerces de proximité</li>
+                  <li>• Rocheville et axes résidentiels</li>
+                  <li>• Villas et résidences avec portail</li>
+                  <li>• Appartements et locations saisonnières</li>
+                  <li>• Accès Mougins / Californie</li>
+                </ul>
+              </div>
+              <div className="bg-white rounded-xl p-6 border border-gray-200 shadow-sm">
+                <Building2 className="w-8 h-8 mb-4 text-accent" />
+                <h3 className="text-xl font-bold mb-3">Commerces & services</h3>
+                <ul className="space-y-2 text-gray-700">
+                  <li>• Centres commerciaux et grandes surfaces</li>
+                  <li>• Pharmacies, banques, services</li>
+                  <li>• Restaurants et cafés locaux</li>
+                  <li>• Courses avec attente sur devis</li>
                 </ul>
               </div>
               <div className="bg-white rounded-xl p-6 border border-gray-200 shadow-sm">
                 <MapPin className="w-8 h-8 mb-4 text-accent" />
-                <h3 className="text-xl font-bold mb-3">Port & Accès</h3>
+                <h3 className="text-xl font-bold mb-3">Accès et proximité</h3>
                 <ul className="space-y-2 text-gray-700">
-                  <li>• Port de la Bocca</li>
-                  <li>• Proche sortie A8</li>
-                  <li>• Liaison Golfe-Juan / Antibes</li>
-                  <li>• Quartiers résidentiels alentour</li>
-                </ul>
-              </div>
-              <div className="bg-white rounded-xl p-6 border border-gray-200 shadow-sm">
-                <Car className="w-8 h-8 mb-4 text-accent" />
-                <h3 className="text-xl font-bold mb-3">Proximité Cannes</h3>
-                <ul className="space-y-2 text-gray-700">
-                  <li>• 10–15 min du centre-ville</li>
-                  <li>• 15–20 min de la Croisette</li>
-                  <li>• 30–40 min aéroport Nice</li>
-                  <li>• 15–25 min vers Antibes</li>
+                  <li>• À quelques minutes de Cannes centre</li>
+                  <li>• Liaison rapide vers la Croisette</li>
+                  <li>• Proche gare SNCF Cannes</li>
+                  <li>
+                    •{" "}
+                    <Link
+                      href="/services/transfert-aeroport-nice-cannes"
+                      className="text-accent font-semibold hover:underline underline-offset-2"
+                    >
+                      Transfert aéroport Nice
+                    </Link>{" "}
+                    (~35–48 min)
+                  </li>
                 </ul>
               </div>
             </div>
           </div>
 
+          {/* Service de taxi */}
           <div className="mb-16 bg-white rounded-xl p-8 border-2 border-accent/30 shadow-lg">
             <h2 className="text-4xl font-bold mb-6 text-gray-900">
-              Service de taxi La Bocca Cannes
+              Service de taxi Le Cannet
             </h2>
             <div className="prose prose-lg max-w-none">
               <p className="text-lg text-gray-700 leading-relaxed mb-6">
                 <strong>Taxi Cannes</strong> assure un service de transport
-                professionnel vers et depuis La Bocca. Que vous résidiez dans
-                le quartier, que vous y séjourniez en location ou que vous
-                souhaitiez vous y rendre pour la plage ou le marché, notre
-                chauffeur vous accompagne 24h/24.
+                professionnel vers et depuis Le Cannet. Que vous résidiez dans
+                une villa, une résidence avec code d&apos;accès, ou que vous
+                veniez pour un événement à Cannes, notre service de taxi vous
+                accompagne 24h/24 et 7j/7.
               </p>
               <h3 className="text-2xl font-bold mb-4 mt-8">
-                Nos services pour La Bocca
+                Nos services pour Le Cannet
               </h3>
               <ul className="space-y-3 text-gray-700 mb-6">
                 <li className="flex items-start gap-3">
                   <Car className="w-5 h-5 text-accent mt-1 shrink-0" />
                   <span>
-                    <strong>Prise en charge à domicile</strong> : résidences et
-                    villas du quartier La Bocca
+                    <strong>Prise en charge à domicile</strong> : villa,
+                    résidence, portail — indiquez l&apos;adresse complète et le
+                    code si besoin
                   </span>
                 </li>
                 <li className="flex items-start gap-3">
                   <Car className="w-5 h-5 text-accent mt-1 shrink-0" />
                   <span>
-                    <strong>Transferts plage</strong> : dépose promenade et
-                    accès Plage de la Bocca
+                    <strong>Liaison Cannes centre / Croisette</strong> : trajets
+                    fréquents vers palaces, Palais des Festivals et commerces
                   </span>
                 </li>
                 <li className="flex items-start gap-3">
                   <Car className="w-5 h-5 text-accent mt-1 shrink-0" />
                   <span>
-                    <strong>Marché & courses</strong> : service avec attente
-                    possible sur devis
+                    <strong>Gare SNCF Cannes</strong> : correspondances TER et
+                    trains longue distance
                   </span>
                 </li>
                 <li className="flex items-start gap-3">
                   <Car className="w-5 h-5 text-accent mt-1 shrink-0" />
                   <span>
-                    <strong>Transfert aéroport Nice</strong> : depuis La Bocca
-                    vers T1/T2 —{" "}
+                    <strong>Transferts aéroport</strong> : depuis Le Cannet vers
+                    l&apos;
                     <Link
                       href="/services/transfert-aeroport-nice-cannes"
-                      className="text-accent font-semibold hover:underline"
+                      className="text-accent font-semibold hover:underline underline-offset-2"
                     >
-                      transfert aéroport Nice Cannes
+                      aéroport Nice Côte d&apos;Azur
                     </Link>{" "}
-                    ·{" "}
-                    <Link
-                      href="/blog/taxi-cannes-aeroport-nice-depart-guide-2026"
-                      className="text-accent font-semibold hover:underline"
-                    >
-                      guide départ aéroport
-                    </Link>
+                    (T1 / T2)
                   </span>
                 </li>
                 <li className="flex items-start gap-3">
                   <Car className="w-5 h-5 text-accent mt-1 shrink-0" />
                   <span>
-                    <strong>Liaison Croisette & Palais</strong> : trajets vers
-                    le centre et les événements
+                    <strong>Mougins & villages</strong> : liaisons vers Mougins,
+                    Grasse et environs sur réservation
                   </span>
                 </li>
                 <li className="flex items-start gap-3">
                   <Car className="w-5 h-5 text-accent mt-1 shrink-0" />
                   <span>
-                    <strong>Antibes & Juan-les-Pins</strong> : liaison ouest
-                    Côte d&apos;Azur
+                    <strong>Service de nuit</strong> : retours de soirée et
+                    départs matinaux garantis
                   </span>
                 </li>
               </ul>
             </div>
           </div>
 
+          {/* Comment réserver */}
           <div className="mb-16 bg-accent/10 rounded-xl p-8 border border-accent/20">
             <h2 className="text-3xl font-bold mb-6 text-gray-900">
-              Comment réserver votre taxi La Bocca ?
+              Comment réserver votre taxi Le Cannet ?
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               <div className="bg-white rounded-lg p-6">
@@ -311,7 +297,8 @@ export default function LaBocca() {
                 <p className="text-gray-700 mb-4">
                   Appelez-nous au{" "}
                   <strong className="text-accent">+33 7 56 82 77 99</strong>{" "}
-                  pour réserver immédiatement. Service disponible 24h/24.
+                  pour réserver immédiatement votre taxi. Service disponible
+                  24h/24.
                 </p>
               </div>
               <div className="bg-white rounded-lg p-6">
@@ -321,94 +308,86 @@ export default function LaBocca() {
                 </h3>
                 <p className="text-gray-700 mb-4">
                   Utilisez notre{" "}
-                  <Link
+                  <a
                     href="/reservation"
                     className="text-accent font-bold hover:underline"
                   >
                     formulaire de réservation en ligne
-                  </Link>{" "}
-                  en indiquant votre adresse à La Bocca.
+                  </a>{" "}
+                  pour réserver votre trajet en quelques clics.
                 </p>
               </div>
             </div>
           </div>
 
+          {/* FAQ */}
           <div className="mb-16">
             <h2 className="text-4xl font-bold mb-8 text-gray-900">
-              Questions fréquentes – Taxi La Bocca
+              Questions fréquentes – Taxi Le Cannet
             </h2>
             <div className="space-y-6">
               <details className="bg-white rounded-lg p-6 border border-gray-200">
                 <summary className="font-bold text-lg cursor-pointer">
-                  Combien coûte un taxi depuis La Bocca vers la Croisette ?
+                  Combien coûte un trajet Le Cannet → Croisette ?
                 </summary>
                 <p className="mt-4 text-gray-700">
-                  Comptez environ <strong>20€ à 35€</strong> selon l&apos;adresse
-                  exacte et le trafic. Contactez-nous pour un devis précis.
+                  Selon l&apos;adresse exacte et le trafic, comptez souvent une{" "}
+                  <strong>course courte à moyenne</strong> (ordre de grandeur
+                  indicatif : environ 15€ à 30€). Contactez-nous pour un devis
+                  précis.
                 </p>
               </details>
               <details className="bg-white rounded-lg p-6 border border-gray-200">
                 <summary className="font-bold text-lg cursor-pointer">
-                  Peut-on réserver un taxi pour la plage de La Bocca ?
+                  Le chauffeur peut-il accéder à une résidence avec portail ?
                 </summary>
                 <p className="mt-4 text-gray-700">
-                  Oui — dépose au plus près de la promenade. En été, réservez
-                  votre créneau à l&apos;avance pour garantir la prise en charge.
+                  Oui. Indiquez le <strong>code d&apos;accès</strong>, le
+                  numéro de bâtiment et le point de rendez-vous (hall, parking)
+                  à la réservation.
                 </p>
               </details>
               <details className="bg-white rounded-lg p-6 border border-gray-200">
                 <summary className="font-bold text-lg cursor-pointer">
-                  Combien de temps de La Bocca à l&apos;aéroport Nice ?
+                  Combien de temps du Cannet à l&apos;aéroport Nice ?
                 </summary>
                 <p className="mt-4 text-gray-700">
-                  En général <strong>30 à 45 minutes</strong> selon trafic et
-                  heure. Voir notre{" "}
+                  Comptez souvent <strong>35 à 48 minutes</strong> selon trafic
+                  et heure. Réservez à l&apos;avance votre{" "}
                   <Link
                     href="/services/transfert-aeroport-nice-cannes"
-                    className="text-accent font-semibold hover:underline"
+                    className="text-accent font-semibold hover:underline underline-offset-2"
                   >
-                    taxi Cannes aéroport Nice
-                  </Link>{" "}
-                  et le{" "}
-                  <Link
-                    href="/blog/taxi-cannes-aeroport-nice-depart-guide-2026"
-                    className="text-accent font-semibold hover:underline"
-                  >
-                    guide départ aéroport
+                    transfert aéroport Nice Cannes
                   </Link>
                   .
                 </p>
               </details>
               <details className="bg-white rounded-lg p-6 border border-gray-200">
                 <summary className="font-bold text-lg cursor-pointer">
-                  Desserviez-vous le marché de La Bocca ?
+                  Desservez-vous Rocheville et le Vieux Cannet ?
                 </summary>
                 <p className="mt-4 text-gray-700">
-                  Oui, avec possibilité d&apos;attente pendant vos courses —
-                  tarif sur devis selon la durée.
+                  Oui — prise en charge et dépose dans tout Le Cannet, y compris
+                  Rocheville, le Vieux Cannet et les axes vers Mougins.
                 </p>
               </details>
               <details className="bg-white rounded-lg p-6 border border-gray-200">
                 <summary className="font-bold text-lg cursor-pointer">
-                  Taxi La Bocca vers Antibes : quel tarif ?
+                  Le service est-il disponible la nuit au Cannet ?
                 </summary>
                 <p className="mt-4 text-gray-700">
-                  Liaison proche vers l&apos;ouest — voir notre{" "}
-                  <Link
-                    href="/blog/taxi-cannes-antibes-juan-les-pins-transfert-guide-2026"
-                    className="text-accent font-semibold hover:underline"
-                  >
-                    guide taxi Cannes Antibes
-                  </Link>{" "}
-                  (forfait indicatif <strong>45 €</strong> depuis Cannes centre).
+                  Oui, 24h/24 et 7j/7 — retours de soirée, vols matinaux et
+                  trajets urgents.
                 </p>
               </details>
             </div>
           </div>
 
+          {/* CTA */}
           <div className="bg-accent text-accent-foreground rounded-xl p-8 text-center">
             <h2 className="text-3xl font-bold mb-4">
-              Besoin d&apos;un taxi La Bocca maintenant ?
+              Besoin d&apos;un taxi Le Cannet maintenant ?
             </h2>
             <p className="text-lg mb-6 text-accent-foreground/90">
               Réservez votre trajet en quelques clics et recevez une
@@ -419,7 +398,7 @@ export default function LaBocca() {
                 href="/reservation"
                 className="bg-white text-accent hover:opacity-90 px-8 py-6 text-lg"
               >
-                Réserver un taxi La Bocca
+                Réserver un taxi Le Cannet
               </Button>
               <Button
                 href="/contact"

@@ -21,7 +21,7 @@ keywords:
 
 **Taxi Cannes Antibes** et **Juan-les-Pins** : liaison courte mais **très demandée** sur la Côte d'Azur — rendez-vous professionnel à **Sophia Antipolis**, déjeuner en **vieille ville**, plage à **Juan-les-Pins**, correspondance **gare SNCF Antibes** ou retour d'une excursion. Ce guide cible les recherches _taxi Cannes Antibes_, _taxi Cannes Juan-les-Pins_ et _transfert Cannes Antibes prix_, sur le même modèle que nos articles **[Monaco](/blog/taxi-cannes-monaco-guide-complet)**, **[Grasse](/blog/taxi-cannes-grasse-transfert-guide-2026)** et **[Saint-Tropez](/blog/taxi-cannes-saint-tropez-transfert-guide-2026)**.
 
-Ce n'est **pas** un guide touristique multi-destinations : pour une **excursion Mougins + Antibes**, consultez **[Villes et villages autour de Cannes](/blog/villages-autour-cannes-excursions-transport-2025)**. Pour l'**aéroport Nice**, voir le **[guide pilier transfert Nice–Cannes](/blog/guide-transfert-aeroport-nice-cannes)** — Antibes est une **ville**, pas le terminal aéroportuaire.
+Ce n'est **pas** un guide touristique multi-destinations : pour une **excursion Mougins + Antibes**, consultez **[Villes et villages autour de Cannes](/blog/villages-autour-cannes-excursions-transport-2025)**. Pour l'**aéroport Nice**, voir le **[guide pilier transfert Nice–Cannes](/blog/guide-transfert-aeroport-nice-cannes)** ou **[réserver votre transfert aéroport](/services/transfert-aeroport-nice-cannes)** — Antibes est une **ville**, pas le terminal aéroportuaire.
 
 <details class="toc">
   <summary>Sommaire de l'article</summary>

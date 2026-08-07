@@ -150,7 +150,7 @@ Même logistique que pour la Croisette selon sens de circulation ; en période d
 
 ### Aéroport Nice
 
-**Durée** : comptez souvent **30 à 45 minutes** selon trafic (et plus aux heures denses), pas une durée « fixe » de 30 minutes. **Tarif** : alignez-vous sur la **fourchette du tableau** (95–120€) et sur le [guide transfert aéroport](/blog/guide-transfert-aeroport-nice-cannes) — le devis téléphonique ou en ligne fait foi.
+**Durée** : comptez souvent **30 à 45 minutes** selon trafic (et plus aux heures denses), pas une durée « fixe » de 30 minutes. **Tarif** : alignez-vous sur la **fourchette du tableau** (95–120€) et sur le [guide transfert aéroport](/blog/guide-transfert-aeroport-nice-cannes) — pour **réserver**, utilisez la page [transport aéroport Nice Cannes](/services/transfert-aeroport-nice-cannes). Le devis téléphonique ou en ligne fait foi.
 
 ### Antibes et Juan-les-Pins
 
