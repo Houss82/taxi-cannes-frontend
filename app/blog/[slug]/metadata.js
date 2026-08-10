@@ -39,6 +39,8 @@ export async function generateMetadata({ params }) {
       "Chauffeur privé à Cannes : mise à disposition 4h/8h | Taxi Cannes",
     "taxi-cannes-grasse-transfert-guide-2026":
       "Taxi Cannes Grasse 2026 : durée, tarif parfumeries & réservation | Taxi Cannes",
+    "taxi-cannes-vallauris-golfe-juan-guide-2026":
+      "Taxi Cannes Vallauris & Golfe-Juan : trajet et réservation | Taxi Cannes",
   };
   const seoTitle =
     seoTitleBySlug[post.slug] ?? `${post.title} | Taxi Cannes`;
