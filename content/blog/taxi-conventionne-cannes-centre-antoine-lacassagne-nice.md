@@ -135,7 +135,7 @@ Pour un rappel des **grandes lignes réservation taxi conventionné** : **[rése
 
 <details class="faq">
   <summary>Le remboursement par la CPAM est-il garanti par Taxi Cannes ?</summary>
-  <p><strong>Non</strong> — seule votre <strong>caisse</strong> et votre dossier médical peuvent répondre. Nous vous aidons pour le <strong>transport</strong> ; les <strong>droits</strong> financiers vous concernent vous et vos interlocuteurs santé administratifs.</p>
+  <p><strong>Non</strong> — seule votre <strong>caisse</strong> et votre dossier médical peuvent répondre. Nous vous aidons pour le <strong>transport</strong> ; les <strong>droits</strong> financiers vous concernent vous et vos interlocuteurs santé administratifs. Le détail des <a href="/services/taxi-conventionne-cpam-cannes">conditions d’éligibilité</a> se discute à l’appel, sans promesse de remboursement.</p>
 </details>
 
 <details class="faq">

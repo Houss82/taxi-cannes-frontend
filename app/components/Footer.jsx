@@ -54,6 +54,14 @@ export default function Footer() {
               </li>
               <li>
                 <Link
+                  href="/services/chauffeur-prive-cannes"
+                  className="hover:text-accent transition-colors"
+                >
+                  Chauffeur privé
+                </Link>
+              </li>
+              <li>
+                <Link
                   href="/services"
                   className="hover:text-accent transition-colors"
                 >

@@ -46,10 +46,21 @@ export default function Contact() {
 
       <section className="pt-32 pb-20">
         <div className="max-w-7xl mx-auto px-6">
-          <div className="text-center mb-16">
+          <div className="text-center mb-12">
             <h1 className="text-5xl md:text-6xl font-bold mb-4">Nous Contacter</h1>
-            <p className="text-xl text-muted-foreground">Disponible 24h/24 - 7j/7</p>
-                </div>
+            <p className="text-xl text-muted-foreground mb-4">Disponible 24h/24 - 7j/7</p>
+            <p className="text-muted-foreground max-w-2xl mx-auto">
+              Pour un{" "}
+              <Link
+                href="/services/taxi-conventionne-cpam-cannes"
+                className="text-accent font-semibold hover:underline underline-offset-2"
+              >
+                trajet prescrit
+              </Link>
+              , l’appel reste le canal le plus fiable : nous faisons le point sur
+              le dossier avant d’organiser la course.
+            </p>
+          </div>
 
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 mb-16">
             {/* Contact Cards */}

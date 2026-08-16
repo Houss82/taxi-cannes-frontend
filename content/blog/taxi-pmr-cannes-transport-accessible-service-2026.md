@@ -34,7 +34,7 @@ Un **service de taxi** structuré pour le **PMR** ou le **transport accessible**
 - prévoir **le temps d’assistance** sans pression ;
 - choisir des **points de dépose** réalistes (voir ci-dessous pour le Suquet et le Palais).
 
-**Important** : les besoins varient énormément (fauteuil pliable vs non pliable, personne seule vs accompagnateur). **Aucun article web** ne remplace un **échange direct** : appelez le **+33 7 56 82 77 99** ou passez par le **[formulaire de réservation](/reservation)** en décrivant précisément la situation.
+**Important** : les besoins varient énormément (fauteuil pliable vs non pliable, personne seule vs accompagnateur). **Aucun article web** ne remplace un **échange direct** : appelez le **+33 7 56 82 77 99** ou passez par le **[formulaire de réservation](/reservation)** en décrivant précisément la situation. Un [transport médical assis](/services/taxi-conventionne-cpam-cannes) (prescription, cadre CPAM) n’est pas le même dispositif que l’accessibilité PMR : précisez-le dès l’appel.
 
 ---
 

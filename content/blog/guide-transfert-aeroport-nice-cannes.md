@@ -485,7 +485,7 @@ Votre chauffeur vous attendra dans le **hall des arrivées** avec un **panneau �
 
 Pour aller plus loin dans votre découverte de Cannes et de la Côte d'Azur :
 
-- [Taxi conventionné Cannes — Centre Antoine Lacassagne Nice](/blog/taxi-conventionne-cannes-centre-antoine-lacassagne-nice) – Trajet santé Cannes ↔ oncologie Nice (addresses officielles)
+- [Taxi conventionné Cannes — Centre Antoine Lacassagne Nice](/blog/taxi-conventionne-cannes-centre-antoine-lacassagne-nice) – Trajet santé Cannes ↔ oncologie Nice (addresses officielles) · [fiche transport médical](/services/taxi-conventionne-cpam-cannes)
 - [Aéroport Nice → Cannes : Festival, Lions, congrès 2026](/blog/aeroport-nice-cannes-festival-congres-2026) – Durées en pic et réservation événements
 - [Taxi Cannes Lions 2026](/blog/taxi-cannes-lions-2026-guide-chauffeur-reservation) – Guide chauffeur, déposes Palais & Croisette
 - [Taxi Cannes → Aéroport Nice (départ)](/blog/taxi-cannes-aeroport-nice-depart-guide-2026) – Marges vol, heure de départ & réservation retour

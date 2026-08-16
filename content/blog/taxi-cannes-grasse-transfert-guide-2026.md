@@ -63,7 +63,7 @@ En voiture personnelle, le défi n'est pas la distance : c'est le **stationnemen
 - **Tourisme** : visite parfumerie + vieille ville (souvent 2 à 4 h sur place) ;
 - **Excursion demi-journée** : Cannes → Grasse → retour Croisette ;
 - **Business / rendez-vous** : entreprises et services sur Grasse ;
-- **Santé** : cliniques et centres du secteur grassois ;
+- **Santé** : cliniques et centres du secteur grassois — [transport vers un rendez-vous médical](/services/taxi-conventionne-cpam-cannes) ;
 - **Correspondances** : **gare SNCF Grasse** (TER vers Cannes / Nice) ;
 - **Circuit** : Grasse + **Mougins** dans la même journée (voir [mise à disposition](/blog/chauffeur-prive-cannes-mise-a-disposition-2026)).
 

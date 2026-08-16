@@ -58,7 +58,7 @@ Ce n'est **pas** un guide touristique multi-destinations : pour une **excursion 
 
 - **Professionnels** : sièges **Sophia Antipolis**, bureaux **Antibes**, réunions **Juan-les-Pins** ;
 - **Tourisme** : **vieille ville**, **musée Picasso**, **port Vauban**, plages **Juan-les-Pins** ;
-- **Santé** : rendez-vous **CHU d'Antibes**, cliniques du secteur ;
+- **Santé** : rendez-vous **CHU d'Antibes**, cliniques du secteur — [trajet vers un établissement de soins](/services/taxi-conventionne-cpam-cannes) ;
 - **Correspondances** : **gare SNCF Antibes** (TER vers Nice, Grasse, Cannes) ;
 - **Familles** : **Marineland**, **Cap d'Antibes**, sorties plage sans chercher une place.
 

@@ -23,6 +23,10 @@ const navItems = [
         href: "/services/taxi-conventionne-cpam-cannes",
       },
       { label: "Trajets Palaces", href: "/services/trajets-palaces" },
+      {
+        label: "Chauffeur privé — 4h / 8h",
+        href: "/services/chauffeur-prive-cannes",
+      },
       { label: "Cannes → Monaco", href: "/services/cannes-monaco" },
     ],
   },

@@ -154,7 +154,7 @@ Même logistique que pour la Croisette selon sens de circulation ; en période d
 
 ### Antibes et Juan-les-Pins
 
-**Durée** : souvent **15 à 25 minutes** depuis la gare ou le centre. Liaison fréquente pour correspondances **TER** ou escale entre **gare Cannes** et **gare Antibes**. Voir le **[guide taxi Cannes → Antibes](/blog/taxi-cannes-antibes-juan-les-pins-transfert-guide-2026)** (forfait **45 €** sur la grille).
+**Durée** : souvent **15 à 25 minutes** depuis la gare ou le centre. Liaison fréquente pour correspondances **TER** ou escale entre **gare Cannes** et **gare Antibes**. Voir le **[guide taxi Cannes → Antibes](/blog/taxi-cannes-antibes-juan-les-pins-transfert-guide-2026)** (forfait **45 €** sur la grille). Correspondance train puis rendez-vous de soins : un [raccordement vers un rendez-vous de soins](/services/taxi-conventionne-cpam-cannes) peut aussi se prévoir depuis la gare, selon le dossier — à préciser à l’appel.
 
 ### Grasse
 

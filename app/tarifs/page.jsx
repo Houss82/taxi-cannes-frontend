@@ -105,7 +105,14 @@ export default function Pricing() {
               >
                 transport aéroport Nice Cannes
               </Link>{" "}
-              (suivi de vol, T1/T2, quartiers desservis).
+              (suivi de vol, T1/T2, quartiers desservis). Pour un{" "}
+              <Link
+                href="/services/taxi-conventionne-cpam-cannes"
+                className="text-accent font-semibold hover:underline underline-offset-2"
+              >
+                déplacement lié aux soins
+              </Link>
+              , le cadre CPAM se confirme à l’appel.
             </p>
           </Card>
 

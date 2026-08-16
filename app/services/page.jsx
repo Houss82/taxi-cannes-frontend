@@ -91,7 +91,7 @@ export default function Services() {
         "Accueil personnalisé",
         "Mercedes Classe S (selon dispo)",
       ],
-      href: "/blog/chauffeur-prive-cannes-mise-a-disposition-2026",
+      href: "/services/chauffeur-prive-cannes",
     },
   ];
 
