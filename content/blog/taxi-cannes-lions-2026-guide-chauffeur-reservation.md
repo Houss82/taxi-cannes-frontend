@@ -236,7 +236,7 @@ Les temps de trajet **varient selon l'heure et l'affluence**. En juin, prévoyez
       <tr style="background-color: #f9fafb;">
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">Monaco</td>
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">Palais des Festivals</td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>50 à 70 min</strong> — [taxi Cannes Monaco](/blog/taxi-cannes-monaco-guide-complet)</td>
+        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>50 à 70 min</strong> — [service Cannes–Monaco](/services/cannes-monaco)</td>
       </tr>
     </tbody>
   </table>

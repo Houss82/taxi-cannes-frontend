@@ -58,7 +58,7 @@ Cannes dispose de plusieurs **zones portuaires** (dont le **Vieux‑Port**, le s
 **Conseil pratique pour la réservation** :
 
 - Communiquez le **nom du navire**, la **date**, l’**heure de débarquement estimée** (ou le créneau communiqué par la compagnie) et, si possible, un **repère simple** (ex. sortie **gare maritime**, **parking** voisin, **hôtel** à deux minutes du quai).
-- Si vous logez une nuit sur place avant de voler, une prise en charge à **[La Croisette](/blog/la-croisette-cannes-guide-complet-2026)**, au **[Suquet](/blog/taxi-cannes-le-suquet-guide-complet-2026)** ou près du **[Palais des Festivals](/blog/taxi-palais-des-festivals-cannes-acces-congres-evenements-2026)** reste possible — donnez l’**adresse complète** pour calibrer le trajet.
+- Si vous logez une **[escale ou nuit à terre](/blog/taxi-port-croisiere-cannes-escale-hotel-gare-palais-guide-2026)** avant de voler, une prise en charge à **[La Croisette](/blog/la-croisette-cannes-guide-complet-2026)**, au **[Suquet](/blog/taxi-cannes-le-suquet-guide-complet-2026)** ou près du **[Palais des Festivals](/blog/taxi-palais-des-festivals-cannes-acces-congres-evenements-2026)** reste possible — donnez l’**adresse complète** pour calibrer le trajet.
 
 Pour le **stationnement** si un accompagnateur vient en voiture, voir notre **[guide où se garer à Cannes](/blog/ou-se-garer-cannes-guide-complet-2025)** — un **taxi porte‑à‑porte** évite souvent cette contrainte le jour J.
 

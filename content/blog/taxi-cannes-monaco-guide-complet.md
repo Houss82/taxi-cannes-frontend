@@ -513,12 +513,12 @@ Notre objectif est simple : vous offrir le meilleur service de taxi premium sur 
 
 <div class="highlight-box">
   <strong>Prêt à réserver votre transfert premium Cannes → Monaco ?</strong><br/>
-  Contactez-nous dès maintenant ou utilisez notre formulaire de réservation en ligne pour obtenir un devis gratuit et réserver votre trajet.
+  Consultez d’abord la page commerciale du forfait, puis finalisez en ligne ou par téléphone.
   
   <div class="cta">
-    <a class="cta-button" href="/reservation">🚖 Réserver maintenant</a>
+    <a class="cta-button" href="/services/cannes-monaco">transfert Cannes → Monaco</a>
     <span> ou </span>
-    <a class="cta-button" href="/contact">📞 Nous contacter</a>
+    <a class="cta-button" href="/reservation">🚖 Réserver maintenant</a>
   </div>
   
   <p style="margin-top: 1rem; font-size: 0.9rem; color: #666;">
@@ -531,4 +531,4 @@ Notre objectif est simple : vous offrir le meilleur service de taxi premium sur 
 
 **Taxi Cannes** – Votre partenaire de confiance pour tous vos déplacements premium sur la Côte d'Azur.
 
-Pour découvrir tous nos services de transport sur la Côte d'Azur, consultez notre [service complet Cannes → Monaco](/services/cannes-monaco) et nos autres [services de taxi à Cannes](/services).
+Pour découvrir tous nos services de transport sur la Côte d'Azur, consultez nos [services de taxi à Cannes](/services).

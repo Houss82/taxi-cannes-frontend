@@ -454,8 +454,14 @@ export default function ChauffeurPriveCannesPage() {
               <p className="text-gray-700 leading-relaxed">
                 Monaco ou Saint-Tropez restent possibles si la journée est
                 calée pour ça. Un aller simple vers ces destinations se traite
-                plutôt comme un transfert ponctuel, pas comme une demi-journée
-                « tout compris ».
+                plutôt comme un{" "}
+                <Link
+                  href="/services/cannes-monaco"
+                  className="text-accent font-semibold hover:underline underline-offset-2"
+                >
+                  transfert ponctuel vers Monaco
+                </Link>
+                , pas comme une demi-journée « tout compris ».
               </p>
             </div>
             <div className="relative aspect-4/3 rounded-2xl overflow-hidden shadow-xl ring-1 ring-black/5">

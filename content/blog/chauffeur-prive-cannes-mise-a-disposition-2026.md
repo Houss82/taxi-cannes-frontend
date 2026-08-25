@@ -119,7 +119,7 @@ Cannes n'est pas une ville comme les autres pour la mobilité. Entre **événeme
 - **Tax Free World Exhibition** et autres salons B2B : délégations avec planning serré.
 - **La Croisette** : Carlton, Martinez, Majestic, JW Marriott — **[trajets Palaces](/services/trajets-palaces)** et **[secteur Croisette](/secteurs/la-croisette)**.
 - **Villas et résidences** : Le Cannet, Mougins, Californie, Palm Beach — adresses parfois difficiles d'accès en voiture personnelle.
-- **Ports et yachting** : Vieux-Port, Port Canto, débarquements croisière — **[port → aéroport Nice](/blog/taxi-port-croisiere-cannes-transfert-aeroport-nice-guide-2026)**.
+- **Ports et yachting** : Vieux-Port, Port Canto, débarquements croisière — **[port → aéroport Nice](/blog/taxi-port-croisiere-cannes-transfert-aeroport-nice-guide-2026)** ; **[débarquement vers hôtel ou gare](/blog/taxi-port-croisiere-cannes-escale-hotel-gare-palais-guide-2026)** (escale locale).
 
 En période chargée, la **recherche de parking** peut prendre **30 à 60 minutes** près du Palais ou de la Croisette. Un chauffeur dédié vous dépose au **point le plus proche autorisé** et repart — vous gagnez du temps à chaque étape.
 

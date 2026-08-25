@@ -135,7 +135,7 @@ Guides quartiers : **[Le Suquet](/blog/taxi-cannes-le-suquet-guide-complet-2026)
 
 ### Port de croisière
 
-Si vous débarquez et repartez en vol le même jour, voir le guide **[port Cannes → aéroport Nice](/blog/taxi-port-croisiere-cannes-aeroport-nice-guide-2026)** (logistique quais et bagages croisière).
+Si vous débarquez et repartez en vol le même jour, voir le guide **[port Cannes → aéroport Nice](/blog/taxi-port-croisiere-cannes-aeroport-nice-guide-2026)** (logistique quais et bagages croisière). Pour une **[escale vers un hôtel, la gare ou le Palais](/blog/taxi-port-croisiere-cannes-escale-hotel-gare-palais-guide-2026)** sans vol immédiat, voir le guide dédié.
 
 ---
 

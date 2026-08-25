@@ -76,19 +76,19 @@ export default function Pricing() {
                       key={i}
                       className="border-b border-border last:border-b-0 hover:bg-secondary transition-colors"
                     >
+                      <td className="px-6 py-4">{route.from}</td>
                       <td className="px-6 py-4">
                         {route.href ? (
                           <Link
                             href={route.href}
                             className="text-accent font-medium hover:underline underline-offset-2"
                           >
-                            {route.from}
+                            {route.to}
                           </Link>
                         ) : (
-                          route.from
+                          route.to
                         )}
                       </td>
-                      <td className="px-6 py-4">{route.to}</td>
                       <td className="px-6 py-4 text-right font-bold text-accent">
                         {route.price}€
                       </td>

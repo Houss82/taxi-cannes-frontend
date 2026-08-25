@@ -343,7 +343,7 @@ Indiquez : **date et heure**, **adresse de prise en charge à Cannes**, **destin
 
 <details class="faq">
   <summary>Antibes ou Monaco depuis Cannes : quel trajet choisir ?</summary>
-  <p><strong>Antibes</strong> est plus <strong>proche</strong> (15–25 min, 45 €) ; <strong>Monaco</strong> est une <strong>longue distance</strong> (50–60 min, 160 €). Deux intentions différentes — voir <a href="/blog/taxi-cannes-monaco-guide-complet">guide Monaco</a>.</p>
+  <p><strong>Antibes</strong> est plus <strong>proche</strong> (15–25 min, 45 €) ; <strong>Monaco</strong> est une <strong>longue distance</strong> (50–60 min, 160 €). Deux intentions différentes — voir <a href="/services/cannes-monaco">transfert Cannes → Monaco</a>.</p>
 </details>
 
 <details class="faq">
