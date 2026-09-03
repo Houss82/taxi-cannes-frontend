@@ -293,9 +293,15 @@ export default function LaCroisette() {
                 <li className="flex items-start gap-3">
                   <Building2 className="w-5 h-5 text-accent mt-1 shrink-0" />
                   <span>
-                    <strong>Transport depuis les palaces</strong> : Prise en
-                    charge à l&apos;hôtel (Carlton, Martinez, Majestic, etc.)
-                    avec attente dans le hall si nécessaire
+                    <Link
+                      href="/services/trajets-palaces"
+                      className="text-accent font-semibold hover:underline underline-offset-2"
+                    >
+                      <strong>Trajets depuis les palaces</strong>
+                    </Link>
+                    {" "}
+                    : Prise en charge à l&apos;hôtel (Carlton, Martinez, Majestic,
+                    etc.) avec attente dans le hall si nécessaire
                   </span>
                 </li>
                 <li className="flex items-start gap-3">

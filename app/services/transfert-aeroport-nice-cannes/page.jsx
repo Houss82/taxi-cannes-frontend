@@ -949,7 +949,24 @@ export default function TransfertAeroportNiceCannes() {
                       +
                     </span>
                   </summary>
-                  <p className="mt-3 text-gray-700 leading-relaxed">{item.a}</p>
+                  <p className="mt-3 text-gray-700 leading-relaxed">
+                    {item.q ===
+                    "Transfert depuis le Carlton, Martinez ou Majestic ?" ? (
+                      <>
+                        Oui. Dépose / prise en charge devant les palaces de la
+                        Croisette — voir aussi notre service{" "}
+                        <Link
+                          href="/services/trajets-palaces"
+                          className="text-accent font-semibold hover:underline underline-offset-2"
+                        >
+                          trajets palaces
+                        </Link>
+                        .
+                      </>
+                    ) : (
+                      item.a
+                    )}
+                  </p>
                 </details>
               ))}
             </div>

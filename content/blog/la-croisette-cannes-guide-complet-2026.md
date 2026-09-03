@@ -125,7 +125,7 @@ La Croisette compte également d'autres établissements de luxe :
 - **Hôtel JW Marriott Cannes** : Service premium, spa de luxe – [Site officiel](https://www.marriott.com/hotels/travel/ncejw-jw-marriott-cannes)
 - **Hôtel Splendid** : Vue panoramique, accès plage – [Site officiel](https://www.splendid-hotel-cannes.com)
 
-Pour découvrir tous nos services de transport vers ces palaces, consultez notre page dédiée au [service de taxi La Croisette](/secteurs/la-croisette).
+Pour découvrir nos services de transport vers ces palaces, consultez la page [service de taxi La Croisette](/secteurs/la-croisette) — ou [réserver un trajet depuis un palace](/services/trajets-palaces) (Carlton, Martinez, Majestic).
 
 ---
 
@@ -209,7 +209,7 @@ La Croisette est le théâtre de nombreux **événements internationaux** qui at
 
 Le **Festival de Cannes** (généralement en mai) transforme la Croisette en capitale mondiale du cinéma. Pendant cette période, les palaces accueillent les stars, les rues sont fermées pour les défilés, et l'ambiance est exceptionnelle.
 
-**Conseil transport** : Pendant le Festival, la circulation est très dense et les parkings saturés. Réserver un [taxi Festival de Cannes](/services/trajets-palaces) à l'avance est essentiel pour éviter les retards. Notre [service de taxi La Croisette](/secteurs/la-croisette) propose des réservations anticipées pour tous les événements.
+**Conseil transport** : Pendant le Festival, la circulation est très dense et les parkings saturés. [Réserver un taxi depuis votre palace](/services/trajets-palaces) à l'avance est essentiel pour éviter les retards. Notre [service de taxi La Croisette](/secteurs/la-croisette) propose des réservations anticipées pour tous les événements.
 
 ### MIPIM (Mars)
 
