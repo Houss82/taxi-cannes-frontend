@@ -548,6 +548,14 @@ export default function TrajetsPalaces() {
               >
                 guide Cannes Lions
               </Link>
+              . Pour préparer le point de prise en charge, l&apos;entrée de
+              l&apos;hôtel, les bagages et un départ gare ou aéroport&nbsp;:{" "}
+              <Link
+                href="/blog/taxi-palaces-cannes-carlton-martinez-majestic-guide-2026"
+                className="text-accent font-semibold hover:underline underline-offset-2"
+              >
+                guide pratique des palaces cannois
+              </Link>
               . Aucune disponibilité ni durée de trajet n&apos;est garantie en
               période d&apos;événement.
             </p>

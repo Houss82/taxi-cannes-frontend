@@ -131,6 +131,8 @@ Lieu incontournable pour les **rendez-vous professionnels** et les événements 
 
 Très apprécié des **dirigeants**, conférenciers et invités VIP.
 
+Pour les détails pratiques de prise en charge devant le **[Carlton, Martinez et Majestic](/blog/taxi-palaces-cannes-carlton-martinez-majestic-guide-2026)**, consultez notre guide dédié.
+
 ### JW Marriott Cannes
 
 Hôtel central situé **directement sur la Croisette**.

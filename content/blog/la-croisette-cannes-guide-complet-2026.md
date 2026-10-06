@@ -127,6 +127,8 @@ La Croisette compte également d'autres établissements de luxe :
 
 Pour découvrir nos services de transport vers ces palaces, consultez la page [service de taxi La Croisette](/secteurs/la-croisette) — ou [réserver un trajet depuis un palace](/services/trajets-palaces) (Carlton, Martinez, Majestic).
 
+Pour préparer concrètement un départ depuis le Carlton, le Martinez ou le Majestic — point de rendez-vous, bagages, gare ou aéroport — consultez notre [guide des palaces de Cannes](/blog/taxi-palaces-cannes-carlton-martinez-majestic-guide-2026).
+
 ---
 
 ## 🌊 Les Plages privées de la Croisette

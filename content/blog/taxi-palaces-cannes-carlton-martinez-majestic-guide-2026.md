@@ -1,27 +1,25 @@
 ---
 title: "Taxi palaces Cannes : Carlton, Martinez, Majestic — prise en charge & transferts"
-date: "2026-08-25"
-excerpt: "Prise en charge devant Carlton, Martinez ou Majestic : aéroport Nice (100 €), gare, Palais, bagages. Guide pratique pour réserver un taxi palace à Cannes. +33 7 56 82 77 99."
+date: "2026-10-06"
+excerpt: "Prise en charge devant Carlton, Martinez ou Majestic : aéroport Nice (forfait 100 € Croisette / palaces), gare, Palais, bagages. Guide pratique pour réserver. +33 7 56 82 77 99."
 image: "/taxi-palaces-cannes-croisette-hero.png"
 category: "Transferts & Déplacements"
 author: "Taxi Cannes"
 language: "fr"
 ---
 
-# Taxi palaces Cannes : Carlton, Martinez, Majestic — prise en charge et transferts
+Vous logez au **Carlton**, au **Martinez** ou au **Majestic** et vous devez rejoindre l’aéroport, la gare ou le Palais sans improviser sur la Croisette. En pratique, cela veut souvent dire : **une prise en charge devant l’hôtel**, bagages gérés, chauffeur déjà briefé sur le nom de l’établissement et l’entrée.
 
-Vous logez au **Carlton**, au **Martinez** ou au **Majestic** et vous devez rejoindre l’aéroport, la gare ou le Palais sans improviser sur la Croisette. La recherche _taxi palace Cannes_ ou _taxi Carlton Cannes_ correspond souvent à ça : **une prise en charge devant l’hôtel**, bagages inclus, chauffeur déjà briefé sur l’adresse et l’entrée.
-
-Ce guide est **informationnel**. Pour réserver le service VIP, utilisez la page **[trajets palaces Cannes](/services/trajets-palaces)**. Ici : ce qu’il faut indiquer, quels trajets reviennent le plus souvent, et comment éviter les confusions avec une simple course « Croisette ».
+Ce guide explique ce qu’il faut indiquer, quels trajets reviennent le plus souvent, et comment s’organiser. Pour réserver le service, utilisez la page **[trajets palaces Cannes](/services/trajets-palaces)** ou le **[formulaire de réservation](/reservation)**.
 
 <details class="toc">
   <summary>Sommaire</summary>
   <ol>
-    <li><a href="#différence">Palace vs secteur Croisette</a></li>
+    <li><a href="#différence">Palace ou secteur Croisette ?</a></li>
     <li><a href="#prise-en-charge">Comment se passe la prise en charge</a></li>
     <li><a href="#palaces">Carlton, Martinez, Majestic</a></li>
     <li><a href="#destinations">Destinations fréquentes</a></li>
-    <li><a href="#aeroport">Palace → aéroport Nice</a></li>
+    <li><a href="#aeroport">Palace et aéroport Nice</a></li>
     <li><a href="#trajet-ou-journee">Trajet unique ou journée</a></li>
     <li><a href="#bagages">Bagages et groupes</a></li>
     <li><a href="#evenements">Congrès et périodes chargées</a></li>
@@ -32,18 +30,18 @@ Ce guide est **informationnel**. Pour réserver le service VIP, utilisez la page
 
 ---
 
-<h2 id="différence">Palace vs secteur Croisette : deux intentions</h2>
+<h2 id="différence">Palace ou secteur Croisette ?</h2>
 
-La **[page secteur La Croisette](/secteurs/la-croisette)** couvre le boulevard et les courses locales autour de la mer. Le guide Croisette du blog décrit le quartier (histoire, palaces, plages) : utile pour comprendre le lieu, pas pour réserver un transfert VIP.
+La page **[secteur La Croisette](/secteurs/la-croisette)** couvre les déplacements autour du boulevard : courses locales, restaurants, Palais voisin, accès depuis d’autres quartiers. Utile quand vous restez dans la zone sans viser un hôtel nommé.
 
-La landing **[trajets palaces](/services/trajets-palaces)** cible une autre demande : **départ ou arrivée depuis un palace nommé**, avec attentes de discrétion, assistance bagages et ponctualité (arrivées tardives, check-out, vols).
+La page **[trajets palaces](/services/trajets-palaces)** sert quand le départ ou l’arrivée se fait **devant un palace nommé** (Carlton, Martinez, Majestic…) : check-out, bagages, vol, gare, ou transfert plus long.
 
 En pratique :
 
-- **Course courte** Croisette ↔ Palais ou restaurant voisin → souvent logique « secteur Croisette ».
-- **Transfert palace → Nice / gare / longue distance**, ou départ VIP nommé → logique **trajets palaces**.
+- **Course courte** Croisette ↔ Palais ou restaurant voisin → souvent via le [secteur Croisette](/secteurs/la-croisette).
+- **Transfert depuis ou vers un palace** (Nice, gare, longue distance, départ nommé) → via **[trajets palaces](/services/trajets-palaces)**.
 
-Les deux pages se complètent ; ce n’est pas le même clic.
+Ce guide complète les deux pages sans les remplacer : il détaille la préparation du trajet.
 
 ---
 
@@ -65,8 +63,6 @@ Le chauffeur se présente au point convenu. Nous ne promettons pas d’accès à
 
 Si la conciergerie vous indique un créneau ou un accès temporaire, transmettez-le dans les notes du formulaire : cela évite d’attendre au mauvais angle du bâtiment.
 
-Assistance bagages et véhicules premium (Mercedes Classe S, Tesla selon disponibilité) sont déjà annoncés sur la page service palaces.
-
 ---
 
 <h2 id="palaces">Carlton, Martinez, Majestic — ce qui change vraiment</h2>
@@ -85,7 +81,7 @@ Même logique Croisette. En période d’événements, la circulation devant l�
 
 Face mer, proche Palais des Festivals. Utile pour les enchaînements hôtel ↔ congrès le même jour — soit en courses ponctuelles, soit en mise à disposition si vous multipliez les arrêts. Le trajet vers le Palais est court, mais le taxi reste pertinent avec bagages, tenue de soirée, ou agenda à la minute.
 
-D’autres hôtels de la Croisette (ex. JW Marriott, cité ailleurs sur le site) suivent le même protocole : **nom + entrée + bagages**.
+D’autres hôtels de la Croisette suivent le même protocole : **nom + entrée + bagages**.
 
 ---
 
@@ -96,7 +92,7 @@ D’autres hôtels de la Croisette (ex. JW Marriott, cité ailleurs sur le site)
     <tr style="background-color: #f3f4f6;">
       <th style="padding: 12px 8px; text-align: left; border: 1px solid #e5e7eb; font-size: 0.875rem;">Départ (exemple)</th>
       <th style="padding: 12px 8px; text-align: left; border: 1px solid #e5e7eb; font-size: 0.875rem;">Destination typique</th>
-      <th style="padding: 12px 8px; text-align: left; border: 1px solid #e5e7eb; font-size: 0.875rem;">Intention</th>
+      <th style="padding: 12px 8px; text-align: left; border: 1px solid #e5e7eb; font-size: 0.875rem;">Usage</th>
     </tr>
   </thead>
   <tbody>
@@ -128,21 +124,17 @@ D’autres hôtels de la Croisette (ex. JW Marriott, cité ailleurs sur le site)
   </tbody>
 </table>
 
-**Gare SNCF** : utile après un check-out avec valises — indiquez l’horaire de train pour caler la marge. **Palais** : donnez l’entrée si vous la connaissez (les accès changent selon les événements). **Monaco** : transfert ponctuel depuis le palace ; forfait public Cannes → Monaco sur la grille **[Tarifs](/tarifs)** et page **[transfert Cannes Monaco](/services/cannes-monaco)**.
+**Gare SNCF** : utile après un check-out avec valises — indiquez l’horaire de train pour caler la marge. **Palais** : donnez l’entrée si vous la connaissez (les accès changent selon les événements). **Monaco** : transfert ponctuel depuis le palace ; forfait public **Cannes → Monaco 160 €** sur la grille **[Tarifs](/tarifs)** et la page **[transfert Cannes Monaco](/services/cannes-monaco)**.
 
 ---
 
-<h2 id="aeroport">Palace → aéroport Nice : forfait 100 €</h2>
+<h2 id="aeroport">Palace et aéroport Nice</h2>
 
-Sur la page **[Tarifs](/tarifs)** et le **[transfert aéroport Nice Cannes](/services/transfert-aeroport-nice-cannes)** :
+Sur la page **[transfert aéroport Nice–Cannes](/services/transfert-aeroport-nice-cannes)**, le forfait réservation **Aéroport Nice ↔ Croisette / palaces** est affiché à **100 €**. La grille **[Tarifs](/tarifs)** publie également **Aéroport Nice → Palaces : 100 €** (et **95 €** vers Cannes centre). Van 8 places : forfait **120 €** sur la page aéroport.
 
-- **Aéroport Nice → Palaces** : **100 €** (berline, forfait réservation) ;
-- **Aéroport Nice → Cannes centre** : **95 €** ;
-- **Van** : forfait **120 €** annoncé sur les guides aéroport pour les transferts adaptés groupe / bagages volumineux.
+Indiquez T1 ou T2, l’heure de vol et une marge de route (surtout en été ou jour d’événement). Montant confirmé à la réservation.
 
-Le sens **palace → Nice** suit la même logique de forfait Croisette / palaces en réservation. Indiquez T1 ou T2, l’heure de vol et une marge de route (surtout en été ou jour d’événement).
-
-Ce n’est pas une mise à disposition : un trajet, une dépose au terminal.
+Ce n’est pas une mise à disposition : un trajet, une dépose au terminal. Pour réserver ce type de course depuis un palace nommé, partez de **[trajets palaces](/services/trajets-palaces)** ou du [formulaire](/reservation).
 
 ---
 
@@ -178,8 +170,8 @@ Si vous enchaînez trois rendez-vous depuis le Martinez sans vouloir rappeler un
 
 Les départs palace vers Nice ou la gare impliquent souvent **plusieurs valises**. Précisez le volume à la réservation.
 
-- Usage standard : berline premium.
-- Famille / équipe / beaucoup de bagages : indiquez le nombre de passagers ; un **van (Classe V)** peut être demandé via le formulaire de réservation, selon disponibilité.
+- Usage standard : berline.
+- Famille / équipe / beaucoup de bagages : indiquez le nombre de passagers ; un **van** peut être demandé via le formulaire de réservation, selon disponibilité (van 8 places / Classe V annoncé sur le parcours aéroport et la mise à disposition).
 
 Pas de promesse de capacité fixe ici : le véhicule se confirme avant le départ.
 
@@ -196,7 +188,7 @@ Conseil terrain :
 - prévoyez une **marge** si vous devez être au Palais à heure fixe ;
 - pour une journée entière d’allers-retours hôtel ↔ Palais ↔ dîner, évaluez une **mise à disposition** plutôt que trois courses séparées au dernier moment.
 
-Ce guide ne remplace pas les articles dédiés Lions / Palais / événements : il traite uniquement l’angle **palace → déplacement**.
+Ce guide traite l’angle **palace → déplacement**. Pour le détail Lions, Palais ou calendrier événements, voyez les articles dédiés sur le blog.
 
 ---
 
@@ -207,7 +199,7 @@ Ce guide ne remplace pas les articles dédiés Lions / Palais / événements : i
 3. Ajoutez passagers, bagages, terminal / n° de vol ou de train si besoin.
 4. Confirmation avant le départ ; téléphone : **+33 7 56 82 77 99**.
 
-Paiement à bord, comme pour les autres courses du site (sauf arrangement particulier indiqué à la réservation).
+**Paiement à bord** (CB, espèces ou selon arrangement indiqué à la réservation), comme pour les autres courses du site.
 
 ---
 
@@ -215,12 +207,12 @@ Paiement à bord, comme pour les autres courses du site (sauf arrangement partic
 
 <details class="faq">
   <summary>Proposez-vous une prise en charge devant le Carlton, le Martinez ou le Majestic ?</summary>
-  <p>Oui. Indiquez le nom de l’hôtel et l’entrée souhaitée. La page <a href="/services/trajets-palaces">trajets palaces</a> est le point d’entrée commercial pour ces départs.</p>
+  <p>Oui. Indiquez le nom de l’hôtel et l’entrée souhaitée. La page <a href="/services/trajets-palaces">trajets palaces</a> permet de réserver ces départs ou arrivées.</p>
 </details>
 
 <details class="faq">
-  <summary>Quel est le prix d’un taxi palace → aéroport Nice ?</summary>
-  <p>Le forfait public <strong>Aéroport Nice → Palaces</strong> est de <strong>100 €</strong> sur la page <a href="/tarifs">Tarifs</a>. Le sens palace → Nice suit la même logique de forfait Croisette / palaces en réservation. Montant confirmé à la réservation.</p>
+  <summary>Quel est le prix d’un taxi entre un palace et l’aéroport Nice ?</summary>
+  <p>Le forfait réservation <strong>Aéroport Nice ↔ Croisette / palaces</strong> est de <strong>100 €</strong> sur la page <a href="/services/transfert-aeroport-nice-cannes">transfert aéroport Nice–Cannes</a>. La grille <a href="/tarifs">Tarifs</a> affiche aussi <strong>Aéroport Nice → Palaces : 100 €</strong>. Montant confirmé à la réservation.</p>
 </details>
 
 <details class="faq">
@@ -230,12 +222,12 @@ Paiement à bord, comme pour les autres courses du site (sauf arrangement partic
 
 <details class="faq">
   <summary>Puis-je réserver un départ très tôt ou très tard ?</summary>
-  <p>Oui : le service palaces est annoncé <strong>24h/24</strong> pour arrivées et départs. Réservez à l’avance pour les créneaux de nuit ou d’aube.</p>
+  <p>Oui, en réservant à l’avance via le formulaire ou par téléphone. Les créneaux de nuit ou d’aube (vols matinaux, arrivées tardives) se calent mieux lorsqu’ils sont prévus la veille.</p>
 </details>
 
 <details class="faq">
   <summary>Quelle différence avec le taxi Croisette ?</summary>
-  <p>Le <a href="/secteurs/la-croisette">secteur Croisette</a> couvre le quartier. Les <a href="/services/trajets-palaces">trajets palaces</a> ciblent la prise en charge VIP depuis un palace nommé (bagages, discrétion, forfait aéroport palaces).</p>
+  <p>Le <a href="/secteurs/la-croisette">secteur Croisette</a> couvre les déplacements dans le quartier. Les <a href="/services/trajets-palaces">trajets palaces</a> concernent la prise en charge ou l’arrivée devant un palace nommé (Carlton, Martinez, Majestic…), avec bagages et transfert (aéroport, gare, etc.).</p>
 </details>
 
 <details class="faq">
@@ -245,12 +237,12 @@ Paiement à bord, comme pour les autres courses du site (sauf arrangement partic
 
 <details class="faq">
   <summary>Peut-on partir du palace vers Monaco ?</summary>
-  <p>Oui, en transfert ponctuel. Voir <a href="/services/cannes-monaco">transfert Cannes → Monaco</a> (forfait public 160 € Cannes → Monaco sur Tarifs). Précisez le palace comme adresse de départ.</p>
+  <p>Oui, en transfert ponctuel. Voir <a href="/services/cannes-monaco">transfert Cannes → Monaco</a> (forfait public <strong>160 €</strong> Cannes → Monaco sur <a href="/tarifs">Tarifs</a>). Précisez le palace comme adresse de départ.</p>
 </details>
 
 <details class="faq">
   <summary>Plusieurs valises ou un groupe : quel véhicule ?</summary>
-  <p>Précisez passagers et bagages. Berline pour un usage standard ; van (Classe V) sur demande via le formulaire, selon disponibilité. Confirmé avant le départ.</p>
+  <p>Précisez passagers et bagages. Berline pour un usage standard ; van sur demande via le formulaire, selon disponibilité. Confirmé avant le départ.</p>
 </details>
 
 <details class="faq">
@@ -265,4 +257,4 @@ Paiement à bord, comme pour les autres courses du site (sauf arrangement partic
 
 ---
 
-En résumé : depuis un palace cannois, ce qui compte c’est **l’hôtel nommé**, **l’entrée**, **les bagages** et **l’horaire** — surtout vers Nice (forfait **100 €** palaces). Pour réserver : **[trajets palaces Cannes](/services/trajets-palaces)** ou **+33 7 56 82 77 99**.
+En résumé : depuis un palace cannois, ce qui compte c’est **l’hôtel nommé**, **l’entrée**, **les bagages** et **l’horaire** — surtout vers Nice (forfait **100 €** Croisette / palaces sur la grille aéroport). Pour réserver : **[trajets palaces Cannes](/services/trajets-palaces)** ou **+33 7 56 82 77 99**.
