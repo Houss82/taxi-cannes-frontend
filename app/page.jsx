@@ -684,9 +684,6 @@ export default function Home() {
               addressRegion: "Provence-Alpes-Côte d'Azur",
               addressCountry: "FR",
             },
-            sameAs: [
-              "https://hoodspot.fr/taxi/taxi-cannes-99092661000017/",
-            ],
           }),
         }}
       />

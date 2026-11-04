@@ -148,15 +148,6 @@ export default function Footer() {
             <Link href="#" className="hover:text-accent transition-colors">
               WhatsApp
             </Link>
-            <a
-              href="https://hoodspot.fr/taxi/taxi-cannes-99092661000017/"
-              title="Taxi Cannes"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hover:text-accent transition-colors"
-            >
-              Taxi Cannes
-            </a>
           </div>
         </div>
       </div>
