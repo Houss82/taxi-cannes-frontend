@@ -32,9 +32,9 @@ const canonical =
   "https://www.cannestaxi.fr/services/taxi-conventionne-cpam-cannes";
 
 export const metadata = {
-  title: "Taxi conventionné Cannes CPAM | Transport médical",
+  title: "Transport médical assis Cannes | Taxi conventionné CPAM (selon chauffeur)",
   description:
-    "Taxi conventionné CPAM à Cannes : transport médical assis vers hôpital, clinique ou centre de soins, selon éligibilité. Appelez le 07 56 82 77 99.",
+    "Transport médical assis à Cannes : cannestaxi.fr met en relation avec des chauffeurs de taxi indépendants. Certains peuvent être conventionnés CPAM, d'autres non ; éligibilité à vérifier. Appelez le 07 56 82 77 99.",
   keywords: [
     "taxi conventionné cannes",
     "taxi conventionné cpam cannes",
@@ -48,9 +48,9 @@ export const metadata = {
   ],
   alternates: { canonical },
   openGraph: {
-    title: "Taxi conventionné Cannes CPAM | Transport médical",
+    title: "Transport médical assis Cannes | Taxi conventionné CPAM (selon chauffeur)",
     description:
-      "Taxi conventionné CPAM à Cannes : transport médical assis selon éligibilité. Appelez le 07 56 82 77 99.",
+      "Transport médical assis à Cannes : mise en relation avec des chauffeurs de taxi indépendants, certains éventuellement conventionnés CPAM (éligibilité à vérifier). Appelez le 07 56 82 77 99.",
     url: canonical,
     siteName: "Taxi Cannes",
     locale: "fr_FR",
@@ -61,15 +61,19 @@ export const metadata = {
 const faqItems = [
   {
     q: "Comment réserver un taxi conventionné CPAM à Cannes ?",
-    a: "Appelez Taxi Cannes, indiquez la date et l’heure du rendez-vous, l’adresse de départ et l’établissement. Nous faisons le point sur les éléments administratifs utiles. La confirmation dépend du créneau et des disponibilités.",
+    a: "Appelez cannestaxi.fr, indiquez la date et l’heure du rendez-vous, l’adresse de départ et l’établissement. Nous vous mettons en relation avec un chauffeur de taxi indépendant ; c’est lui qui confirme sa disponibilité, s’il est conventionné CPAM ou non, et les conditions de la course.",
+  },
+  {
+    q: "cannestaxi.fr est-il un taxi conventionné CPAM ?",
+    a: "Non. cannestaxi.fr n’est pas personnellement conventionné : le site met en relation avec des chauffeurs de taxi indépendants. Certains chauffeurs partenaires peuvent être conventionnés CPAM, d’autres non. Demandez-le au chauffeur avant la course et vérifiez votre éligibilité auprès de la CPAM.",
   },
   {
     q: "Comment savoir si je peux bénéficier d’un taxi conventionné à Cannes ?",
-    a: "Pour un taxi conventionné à Cannes, cela dépend de votre situation et des règles de la CPAM. Le plus simple est de nous appeler avant la course : nous faisons le point avec vous sur votre dossier et ce qu’il faut prévoir, sans engagement.",
+    a: "Pour un taxi conventionné à Cannes, cela dépend de votre situation et des règles de la CPAM. Le plus simple est de vérifier auprès de la CPAM ou de votre médecin, puis de nous appeler avant la course pour être mis en relation avec un chauffeur et lui demander s’il est conventionné, sans engagement.",
   },
   {
     q: "Le transport est-il remboursé par la CPAM ?",
-    a: "Le remboursement ou la prise en charge dépend de votre éligibilité et des conditions en vigueur. Nous ne remplaçons pas le conseil de votre caisse ou de votre médecin : nous vous orientons au téléphone et vous invitons à vérifier les formalités nécessaires.",
+    a: "Le remboursement ou la prise en charge dépend de votre éligibilité et des conditions en vigueur. Tous les chauffeurs ne sont pas conventionnés. Nous ne remplaçons pas le conseil de votre caisse ou de votre médecin : vérifiez votre éligibilité et les formalités nécessaires auprès de la CPAM, et confirmez avec le chauffeur le montant, les conditions et le mode de paiement avant la course.",
   },
   {
     q: "Quels documents faut-il pour un taxi conventionné ?",
@@ -77,15 +81,15 @@ const faqItems = [
   },
   {
     q: "Peut-on prendre un taxi conventionné de Cannes vers Nice ?",
-    a: "Oui, un trajet Cannes → Nice peut être organisé vers un établissement de soins (par exemple Pasteur, l’Archet ou le Centre Antoine Lacassagne), selon les disponibilités et les conditions applicables à votre dossier. Appelez-nous avec l’adresse exacte et l’horaire du rendez-vous.",
+    a: "Un trajet Cannes → Nice peut être demandé vers un établissement de soins (par exemple Pasteur, l’Archet ou le Centre Antoine Lacassagne), selon la disponibilité des chauffeurs et les conditions applicables à votre dossier (conventionnement du chauffeur à confirmer). Appelez-nous avec l’adresse exacte et l’horaire du rendez-vous.",
   },
   {
     q: "Peut-on réserver pour une dialyse ?",
-    a: "Nous pouvons étudier l’organisation de trajets liés à des séances régulières, dont la dialyse, lorsque la prescription et l’éligibilité le permettent. La prise en charge n’est pas automatique : elle dépend de votre dossier. Contactez-nous pour voir ce qui est possible.",
+    a: "Vous pouvez demander à être mis en relation avec un chauffeur pour des trajets liés à des séances régulières, dont la dialyse. La prise en charge par la CPAM n’est pas automatique : elle dépend de votre dossier et du conventionnement éventuel du chauffeur, à vérifier avant la course.",
   },
   {
     q: "Peut-on réserver plusieurs trajets médicaux à l’avance ?",
-    a: "Oui, lorsque vos rendez-vous sont connus, il est utile de les anticiper (aller-retour, horaires répétitifs). Nous ne garantissons pas le même chauffeur à chaque fois. La confirmation reste liée aux créneaux et aux véhicules disponibles.",
+    a: "Oui, lorsque vos rendez-vous sont connus, il est utile de les anticiper (aller-retour, horaires répétitifs). Nous ne garantissons pas le même chauffeur à chaque fois. La confirmation reste liée aux créneaux et aux chauffeurs disponibles.",
   },
   {
     q: "Le taxi conventionné peut-il venir me chercher à domicile ?",
@@ -93,19 +97,19 @@ const faqItems = [
   },
   {
     q: "Peut-on faire l’aller et le retour le même jour ?",
-    a: "Oui, un aller-retour le jour du rendez-vous peut être prévu. Indiquez si l’heure de retour est connue ou à confirmer après la consultation. Nous organisons selon les disponibilités.",
+    a: "Oui, un aller-retour le jour du rendez-vous peut être prévu. Indiquez si l’heure de retour est connue ou à confirmer après la consultation. Le chauffeur confirme selon ses disponibilités.",
   },
   {
     q: "Quelle différence entre taxi conventionné et VSL ?",
-    a: "Le taxi conventionné correspond à un transport assis réalisé en taxi lorsqu’il est adapté à la situation. Le VSL et l’ambulance sont des modes de transport sanitaire différents. Le mode prescrit dépend de l’état et de la situation du patient : nous ne posons aucun diagnostic.",
+    a: "Un taxi conventionné (par un chauffeur qui l’est) correspond à un transport assis réalisé en taxi lorsqu’il est adapté à la situation. Le VSL et l’ambulance sont des modes de transport sanitaire différents. Le mode prescrit dépend de l’état et de la situation du patient : nous ne posons aucun diagnostic.",
   },
   {
     q: "Peut-on organiser un trajet vers un hôpital ou une clinique ?",
-    a: "Oui, nous accompagnons souvent des trajets vers des établissements de soins sur Cannes et alentours. Précisez le lieu, l’horaire du rendez-vous et, si besoin, les contraintes de mobilité — nous vous répondons franchement sur la faisabilité.",
+    a: "Vous pouvez demander un trajet vers des établissements de soins sur Cannes et alentours. Précisez le lieu, l’horaire du rendez-vous et, si besoin, les contraintes de mobilité ; la faisabilité est confirmée par le chauffeur.",
   },
   {
     q: "Faut-il appeler avant de réserver ?",
-    a: "Oui, pour un trajet sous conventionnement il est préférable d’appeler à l’avance : cela permet de confirmer les informations utiles et d’organiser la prise en charge dans de bonnes conditions.",
+    a: "Oui, pour un transport lié aux soins il est préférable d’appeler à l’avance : cela permet d’être mis en relation avec un chauffeur et de lui demander s’il est conventionné, puis de confirmer les conditions.",
   },
 ];
 
@@ -237,22 +241,27 @@ export default function TaxiConventionneCpamCannesPage() {
                 </span>
               </div>
               <h1 className="text-4xl sm:text-5xl lg:text-[3.35rem] font-bold text-gray-900 mb-5 leading-[1.12] tracking-tight text-balance">
-                Taxi conventionné CPAM à Cannes
+                Transport médical assis à Cannes — taxi conventionné CPAM (selon chauffeur)
               </h1>
               <p className="text-base md:text-lg text-gray-600 mb-4 leading-relaxed max-w-xl">
                 <strong className="text-gray-900 font-semibold">
-                  Taxi conventionné à Cannes
+                  cannestaxi.fr met en relation avec des chauffeurs de taxi
+                  indépendants
                 </strong>{" "}
                 pour vos rendez-vous médicaux : hôpitaux, cliniques, centres de
                 soins, consultations, examens ou traitements réguliers.{" "}
-                <strong className="text-gray-900">Transport médical assis</strong>{" "}
-                selon votre{" "}
-                <strong className="text-gray-900">éligibilité CPAM</strong> — à
-                confirmer à l’appel, sans promesse automatique.
+                <strong className="text-gray-900">
+                  Certains chauffeurs peuvent être conventionnés CPAM, d’autres
+                  non
+                </strong>
+                . Le transport lié aux soins est soumis à votre{" "}
+                <strong className="text-gray-900">éligibilité CPAM</strong>, à
+                vérifier — sans promesse de prise en charge.
               </p>
               <p className="text-sm text-gray-500 mb-8 pl-3 border-l-2 border-accent/40">
-                Une prescription médicale peut être nécessaire. Chaque dossier
-                est particulier.
+                cannestaxi.fr n’est pas personnellement conventionné. Une
+                prescription médicale peut être nécessaire. Chaque dossier est
+                particulier.
               </p>
               <div className="flex flex-col sm:flex-row gap-3 items-stretch sm:items-center">
                 <Button
@@ -317,6 +326,36 @@ export default function TaxiConventionneCpamCannesPage() {
         </div>
       </section>
 
+      {/* Information importante */}
+      <section className="pb-4 bg-white">
+        <div className="max-w-6xl mx-auto px-6">
+          <div className="rounded-2xl border-2 border-amber-300 bg-amber-50 p-6 md:p-8">
+            <h2 className="text-xl md:text-2xl font-bold text-gray-900 mb-3">
+              À savoir avant de réserver
+            </h2>
+            <ul className="space-y-2 text-gray-800 leading-relaxed list-disc pl-5">
+              <li>
+                cannestaxi.fr met en relation avec des chauffeurs de taxi
+                indépendants ; le site n’est pas personnellement conventionné.
+              </li>
+              <li>
+                Certains chauffeurs partenaires peuvent être conventionnés
+                CPAM, d’autres non : demandez-le au chauffeur avant la course.
+              </li>
+              <li>
+                Le transport lié aux soins est soumis à l’éligibilité CPAM, à
+                vérifier auprès de la CPAM ou de votre médecin.
+              </li>
+              <li>
+                Paiement directement auprès du chauffeur ; montant et
+                conditions confirmés par le chauffeur, selon la réglementation
+                applicable.
+              </li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
       {/* Quick info */}
       <section className="py-12 md:py-16 bg-white">
         <div className="max-w-6xl mx-auto px-6">
@@ -325,12 +364,12 @@ export default function TaxiConventionneCpamCannesPage() {
               {
                 icon: Phone,
                 label: "Un appel",
-                desc: "Pour cadrer le trajet et le dossier",
+                desc: "Pour être mis en relation avec un chauffeur",
               },
               {
                 icon: ShieldCheck,
-                label: "Éligibilité",
-                desc: "Selon prescription et CPAM",
+                label: "Éligibilité CPAM",
+                desc: "À vérifier ; chauffeur conventionné ou non",
               },
               {
                 icon: Car,
@@ -379,18 +418,20 @@ export default function TaxiConventionneCpamCannesPage() {
             <p className="text-lg text-gray-700 leading-relaxed mb-4">
               Pour un <strong className="text-gray-900">taxi CPAM à Cannes</strong>{" "}
               ou un <strong className="text-gray-900">taxi conventionné</strong>{" "}
-              lié aux soins, l’idée est simple : on organise le{" "}
+              lié aux soins, l’idée est simple : cannestaxi.fr vous met en relation
+              avec un chauffeur de taxi indépendant pour le{" "}
               <strong className="text-gray-900">
                 transport médical à Cannes
               </strong>{" "}
-              (dépose, horaires) pendant que{" "}
+              (dépose, horaires), pendant que{" "}
               <strong className="text-gray-900">votre éligibilité</strong> et le
               volet administratif relèvent de la CPAM et, le cas échéant, de
               votre médecin.
             </p>
             <p className="text-lg text-gray-700 leading-relaxed mb-8">
               Un <strong className="text-gray-900">taxi conventionné</strong>{" "}
-              peut être utile pour des déplacements liés aux soins, lorsque
+              (certains chauffeurs partenaires le sont, d’autres non) peut être
+              utile pour des déplacements liés aux soins, lorsque
               votre situation le permet et{" "}
               <strong className="text-gray-900">
                 sous conditions d’éligibilité
@@ -403,7 +444,7 @@ export default function TaxiConventionneCpamCannesPage() {
                 {
                   n: "01",
                   icon: Phone,
-                  text: "Un appel permet de vérifier rapidement ce que nous pouvons organiser côté trajet, et ce qu’il vous reste à confirmer auprès de votre caisse ou de votre médecin.",
+                  text: "Un appel permet d’être mis en relation avec un chauffeur indépendant ; il vous reste à vérifier votre éligibilité auprès de votre caisse ou de votre médecin, et si le chauffeur est conventionné.",
                 },
                 {
                   n: "02",
@@ -413,7 +454,7 @@ export default function TaxiConventionneCpamCannesPage() {
                 {
                   n: "03",
                   icon: ShieldCheck,
-                  text: "Nous privilégions des réponses claires : si une information nous manque, nous vous le disons plutôt que d’avancer une certitude.",
+                  text: "Nous restons prudents : si une information manque, nous vous le disons plutôt que d’avancer une certitude.",
                 },
               ].map((item) => {
                 const Icon = item.icon;
@@ -480,10 +521,10 @@ export default function TaxiConventionneCpamCannesPage() {
               ))}
             </div>
             <p className="mt-6 text-sm text-muted-foreground leading-relaxed">
-              Le service proposé reste un{" "}
+              Le transport concerné reste un{" "}
               <strong className="text-gray-800">transport assis en taxi</strong>
               , lorsque les conditions réglementaires et administratives sont
-              réunies. Ce n’est ni une ambulance, ni un VSL, ni un transport
+              réunies et que le chauffeur est conventionné le cas échéant. Ce n’est ni une ambulance, ni un VSL, ni un transport
               médicalisé.
             </p>
           </div>
@@ -495,8 +536,8 @@ export default function TaxiConventionneCpamCannesPage() {
               Transport médical depuis Cannes vers les établissements de soins
             </h2>
             <p className="text-lg text-gray-700 leading-relaxed mb-8">
-              Un trajet peut être organisé vers les destinations ci-dessous
-              selon les disponibilités et les conditions applicables à votre
+              Un trajet peut être demandé vers les destinations ci-dessous
+              selon la disponibilité des chauffeurs et les conditions applicables à votre
               dossier. Nous n’avons pas de partenariat avec ces établissements :
               il s’agit uniquement de lieux de rendez-vous fréquents dans le
               bassin cannois et les Alpes-Maritimes.
@@ -593,7 +634,7 @@ export default function TaxiConventionneCpamCannesPage() {
                 >
                   guide Cannes → Centre Antoine Lacassagne
                 </Link>{" "}
-                précise les accès. La réservation du trajet se fait par
+                précise les accès. La demande de trajet se fait par
                 téléphone.
               </p>
             </div>
@@ -866,7 +907,7 @@ export default function TaxiConventionneCpamCannesPage() {
               "Réponse directe : un interlocuteur local, sans formulaire obligatoire pour une première question.",
               "Organisation simple : créneau, lieu de prise en charge et destination clarifiés à l’avance quand c’est possible.",
               "Service à Cannes : nous connaissons les accès du centre-ville, de la gare et des grands axes.",
-              "Transparence : si le conventionnement ne s’applique pas à votre cas, nous vous le disons et voyons une alternative de transport classique si vous le souhaitez.",
+              "Transparence : tous les chauffeurs ne sont pas conventionnés et cannestaxi.fr ne l’est pas personnellement ; si le conventionnement ne s’applique pas à votre cas, nous voyons avec vous une alternative de transport classique si vous le souhaitez.",
             ].map((line) => (
               <div
                 key={line}
@@ -889,12 +930,12 @@ export default function TaxiConventionneCpamCannesPage() {
           </h2>
           <ol className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 mb-8">
             {[
-              "Appeler Taxi Cannes",
+              "Appeler cannestaxi.fr (mise en relation)",
               "Communiquer la date et l’heure du rendez-vous",
               "Préciser l’adresse de départ",
               "Préciser l’établissement ou l’adresse médicale",
               "Indiquer s’il s’agit d’un aller simple ou d’un aller-retour",
-              "Vérifier les éléments administratifs nécessaires",
+              "Demander au chauffeur s’il est conventionné et vérifier les éléments administratifs",
             ].map((step, i) => (
               <li
                 key={step}
@@ -923,10 +964,11 @@ export default function TaxiConventionneCpamCannesPage() {
               href="/tarifs"
               className="text-accent font-semibold hover:underline underline-offset-2"
             >
-              tarifs indicatifs
+              informations tarifaires générales
             </Link>{" "}
-            concernent surtout les courses classiques : le volet CPAM se
-            discute au cas par cas.
+            (page informative) concernent surtout les courses classiques : le
+            volet CPAM se vérifie au cas par cas, et le montant et les
+            conditions sont confirmés par le chauffeur.
           </p>
         </div>
       </section>
@@ -938,13 +980,13 @@ export default function TaxiConventionneCpamCannesPage() {
             Un doute sur votre prise en charge ?
           </h2>
           <p className="text-lg text-primary-foreground/90 leading-relaxed mb-8">
-            Appelez-nous : nous répondons rapidement et passons en revue les
-            informations utiles.{" "}
+            Appelez-nous : nous vous mettons en relation avec un chauffeur
+            indépendant et passons en revue les informations utiles.{" "}
             <strong className="text-white">
               Aucune promesse de remboursement
             </strong>{" "}
-            sans vérification — nous restons sur des formulations précises, pour
-            votre tranquillité comme pour la nôtre.
+            sans vérification : vérifiez votre éligibilité auprès de la CPAM et
+            demandez au chauffeur s’il est conventionné.
           </p>
           <PhoneCta dark />
         </div>
@@ -983,9 +1025,10 @@ export default function TaxiConventionneCpamCannesPage() {
         <div className="max-w-3xl mx-auto px-6 text-center">
           <p className="text-xl text-gray-700 mb-6">
             <strong className="text-gray-900">
-              Taxi conventionné CPAM à Cannes
+              Transport médical assis à Cannes
             </strong>{" "}
             : une question, un rendez-vous médical, un trajet à anticiper ?
+            Éligibilité CPAM à vérifier.
           </p>
           <PhoneCta />
         </div>

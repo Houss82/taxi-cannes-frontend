@@ -226,7 +226,7 @@ export default async function BlogPostPage({ params }) {
                     addressCountry: "FR",
                   },
                   serviceType: "Taxi depuis la gare SNCF de Cannes",
-                  description: "Service de taxi disponible 24h/24 pour la gare SNCF de Cannes. Prise en charge immédiate, aide aux bagages, tarifs transparents.",
+                  description: "Service de taxi disponible 24h/24 pour la gare SNCF de Cannes. Prise en charge immédiate, aide aux bagages. Montant et conditions confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable.",
                   availableChannel: {
                     "@type": "ServiceChannel",
                     serviceUrl: "https://www.cannestaxi.fr/reservation",
@@ -464,7 +464,7 @@ export default async function BlogPostPage({ params }) {
                           name: "Quel est le prix d'un taxi de Cannes à l'aéroport Nice ?",
                           acceptedAnswer: {
                             "@type": "Answer",
-                            text: "Forfait réservation : 95 € (centre), 100 € (Croisette/Palais), 120 € (van 8 places).",
+                            text: "Le montant et les conditions sont confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable. Le règlement s'effectue directement auprès du chauffeur. Voir la page Tarifs pour plus d'informations.",
                           },
                         },
                         {
@@ -492,7 +492,7 @@ export default async function BlogPostPage({ params }) {
                       url: `https://www.cannestaxi.fr/blog/${post.slug}`,
                       telephone: "+33 7 56 82 77 99",
                       description:
-                        "Transfert taxi départ Cannes vers aéroport Nice Côte d'Azur (T1/T2). Prix fixe, chauffeur local, van 8 places, 24h/24.",
+                        "Transfert taxi départ Cannes vers aéroport Nice Côte d'Azur (T1/T2). Chauffeur partenaire local, van 8 places, 24h/24 ; montant et conditions confirmés par le chauffeur.",
                       areaServed: [
                         { "@type": "City", name: "Cannes" },
                         { "@type": "City", name: "Le Cannet" },
@@ -657,7 +657,7 @@ export default async function BlogPostPage({ params }) {
                           name: "Quel est le prix d'un taxi Cannes Antibes ?",
                           acceptedAnswer: {
                             "@type": "Answer",
-                            text: "45 € sur la grille tarifaire Taxi Cannes pour Cannes → Antibes, confirmé à la réservation.",
+                            text: "Le montant et les conditions sont confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable. Le règlement s'effectue directement auprès du chauffeur.",
                           },
                         },
                         {
@@ -693,7 +693,7 @@ export default async function BlogPostPage({ params }) {
                       url: `https://www.cannestaxi.fr/blog/${post.slug}`,
                       telephone: "+33 7 56 82 77 99",
                       description:
-                        "Transfert taxi Cannes vers Antibes, Juan-les-Pins et Sophia Antipolis : réservation 24h/24, forfait 45 €, chauffeur local.",
+                        "Transfert taxi Cannes vers Antibes, Juan-les-Pins et Sophia Antipolis : réservation 24h/24, chauffeur partenaire local ; montant et conditions confirmés par le chauffeur.",
                       areaServed: [
                         { "@type": "City", name: "Cannes" },
                         { "@type": "City", name: "Antibes" },
@@ -740,7 +740,7 @@ export default async function BlogPostPage({ params }) {
                           name: "Quelle est la différence entre taxi et mise à disposition ?",
                           acceptedAnswer: {
                             "@type": "Answer",
-                            text: "Le taxi classique = 1 trajet, forfait au trajet. La mise à disposition = plusieurs trajets sur une durée (4h/8h), même chauffeur, attente incluse.",
+                            text: "Le taxi classique = 1 trajet, une dépose. La mise à disposition = plusieurs trajets sur une durée (4h/8h), même chauffeur, attente incluse.",
                           },
                         },
                         {
@@ -748,7 +748,7 @@ export default async function BlogPostPage({ params }) {
                           name: "Quel est le tarif d'une mise à disposition à Cannes ?",
                           acceptedAnswer: {
                             "@type": "Answer",
-                            text: "Repères : 240€ (4h) et 420€ (8h), confirmés à la réservation selon planning et véhicule.",
+                            text: "Le montant et les conditions sont confirmés par le chauffeur partenaire selon le planning, le véhicule et la durée, dans le respect de la réglementation applicable.",
                           },
                         },
                         {
@@ -819,7 +819,7 @@ export default async function BlogPostPage({ params }) {
                           name: "Quel est le prix d'un taxi Cannes Grasse ?",
                           acceptedAnswer: {
                             "@type": "Answer",
-                            text: "65 € sur la grille tarifaire Taxi Cannes pour Cannes → Grasse, confirmé à la réservation.",
+                            text: "Le montant et les conditions sont confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable. Le règlement s'effectue directement auprès du chauffeur.",
                           },
                         },
                         {
@@ -855,7 +855,7 @@ export default async function BlogPostPage({ params }) {
                       url: `https://www.cannestaxi.fr/blog/${post.slug}`,
                       telephone: "+33 7 56 82 77 99",
                       description:
-                        "Transfert taxi Cannes vers Grasse : parfumeries, vieille ville, gare SNCF. Forfait 65 €, réservation 24h/24, van sur demande.",
+                        "Transfert taxi Cannes vers Grasse : parfumeries, vieille ville, gare SNCF. Réservation 24h/24, van sur demande ; montant et conditions confirmés par le chauffeur partenaire.",
                       areaServed: [
                         { "@type": "City", name: "Cannes" },
                         { "@type": "City", name: "Grasse" },
@@ -890,7 +890,7 @@ export default async function BlogPostPage({ params }) {
                           name: "Combien coûte un taxi La Bocca → Croisette ?",
                           acceptedAnswer: {
                             "@type": "Answer",
-                            text: "Souvent 20 € à 35 € selon l'adresse exacte et le trafic. Devis précis à la réservation.",
+                            text: "Le montant dépend de l'adresse exacte et du trafic ; il est confirmé par le chauffeur partenaire, dans le respect de la réglementation applicable.",
                           },
                         },
                         {
@@ -922,7 +922,7 @@ export default async function BlogPostPage({ params }) {
                           name: "Taxi La Bocca vers Antibes : quel prix ?",
                           acceptedAnswer: {
                             "@type": "Answer",
-                            text: "Liaison ouest proche ; forfait type 45 € depuis Cannes centre, confirmation selon adresse exacte à La Bocca.",
+                            text: "Liaison ouest proche ; montant et conditions confirmés par le chauffeur partenaire selon l'adresse exacte à La Bocca.",
                           },
                         },
                       ],
@@ -981,7 +981,7 @@ export default async function BlogPostPage({ params }) {
                   },
                   serviceType: "Transfert taxi Cannes vers Saint-Tropez",
                   description:
-                    "Transfert longue distance Cannes Saint-Tropez : réservation 24h/24, durée et tarif transparents, prise en charge Croisette, gare, hôtels.",
+                    "Transfert longue distance Cannes Saint-Tropez : réservation 24h/24, durée indicative, montant confirmé par le chauffeur partenaire, prise en charge Croisette, gare, hôtels.",
                   availableChannel: {
                     "@type": "ServiceChannel",
                     serviceUrl: "https://www.cannestaxi.fr/reservation",
@@ -1099,7 +1099,7 @@ export default async function BlogPostPage({ params }) {
                   <div className="font-semibold text-gray-900 group-hover:text-indigo-600 transition-colors">
                     Tarifs
                   </div>
-                  <div className="text-sm text-gray-600">Prix transparents</div>
+                  <div className="text-sm text-gray-600">Informations tarifaires</div>
                 </div>
               </Link>
               <Link

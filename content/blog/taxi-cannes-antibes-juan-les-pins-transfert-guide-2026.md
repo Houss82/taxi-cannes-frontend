@@ -1,7 +1,7 @@
 ---
 title: "Taxi Cannes Antibes 2026 : durée, tarif, Juan-les-Pins & réservation"
 date: "2026-06-27"
-excerpt: "Taxi Cannes Antibes & Juan-les-Pins : durée 15–25 min, forfait 45 €, Sophia Antipolis, vieille ville, gare SNCF. Chauffeur local 24h/24. FAQ 14 questions. +33 7 56 82 77 99."
+excerpt: "Taxi Cannes Antibes & Juan-les-Pins : durée 15–25 min, montant confirmé par le chauffeur partenaire, Sophia Antipolis, vieille ville, gare SNCF. Chauffeur local 24h/24. FAQ 14 questions. +33 7 56 82 77 99."
 image: "/taxi-cannes-antibes-2026.png"
 category: "Transferts & Déplacements"
 author: "Taxi Cannes"
@@ -31,7 +31,7 @@ Ce n'est **pas** un guide touristique multi-destinations : pour une **excursion 
     <li><a href="#destinations">Où aller : Antibes, Juan-les-Pins, Sophia Antipolis</a></li>
     <li><a href="#itineraires">Itinéraires : A8, bord de mer, accès vieille ville</a></li>
     <li><a href="#prise-en-charge">Prise en charge à Cannes</a></li>
-    <li><a href="#tarifs">Tarifs et forfaits</a></li>
+    <li><a href="#tarifs">Tarifs et conditions</a></li>
     <li><a href="#comparatif">Taxi vs bus vs voiture</a></li>
     <li><a href="#retour">Antibes → Cannes : trajet retour</a></li>
     <li><a href="#pourquoi-taxi-cannes">Pourquoi choisir Taxi Cannes ?</a></li>
@@ -42,7 +42,7 @@ Ce n'est **pas** un guide touristique multi-destinations : pour une **excursion 
 
 <div class="kpi-strip">
   <span class="badge info">15 – 25 min</span>
-  <span class="badge success">Grille : 45 €</span>
+  <span class="badge success">Chauffeur partenaire</span>
   <span class="badge info">Juan-les-Pins & Sophia</span>
   <span class="badge success">Réservation 24h/24</span>
   <span class="badge accent">Chauffeur local Cannes</span>
@@ -167,9 +167,9 @@ Pour un **aller simple** ou un **aller-retour** dans la journée (déjeuner à A
 
 ---
 
-<h2 id="tarifs">Tarifs et forfaits</h2>
+<h2 id="tarifs">Tarifs et conditions</h2>
 
-Sur notre page **[Tarifs](/tarifs)**, la liaison **Cannes → Antibes** est indiquée à **45 €**. C'est le **référent public** du site ; le montant définitif est **confirmé à la réservation** selon le **véhicule** (berline, SUV, van), un **détour** (Cap d'Antibes, Sophia) ou une **attente sur place**.
+Pour la liaison **Cannes → Antibes**, le **montant et les conditions sont confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable**, selon le **véhicule** (berline, SUV, van), un **détour** (Cap d'Antibes, Sophia) ou une **attente sur place**. Le règlement s’effectue directement auprès du chauffeur. Cannestaxi.fr est un service de mise en relation ; voir la page **[Tarifs](/tarifs)**.
 
 <div class="content-box" style="overflow-x: auto; -webkit-overflow-scrolling: touch;">
   <table style="width: 100%; border-collapse: collapse; margin: 1.5rem 0; min-width: 600px;">
@@ -182,7 +182,7 @@ Sur notre page **[Tarifs](/tarifs)**, la liaison **Cannes → Antibes** est indi
     <tbody>
       <tr>
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Cannes → Antibes</strong> (centre, gare, Juan-les-Pins standard)</td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>45 €</strong> — grille tarifaire</td>
+        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">Montant et conditions confirmés par le chauffeur partenaire</td>
       </tr>
       <tr style="background-color: #f9fafb;">
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Antibes → Cannes</strong> (retour)</td>
@@ -198,13 +198,13 @@ Sur notre page **[Tarifs](/tarifs)**, la liaison **Cannes → Antibes** est indi
       </tr>
       <tr>
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Aller-retour + attente</strong> (ex. 3 h sur place)</td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">Forfait ou <strong>attente</strong> à la minute au-delà de 15 min (voir grille)</td>
+        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">Conditions d'<strong>attente</strong> confirmées par le chauffeur partenaire</td>
       </tr>
     </tbody>
   </table>
 </div>
 
-**À noter** : surcharge **20h–6h** (+20 % sur la grille), comme pour l'ensemble de nos prestations.
+**À noter** : les conditions applicables de nuit (**20h–6h**) sont confirmées par le chauffeur partenaire.
 
 ---
 
@@ -265,7 +265,7 @@ Réservez le **retour** en même temps que l'aller si vous connaissez l'heure de
 - **Chauffeurs locaux** : connaissance des axes **Cannes – Antibes**, sorties A8, accès **Juan-les-Pins** ;
 - **Flotte Mercedes** : berline, SUV, **van** sur demande ;
 - **Disponibilité 24h/24** — matins tôt, soirées, week-ends ;
-- **Prix annoncé** à la réservation pour la liaison standard ;
+- **Montant et conditions confirmés** par le chauffeur partenaire pour la liaison standard ;
 - **Maillage** avec nos autres guides : [Monaco](/blog/taxi-cannes-monaco-guide-complet), [Saint-Tropez](/blog/taxi-cannes-saint-tropez-transfert-guide-2026), [aéroport Nice](/services/transfert-aeroport-nice-cannes), [gare Cannes](/blog/taxi-gare-cannes-service-transport-sncf-2025).
 
 ---
@@ -288,7 +288,7 @@ Indiquez : **date et heure**, **adresse de prise en charge à Cannes**, **destin
 
 <details class="faq">
   <summary>Quel est le prix d'un taxi Cannes Antibes ?</summary>
-  <p>Notre <a href="/tarifs">grille tarifaire</a> indique <strong>45 €</strong> pour Cannes → Antibes. Le montant exact est <strong>confirmé à la réservation</strong> (véhicule, détour, attente).</p>
+  <p>Le <strong>montant et les conditions sont confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable</strong> (véhicule, détour, attente). Le règlement s’effectue directement auprès du chauffeur. Voir la page <a href="/tarifs">Tarifs</a>.</p>
 </details>
 
 <details class="faq">
@@ -323,7 +323,7 @@ Indiquez : **date et heure**, **adresse de prise en charge à Cannes**, **destin
 
 <details class="faq">
   <summary>Peut-on réserver un aller-retour avec attente ?</summary>
-  <p>Oui — déjeuner, visite musée, rendez-vous : précisez la <strong>durée d'attente</strong> pour un forfait ou une facturation à la minute au-delà de 15 min.</p>
+  <p>Oui — déjeuner, visite musée, rendez-vous : précisez la <strong>durée d'attente</strong> pour que les conditions soient confirmées par le chauffeur partenaire.</p>
 </details>
 
 <details class="faq">
@@ -338,12 +338,12 @@ Indiquez : **date et heure**, **adresse de prise en charge à Cannes**, **destin
 
 <details class="faq">
   <summary>Proposez-vous Antibes depuis l'aéroport de Nice ?</summary>
-  <p>Oui sur <strong>devis</strong> : ce n'est pas le forfait standard aéroport–Cannes. Voir <a href="/services/transfert-aeroport-nice-cannes">transfert aéroport Nice</a> et précisez <strong>Antibes</strong> comme destination finale.</p>
+  <p>Oui sur <strong>devis</strong> : ce n'est pas le trajet standard aéroport–Cannes ; montant et conditions confirmés par le chauffeur partenaire. Voir <a href="/services/transfert-aeroport-nice-cannes">transfert aéroport Nice</a> et précisez <strong>Antibes</strong> comme destination finale.</p>
 </details>
 
 <details class="faq">
   <summary>Antibes ou Monaco depuis Cannes : quel trajet choisir ?</summary>
-  <p><strong>Antibes</strong> est plus <strong>proche</strong> (15–25 min, 45 €) ; <strong>Monaco</strong> est une <strong>longue distance</strong> (50–60 min, 160 €). Deux intentions différentes — voir <a href="/services/cannes-monaco">transfert Cannes → Monaco</a>.</p>
+  <p><strong>Antibes</strong> est plus <strong>proche</strong> (15–25 min) ; <strong>Monaco</strong> est une <strong>longue distance</strong> (50–60 min). Deux intentions différentes — voir <a href="/services/cannes-monaco">transfert Cannes → Monaco</a>.</p>
 </details>
 
 <details class="faq">
@@ -355,7 +355,7 @@ Indiquez : **date et heure**, **adresse de prise en charge à Cannes**, **destin
 
 <div class="highlight-box">
   <strong>Taxi Cannes → Antibes & Juan-les-Pins</strong><br/>
-  Liaison courte, trafic variable : réservez votre créneau, précisez la destination exacte et votre forfait vous est confirmé avant le départ.
+  Liaison courte, trafic variable : réservez votre créneau, précisez la destination exacte et le montant vous est confirmé par le chauffeur partenaire avant le départ.
 </div>
 
 <div class="cta">
@@ -365,4 +365,4 @@ Indiquez : **date et heure**, **adresse de prise en charge à Cannes**, **destin
 
 ---
 
-_Article mis à jour en juin 2026. Tarifs et temps de parcours indicatifs ; confirmation à la réservation. Taxi Cannes — +33 7 56 82 77 99._
+_Article mis à jour en juin 2026. Temps de parcours indicatifs ; montant et conditions confirmés par le chauffeur partenaire. Cannestaxi.fr : service de mise en relation. Taxi Cannes — +33 7 56 82 77 99._

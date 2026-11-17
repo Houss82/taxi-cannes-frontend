@@ -106,7 +106,7 @@ Se rendre aux villes et villages autour de Cannes présente plusieurs défis :
 
 - **Voiture** : D6185 puis D2085 (20 min) - Stationnement difficile
 - **Bus** : Ligne 600 (Palm Bus) - 30-40 minutes, toutes les 30 min
-- **Taxi** (recommandé) : 25–35 minutes direct — forfait **65 €** sur notre grille — voir le **[guide taxi Cannes → Grasse](/blog/taxi-cannes-grasse-transfert-guide-2026)** (parfumeries, aller-retour, gare)
+- **Taxi** (recommandé) : 25–35 minutes direct — montant confirmé par le chauffeur partenaire — voir le **[guide taxi Cannes → Grasse](/blog/taxi-cannes-grasse-transfert-guide-2026)** (parfumeries, aller-retour, gare)
 
 ### 🎨 Mougins : village des arts et de la gastronomie
 
@@ -128,7 +128,7 @@ Se rendre aux villes et villages autour de Cannes présente plusieurs défis :
 
 - **Voiture** : D35 puis D3 (15 min) - Stationnement très difficile
 - **Bus** : Ligne 650 (Palm Bus) - 25-30 minutes, toutes les heures
-- **Taxi** (recommandé) : 15 minutes direct - À partir de 25€
+- **Taxi** (recommandé) : 15 minutes direct - montant confirmé par le chauffeur partenaire
 
 ### 🏛️ Antibes : vieille ville historique et port
 
@@ -151,7 +151,7 @@ Se rendre aux villes et villages autour de Cannes présente plusieurs défis :
 
 - **Voiture** : D6007 (20 min) - Stationnement difficile en été
 - **Bus** : Ligne 200 (Lignes d'Azur) - 25-30 minutes, toutes les 15-20 min
-- **Taxi** (recommandé) : 20 minutes direct - À partir de 30€ — voir notre **[guide taxi Cannes → Antibes & Juan-les-Pins](/blog/taxi-cannes-antibes-juan-les-pins-transfert-guide-2026)** (durées, forfait 45 €, Sophia Antipolis)
+- **Taxi** (recommandé) : 20 minutes direct - montant confirmé par le chauffeur partenaire — voir notre **[guide taxi Cannes → Antibes & Juan-les-Pins](/blog/taxi-cannes-antibes-juan-les-pins-transfert-guide-2026)** (durées, Sophia Antipolis)
 
 ### 🎭 Saint-Paul-de-Vence : village perché des artistes
 
@@ -174,7 +174,7 @@ Se rendre aux villes et villages autour de Cannes présente plusieurs défis :
 
 - **Voiture** : D6007 puis D2210 (25 min) - Stationnement très difficile
 - **Bus** : Ligne 400 (Lignes d'Azur) - 45-60 minutes avec correspondance
-- **Taxi** (recommandé) : 25 minutes direct - À partir de 40€
+- **Taxi** (recommandé) : 25 minutes direct - montant confirmé par le chauffeur partenaire
 
 ---
 
@@ -274,7 +274,7 @@ Se rendre aux villes et villages autour de Cannes présente plusieurs défis :
 - Retour à votre point de départ
 - Conseils sur les meilleurs horaires et itinéraires
 
-**Tarifs** : À partir de 25€ pour un service simple (aller-retour vers Mougins), sur devis pour les excursions multi-destinations. Consultez notre [page Tarifs](/tarifs) ou [contactez-nous](/contact) pour un devis personnalisé.
+**Tarifs** : montant et conditions confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable, pour un service simple comme pour les excursions multi-destinations. Le règlement s’effectue directement auprès du chauffeur. Consultez notre [page Tarifs](/tarifs) ou [contactez-nous](/contact).
 
 ### 🌍 Taxi Cannes dessert toutes ces destinations
 
@@ -383,7 +383,7 @@ Que vous souhaitiez visiter une seule destination ou combiner plusieurs villes e
 
 <details class="faq">
   <summary>Combien coûte un transport vers les villes et villages autour de Cannes ?</summary>
-  <p>Le tarif dépend de plusieurs facteurs : la distance, le nombre de destinations visitées, et le type de service (simple aller-retour ou excursion multi-destinations). Pour un <strong>service simple</strong> (aller-retour vers une destination), comptez à partir de <strong>25€</strong> pour Mougins, <strong>35€</strong> pour Grasse, <strong>30€</strong> pour Antibes, et <strong>40€</strong> pour Saint-Paul-de-Vence. Pour une <strong>excursion multi-destinations</strong>, contactez-nous pour un devis personnalisé.</p>
+  <p>Le montant dépend de plusieurs facteurs : la distance, le nombre de destinations visitées, et le type de service (simple aller-retour ou excursion multi-destinations). Le <strong>montant et les conditions sont confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable</strong>, pour un service simple comme pour une excursion multi-destinations. Le règlement s’effectue directement auprès du chauffeur.</p>
 </details>
 
 <details class="faq">

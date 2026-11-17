@@ -331,10 +331,10 @@ export default function LeCannet() {
                   Combien coûte un trajet Le Cannet → Croisette ?
                 </summary>
                 <p className="mt-4 text-gray-700">
-                  Selon l&apos;adresse exacte et le trafic, comptez souvent une{" "}
-                  <strong>course courte à moyenne</strong> (ordre de grandeur
-                  indicatif : environ 15€ à 30€). Contactez-nous pour un devis
-                  précis.
+                  Selon l&apos;adresse exacte et le trafic, il s&apos;agit
+                  souvent d&apos;une course courte à moyenne. Le montant est
+                  confirmé par le chauffeur partenaire, dans le respect de la
+                  réglementation applicable.
                 </p>
               </details>
               <details className="bg-white rounded-lg p-6 border border-gray-200">

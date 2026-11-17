@@ -200,7 +200,7 @@ Le Boulevard Carnot offre une **qualité de vie** appréciée :
 
 **Distance** : 27 km  
 **Durée** : 30-45 minutes selon le trafic  
-**Tarif taxi (forfait réservation)** : **95–100 €** selon secteur précis à Cannes ([grille transfert Nice](/blog/guide-transfert-aeroport-nice-cannes) · [taxi depuis l'aéroport Nice](/services/transfert-aeroport-nice-cannes)) ; durée voir ci-dessus.
+**Tarif taxi** : montant et conditions confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable ([guide transfert Nice](/blog/guide-transfert-aeroport-nice-cannes) · [taxi depuis l'aéroport Nice](/services/transfert-aeroport-nice-cannes)) ; durée voir ci-dessus.
 
 Le trajet depuis l'aéroport Nice vers le Boulevard Carnot traverse la Promenade des Anglais à Nice puis longe la côte jusqu'à Cannes. Notre [service de taxi Boulevard Carnot](/secteurs/boulevard-carnot) assure des [transferts aéroport Nice Cannes](/services/transfert-aeroport-nice-cannes) directs vers votre résidence ou hôtel sur le Boulevard Carnot.
 
@@ -208,7 +208,7 @@ Le trajet depuis l'aéroport Nice vers le Boulevard Carnot traverse la Promenade
 
 **Distance** : 200 mètres à 2 km selon votre destination sur le boulevard  
 **Durée** : 2-5 minutes en taxi  
-**Tarif taxi** : 8-15€
+**Tarif taxi** : montant confirmé par le chauffeur partenaire
 
 Le Boulevard Carnot commence à quelques mètres de la gare SNCF de Cannes, ce qui en fait l'un des quartiers les plus accessibles depuis la gare. Pour plus d'informations, consultez notre [guide complet du taxi gare de Cannes](/blog/taxi-gare-cannes-service-transport-sncf-2025).
 
@@ -216,7 +216,7 @@ Le Boulevard Carnot commence à quelques mètres de la gare SNCF de Cannes, ce q
 
 **Distance** : 1-2 km selon votre destination  
 **Durée** : 5-10 minutes à pied, 3-5 minutes en taxi  
-**Tarif taxi** : 8-12€
+**Tarif taxi** : montant confirmé par le chauffeur partenaire
 
 Le Suquet (vieux Cannes) est le quartier historique situé en hauteur. Le trajet vers le Boulevard Carnot se fait facilement à pied ou en taxi.
 
@@ -224,7 +224,7 @@ Le Suquet (vieux Cannes) est le quartier historique situé en hauteur. Le trajet
 
 **Distance** : 1-2 km  
 **Durée** : 5-10 minutes à pied, 3-5 minutes en taxi  
-**Tarif taxi** : 8-15€
+**Tarif taxi** : montant confirmé par le chauffeur partenaire
 
 Le Boulevard Carnot est très proche de la Croisette, offrant un accès rapide entre ces deux quartiers. Pour découvrir la Croisette, consultez notre [guide complet de la Croisette de Cannes](/blog/la-croisette-cannes-guide-complet-2026).
 

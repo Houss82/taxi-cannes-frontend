@@ -31,7 +31,7 @@ const canonical =
 export const metadata = {
   title: "Chauffeur privé Cannes | Mise à disposition 4h & 8h",
   description:
-    "Chauffeur privé à Cannes : mise à disposition 4h ou 8h pour congrès, palaces et déplacements multiples. Réservez votre voiture avec chauffeur.",
+    "Demande de mise à disposition 4h ou 8h à Cannes (à confirmer avec le chauffeur) pour congrès, palaces et déplacements multiples. cannestaxi.fr met en relation avec des chauffeurs indépendants.",
   keywords: [
     "chauffeur privé Cannes",
     "mise à disposition Cannes",
@@ -44,7 +44,7 @@ export const metadata = {
   openGraph: {
     title: "Chauffeur privé Cannes | Mise à disposition 4h & 8h",
     description:
-      "Mise à disposition avec chauffeur à Cannes : 4h ou 8h, plusieurs déplacements, réservation en ligne ou par téléphone.",
+      "Demande de mise à disposition à Cannes : 4h ou 8h, plusieurs déplacements, à confirmer avec un chauffeur indépendant mis en relation par cannestaxi.fr.",
     url: canonical,
     siteName: "Taxi Cannes",
     locale: "fr_FR",
@@ -55,23 +55,23 @@ export const metadata = {
 const faqItems = [
   {
     q: "Combien coûte un chauffeur privé à Cannes ?",
-    a: "Le tarif dépend de la durée (4 h ou 8 h), du planning et du véhicule. Il est confirmé à la réservation.",
+    a: "cannestaxi.fr met en relation avec des chauffeurs indépendants et ne fixe pas le prix. Le montant dépend de la durée demandée (4 h ou 8 h), du planning et du véhicule : il est confirmé par le chauffeur, selon la réglementation applicable. Paiement directement auprès du chauffeur. Voir la page Tarifs (informative).",
   },
   {
     q: "Peut-on réserver un chauffeur pour 4 heures ?",
-    a: "Oui. La demi-journée (4 h) correspond à une mise à disposition : plusieurs déplacements dans cette fenêtre, sans re-réserver à chaque étape.",
+    a: "Vous pouvez faire une demande pour une demi-journée (4 h) : plusieurs déplacements dans cette fenêtre. La disponibilité, les conditions et le cadre de la prestation sont à confirmer avec le chauffeur.",
   },
   {
     q: "Peut-on réserver un chauffeur pour toute la journée ?",
-    a: "Oui. Le forfait journée est de 8 heures. Indiquez l’heure de début et le programme approximatif à la réservation.",
+    a: "Vous pouvez faire une demande pour une journée (8 heures). Indiquez l’heure de début et le programme approximatif ; disponibilité et conditions sont à confirmer avec le chauffeur.",
   },
   {
     q: "Quelle différence entre un taxi et une mise à disposition ?",
-    a: "Un taxi classique couvre un trajet (point A → point B). Une mise à disposition réserve le chauffeur et le véhicule pour une durée, afin d’enchaîner plusieurs arrêts.",
+    a: "Un taxi classique couvre un trajet (point A → point B). Une mise à disposition consiste à demander un chauffeur et un véhicule pour une durée, afin d’enchaîner plusieurs arrêts — demande à confirmer avec le chauffeur (disponibilité, conditions).",
   },
   {
     q: "Peut-on effectuer plusieurs arrêts ?",
-    a: "Oui, c’est l’objet de la prestation : hôtel, rendez-vous, restaurant, Palais, retour — dans la durée réservée.",
+    a: "C’est l’objet de la demande : hôtel, rendez-vous, restaurant, Palais, retour — dans la durée convenue avec le chauffeur.",
   },
   {
     q: "Peut-on réserver pour un congrès à Cannes ?",
@@ -91,7 +91,7 @@ const faqItems = [
   },
   {
     q: "Comment réserver ?",
-    a: "Formulaire en ligne (date, heure, départ, passagers, notes : durée 4h ou 8h et programme) ou téléphone. Confirmation avant le départ.",
+    a: "Formulaire en ligne (date, heure, départ, passagers, notes : durée 4h ou 8h et programme) ou téléphone, pour être mis en relation avec un chauffeur indépendant. Le chauffeur confirme sa disponibilité, le montant et les conditions avant le départ.",
   },
 ];
 
@@ -113,7 +113,7 @@ const serviceSchema = {
   url: canonical,
   telephone: "+33 7 56 82 77 99",
   description:
-    "Mise à disposition avec chauffeur à Cannes : 4 heures ou 8 heures pour congrès, palaces et déplacements multiples.",
+    "Mise en relation avec des chauffeurs indépendants pour une demande de mise à disposition à Cannes (4 h ou 8 h, à confirmer avec le chauffeur) : congrès, palaces, déplacements multiples.",
   areaServed: [
     { "@type": "City", name: "Cannes" },
     { "@type": "City", name: "Le Cannet" },
@@ -216,9 +216,10 @@ export default function ChauffeurPriveCannesPage() {
             Chauffeur privé à Cannes — mise à disposition 4h / 8h
           </h1>
           <p className="text-lg md:text-xl mb-8 text-white/90 text-balance max-w-2xl mx-auto">
-            Un véhicule et un chauffeur dédiés pour la demi-journée ou la
-            journée : plusieurs déplacements à Cannes et sur la Côte d’Azur,
-            sans re-réserver à chaque étape.
+            Demande de chauffeur et véhicule pour la demi-journée ou la
+            journée : plusieurs déplacements à Cannes et sur la Côte d’Azur.
+            cannestaxi.fr met en relation avec des chauffeurs indépendants ;
+            disponibilité, montant et conditions sont à confirmer avec le chauffeur.
           </p>
           <div className="flex flex-col sm:flex-row gap-3 justify-center items-stretch sm:items-center">
             <Button
@@ -286,9 +287,11 @@ export default function ChauffeurPriveCannesPage() {
             <p className="text-lg text-gray-700 leading-relaxed mb-8">
               La{" "}
               <strong className="text-gray-900">mise à disposition Cannes</strong>{" "}
-              n’est pas une course unique. Vous réservez une{" "}
+              n’est pas une course unique. Vous demandez une{" "}
               <strong className="text-gray-900">voiture avec chauffeur</strong>{" "}
-              pour une durée : le véhicule reste le vôtre le temps convenu.
+              pour une durée : cannestaxi.fr vous met en relation avec un chauffeur
+              indépendant, qui confirme sa disponibilité, le cadre de la prestation
+              et les conditions.
             </p>
             <div className="grid md:grid-cols-2 gap-5">
               <div className="rounded-2xl border border-gray-200 bg-white p-6 shadow-sm">
@@ -296,7 +299,7 @@ export default function ChauffeurPriveCannesPage() {
                   Taxi pour un trajet
                 </h3>
                 <p className="text-gray-700 leading-relaxed">
-                  Point A → point B. Un forfait par course : aéroport, gare, un
+                  Point A → point B. Une course : aéroport, gare, un
                   rendez-vous. Une fois déposé, la course est terminée.
                 </p>
               </div>
@@ -305,7 +308,7 @@ export default function ChauffeurPriveCannesPage() {
                   Mise à disposition
                 </h3>
                 <p className="text-gray-700 leading-relaxed">
-                  Chauffeur et véhicule disponibles pendant 4 h ou 8 h. Exemple
+                  Demande de chauffeur et véhicule pendant 4 h ou 8 h, à confirmer avec le chauffeur. Exemple
                   : hôtel → rendez-vous → restaurant → Palais → hôtel, dans la
                   même fenêtre.
                 </p>
@@ -326,12 +329,18 @@ export default function ChauffeurPriveCannesPage() {
           {/* Forfaits */}
           <div>
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-              Forfaits mise à disposition
+              Demande de mise à disposition (4 h / 8 h)
             </h2>
             <p className="text-gray-700 mb-8 leading-relaxed">
-              Deux durées : 4 heures (demi-journée) ou 8 heures (journée). Le
-              tarif est confirmé à la réservation selon le planning et le
-              véhicule.
+              Deux durées peuvent être demandées : 4 heures (demi-journée) ou 8 heures
+              (journée). Il s’agit d’une demande à confirmer avec le chauffeur :
+              disponibilité, montant et conditions sont confirmés par lui, selon
+              la réglementation applicable, et le paiement s’effectue directement
+              auprès du chauffeur. Informations générales sur la page{" "}
+              <Link href="/tarifs" className="text-accent font-semibold hover:underline underline-offset-2">
+                Tarifs
+              </Link>
+              .
             </p>
             <div className="grid md:grid-cols-2 gap-6 mb-8">
               <div className="rounded-2xl border border-gray-200 bg-white p-8 shadow-md">
@@ -556,7 +565,7 @@ export default function ChauffeurPriveCannesPage() {
                   Uniquement NCE ↔ Cannes
                 </h3>
                 <p className="text-gray-700 leading-relaxed mb-4">
-                  Un trajet, suivi de vol, T1/T2, prix fixe. Ce n’est pas une
+                  Un trajet, suivi de vol, T1/T2. Ce n’est pas une
                   mise à disposition.
                 </p>
                 <Link
@@ -573,7 +582,7 @@ export default function ChauffeurPriveCannesPage() {
                 </h3>
                 <p className="text-gray-700 leading-relaxed">
                   Transfert jusqu’à l’hôtel, puis 4 h ou 8 h sur place :
-                  réservez la mise à disposition en précisant l’enchaînement
+                  demandez une mise à disposition en précisant l’enchaînement
                   (vol + journée).
                 </p>
               </div>
@@ -700,10 +709,10 @@ export default function ChauffeurPriveCannesPage() {
       <section className="py-16 bg-primary text-primary-foreground">
         <div className="max-w-3xl mx-auto px-6 text-center">
           <h2 className="text-3xl font-bold mb-4">
-            Réserver une mise à disposition à Cannes
+            Demander une mise à disposition à Cannes
           </h2>
           <p className="text-lg text-primary-foreground/90 mb-8">
-            4 h ou 8 h, plusieurs déplacements, confirmation avant le départ.
+            Demande 4 h ou 8 h, plusieurs déplacements — disponibilité, montant et conditions confirmés par le chauffeur avant le départ.
           </p>
           <div className="flex flex-col sm:flex-row gap-3 justify-center">
             <Button

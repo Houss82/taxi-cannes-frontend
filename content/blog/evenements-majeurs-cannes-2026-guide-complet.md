@@ -141,7 +141,7 @@ Le **Cannes Lions** est le plus prestigieux festival international de la créati
 
 **Défis de transport** : Les événements se déroulent sur plusieurs sites (Palais des Festivals, hôtels de la Croisette, espaces événementiels). Se déplacer entre les différents lieux nécessite un transport fiable.
 
-**Solution taxi** : Service de transport adapté pour se déplacer entre les différents sites du festival. Guide détaillé (créneaux, lieux, tarifs, FAQ) : **[Taxi Cannes Lions 2026 — guide chauffeur & réservation](/blog/taxi-cannes-lions-2026-guide-chauffeur-reservation)**.
+**Solution taxi** : Service de transport adapté pour se déplacer entre les différents sites du festival. Guide détaillé (créneaux, lieux, FAQ) : **[Taxi Cannes Lions 2026 — guide chauffeur & réservation](/blog/taxi-cannes-lions-2026-guide-chauffeur-reservation)**.
 
 ### 🏢 Autres congrès et salons majeurs 2026
 
@@ -238,7 +238,7 @@ Cannes accueille plusieurs événements sportifs majeurs tout au long de l'anné
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">✅ Pas de stationnement</td>
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">✅ Ponctualité garantie</td>
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">✅ 24h/24 avec réservation</td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">Sur devis</td>
+        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">Confirmé par le chauffeur partenaire</td>
       </tr>
     </tbody>
   </table>
@@ -269,7 +269,7 @@ Cannes accueille plusieurs événements sportifs majeurs tout au long de l'anné
 - Disponibilité tôt le matin et tard le soir
 - Véhicules premium adaptés aux besoins professionnels
 
-**Tarifs** : Sur devis selon la distance, la durée, et le type de service. Pour les événements au Palais des Festivals et sur la Croisette, notre [service de taxi Palaces Cannes](/services/trajets-palaces) propose des tarifs adaptés. Consultez notre [page Tarifs](/tarifs) ou [contactez-nous](/contact) pour un devis personnalisé.
+**Tarifs** : Sur devis selon la distance, la durée, et le type de service. Pour les événements au Palais des Festivals et sur la Croisette, notre [service de taxi Palaces Cannes](/services/trajets-palaces) met en relation avec des chauffeurs partenaires ; montant et conditions confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable. Consultez notre [page Tarifs](/tarifs) ou [contactez-nous](/contact).
 
 ---
 
@@ -327,7 +327,7 @@ Vous pouvez réserver un taxi pour un événement à Cannes en appelant le **+33
 
 ### Les tarifs de taxi sont-ils plus élevés pendant les événements ?
 
-Les tarifs de taxi peuvent être légèrement plus élevés pendant les événements majeurs en raison de la forte demande et de la congestion routière. Cependant, le coût total (taxi + pas de parking) reste souvent **moins élevé** que l'utilisation d'une voiture personnelle avec parking payant.
+Le montant et les conditions sont confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable, y compris pendant les événements majeurs (forte demande, congestion routière). Le règlement s’effectue directement auprès du chauffeur.
 
 ### Puis-je réserver un taxi pour plusieurs événements dans la journée ?
 

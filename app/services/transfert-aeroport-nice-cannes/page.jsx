@@ -2,11 +2,11 @@
 
 export const metadata = {
   title:
-    "Transfert Aéroport Nice Cannes | Taxi Premium 24h/24 — Prix fixe | Taxi Cannes",
+    "Transfert Aéroport Nice Cannes | Mise en relation taxi 24h/24 | Taxi Cannes",
   description:
-    "Taxi transfert aéroport Nice ↔ Cannes : prix fixe 95–100 €, suivi vol, T1/T2, Croisette, Palm Beach, Le Cannet. Chauffeur à l'accueil 24h/24. Réservez +33 7 56 82 77 99.",
+    "Transfert aéroport Nice ↔ Cannes : mise en relation avec des chauffeurs de taxi indépendants, T1/T2, Croisette, Palm Beach, Le Cannet. Montant et conditions confirmés par le chauffeur. Demande au +33 7 56 82 77 99.",
   keywords:
-    "transfert aéroport nice cannes, taxi aéroport nice cannes, taxi cannes aéroport nice, navette aéroport nice cannes, taxi nice cannes, transfert cannes aeroport nice prix, taxi terminal 1 nice, taxi terminal 2 nice",
+    "transfert aéroport nice cannes, taxi aéroport nice cannes, taxi cannes aéroport nice, navette aéroport nice cannes, taxi nice cannes, transfert cannes aeroport nice, taxi terminal 1 nice, taxi terminal 2 nice",
   alternates: {
     canonical:
       "https://www.cannestaxi.fr/services/transfert-aeroport-nice-cannes",
@@ -32,7 +32,7 @@ import Script from "next/script";
 const faqItems = [
   {
     q: "Combien coûte un taxi aéroport Nice Cannes ?",
-    a: "Forfait réservation : 95 € (centre / gare), 100 € (Croisette / palaces), 120 € (van 8 places). Confirmation à la réservation.",
+    a: "cannestaxi.fr met en relation avec des chauffeurs de taxi indépendants et ne fixe pas le prix de la course. Le montant et les conditions sont confirmés par le chauffeur avant la prise en charge, selon la réglementation applicable. Le paiement s'effectue directement auprès du chauffeur. Voir notre page Tarifs (informative).",
   },
   {
     q: "Combien de temps dure le trajet Nice ↔ Cannes ?",
@@ -40,7 +40,7 @@ const faqItems = [
   },
   {
     q: "Le chauffeur suit-il mon vol en cas de retard ?",
-    a: "Oui. Indiquez votre numéro de vol : nous adaptons l'heure d'accueil sans supplément pour un retard d'avion raisonnable.",
+    a: "Indiquez votre numéro de vol à la demande : le chauffeur pourra adapter l'heure d'accueil. Les conditions éventuelles liées à un retard sont confirmées par le chauffeur.",
   },
   {
     q: "Terminal 1 ou Terminal 2 ?",
@@ -52,15 +52,15 @@ const faqItems = [
   },
   {
     q: "Combien de temps le chauffeur attend-il à l'aéroport ?",
-    a: "Nous suivons le vol et attendons à la sortie bagages. Au-delà d'une attente prolongée hors retard de vol, une facturation peut s'appliquer selon les conditions communiquées.",
+    a: "Les conditions d'attente (durée, éventuelle facturation) sont à confirmer avec le chauffeur avant la prise en charge, selon la réglementation applicable.",
   },
   {
     q: "Puis-je payer par carte bancaire ?",
-    a: "Oui, paiement CB possible. Précisez votre mode de paiement préféré à la réservation ou au téléphone.",
+    a: "Le paiement s'effectue directement auprès du chauffeur. Les moyens de paiement acceptés (dont la carte bancaire) sont à confirmer avec lui avant la course.",
   },
   {
     q: "Le siège bébé est-il gratuit ?",
-    a: "Siège bébé / rehausseur sur demande (selon disponibilité). Signalez-le à la réservation : gratuit dans la plupart des cas.",
+    a: "Siège bébé / rehausseur sur demande, selon la disponibilité du chauffeur. Signalez-le à la demande ; conditions éventuelles confirmées par le chauffeur.",
   },
   {
     q: "Acceptez-vous skis, clubs de golf ou poussette ?",
@@ -80,11 +80,11 @@ const faqItems = [
   },
   {
     q: "Y a-t-il un supplément bagages ?",
-    a: "Non pour les bagages standards. Pour volume important (groupe, ski, golf), optez pour le van 120 €.",
+    a: "Les conditions éventuelles sont confirmées par le chauffeur. Pour un volume important (groupe, ski, golf), précisez-le pour demander un véhicule adapté (van), selon disponibilité.",
   },
   {
     q: "Desservez-vous Le Cannet, Mougins, La Bocca ?",
-    a: "Oui. Précisez l'adresse exacte : forfait adapté selon le quartier (confirmation à la réservation).",
+    a: "Oui. Précisez l'adresse exacte : le montant et les conditions sont confirmés par le chauffeur selon le trajet.",
   },
   {
     q: "Puis-je réserver EasyJet / Air France / Emirates ?",
@@ -92,19 +92,19 @@ const faqItems = [
   },
   {
     q: "Différence avec Uber pour l'aéroport ?",
-    a: "Avec Taxi Cannes : prix fixe annoncé, suivi vol, panneau nominatif, véhicule premium réservé. Moins d'incertitude en haute saison.",
+    a: "cannestaxi.fr met en relation avec des chauffeurs de taxi indépendants. Le suivi de vol, l'accueil et les conditions sont à confirmer avec le chauffeur ; réserver à l'avance limite l'incertitude en haute saison.",
   },
   {
     q: "Port de croisière Cannes vers Nice ?",
-    a: "Oui — service dédié port → aéroport (prix fixe, van). Voir la page transfert port croisière.",
+    a: "Oui — page dédiée port → aéroport (van possible selon disponibilité). Montant et conditions confirmés par le chauffeur. Voir la page transfert port croisière.",
   },
   {
     q: "Comment réserver rapidement ?",
-    a: "Formulaire en ligne ou téléphone +33 7 56 82 77 99. Indiquez date, sens (arrivée/départ), terminal, adresses et n° de vol.",
+    a: "Formulaire en ligne ou téléphone +33 7 56 82 77 99 pour être mis en relation avec un chauffeur. Indiquez date, sens (arrivée/départ), terminal, adresses et n° de vol.",
   },
   {
     q: "WiFi à bord ?",
-    a: "Oui, WiFi gratuit dans nos véhicules premium.",
+    a: "Équipements à bord (WiFi, climatisation…) : à confirmer avec le chauffeur, selon son véhicule.",
   },
   {
     q: "Où lire le guide complet (bus, navette, comparatifs) ?",
@@ -126,11 +126,11 @@ export default function TransfertAeroportNiceCannes() {
                 "@type": "TaxiService",
                 "@id":
                   "https://www.cannestaxi.fr/services/transfert-aeroport-nice-cannes#service",
-                name: "Taxi Cannes — Transfert Aéroport Nice Côte d'Azur",
+                name: "cannestaxi.fr — Transfert Aéroport Nice Côte d'Azur (mise en relation)",
                 url: "https://www.cannestaxi.fr/services/transfert-aeroport-nice-cannes",
                 telephone: "+33 7 56 82 77 99",
                 description:
-                  "Transfert taxi aéroport Nice ↔ Cannes : prix fixe 95–100 €, suivi vol, Terminal 1 et 2, chauffeur à l'accueil 24h/24.",
+                  "Mise en relation avec des chauffeurs de taxi indépendants pour un transfert aéroport Nice ↔ Cannes, Terminal 1 et 2. Montant et conditions confirmés par le chauffeur.",
                 areaServed: [
                   { "@type": "City", name: "Cannes" },
                   { "@type": "City", name: "Le Cannet" },
@@ -186,8 +186,8 @@ export default function TransfertAeroportNiceCannes() {
             Transfert Aéroport Nice ↔ Cannes
           </h1>
           <p className="text-xl md:text-2xl mb-8 text-white/90 text-balance">
-            Taxi Cannes 24h/24 : prix fixe, suivi vol, Terminal 1 &amp; 2 —
-            réservation en ligne ou au +33 7 56 82 77 99
+            Mise en relation avec des chauffeurs de taxi indépendants 24h/24 :
+            Terminal 1 &amp; 2 — demande en ligne ou au +33 7 56 82 77 99
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button
@@ -215,7 +215,7 @@ export default function TransfertAeroportNiceCannes() {
           <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
             {[
               { icon: Clock, label: "30–40 min", desc: "Trajet moyen hors pic" },
-              { icon: Shield, label: "95–100 €", desc: "Prix fixe réservation" },
+              { icon: Shield, label: "Chauffeur indépendant", desc: "Montant confirmé par le chauffeur" },
               { icon: Plane, label: "Suivi vol", desc: "T1 & T2 Nice" },
               { icon: Users, label: "24h/24", desc: "Vols matin & nuit" },
             ].map((info, i) => {
@@ -243,7 +243,7 @@ export default function TransfertAeroportNiceCannes() {
               Taxi transfert aéroport Nice Cannes — service local
             </h2>
             <p className="text-lg text-gray-700 leading-relaxed mb-4">
-              <strong>Taxi Cannes</strong> assure vos{" "}
+              <strong>cannestaxi.fr</strong> vous met en relation avec des chauffeurs de taxi indépendants pour vos{" "}
               <strong>transferts aéroport Nice ↔ Cannes</strong> dans les deux
               sens : arrivée{" "}
               <strong>Nice Côte d&apos;Azur (NCE)</strong> vers hôtel,
@@ -252,8 +252,8 @@ export default function TransfertAeroportNiceCannes() {
               matinaux et internationaux.
             </p>
             <p className="text-lg text-gray-700 leading-relaxed mb-6">
-              Cette page est notre <strong>offre commerciale</strong> (réserver,
-              tarifs, zones, FAQ). Pour les comparatifs bus / navette et les
+              Cette page présente le <strong>service de mise en relation</strong> (demande de réservation,
+              zones, FAQ). Le paiement se fait directement auprès du chauffeur ; montant et conditions sont confirmés par le chauffeur, selon la réglementation applicable. Pour les comparatifs bus / navette et les
               guides détaillés, consultez le{" "}
               <Link
                 href="/blog/guide-transfert-aeroport-nice-cannes"
@@ -318,14 +318,14 @@ export default function TransfertAeroportNiceCannes() {
           {/* Pourquoi Taxi Cannes */}
           <div className="bg-white rounded-2xl border-2 border-accent/30 p-8 md:p-10 shadow-lg">
             <h2 className="text-3xl font-bold mb-6 text-gray-900">
-              Pourquoi choisir Taxi Cannes ?
+              Pourquoi passer par cannestaxi.fr ?
             </h2>
             <div className="grid sm:grid-cols-2 gap-4">
               {[
                 "Chauffeurs locaux — Cannes & Alpes-Maritimes",
                 "Disponible 24h/24 et 7j/7",
-                "Prix fixe annoncé avant le départ",
-                "Paiement CB accepté",
+                "Montant et conditions confirmés par le chauffeur",
+                "Paiement directement auprès du chauffeur",
                 "Flotte Mercedes / Tesla / van",
                 "Suivi des vols en temps réel",
                 "Panneau nominatif à l'arrivée",
@@ -356,7 +356,7 @@ export default function TransfertAeroportNiceCannes() {
                 },
                 {
                   t: "Confirmation",
-                  d: "Vous recevez la confirmation du forfait et des détails de prise en charge.",
+                  d: "Le chauffeur indépendant vous confirme le montant, les conditions et les détails de prise en charge.",
                 },
                 {
                   t: "Suivi du vol",
@@ -404,8 +404,7 @@ export default function TransfertAeroportNiceCannes() {
               À Cannes, la demande de taxis explose pendant les{" "}
               <strong>périodes événementielles</strong> et l&apos;
               <strong>été</strong>. Sans réservation, l&apos;attente à
-              l&apos;aéroport ou devant un palace peut être longue — et le prix
-              moins prévisible.
+              l&apos;aéroport ou devant un palace peut être longue.
             </p>
             <ul className="space-y-3 text-gray-800 text-lg">
               <li>
@@ -502,50 +501,20 @@ export default function TransfertAeroportNiceCannes() {
           {/* Tarifs */}
           <div>
             <h2 className="text-3xl md:text-4xl font-bold mb-6 text-gray-900">
-              Tarifs transfert aéroport Nice Cannes
+              Paiement et montant de la course
             </h2>
-            <p className="text-gray-700 mb-6">
-              Forfaits indicatifs alignés sur notre page{" "}
+            <p className="text-gray-700 mb-4">
+              cannestaxi.fr met en relation avec des chauffeurs de taxi
+              indépendants. Le paiement s&apos;effectue directement auprès du
+              chauffeur. Le montant et les conditions sont confirmés par le
+              chauffeur, selon la réglementation applicable.
+            </p>
+            <p className="text-gray-700">
+              Pour des informations générales, consultez notre page{" "}
               <Link href="/tarifs" className="text-accent font-semibold hover:underline">
                 Tarifs
               </Link>{" "}
-              — confirmation à la réservation.
-            </p>
-            <div className="overflow-x-auto rounded-xl border border-gray-200 bg-white">
-              <table className="w-full min-w-[520px] text-left">
-                <thead className="bg-gray-100">
-                  <tr>
-                    <th className="px-4 py-3 font-bold border-b">Trajet</th>
-                    <th className="px-4 py-3 font-bold border-b">Forfait</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <td className="px-4 py-3 border-b">
-                      Aéroport Nice ↔ Cannes centre / gare
-                    </td>
-                    <td className="px-4 py-3 border-b font-bold text-accent">
-                      95 €
-                    </td>
-                  </tr>
-                  <tr className="bg-gray-50">
-                    <td className="px-4 py-3 border-b">
-                      Aéroport Nice ↔ Croisette / palaces
-                    </td>
-                    <td className="px-4 py-3 border-b font-bold text-accent">
-                      100 €
-                    </td>
-                  </tr>
-                  <tr>
-                    <td className="px-4 py-3">Van 8 places (groupe / bagages)</td>
-                    <td className="px-4 py-3 font-bold text-accent">120 €</td>
-                  </tr>
-                </tbody>
-              </table>
-            </div>
-            <p className="text-sm text-muted-foreground mt-3">
-              Surcharge nuit éventuelle selon grille (20h–6h). Pas de supplément
-              bagages standards ni retard d&apos;avion suivi.
+              (page informative, sans engagement).
             </p>
           </div>
 
@@ -897,41 +866,6 @@ export default function TransfertAeroportNiceCannes() {
             </p>
           </div>
 
-          {/* Avis */}
-          <div>
-            <h2 className="text-3xl md:text-4xl font-bold mb-6 text-gray-900">
-              Avis clients
-            </h2>
-            <div className="grid md:grid-cols-3 gap-6">
-              {[
-                {
-                  name: "Sophie M.",
-                  text: "Transfert Nice T2 → Martinez impeccable. Chauffeur à l'heure malgré un retard de vol, véhicule très propre.",
-                },
-                {
-                  name: "James R.",
-                  text: "Early morning pickup from Palm Beach to Terminal 1. Fixed price, professional driver. Highly recommend.",
-                },
-                {
-                  name: "Karim B.",
-                  text: "Réservé pour Lions : aéroport puis plusieurs courses. Fiable, local, je recommande Taxi Cannes.",
-                },
-              ].map((avis) => (
-                <blockquote
-                  key={avis.name}
-                  className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm"
-                >
-                  <p className="text-gray-700 italic mb-4">
-                    &ldquo;{avis.text}&rdquo;
-                  </p>
-                  <footer className="font-bold text-gray-900">
-                    — {avis.name}
-                  </footer>
-                </blockquote>
-              ))}
-            </div>
-          </div>
-
           {/* FAQ */}
           <div id="faq">
             <h2 className="text-3xl md:text-4xl font-bold mb-8 text-gray-900">
@@ -972,13 +906,13 @@ export default function TransfertAeroportNiceCannes() {
             </div>
             <div className="mt-6 flex flex-wrap gap-4 text-sm">
               <span className="flex items-center gap-2 text-gray-600">
-                <CreditCard className="w-4 h-4 text-accent" /> Paiement CB
+                <CreditCard className="w-4 h-4 text-accent" /> Paiement auprès du chauffeur
               </span>
               <span className="flex items-center gap-2 text-gray-600">
                 <Clock className="w-4 h-4 text-accent" /> 24h/24
               </span>
               <span className="flex items-center gap-2 text-gray-600">
-                <Shield className="w-4 h-4 text-accent" /> Prix fixe
+                <Shield className="w-4 h-4 text-accent" /> Conditions confirmées par le chauffeur
               </span>
             </div>
           </div>
@@ -994,7 +928,7 @@ export default function TransfertAeroportNiceCannes() {
               >
                 Transfert dédié port → aéroport
               </Link>{" "}
-              (prix fixe, van). Guide blog :{" "}
+              (van possible selon disponibilité). Guide blog :{" "}
               <Link
                 href="/blog/taxi-port-croisiere-cannes-transfert-aeroport-nice-guide-2026"
                 className="text-primary font-semibold hover:underline underline-offset-2"
@@ -1070,7 +1004,7 @@ export default function TransfertAeroportNiceCannes() {
               Réservez votre transfert aéroport Nice Cannes
             </h2>
             <p className="text-lg mb-6 text-primary-foreground/90">
-              Prix fixe, suivi vol, T1/T2 — confirmation rapide. Service 24h/24.
+              Mise en relation avec des chauffeurs de taxi indépendants, T1/T2. Montant et conditions confirmés par le chauffeur. Service 24h/24.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button

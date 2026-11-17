@@ -15,7 +15,6 @@ import {
   Plane,
   ShieldCheck,
   Ship,
-  Star,
   Train,
   Users,
 } from "lucide-react";
@@ -89,7 +88,7 @@ const serviceBlocks = [
   },
   {
     title: "Port croisière → Nice",
-    desc: "Débarquement Cannes, direction T1/T2 avec prix fixe réservé.",
+    desc: "Débarquement Cannes, direction T1/T2 — demande de prise en charge.",
     href: "/services/transfert-port-croisiere-cannes-aeroport-nice",
   },
   {
@@ -891,55 +890,6 @@ export default function HomePage() {
             height={380}
             className="rounded-xl shadow-xl w-full h-auto object-cover max-h-[320px] lg:max-h-[380px]"
           />
-        </div>
-      </section>
-
-      {/* Avis — social proof court */}
-      <section className="py-14 bg-white">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6">
-          <h2 className="text-2xl md:text-3xl font-bold text-center mb-8">
-            Ils nous ont fait confiance
-          </h2>
-          <div className="grid md:grid-cols-3 gap-6">
-            {[
-              {
-                name: "Marie D.",
-                rating: 5,
-                review:
-                  "Service impeccable pour notre séjour. Chauffeur ponctuel à Cannes.",
-              },
-              {
-                name: "Jean M.",
-                rating: 5,
-                review: "Transfert Nice–Cannes sans stress, véhicule propre.",
-              },
-              {
-                name: "Sophie L.",
-                rating: 5,
-                review:
-                  "Parfait pendant un congrès. Taxi Cannes fiable sur la Croisette.",
-              },
-            ].map((review, i) => (
-              <Card key={i} className="p-6 flex flex-col h-full">
-                <div className="flex gap-1 mb-3">
-                  {Array(review.rating)
-                    .fill(0)
-                    .map((_, j) => (
-                      <Star
-                        key={j}
-                        className="w-4 h-4 fill-accent text-accent"
-                      />
-                    ))}
-                </div>
-                <p className="text-gray-800 italic grow text-sm">
-                  &ldquo;{review.review}&rdquo;
-                </p>
-                <p className="font-bold text-sm mt-4 pt-4 border-t">
-                  {review.name}
-                </p>
-              </Card>
-            ))}
-          </div>
         </div>
       </section>
 

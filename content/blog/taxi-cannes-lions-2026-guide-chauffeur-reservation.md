@@ -1,14 +1,14 @@
 ---
 title: "Taxi Cannes Lions 2026 : guide chauffeur, déposes & réservation"
 date: "2026-06-08"
-excerpt: "Taxi Cannes Lions 2026 (22-26 juin) : hôtels Carlton, Martinez, plages privées, Port Canto, Palais. Guide chauffeur local, tarifs, FAQ 15 questions. Réservez le +33 7 56 82 77 99."
+excerpt: "Taxi Cannes Lions 2026 (22-26 juin) : hôtels Carlton, Martinez, plages privées, Port Canto, Palais. Guide chauffeur local, réservation, FAQ 15 questions. Réservez le +33 7 56 82 77 99."
 image: "/taxi-cannes-lions-2026.png"
 category: "Cannes & Actualités"
 author: "Taxi Cannes"
 language: "fr"
 ---
 
-**Taxi Cannes Lions 2026** : guide complet pour se déplacer pendant le **Cannes Lions International Festival of Creativity** du **22 au 26 juin 2026**. Entre le **Palais des Festivals**, les **palaces de la Croisette**, les **plages privées**, le **Port Canto** et les **soirées d'agences**, la semaine Lions génère une demande de transport exceptionnelle — ce guide est rédigé du point de vue d'un **chauffeur taxi cannois** : créneaux réels, déposes, tarifs et réservation.
+**Taxi Cannes Lions 2026** : guide complet pour se déplacer pendant le **Cannes Lions International Festival of Creativity** du **22 au 26 juin 2026**. Entre le **Palais des Festivals**, les **palaces de la Croisette**, les **plages privées**, le **Port Canto** et les **soirées d'agences**, la semaine Lions génère une demande de transport exceptionnelle — ce guide est rédigé du point de vue d'un **chauffeur taxi cannois** : créneaux réels, déposes et réservation.
 
 Pour l'**axe aéroport Nice → Cannes** en période Lions (durées, marges vol, T1/T2), consultez **[Aéroport Nice → Cannes : Festival, Lions, congrès](/blog/aeroport-nice-cannes-festival-congres-2026)**. Pour l'**accès au Palais toute l'année**, voir **[Taxi Palais des Festivals Cannes](/blog/taxi-palais-des-festivals-cannes-acces-congres-evenements-2026)**.
 
@@ -32,7 +32,7 @@ Pour l'**axe aéroport Nice → Cannes** en période Lions (durées, marges vol,
 <div class="kpi-strip">
   <span class="badge success">22–26 juin 2026</span>
   <span class="badge info">Palais & Croisette</span>
-  <span class="badge success">Prix fixes réservation</span>
+  <span class="badge success">Chauffeur partenaire</span>
   <span class="badge info">Van 8 passagers</span>
   <span class="badge accent">Service 24h/24</span>
 </div>
@@ -165,7 +165,7 @@ Ces établissements accueillent une **grande partie des participants internation
 3. **Palais ou hôtel → Port Canto** (après-midi / soirée) ;
 4. **Soirée → hôtel** (22h–2h).
 
-Pour les transferts depuis l'**aéroport Nice** vers ces palaces, le forfait réservation est de **100 €** (aligné sur notre grille [transfert aéroport](/services/transfert-aeroport-nice-cannes)). Courses **Carlton ↔ Martinez** ou **Majestic ↔ Palais** : souvent **3 à 8 minutes** en taxi, selon la circulation sur le boulevard.
+Pour les transferts depuis l'**aéroport Nice** vers ces palaces, le montant et les conditions sont confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable (voir la page [transfert aéroport](/services/transfert-aeroport-nice-cannes)). Courses **Carlton ↔ Martinez** ou **Majestic ↔ Palais** : souvent **3 à 8 minutes** en taxi, selon la circulation sur le boulevard.
 
 ---
 
@@ -265,40 +265,11 @@ peuvent rapidement devenir **fatigants** si vous les répétez **plusieurs fois 
 
 ---
 
-<h2 id="tarifs">Tarifs taxi Cannes Lions 2026</h2>
+<h2 id="tarifs">Tarifs et conditions taxi Cannes Lions 2026</h2>
 
-Nous appliquons la **même grille** que notre [guide transfert aéroport Nice–Cannes](/blog/guide-transfert-aeroport-nice-cannes) et la page [transfert aéroport Nice–Cannes](/services/transfert-aeroport-nice-cannes) :
+Pour les trajets **Nice → Cannes centre**, **Nice → Croisette / Palais / palaces**, en **van jusqu'à 8 passagers** (Mercedes Vito) ou pour les **courses locales** (hôtel ↔ Palais, Croisette), le **montant et les conditions sont confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable**. Le montant dépend notamment du trajet, du véhicule, des bagages et de la période d'affluence. Le règlement s’effectue directement auprès du chauffeur.
 
-<div class="content-box" style="overflow-x: auto; -webkit-overflow-scrolling: touch;">
-  <table style="width: 100%; border-collapse: collapse; margin: 1.5rem 0; min-width: 520px;">
-    <thead>
-      <tr style="background-color: #f3f4f6;">
-        <th style="padding: 12px 8px; text-align: left; border: 1px solid #e5e7eb; font-size: 0.875rem;">Trajet (réservation)</th>
-        <th style="padding: 12px 8px; text-align: left; border: 1px solid #e5e7eb; font-size: 0.875rem;">Forfait indicatif</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Nice → Cannes centre</strong></td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>95 €</strong></td>
-      </tr>
-      <tr style="background-color: #f9fafb;">
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Nice → Croisette / Palais / palaces</strong></td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>100 €</strong></td>
-      </tr>
-      <tr>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Van jusqu'à 8 passagers</strong> (Mercedes Vito)</td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>120 €</strong></td>
-      </tr>
-      <tr style="background-color: #f9fafb;">
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Courses locales</strong> (hôtel ↔ Palais, Croisette)</td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">Sur place / compteur — ordre de grandeur <strong>8–18 €</strong></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-Grille complète : **[page Tarifs](/tarifs)**. Confirmation au moment de la [réservation](/reservation).
+Cannestaxi.fr est un service de **mise en relation**. Informations : **[page Tarifs](/tarifs)** · [réservation](/reservation).
 
 ---
 
@@ -309,7 +280,7 @@ Durant le Cannes Lions, les applications de transport connaissent souvent une **
 Les avantages d'une **réservation de taxi à l'avance** avec Taxi Cannes :
 
 - **véhicule garanti** aux horaires convenus ;
-- **tarif connu à l'avance** (forfaits Nice–Cannes en réservation) ;
+- **montant et conditions confirmés** par le chauffeur partenaire avant la prise en charge ;
 - **chauffeur local** connaissant les accès temporaires et déposes autorisées ;
 - possibilité de **réserver plusieurs trajets** (matin Palais, soirée hôtel) ;
 - **transport de groupes** en van jusqu'à 8 passagers.
@@ -353,7 +324,7 @@ Des **solutions sur mesure** sont disponibles pour les délégations, les marque
 
 <details class="faq">
   <summary>Combien coûte un taxi de Nice à Cannes pendant les Lions ?</summary>
-  <p>En réservation Taxi Cannes : <strong>95 €</strong> vers le centre, <strong>100 €</strong> vers Croisette / Palais / palaces, <strong>120 €</strong> en van 8 places. Détail dans notre <a href="/blog/guide-transfert-aeroport-nice-cannes">guide transfert Nice–Cannes</a> · <a href="/services/transfert-aeroport-nice-cannes">réserver votre transfert aéroport</a>.</p>
+  <p>Le <strong>montant et les conditions sont confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable</strong>. Le règlement s’effectue directement auprès du chauffeur. Détail dans notre <a href="/blog/guide-transfert-aeroport-nice-cannes">guide transfert Nice–Cannes</a> · <a href="/services/transfert-aeroport-nice-cannes">réserver votre transfert aéroport</a>.</p>
 </details>
 
 <details class="faq">
@@ -363,7 +334,7 @@ Des **solutions sur mesure** sont disponibles pour les délégations, les marque
 
 <details class="faq">
   <summary>Peut-on réserver un van pour une délégation agence ?</summary>
-  <p>Oui — <strong>Mercedes Vito jusqu'à 8 passagers</strong>, forfait Nice → Cannes <strong>120 €</strong>, courses locales et forfait journée sur devis. Contactez-nous à l'avance en période Lions.</p>
+  <p>Oui — <strong>Mercedes Vito jusqu'à 8 passagers</strong>, selon disponibilité ; montant et conditions confirmés par le chauffeur partenaire. Contactez-nous à l'avance en période Lions.</p>
 </details>
 
 <details class="faq">
@@ -413,12 +384,12 @@ Des **solutions sur mesure** sont disponibles pour les délégations, les marque
 
 <details class="faq">
   <summary>Les tarifs taxi augmentent-ils pendant les Cannes Lions ?</summary>
-  <p>Nos <strong>forfaits réservation</strong> Nice → Cannes restent alignés sur la <a href="/tarifs">grille du site</a> (95 € / 100 € / 120 € van). Les courses locales au compteur peuvent varier selon le trafic ; le forfait réservé évite les surprises.</p>
+  <p>Le <strong>montant et les conditions sont confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable</strong>, y compris en période Cannes Lions. Voir la page <a href="/tarifs">Tarifs</a>.</p>
 </details>
 
 <details class="faq">
   <summary>Peut-on réserver un chauffeur pour toute la semaine du festival ?</summary>
-  <p>Oui — <strong>forfait sur mesure</strong> pour délégations et dirigeants : plusieurs trajets par jour, van possible, interlocuteur unique. Décrivez votre agenda au <strong>+33 7 56 82 77 99</strong> ou via <a href="/reservation">réservation en ligne</a>.</p>
+  <p>Oui — <strong>organisation sur mesure</strong> pour délégations et dirigeants : plusieurs trajets par jour, van possible, interlocuteur unique. Décrivez votre agenda au <strong>+33 7 56 82 77 99</strong> ou via <a href="/reservation">réservation en ligne</a>.</p>
 </details>
 
 ---
@@ -442,4 +413,4 @@ Des **solutions sur mesure** sont disponibles pour les délégations, les marque
 
 ---
 
-_Article publié en juin 2026. Dates officielles susceptibles de confirmation sur canneslions.com. Tarifs et durées indicatifs ; confirmation à la réservation. Taxi Cannes._
+_Article publié en juin 2026. Dates officielles susceptibles de confirmation sur canneslions.com. Durées indicatives ; montant et conditions confirmés par le chauffeur partenaire. Cannestaxi.fr : service de mise en relation._

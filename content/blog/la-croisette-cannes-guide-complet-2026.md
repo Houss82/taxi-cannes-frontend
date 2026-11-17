@@ -237,7 +237,7 @@ Pour en savoir plus sur tous les événements majeurs à Cannes, consultez notre
 
 **Distance** : 27 km  
 **Durée** : 30-45 minutes selon le trafic  
-**Tarif taxi (forfait réservation)** : **100 €** jusqu’aux palaces / Croisette (aligné sur notre grille [guide transfert aéroport](/blog/guide-transfert-aeroport-nice-cannes) et la page [transfert aéroport Nice Cannes](/services/transfert-aeroport-nice-cannes)) ; trajectoire et trafic : 30 à 55 min selon période — voir [Nice → Cannes événements](/blog/aeroport-nice-cannes-festival-congres-2026) en pic Festival / Lions.
+**Tarif taxi** : montant et conditions confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable (voir le [guide transfert aéroport](/blog/guide-transfert-aeroport-nice-cannes) et la page [transfert aéroport Nice Cannes](/services/transfert-aeroport-nice-cannes)) ; trajectoire et trafic : 30 à 55 min selon période — voir [Nice → Cannes événements](/blog/aeroport-nice-cannes-festival-congres-2026) en pic Festival / Lions.
 
 Le trajet depuis l'aéroport Nice vers la Croisette traverse la Promenade des Anglais à Nice puis longe la côte jusqu'à Cannes. Pendant les périodes de forte affluence (été, événements), le trafic peut être dense.
 
@@ -245,7 +245,7 @@ Le trajet depuis l'aéroport Nice vers la Croisette traverse la Promenade des An
 
 **Distance** : 2,5 km  
 **Durée** : 10 minutes  
-**Tarif taxi** : 12-18€
+**Tarif taxi** : montant confirmé par le chauffeur partenaire
 
 La gare SNCF de Cannes est située à proximité du centre-ville. Le trajet vers la Croisette est rapide et direct. Pour plus d'informations, consultez notre [guide complet du taxi gare de Cannes](/blog/taxi-gare-cannes-service-transport-sncf-2025).
 
@@ -253,7 +253,7 @@ La gare SNCF de Cannes est située à proximité du centre-ville. Le trajet vers
 
 **Distance** : 1 km  
 **Durée** : 5 minutes à pied, 3 minutes en taxi  
-**Tarif taxi** : 8-12€
+**Tarif taxi** : montant confirmé par le chauffeur partenaire
 
 Le Suquet (vieux Cannes) est le quartier historique situé en hauteur. La descente vers la Croisette se fait facilement à pied ou en taxi.
 

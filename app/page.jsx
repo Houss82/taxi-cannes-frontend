@@ -10,7 +10,6 @@ import {
   HeartPulse,
   Phone,
   Plane,
-  Star,
   Train,
   Users,
 } from "lucide-react";
@@ -81,25 +80,24 @@ export default function Home() {
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_80%_50%_at_50%_-20%,rgba(255,255,255,0.12),transparent)] pointer-events-none" />
         <div className="relative z-10 w-full max-w-3xl mx-auto px-5 sm:px-8 text-center text-white">
           <p className="text-xs sm:text-sm uppercase tracking-[0.2em] text-white/60 mb-3 font-medium">
-            Service premium &middot; Côte d&apos;Azur
+            Mise en relation &middot; Côte d&apos;Azur
           </p>
           <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold mb-4 leading-[1.1] text-balance drop-shadow-sm">
             Taxi Cannes 24h/24
           </h1>
           <p className="text-lg sm:text-xl md:text-2xl mb-3 text-white/95 text-balance font-medium max-w-2xl mx-auto leading-snug">
             Aéroport Nice, gare SNCF, Croisette, centre-ville & Palais des
-            Festivals.
+            Festivals — demande transmise à des chauffeurs indépendants.
           </p>
           <p className="text-sm sm:text-base mb-8 text-white/70 max-w-xl mx-auto text-balance leading-relaxed">
             <Link
               href="/services/taxi-conventionne-cpam-cannes"
               className="text-white/95 font-medium underline decoration-white/30 underline-offset-2 hover:text-white hover:decoration-white/60"
             >
-              Taxi conventionné CPAM
+              Transport médical assis / taxi conventionné CPAM
             </Link>{" "}
-            et{" "}
-            <span className="text-white/90">transport médical assis</span> (selon
-            éligibilité) — indiquez votre situation au décroché.
+            selon chauffeur partenaire et éligibilité — à préciser à
+            l&apos;appel.
           </p>
 
           <div className="mx-auto w-full max-w-md sm:max-w-2xl space-y-3">
@@ -480,7 +478,8 @@ export default function Home() {
               Pourquoi choisir notre taxi à Cannes ?
             </h2>
             <p className="text-lg text-muted-foreground">
-              Service de taxi à Cannes fiable et haut de gamme depuis 2015.
+              cannestaxi.fr met en relation avec des chauffeurs de taxi
+              indépendants sur Cannes et la Côte d&apos;Azur.
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
@@ -586,58 +585,6 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Reviews Section */}
-      <section className="py-20 bg-white">
-        <div className="max-w-7xl mx-auto px-6">
-          <div className="text-center mb-12">
-            <h2 className="text-4xl md:text-5xl font-bold mb-4">
-              Avis de nos clients taxi Cannes
-            </h2>
-            <p className="text-lg text-muted-foreground">
-              Des centaines de trajets réussis chaque année à Cannes et sur la
-              Côte d&apos;Azur.
-            </p>
-          </div>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-            {[
-              {
-                name: "Marie D.",
-                rating: 5,
-                review:
-                  "Service de taxi à Cannes impeccable pour notre séjour. Très professionnel !",
-              },
-              {
-                name: "Jean M.",
-                rating: 5,
-                review:
-                  "Chauffeur courtois, véhicule propre et à l'heure pour notre transfert Nice–Cannes.",
-              },
-              {
-                name: "Sophie L.",
-                rating: 5,
-                review:
-                  "Expérience premium du début à la fin. Taxi Cannes parfait pour les congrès.",
-              },
-            ].map((review, i) => (
-              <Card key={i} className="p-8">
-                <div className="flex items-center gap-2 mb-4">
-                  {Array(review.rating)
-                    .fill(0)
-                    .map((_, j) => (
-                      <Star
-                        key={j}
-                        className="w-4 h-4 fill-accent text-accent"
-                      />
-                    ))}
-                </div>
-                <p className="text-foreground mb-4 italic">"{review.review}"</p>
-                <p className="font-bold text-sm">{review.name}</p>
-              </Card>
-            ))}
-          </div>
-        </div>
-      </section>
-
       {/* CTA Banner */}
       <section className="py-20 bg-accent text-accent-foreground">
         <div className="max-w-4xl mx-auto px-6 text-center">
@@ -645,8 +592,9 @@ export default function Home() {
             Besoin d&apos;un taxi à Cannes maintenant ?
           </h2>
           <p className="text-lg mb-8 text-accent-foreground/90">
-            Réservez votre trajet en quelques clics et recevez une confirmation
-            immédiate par email.
+            Transmettez une demande de réservation : un chauffeur partenaire
+            peut confirmer la prise en charge selon disponibilité. Paiement
+            auprès du chauffeur.
           </p>
           <Button
             href="/reservation"
@@ -658,18 +606,20 @@ export default function Home() {
         </div>
       </section>
 
-      {/* JSON-LD LocalBusiness pour Taxi Cannes */}
+      {/* JSON-LD — service de mise en relation (pas une licence taxi de l'éditeur) */}
       <Script
-        id="localbusiness-taxi-cannes"
+        id="service-cannestaxi"
         type="application/ld+json"
         strategy="afterInteractive"
         dangerouslySetInnerHTML={{
           __html: JSON.stringify({
             "@context": "https://schema.org",
-            "@type": "TaxiService",
-            name: "Taxi Cannes",
+            "@type": "Service",
+            name: "cannestaxi.fr — mise en relation taxi",
             url: "https://www.cannestaxi.fr/",
             telephone: "+33 7 56 82 77 99",
+            description:
+              "Service de mise en relation permettant de transmettre une demande de réservation à des chauffeurs de taxi professionnels indépendants. Les courses sont réalisées et encaissées par les chauffeurs partenaires.",
             areaServed: [
               "Cannes",
               "Nice",
@@ -678,11 +628,10 @@ export default function Home() {
               "Saint-Tropez",
               "Alpes-Maritimes",
             ],
-            address: {
-              "@type": "PostalAddress",
-              addressLocality: "Cannes",
-              addressRegion: "Provence-Alpes-Côte d'Azur",
-              addressCountry: "FR",
+            provider: {
+              "@type": "Organization",
+              name: "cannestaxi.fr",
+              url: "https://www.cannestaxi.fr/",
             },
           }),
         }}

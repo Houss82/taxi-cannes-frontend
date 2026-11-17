@@ -460,15 +460,23 @@ export default function LaCroisette() {
                   Croisette ?
                 </summary>
                 <p className="mt-4 text-gray-700">
-                  Forfait réservation :{" "}
-                  <strong>100 €</strong> vers la Croisette / palaces (voir{" "}
+                  Le montant et les conditions sont confirmés par le chauffeur
+                  partenaire, dans le respect de la réglementation applicable.
+                  Paiement directement auprès du chauffeur. Voir{" "}
                   <Link
                     href="/services/transfert-aeroport-nice-cannes"
                     className="text-accent font-semibold hover:underline underline-offset-2"
                   >
-                    taxi Cannes aéroport Nice
+                    transfert aéroport Nice–Cannes
+                  </Link>{" "}
+                  et la page{" "}
+                  <Link
+                    href="/tarifs"
+                    className="text-accent font-semibold hover:underline underline-offset-2"
+                  >
+                    comprendre les tarifs
                   </Link>
-                  ). Prix fixe annoncé à l&apos;avance, sans surprise.
+                  .
                 </p>
               </details>
               <details className="bg-white rounded-lg p-6 border border-gray-200">

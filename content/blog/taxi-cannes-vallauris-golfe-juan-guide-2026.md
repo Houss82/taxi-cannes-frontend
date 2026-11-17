@@ -115,19 +115,19 @@ Lors de la réservation, indiquez si possible :
 
 Pour tout ce qui concerne la gare elle-même (où attendre, affluence, autres destinations), le guide [taxi gare SNCF Cannes](/blog/taxi-gare-cannes-service-transport-sncf-2025) reste la référence — cet article ne fait que couvrir la **continuation** vers l’ouest.
 
-Si votre prochaine étape est un **vol depuis Nice** le lendemain, le trajet Cannes → aéroport relève du service [transfert aéroport Nice–Cannes](/services/transfert-aeroport-nice-cannes) ; le forfait **Nice ↔ Cannes** publié sur cette page **ne s’applique pas automatiquement** à une adresse à Vallauris ou Golfe-Juan.
+Si votre prochaine étape est un **vol depuis Nice** le lendemain, le trajet Cannes → aéroport relève du service [transfert aéroport Nice–Cannes](/services/transfert-aeroport-nice-cannes) ; le montant et les conditions du trajet **Nice ↔ Cannes** **ne s’appliquent pas automatiquement** à une adresse à Vallauris ou Golfe-Juan ; ils sont confirmés par le chauffeur partenaire.
 
 ---
 
 <h2 id="tarif-reservation">Tarif et réservation pour Vallauris ou Golfe-Juan</h2>
 
-Notre page [Tarifs](/tarifs) affiche des **forfaits** pour certaines liaisons (aéroport Nice, Monaco, Antibes, Grasse, etc.). **Aucun forfait Cannes → Vallauris ou Golfe-Juan n’y est publié** à ce jour.
+Pour la liaison Cannes → Vallauris ou Golfe-Juan, le montant et les conditions sont confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable. Le règlement s’effectue directement auprès du chauffeur. Voir aussi la page [Tarifs](/tarifs) (informations générales).
 
 Pour connaître le **montant** de votre course :
 
 1. **[Réservez en ligne](/reservation)** ou appelez le **+33 7 56 82 77 99** ;
 2. Indiquez **départ**, **destination**, **date**, **heure**, **passagers** et **bagages** ;
-3. Le tarif vous est **confirmé avant le départ** — pas de prix inventé dans cet article.
+3. Le montant et les conditions vous sont **confirmés par le chauffeur partenaire avant le départ**.
 
 Les courses courtes sur l’axe Cannes–ouest se facturent en général au **compteur** ou sur **devis** selon le créneau et le véhicule ; le montant exact dépend de votre demande.
 
@@ -190,7 +190,7 @@ Même sur une **courte distance**, la réservation fixe le véhicule et limite l
 
 <details class="faq">
   <summary>Quel est le tarif d’un taxi entre Cannes et Vallauris ou Golfe-Juan ?</summary>
-  <p>Aucun <strong>forfait</strong> n’est publié pour ces liaisons sur notre page <a href="/tarifs">Tarifs</a>. Le montant est <strong>confirmé à la réservation</strong> selon départ, destination, horaire et véhicule.</p>
+  <p>Le montant et les conditions sont <strong>confirmés par le chauffeur partenaire</strong> (voir la page <a href="/tarifs">Tarifs</a>) selon départ, destination, horaire et véhicule.</p>
 </details>
 
 <details class="faq">
@@ -216,4 +216,4 @@ Si vous partez déjà de **Cannes**, [Taxi Cannes](/) organise vos trajets vers 
 
 ---
 
-_Article publié en août 2026. Durées indicatives selon circulation ; tarifs confirmés à la réservation. Taxi Cannes — +33 7 56 82 77 99._
+_Article publié en août 2026. Durées indicatives selon circulation ; montant et conditions confirmés par le chauffeur partenaire. Taxi Cannes — +33 7 56 82 77 99._

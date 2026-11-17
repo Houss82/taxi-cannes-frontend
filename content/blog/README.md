@@ -172,7 +172,7 @@ Call-to-action
 
 10. **"Nouveaux Services 2025 : Ce qui Change pour Votre Confort"**
 11. **"Événements à Cannes en 2025 : Festival, Jazz, et Plus"**
-12. **"Tarifs Taxi 2025 : Notre Grille Tarifaire Transparente"**
+12. **"Tarifs Taxi 2025 : Informations et Conditions de Réservation"**
 
 ---
 

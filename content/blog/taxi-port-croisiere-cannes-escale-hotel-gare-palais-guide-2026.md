@@ -110,7 +110,7 @@ Indiquez :
 
 Si vous arrivez **tôt** et que la chambre n’est pas prête, vous pouvez être déposé à l’**hôtel** pour déposer les bagages, puis repartir en seconde course — ou réserver une **mise à disposition** si vous enchaînez plusieurs adresses dans la même matinée.
 
-Le détail pratique côté gare (affluence, prise en charge) est dans le **[guide taxi gare SNCF Cannes](/blog/taxi-gare-cannes-service-transport-sncf-2025)**. Tarif : **confirmé à la réservation** — il n’y a pas de forfait « port → gare » publié sur la grille du site.
+Le détail pratique côté gare (affluence, prise en charge) est dans le **[guide taxi gare SNCF Cannes](/blog/taxi-gare-cannes-service-transport-sncf-2025)**. Tarif : montant et conditions confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable.
 
 ---
 
@@ -159,7 +159,7 @@ Pour un transfert **port → Nice** avec gros volume, la **[page port → aérop
 3. Notes : nom du **navire**, **retard possible**, **bagages**, **retour quai** si prévu.
 4. Confirmation avant le départ.
 
-Si votre prochain trajet est **Nice Côte d’Azur**, basculez sur la **[page service port → Nice](/services/transfert-port-croisiere-cannes-aeroport-nice)** — prix fixe et logique vol sur cette landing.
+Si votre prochain trajet est **Nice Côte d’Azur**, basculez sur la **[page service port → Nice](/services/transfert-port-croisiere-cannes-aeroport-nice)** — logique vol sur cette page ; montant et conditions confirmés par le chauffeur partenaire.
 
 ---
 
@@ -202,12 +202,12 @@ Si votre prochain trajet est **Nice Côte d’Azur**, basculez sur la **[page se
 
 <details class="faq">
   <summary>Quel tarif pour port → hôtel ou port → gare ?</summary>
-  <p>Trajet local : <strong>tarif confirmé à la réservation</strong>. Aucun forfait port → hôtel n’est publié sur la page <a href="/tarifs">Tarifs</a> (grille orientée longues distances et aéroport).</p>
+  <p>Trajet local : <strong>montant et conditions confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable</strong>. Voir la page <a href="/tarifs">Tarifs</a>. Le règlement s’effectue directement auprès du chauffeur.</p>
 </details>
 
 <details class="faq">
   <summary>Peut-on enchaîner port → hôtel puis hôtel → aéroport le lendemain ?</summary>
-  <p>Oui, en <strong>deux réservations</strong> : escale ou nuit ici ; le lendemain, <a href="/services/transfert-aeroport-nice-cannes">transfert aéroport Nice Cannes</a> depuis l’hôtel (forfaits 95 € centre, 100 € palaces sur la grille).</p>
+  <p>Oui, en <strong>deux réservations</strong> : escale ou nuit ici ; le lendemain, <a href="/services/transfert-aeroport-nice-cannes">transfert aéroport Nice Cannes</a> depuis l’hôtel (montant et conditions confirmés par le chauffeur partenaire).</p>
 </details>
 
 <details class="faq">

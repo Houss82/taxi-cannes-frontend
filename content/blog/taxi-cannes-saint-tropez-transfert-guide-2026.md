@@ -1,21 +1,21 @@
 ---
 title: "Taxi Cannes Saint-Tropez 2026 : durée, itinéraire, tarif & réservation"
 date: "2026-04-15"
-excerpt: "Transfert taxi Cannes → Saint-Tropez : durée indicative selon saison, itinéraire A8 et accès au golfe, forfait 260 € sur la grille Tarifs, dépose port ou hôtel. Réservez ou appelez le +33 7 56 82 77 99."
+excerpt: "Transfert taxi Cannes → Saint-Tropez : durée indicative selon saison, itinéraire A8 et accès au golfe, montant confirmé par le chauffeur partenaire, dépose port ou hôtel. Réservez ou appelez le +33 7 56 82 77 99."
 image: "/taxi-cannes-st-tropez.jpeg"
 category: "Transferts & Déplacements"
 author: "Taxi Cannes"
 language: "fr"
 ---
 
-**Transfert taxi Cannes Saint-Tropez** : liaison longue sur le Var et le golfe de Saint-Tropez — **environ 1 h 20 à 1 h 50** selon trafic et saison (**durées indicatives**), **forfait type affiché sur notre grille tarifaire** (**260 €** pour la liaison **Cannes → Saint-Tropez** sur la page [Tarifs](/tarifs), sous réserve de confirmation au moment de la réservation). Appelez le **+33 7 56 82 77 99** ou [réservez en ligne](/reservation) en indiquant l’heure souhaitée et l’adresse précise de **prise en charge** (Croisette, gare, hôtel, villa) et de **dépose** (port, centre-ville, Ramatuelle, hôtels du littoral).
+**Transfert taxi Cannes Saint-Tropez** : liaison longue sur le Var et le golfe de Saint-Tropez — **environ 1 h 20 à 1 h 50** selon trafic et saison (**durées indicatives**), **montant et conditions confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable** (voir la page [Tarifs](/tarifs)). Le règlement s’effectue directement auprès du chauffeur. Appelez le **+33 7 56 82 77 99** ou [réservez en ligne](/reservation) en indiquant l’heure souhaitée et l’adresse précise de **prise en charge** (Croisette, gare, hôtel, villa) et de **dépose** (port, centre-ville, Ramatuelle, hôtels du littoral).
 
 Ce guide est **local et pratique** : il complète notre **[taxi Cannes → Monaco](/blog/taxi-cannes-monaco-guide-complet)**, **[taxi Cannes → Antibes](/blog/taxi-cannes-antibes-juan-les-pins-transfert-guide-2026)** et les **[excursions villages autour de Cannes](/blog/villages-autour-cannes-excursions-transport-2025)** en ciblant **une seule liaison** très demandée l’été et les week-ends.
 
 <div class="kpi-strip">
   <span class="badge info">1 h 20 – 1 h 50*</span>
   <span class="badge success">A8 puis accès golfe</span>
-  <span class="badge info">Grille : 260 €</span>
+  <span class="badge info">Longue distance</span>
   <span class="badge success">Réservation 24h/24</span>
   <span class="badge accent">Prise en charge à Cannes</span>
 </div>
@@ -83,9 +83,9 @@ Les chauffeurs ajustent selon **bouchons**, **travaux** et **événements** loca
 
 ---
 
-## Tarif : alignement avec Taxi Cannes
+## Tarif : montant et conditions
 
-Sur notre page **[Tarifs](/tarifs)**, la ligne **Cannes → Saint-Tropez** est indiquée à **260 €**. C’est le **référent** public du site pour l’**aller** ; le **montant exact** est **confirmé à la réservation** selon véhicule, options ou éventuel détour (ex. dépose Ramatuelle / Gassin).
+Pour la liaison **Cannes → Saint-Tropez**, le **montant et les conditions sont confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable**, selon véhicule, options ou éventuel détour (ex. dépose Ramatuelle / Gassin). Le règlement s’effectue directement auprès du chauffeur. Cannestaxi.fr est un service de mise en relation ; voir la page **[Tarifs](/tarifs)**.
 
 <div class="content-box" style="overflow-x: auto; -webkit-overflow-scrolling: touch;">
   <table style="width: 100%; border-collapse: collapse; margin: 1.5rem 0; min-width: 600px;">
@@ -98,11 +98,11 @@ Sur notre page **[Tarifs](/tarifs)**, la ligne **Cannes → Saint-Tropez** est i
     <tbody>
       <tr>
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Cannes → Saint-Tropez</strong> (liaison standard)</td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>260 €</strong> sur grille tarifaire — confirmation à la réservation</td>
+        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">Montant et conditions confirmés par le chauffeur partenaire</td>
       </tr>
       <tr style="background-color: #f9fafb;">
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Saint-Tropez → Cannes</strong> (retour)</td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">Aucun forfait retour distinct n’est publié sur Tarifs — <strong>devis / confirmation à la réservation</strong></td>
+        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Devis / confirmation par le chauffeur partenaire</strong></td>
       </tr>
       <tr>
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Aéroport Nice</strong> → Saint-Tropez</td>
@@ -112,7 +112,7 @@ Sur notre page **[Tarifs](/tarifs)**, la ligne **Cannes → Saint-Tropez** est i
   </table>
 </div>
 
-Aucun tarif van, nuit ou haute saison spécifique à Saint-Tropez n’est publié sur la grille : ces options se précisent à la réservation.
+Les options (van, nuit, haute saison) se précisent à la réservation auprès du chauffeur partenaire.
 
 ---
 
@@ -157,7 +157,7 @@ Un trajet unique vers Saint-Tropez **ne nécessite pas** automatiquement une mis
 
 ## Bagages, berline ou van
 
-Après un séjour ou un départ groupé, précisez le **volume de bagages** et le **nombre de passagers**. Usage courant : **berline**. Pour un groupe ou un volume important : **van sur demande**, selon disponibilité — confirmé à la réservation. Aucun tarif van Saint-Tropez distinct n’est publié sur la grille.
+Après un séjour ou un départ groupé, précisez le **volume de bagages** et le **nombre de passagers**. Usage courant : **berline**. Pour un groupe ou un volume important : **van sur demande**, selon disponibilité — confirmé par le chauffeur partenaire.
 
 ---
 
@@ -180,7 +180,7 @@ Via le **[formulaire de réservation](/reservation)** ou au **+33 7 56 82 77 99*
 5. **Bagages** si volumineux  
 6. Besoin **aller simple**, **retour** ou éventuellement **mise à disposition**
 
-Le forfait **Cannes → Saint-Tropez (260 €)** et les options sont **confirmés avant le départ**.
+Le **montant et les conditions** de la liaison **Cannes → Saint-Tropez**, ainsi que les options, sont **confirmés par le chauffeur partenaire avant le départ**.
 
 ---
 
@@ -200,12 +200,12 @@ Le forfait **Cannes → Saint-Tropez (260 €)** et les options sont **confirmé
 
 <details class="faq">
   <summary>Quel est le tarif d’un taxi Cannes → Saint-Tropez ?</summary>
-  <p>Notre <a href="/tarifs">grille Tarifs</a> indique <strong>260 €</strong> pour <strong>Cannes → Saint-Tropez</strong>. Le montant exact est <strong>confirmé à la réservation</strong> selon véhicule et options.</p>
+  <p>Le <strong>montant et les conditions sont confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable</strong>, selon véhicule et options. Le règlement s’effectue directement auprès du chauffeur. Voir la page <a href="/tarifs">Tarifs</a>.</p>
 </details>
 
 <details class="faq">
   <summary>Quel est le tarif Saint-Tropez → Cannes ?</summary>
-  <p>Aucun forfait retour distinct n’est publié sur la page <a href="/tarifs">Tarifs</a>. Le tarif du retour est <strong>établi à la réservation</strong> (devis selon horaire, véhicule et éventuelle attente).</p>
+  <p>Le montant du retour est <strong>confirmé par le chauffeur partenaire</strong> (selon horaire, véhicule et éventuelle attente), dans le respect de la réglementation applicable.</p>
 </details>
 
 <details class="faq">
@@ -225,12 +225,12 @@ Le forfait **Cannes → Saint-Tropez (260 €)** et les options sont **confirmé
 
 <details class="faq">
   <summary>Peut-on réserver un van avec des bagages ?</summary>
-  <p>Oui sur <strong>demande</strong>, selon disponibilité : indiquez passagers et bagages dans le <a href="/reservation">formulaire</a> ou par téléphone. Aucun tarif van Saint-Tropez distinct n’est publié sur la grille.</p>
+  <p>Oui sur <strong>demande</strong>, selon disponibilité : indiquez passagers et bagages dans le <a href="/reservation">formulaire</a> ou par téléphone. Montant et conditions confirmés par le chauffeur partenaire.</p>
 </details>
 
 <details class="faq">
   <summary>Peut-on rejoindre Saint-Tropez depuis l’aéroport de Nice ?</summary>
-  <p>Oui, sur <strong>devis</strong> (trajet long). Voir la page <a href="/services/transfert-aeroport-nice-cannes">transfert aéroport Nice</a> et précisez <strong>Saint-Tropez</strong> comme destination. Aucun forfait Nice → Saint-Tropez n’est affiché sur Tarifs.</p>
+  <p>Oui, sur <strong>devis</strong> (trajet long). Voir la page <a href="/services/transfert-aeroport-nice-cannes">transfert aéroport Nice</a> et précisez <strong>Saint-Tropez</strong> comme destination. Montant et conditions confirmés par le chauffeur partenaire.</p>
 </details>
 
 <details class="faq">
@@ -242,7 +242,7 @@ Le forfait **Cannes → Saint-Tropez (260 €)** et les options sont **confirmé
 
 <div class="highlight-box">
   <strong>Transfert Cannes → Saint-Tropez</strong><br/>
-  Durées indicatives et trafic variables : réservez tôt en haute saison, précisez vos adresses. Forfait aller <strong>260 €</strong> sur la grille — confirmation avant le départ.
+  Durées indicatives et trafic variables : réservez tôt en haute saison, précisez vos adresses. Montant et conditions confirmés par le chauffeur partenaire avant le départ.
 </div>
 
 <div class="cta">

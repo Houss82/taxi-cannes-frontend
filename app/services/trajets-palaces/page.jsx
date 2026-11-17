@@ -25,7 +25,7 @@ const canonical = "https://www.cannestaxi.fr/services/trajets-palaces";
 export const metadata = {
   title: "Taxi Palaces Cannes | Carlton, Martinez & Majestic",
   description:
-    "Réservez un taxi depuis ou vers le Carlton, le Martinez ou le Majestic à Cannes. Transfert aéroport Nice, gare, Palais. Forfait Croisette / palaces 100 € (grille aéroport). +33 7 56 82 77 99.",
+    "Réservez un taxi depuis ou vers le Carlton, le Martinez ou le Majestic à Cannes. Transfert aéroport Nice, gare, Palais. Mise en relation avec des chauffeurs de taxi indépendants ; montant et conditions confirmés par le chauffeur. +33 7 56 82 77 99.",
   keywords: [
     "taxi palaces Cannes",
     "taxi Carlton Cannes",
@@ -49,7 +49,7 @@ export const metadata = {
 const faqItems = [
   {
     q: "Quel est le tarif entre l'aéroport de Nice et un palace de Cannes ?",
-    a: "Le forfait réservation Aéroport Nice ↔ Croisette / palaces est de 100 € (grille Tarifs et page transfert aéroport Nice–Cannes). Montant confirmé à la réservation.",
+    a: "cannestaxi.fr met en relation avec des chauffeurs de taxi indépendants. Le montant et les conditions sont confirmés par le chauffeur avant la prise en charge, selon la réglementation applicable, et le paiement s'effectue directement auprès du chauffeur. Voir la page Tarifs (informative).",
   },
   {
     q: "Peut-on réserver un taxi depuis le Carlton à Cannes ?",
@@ -65,7 +65,7 @@ const faqItems = [
   },
   {
     q: "Peut-on rejoindre la gare de Cannes depuis un palace ?",
-    a: "Oui. Course locale avec bagages : tarif confirmé à la réservation. Indiquez l'horaire de train pour caler la marge.",
+    a: "Oui. Course locale avec bagages : montant confirmé par le chauffeur. Indiquez l'horaire de train pour caler la marge.",
   },
   {
     q: "Comment réserver pour un départ tôt le matin depuis un palace ?",
@@ -216,8 +216,8 @@ export default function TrajetsPalaces() {
               },
               {
                 icon: Plane,
-                label: "100 €",
-                desc: "Forfait aéroport ↔ palaces",
+                label: "Paiement",
+                desc: "Directement auprès du chauffeur",
               },
               {
                 icon: Luggage,
@@ -355,7 +355,7 @@ export default function TrajetsPalaces() {
                   <tr>
                     <th className="px-4 py-3 font-bold border-b">Destination</th>
                     <th className="px-4 py-3 font-bold border-b">Usage typique</th>
-                    <th className="px-4 py-3 font-bold border-b">Tarif / info</th>
+                    <th className="px-4 py-3 font-bold border-b">Montant / info</th>
                   </tr>
                 </thead>
                 <tbody>
@@ -367,14 +367,14 @@ export default function TrajetsPalaces() {
                       Vol, check-out, bagages
                     </td>
                     <td className="px-4 py-3 border-b">
-                      Forfait{" "}
+                      Voir{" "}
                       <Link
                         href="/services/transfert-aeroport-nice-cannes"
                         className="text-accent font-semibold hover:underline underline-offset-2"
                       >
                         aéroport ↔ palaces
-                      </Link>{" "}
-                      <strong>100 €</strong>
+                      </Link>
+                      {" "}— montant confirmé par le chauffeur
                     </td>
                   </tr>
                   <tr className="bg-gray-50">
@@ -385,7 +385,7 @@ export default function TrajetsPalaces() {
                       Train TER / TGV, correspondance
                     </td>
                     <td className="px-4 py-3 border-b text-gray-700">
-                      Tarif confirmé à la réservation
+                      Montant confirmé par le chauffeur
                     </td>
                   </tr>
                   <tr>
@@ -396,7 +396,7 @@ export default function TrajetsPalaces() {
                       Congrès, séance, événement
                     </td>
                     <td className="px-4 py-3 border-b text-gray-700">
-                      Course locale — tarif confirmé à la réservation
+                      Course locale — montant confirmé par le chauffeur
                     </td>
                   </tr>
                   <tr className="bg-gray-50">
@@ -405,21 +405,24 @@ export default function TrajetsPalaces() {
                       Longue distance depuis la Croisette
                     </td>
                     <td className="px-4 py-3">
-                      Forfait public{" "}
+                      Voir{" "}
                       <Link
                         href="/services/cannes-monaco"
                         className="text-accent font-semibold hover:underline underline-offset-2"
                       >
                         Cannes → Monaco
-                      </Link>{" "}
-                      <strong>160 €</strong>
+                      </Link>
+                      {" "}— montant confirmé par le chauffeur
                     </td>
                   </tr>
                 </tbody>
               </table>
             </div>
             <p className="text-sm text-muted-foreground mt-4">
-              Grille complète sur la page{" "}
+              cannestaxi.fr met en relation avec des chauffeurs de taxi
+              indépendants ; montant et conditions confirmés par le chauffeur,
+              selon la réglementation applicable. Informations générales sur la
+              page{" "}
               <Link
                 href="/tarifs"
                 className="text-accent font-semibold hover:underline underline-offset-2"
@@ -444,28 +447,26 @@ export default function TrajetsPalaces() {
               >
                 transfert aéroport Nice–Cannes
               </Link>
-              . Sur la grille publiée&nbsp;:
+              .
             </p>
             <div className="rounded-2xl border-2 border-accent/40 bg-white p-8 md:p-10 shadow-md text-center mb-6">
-              <p className="text-sm font-bold text-accent uppercase tracking-wider mb-2">
-                Forfait réservation
-              </p>
-              <p className="text-lg text-gray-700 mb-2">
+              <p className="text-lg text-gray-700 mb-3">
                 Aéroport Nice ↔ Croisette / palaces
               </p>
-              <p className="text-5xl font-bold text-accent mb-4">100 €</p>
+              <p className="text-gray-700 mb-3">
+                Paiement directement auprès du chauffeur. Montant et conditions
+                confirmés par le chauffeur, selon la réglementation applicable.
+              </p>
               <p className="text-sm text-muted-foreground max-w-lg mx-auto">
-                Affiché sur{" "}
+                Informations générales sur{" "}
                 <Link
                   href="/tarifs"
                   className="text-accent font-semibold hover:underline underline-offset-2"
                 >
                   Tarifs
                 </Link>{" "}
-                (Aéroport Nice → Palaces) et page transfert aéroport (Nice ↔
-                Croisette / palaces). Van 8 places&nbsp;: forfait{" "}
-                <strong>120 €</strong> sur la page aéroport. Confirmé à la
-                réservation.
+                (page informative). Van pour groupe ou bagages : à demander,
+                selon disponibilité.
               </p>
             </div>
             <div className="flex flex-col sm:flex-row gap-3 justify-center">
@@ -500,9 +501,9 @@ export default function TrajetsPalaces() {
             <p className="text-gray-700 leading-relaxed mb-6">
               <strong>Chauffeur privé</strong>&nbsp;: plusieurs déplacements
               dans la même fenêtre (hôtel, Palais, déjeuner, retour). Mise à
-              disposition{" "}
-              <strong>4 h (240 €)</strong> ou <strong>8 h (420 €)</strong> sur
-              la grille{" "}
+              disposition 4 h ou 8 h : demande à confirmer avec le chauffeur
+              (disponibilité, montant et conditions). Informations générales
+              sur{" "}
               <Link
                 href="/tarifs"
                 className="text-accent font-semibold hover:underline underline-offset-2"

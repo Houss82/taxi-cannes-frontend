@@ -1,7 +1,7 @@
 ---
 title: "Taxi Cannes Aéroport Nice : départ, marges vol & réservation 2026"
 date: "2026-06-17"
-excerpt: "Taxi Cannes Aéroport Nice : départ, marges vol, Palm Beach, Le Cannet, Mougins. Carte itinéraire, chauffeur local, prix fixe. FAQ 17 questions. +33 7 56 82 77 99."
+excerpt: "Taxi Cannes Aéroport Nice : départ, marges vol, Palm Beach, Le Cannet, Mougins. Carte itinéraire, chauffeur partenaire local. FAQ 17 questions. +33 7 56 82 77 99."
 image: "/taxi-cannes-aeroport-depart.png"
 category: "Transferts & Déplacements"
 author: "Taxi Cannes"
@@ -43,10 +43,10 @@ Ce n'est **pas** le comparatif bus / navette / location : pour cela, utilisez le
 </details>
 
 <div class="kpi-strip">
-  <span class="badge success">Prix fixe réservation</span>
+  <span class="badge success">Réservation 24h/24</span>
   <span class="badge info">T1 / T2 Nice</span>
-  <span class="badge success">95–100 € depuis Cannes</span>
-  <span class="badge info">Van 8 p. : 120 €</span>
+  <span class="badge success">Depuis Cannes</span>
+  <span class="badge info">Van 8 places</span>
   <span class="badge accent">24h/24 — vols matin</span>
 </div>
 
@@ -127,7 +127,7 @@ Idéal si vous arrivez en **TER** depuis Nice ou Monaco puis partez en vol. Traj
 
 **Palm Beach**, **Californie**, **Croix-des-Gardes**, **Cannes Marina** (Port Canto), **La Bocca**, **Le Suquet**, **Boulevard Carnot** — donnez l'**adresse exacte** et le **code d'accès** si résidence fermée.
 
-**Le Cannet** (Rocheville, limitrophe Cannes) : départs quotidiens vers Nice, **35–48 min**, tarif sur devis si hors grille.
+**Le Cannet** (Rocheville, limitrophe Cannes) : départs quotidiens vers Nice, **35–48 min**, montant confirmé par le chauffeur partenaire selon l’adresse.
 
 **Mougins** (village et résidences) : **25–38 min** via A8, idéal pour villas autour de Cannes.
 
@@ -322,34 +322,9 @@ Le **sens Cannes → Nice** n'est pas le même que Nice → Cannes au niveau des
 
 <h2 id="tarifs">Tarifs Taxi Cannes Aéroport Nice (départ)</h2>
 
-Même grille que l'aller — **prix fixe** pour votre **taxi Cannes vers aéroport Nice** en réservation :
+Pour votre **taxi Cannes vers aéroport Nice**, le **montant et les conditions sont confirmés par le chauffeur partenaire**, dans le respect de la réglementation applicable. Le montant dépend notamment du **point de départ** (centre, Croisette / Palais / palaces), du **type de véhicule** (berline ou van 8 places), de l'horaire et des bagages. Le règlement s'effectue **directement auprès du chauffeur**.
 
-<div class="content-box" style="overflow-x: auto; -webkit-overflow-scrolling: touch;">
-  <table style="width: 100%; border-collapse: collapse; margin: 1.5rem 0; min-width: 480px;">
-    <thead>
-      <tr style="background-color: #f3f4f6;">
-        <th style="padding: 12px 8px; text-align: left; border: 1px solid #e5e7eb; font-size: 0.875rem;">Départ à Cannes</th>
-        <th style="padding: 12px 8px; text-align: left; border: 1px solid #e5e7eb; font-size: 0.875rem;">Forfait indicatif</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Centre / Ouest</strong></td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>95 €</strong></td>
-      </tr>
-      <tr style="background-color: #f9fafb;">
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Croisette / Palais / palaces</strong></td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>100 €</strong></td>
-      </tr>
-      <tr>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Van 8 passagers</strong></td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>120 €</strong></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-Grille complète et comparatif des modes de transport : **[guide pilier](/blog/guide-transfert-aeroport-nice-cannes)** · **[page Tarifs](/tarifs)** · **[service transfert](/services/transfert-aeroport-nice-cannes)**.
+Comparatif des modes de transport : **[guide pilier](/blog/guide-transfert-aeroport-nice-cannes)** · informations sur la **[page Tarifs](/tarifs)** · **[service transfert](/services/transfert-aeroport-nice-cannes)**.
 
 ---
 
@@ -358,8 +333,8 @@ Grille complète et comparatif des modes de transport : **[guide pilier](/blog/g
 <div class="content-box" style="margin: 1.5rem 0;">
   <ul style="margin: 0; padding-left: 1.25rem; line-height: 1.8;">
     <li><strong>Chauffeur local</strong> — connaissance des quartiers (Croisette, Palm Beach, Le Cannet, Mougins) et des accès A8</li>
-    <li><strong>Prix fixe</strong> — forfait convenu à l'avance (95 € / 100 € / 120 € van), pas de surprise au compteur</li>
-    <li><strong>Paiement CB</strong> — carte bancaire acceptée à bord</li>
+    <li><strong>Montant confirmé</strong> — montant et conditions confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable</li>
+    <li><strong>Paiement</strong> — directement auprès du chauffeur (moyens de paiement à confirmer avec lui)</li>
     <li><strong>Siège bébé</strong> — sur demande à la réservation</li>
     <li><strong>Disponible 24h/24</strong> — vols tôt le matin et départs nocturnes</li>
     <li><strong>Mercedes Classe E / SUV</strong> — berlines premium pour 1 à 4 passagers</li>
@@ -375,7 +350,7 @@ Grille complète et comparatif des modes de transport : **[guide pilier](/blog/g
 Pour un **départ vers un vol**, le risque principal avec une application est l'**indisponibilité** à **6h–8h** ou l'**annulation de dernière minute**. Un **taxi réservé** garantit :
 
 - **heure de prise en charge** fixée ;
-- **prix convenu** (forfait 95–100 €) ;
+- **montant et conditions confirmés** par le chauffeur partenaire ;
 - **van** si besoin (famille, groupe) ;
 - **terminal correct** (T1/T2) ;
 - **coffre adapté** aux bagages de fin de séjour.
@@ -407,7 +382,7 @@ Téléphone **+33 7 56 82 77 99** ou [formulaire en ligne](/reservation). Idéal
 
 <details class="faq">
   <summary>Taxi depuis Le Cannet ou Mougins vers l'aéroport Nice ?</summary>
-  <p>Oui. <strong>Le Cannet</strong> : <strong>35–48 min</strong>. <strong>Mougins</strong> : <strong>25–38 min</strong> via A8. Tarif Cannes standard ou devis selon adresse — appelez le <strong>+33 7 56 82 77 99</strong>.</p>
+  <p>Oui. <strong>Le Cannet</strong> : <strong>35–48 min</strong>. <strong>Mougins</strong> : <strong>25–38 min</strong> via A8. Montant confirmé par le chauffeur partenaire selon l’adresse — appelez le <strong>+33 7 56 82 77 99</strong>.</p>
 </details>
 
 <details class="faq">
@@ -422,7 +397,7 @@ Téléphone **+33 7 56 82 77 99** ou [formulaire en ligne](/reservation). Idéal
 
 <details class="faq">
   <summary>Quel est le prix d'un taxi de Cannes à l'aéroport Nice ?</summary>
-  <p>Forfait réservation : <strong>95 €</strong> (centre), <strong>100 €</strong> (Croisette/Palais), <strong>120 €</strong> (van 8 places). Détail : <a href="/blog/guide-transfert-aeroport-nice-cannes">guide pilier</a> · <a href="/services/transfert-aeroport-nice-cannes">réserver votre transfert aéroport</a>.</p>
+  <p>Montant et conditions <strong>confirmés par le chauffeur partenaire</strong>, dans le respect de la réglementation applicable ; règlement directement auprès du chauffeur. Détail : <a href="/blog/guide-transfert-aeroport-nice-cannes">guide pilier</a> · <a href="/services/transfert-aeroport-nice-cannes">réserver votre transfert aéroport</a>.</p>
 </details>
 
 <details class="faq">
@@ -442,7 +417,7 @@ Téléphone **+33 7 56 82 77 99** ou [formulaire en ligne](/reservation). Idéal
 
 <details class="faq">
   <summary>Le taxi peut-il venir me chercher à l'hôtel Martinez / Carlton ?</summary>
-  <p>Oui — prise en charge devant l'hôtel, aide aux bagages. Forfait Croisette/palaces : <strong>100 €</strong> vers Nice. Voir <a href="/services/trajets-palaces">trajets Palaces</a>.</p>
+  <p>Oui — prise en charge devant l'hôtel, aide aux bagages. Montant et conditions confirmés par le chauffeur partenaire. Voir <a href="/services/trajets-palaces">trajets Palaces</a>.</p>
 </details>
 
 <details class="faq">
@@ -457,12 +432,12 @@ Téléphone **+33 7 56 82 77 99** ou [formulaire en ligne](/reservation). Idéal
 
 <details class="faq">
   <summary>Les tarifs augmentent-ils pour un départ vers Nice ?</summary>
-  <p>Les <strong>forfaits réservation</strong> restent ceux de la grille site (95 € / 100 € / 120 €). Pas de supplément « départ » vs « arrivée » chez Taxi Cannes.</p>
+  <p>Le <strong>montant et les conditions</strong> sont confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable. Pour toute question, voir la page <a href="/tarifs">Tarifs</a>.</p>
 </details>
 
 <details class="faq">
   <summary>Peut-on réserver un van pour 6 personnes et des valises ?</summary>
-  <p>Oui — <strong>Mercedes Vito jusqu'à 8 passagers</strong>, forfait <strong>120 €</strong> Cannes → Nice. Indiquez le nombre de bagages à la réservation.</p>
+  <p>Oui — <strong>Mercedes Vito jusqu'à 8 passagers</strong>, selon disponibilité. Indiquez le nombre de bagages à la réservation.</p>
 </details>
 
 <details class="faq">
@@ -482,7 +457,7 @@ Téléphone **+33 7 56 82 77 99** ou [formulaire en ligne](/reservation). Idéal
 
 <details class="faq">
   <summary>Le prix est-il le même que Nice → Cannes ?</summary>
-  <p>Oui, sur notre grille <strong>forfait réservation</strong> le trajet est au même tarif dans les deux sens (95 € / 100 € / 120 € van).</p>
+  <p>Le montant et les conditions de chaque trajet sont <strong>confirmés par le chauffeur partenaire</strong>, dans le respect de la réglementation applicable.</p>
 </details>
 
 ---
@@ -504,4 +479,4 @@ Téléphone **+33 7 56 82 77 99** ou [formulaire en ligne](/reservation). Idéal
 
 ---
 
-_Article publié en juin 2026. Durées et tarifs indicatifs ; confirmation à la réservation. Vérifiez terminal et horaire de vol sur votre billet. Taxi Cannes._
+_Article publié en juin 2026. Durées indicatives ; montant et conditions confirmés par le chauffeur partenaire. Cannestaxi.fr est un service de mise en relation ; le paiement s'effectue auprès du chauffeur. Vérifiez terminal et horaire de vol sur votre billet. Taxi Cannes._

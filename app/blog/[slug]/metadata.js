@@ -41,6 +41,8 @@ export async function generateMetadata({ params }) {
       "Taxi Cannes Grasse 2026 : durée, tarif parfumeries & réservation | Taxi Cannes",
     "taxi-cannes-vallauris-golfe-juan-guide-2026":
       "Taxi Cannes Vallauris & Golfe-Juan : trajet et réservation | Taxi Cannes",
+    "cannes-grasse-taxi-capitale-parfum-croisette":
+      "Cannes – Grasse en taxi : capitale du parfum depuis la Croisette | cannestaxi.fr",
   };
   const seoTitle =
     seoTitleBySlug[post.slug] ?? `${post.title} | Taxi Cannes`;

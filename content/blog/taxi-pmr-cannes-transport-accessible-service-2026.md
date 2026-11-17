@@ -118,7 +118,7 @@ Pour la **baignade** ou une **journée** à la plage, le volet « taxi » est le
 ## Service client & accessibilité : ce que nous mettons en avant
 
 - **Écoute des contraintes** : pas de promesse générique sans **détail** sur le fauteuil et les adresses.
-- **Tarif annoncé** avant le départ lorsque le trajet est **clairement défini** (sous réserve de **modifications** de trafic ou d’itinéraire imposées).
+- **Montant et conditions confirmés** par le chauffeur partenaire lorsque le trajet est **clairement défini** (sous réserve de **modifications** de trafic ou d’itinéraire imposées).
 - **Disponibilité** **24h/24** pour la **prise de contact** ; les **véhicules adaptés** sont en **nombre limité** : **réservez tôt**, surtout **été** et **Festival**.
 - **Coordination** avec vos autres **assistances** (aéroport, hôtel, organisateur) si vous nous transmettez les **informations** à l’avance.
 

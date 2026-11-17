@@ -59,7 +59,7 @@ Le taxi peut vous déposer **directement devant l'entrée principale** du Palais
 
 Si vous enchaînez plusieurs rendez-vous (hôtel → Palais → déjeuner → second rendez‑vous), la **mise à disposition** avec chauffeur dédié est souvent la solution la plus fluide : **[Chauffeur privé Cannes (4h/8h)](/blog/chauffeur-prive-cannes-mise-a-disposition-2026)**.
 
-### Tarifs indicatifs
+### Durées indicatives et conditions
 
 <div class="content-box" style="overflow-x: auto; -webkit-overflow-scrolling: touch;">
   <table style="width: 100%; border-collapse: collapse; margin: 1.5rem 0; min-width: 600px;">
@@ -67,35 +67,30 @@ Si vous enchaînez plusieurs rendez-vous (hôtel → Palais → déjeuner → se
       <tr style="background-color: #f3f4f6;">
         <th style="padding: 12px 8px; text-align: left; border: 1px solid #e5e7eb; font-size: 0.875rem;">Trajet</th>
         <th style="padding: 12px 8px; text-align: left; border: 1px solid #e5e7eb; font-size: 0.875rem;">Durée</th>
-        <th style="padding: 12px 8px; text-align: left; border: 1px solid #e5e7eb; font-size: 0.875rem;">Tarif approximatif</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Gare SNCF → Palais des Festivals</strong></td>
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">10 min</td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">12-18€</td>
       </tr>
       <tr style="background-color: #f9fafb;">
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Aéroport Nice → Palais des Festivals</strong></td>
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">30-45 min</td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>100 €</strong> (forfait réservation Croisette / palaces)</td>
       </tr>
       <tr>
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Croisette (hôtel) → Palais des Festivals</strong></td>
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">3-5 min</td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">8-12€</td>
       </tr>
       <tr style="background-color: #f9fafb;">
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Boulevard Carnot → Palais des Festivals</strong></td>
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">10 min</td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">12-18€</td>
       </tr>
     </tbody>
   </table>
 </div>
 
-_Tarifs indicatifs : course courte en ville peut varier au compteur ; pour l’aéroport Nice, les **forfaits prix fixe réservation** sont ceux du [guide transfert aéroport Nice–Cannes](/blog/guide-transfert-aeroport-nice-cannes) et de la page [transfert aéroport Nice Cannes](/services/transfert-aeroport-nice-cannes) (95 € centre / Ouest, **100 €** palaces-Croisette-Palais). Devis précis à la réservation._
+_Durées indicatives. Pour tous ces trajets, le montant et les conditions sont confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable. Le règlement s’effectue directement auprès du chauffeur. Voir le [guide transfert aéroport Nice–Cannes](/blog/guide-transfert-aeroport-nice-cannes), la page [transfert aéroport Nice Cannes](/services/transfert-aeroport-nice-cannes) et la page [Tarifs](/tarifs). Cannestaxi.fr est un service de mise en relation._
 
 ---
 
@@ -169,7 +164,7 @@ Nous pouvons vous prendre en charge :
 
 ### Combien coûte un taxi de la gare SNCF au Palais des Festivals ?
 
-Le trajet coûte environ **12 à 18€** pour une durée de 10 minutes. Tarif variable selon le trafic. Pour plus d'informations, consultez notre [guide taxi gare de Cannes](/blog/taxi-gare-cannes-service-transport-sncf-2025).
+Le trajet dure environ 10 minutes. Le montant et les conditions sont confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable. Pour plus d'informations, consultez notre [guide taxi gare de Cannes](/blog/taxi-gare-cannes-service-transport-sncf-2025).
 
 ### Peut-on réserver un taxi pour un congrès au Palais des Festivals ?
 

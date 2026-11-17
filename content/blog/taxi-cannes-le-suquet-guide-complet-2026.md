@@ -1,7 +1,7 @@
 ---
 title: "Taxi Le Suquet Cannes : guide complet 2026 – Service 24h/24, Forville, Vieille Ville & Accès"
 date: "2026-03-24"
-excerpt: "Taxi Cannes Le Suquet : réservation 24h/24, déposes Forville et vieille ville, trajets depuis aéroport Nice et gare SNCF, tarifs indicatifs et conseils. Service taxi quartier historique Cannes."
+excerpt: "Taxi Cannes Le Suquet : réservation 24h/24, déposes Forville et vieille ville, trajets depuis aéroport Nice et gare SNCF, conseils pratiques. Service taxi quartier historique Cannes."
 image: "/taxi-cannes-le-suquet-ruelle.png"
 category: "Cannes & Actualités"
 author: "Taxi Cannes"
@@ -14,7 +14,7 @@ language: "fr"
 
 Le **Suquet** reste le cœur patrimonial de Cannes : vieille ville sur la colline, **tour de la Castre**, **église Notre-Dame d'Espérance**, vues sur la baie et **marché Forville** en contrebas. C'est un quartier magnifique mais exigeant pour la circulation : stationnement rare, livraisons le matin, escaliers et zones piétonnes en hauteur.
 
-Ce guide est pensé pour vous : **tout savoir sur le taxi Cannes Le Suquet** — pourquoi réserver, où l'on vous dépose, **durées et tarifs indicatifs**, liaisons aéroport / gare / Palais des Festivals, et un rappel utile sur le quartier pour préparer votre venue.
+Ce guide est pensé pour vous : **tout savoir sur le taxi Cannes Le Suquet** — pourquoi réserver, où l'on vous dépose, **durées indicatives**, liaisons aéroport / gare / Palais des Festivals, et un rappel utile sur le quartier pour préparer votre venue.
 
 <div class="kpi-strip">
   <span class="badge success">🚖 Taxi Cannes Le Suquet</span>
@@ -42,8 +42,8 @@ Pour réserver ou voir le détail des prestations, consultez notre page **[servi
 ### ⏱️ Accès rapide (repères taxi)
 
 - **Gare SNCF → Suquet** : 5 à 10 minutes en taxi
-- **Croisette → Suquet** : 3 à 5 minutes en taxi (souvent **8€ à 12€** selon trafic et prise en charge)
-- **Aéroport Nice → Suquet** : 30 à 45 minutes — voir section tarifs ci-dessous
+- **Croisette → Suquet** : 3 à 5 minutes en taxi
+- **Aéroport Nice → Suquet** : 30 à 45 minutes — voir section ci-dessous
 - **Forville (marché)** : dépose possible à proximité ; les matinées de marché sont chargées — anticiper ou privilégier une **réservation**
 
 ---
@@ -64,11 +64,11 @@ Pour les arrivées depuis l'aéroport, notre **[transfert aéroport Nice Cannes]
 
 ---
 
-## 💶 Tarifs indicatifs : taxi vers le Suquet (Cannes)
+## Trajets et conditions : taxi vers le Suquet (Cannes)
 
-Les montants ci-dessous sont des **ordres de grandeur** ; le tarif officiel dépend du compteur, du trafic et du point exact de prise en charge et de dépose.
+Les durées ci-dessous sont des **ordres de grandeur**. Le montant et les conditions sont confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable, selon le trafic et le point exact de prise en charge et de dépose. Le règlement s’effectue directement auprès du chauffeur.
 
-### Tarifs indicatifs
+### Durées indicatives
 
 <div class="content-box" style="overflow-x: auto; -webkit-overflow-scrolling: touch;">
   <table style="width: 100%; border-collapse: collapse; margin: 1.5rem 0; min-width: 600px;">
@@ -76,39 +76,34 @@ Les montants ci-dessous sont des **ordres de grandeur** ; le tarif officiel dép
       <tr style="background-color: #f3f4f6;">
         <th style="padding: 12px 8px; text-align: left; border: 1px solid #e5e7eb; font-size: 0.875rem;">Trajet</th>
         <th style="padding: 12px 8px; text-align: left; border: 1px solid #e5e7eb; font-size: 0.875rem;">Durée</th>
-        <th style="padding: 12px 8px; text-align: left; border: 1px solid #e5e7eb; font-size: 0.875rem;">Tarif approximatif</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Gare SNCF → Le Suquet</strong></td>
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">5-10 min</td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">8-15€</td>
       </tr>
       <tr style="background-color: #f9fafb;">
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Aéroport Nice → Le Suquet</strong></td>
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">30-45 min</td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>95 €</strong> (forfait centre)</td>
       </tr>
       <tr>
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Croisette (hôtel) → Le Suquet</strong></td>
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">3-5 min</td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">8-12€</td>
       </tr>
       <tr style="background-color: #f9fafb;">
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Boulevard Carnot → Le Suquet</strong></td>
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">8-12 min</td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">12-18€</td>
       </tr>
     </tbody>
   </table>
 </div>
 
-_Tarifs variables selon le trafic et la période. Contactez-nous pour un devis précis._
+_Montant et conditions confirmés par le chauffeur partenaire, selon le trafic et la période. Cannestaxi.fr est un service de mise en relation._
 
-Détails pratiques depuis la gare : notre **[guide taxi gare de Cannes](/blog/taxi-gare-cannes-service-transport-sncf-2025)**. Depuis l'aéroport : **[transfert aéroport Nice Cannes](/services/transfert-aeroport-nice-cannes)**. Trajet **Palais des Festivals → Le Suquet** : environ **5-10 min**, tarif **course courte** selon trafic (congrès, Festival).
+Détails pratiques depuis la gare : notre **[guide taxi gare de Cannes](/blog/taxi-gare-cannes-service-transport-sncf-2025)**. Depuis l'aéroport : **[transfert aéroport Nice Cannes](/services/transfert-aeroport-nice-cannes)**. Trajet **Palais des Festivals → Le Suquet** : environ **5-10 min**, course courte, montant confirmé par le chauffeur partenaire selon le trafic (congrès, Festival).
 
-**Marché Forville avec attente** : un **service avec attente** peut être proposé pour vos courses — **tarif sur devis** selon la durée (voir **[taxi Le Suquet](/secteurs/le-suquet)**).
+**Marché Forville avec attente** : un **service avec attente** peut être proposé pour vos courses — **conditions confirmées par le chauffeur partenaire** selon la durée (voir **[taxi Le Suquet](/secteurs/le-suquet)**).
 
 ---
 
@@ -167,15 +162,15 @@ Au **pied du Suquet**, **place du Suquet**, **rue Saint-Antoine** ou dans les **
 
 ### Quel prix pour un taxi Croisette → Suquet ?
 
-En général **8€ à 12€** pour **3 à 5 minutes** de trajet (indicatif). Demandez une confirmation selon votre point exact de départ.
+Trajet d'environ **3 à 5 minutes** (indicatif). Le montant et les conditions sont confirmés par le chauffeur partenaire selon votre point exact de départ, dans le respect de la réglementation applicable.
 
 ### Peut-on prendre un taxi de l'aéroport Nice directement au Suquet ?
 
-Oui. Comptez **30 à 45 minutes** (ou plus en **Festival / congrès**) et un **forfait réservation** de **95 €** centre type Suquet selon [guide transfert aéroport](/blog/guide-transfert-aeroport-nice-cannes). Service dédié : **[transfert aéroport Nice Cannes](/services/transfert-aeroport-nice-cannes)**.
+Oui. Comptez **30 à 45 minutes** (ou plus en **Festival / congrès**) et un montant confirmé par le chauffeur partenaire (voir le [guide transfert aéroport](/blog/guide-transfert-aeroport-nice-cannes)). Service dédié : **[transfert aéroport Nice Cannes](/services/transfert-aeroport-nice-cannes)**.
 
 ### Le taxi dessert-il le marché Forville ?
 
-Oui — **dépose** à proximité. Un **forfait avec attente** peut être convenu pour vos courses au marché (**devis** selon durée).
+Oui — **dépose** à proximité. Une **attente** peut être convenue pour vos courses au marché (conditions confirmées par le chauffeur partenaire selon la durée).
 
 ### Le Suquet est-il desservi en taxi la nuit ?
 

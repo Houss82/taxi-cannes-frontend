@@ -1,188 +1,226 @@
 // ✅ SERVER COMPONENT - Pas de "use client"
-// ISR: Revalidate toutes les 24 heures pour le SEO
 export const revalidate = 86400;
 
-import { Check } from "lucide-react";
 import Link from "next/link";
 import Button from "../components/ui/Button";
 import Card from "../components/ui/Card";
 
 export const metadata = {
-  title: "Tarifs - Taxi Cannes",
+  title: {
+    absolute:
+      "Taxis à Cannes : comprendre les tarifs et la réservation | cannestaxi.fr",
+  },
   description:
-    "Tarifs transparents pour transferts aéroport Nice, Monaco, Saint-Tropez. Prix fixes sans surprise. Service premium à des tarifs compétitifs.",
+    "Comment fonctionnent les tarifs de taxi à Cannes et sur la Côte d’Azur : réglementation, paiement au chauffeur, demande de réservation via cannestaxi.fr. Sans grille de prix commerciaux inventés.",
   keywords:
-    "tarifs taxi cannes, prix transfert aéroport nice, tarif taxi monaco, prix taxi saint-tropez",
+    "tarifs taxi cannes, comprendre tarif taxi, réservation taxi cannes, réglementation taxi",
+  alternates: {
+    canonical: "https://www.cannestaxi.fr/tarifs",
+  },
 };
 
 export default function Pricing() {
-  const routes = [
-    {
-      from: "Aéroport Nice",
-      to: "Cannes Centre",
-      price: 95,
-      href: "/services/transfert-aeroport-nice-cannes",
-    },
-    {
-      from: "Aéroport Nice",
-      to: "Palaces",
-      price: 100,
-      href: "/services/transfert-aeroport-nice-cannes",
-    },
-    { from: "Cannes", to: "Monaco", price: 160, href: "/services/cannes-monaco" },
-    { from: "Cannes", to: "Saint-Tropez", price: 260 },
-    {
-      from: "Cannes",
-      to: "Antibes",
-      price: 45,
-      href: "/blog/taxi-cannes-antibes-juan-les-pins-transfert-guide-2026",
-    },
-    {
-      from: "Cannes",
-      to: "Grasse",
-      price: 65,
-      href: "/blog/taxi-cannes-grasse-transfert-guide-2026",
-    },
-  ];
-
   return (
     <main className="min-h-screen bg-white">
       <section className="pt-32 pb-20">
-        <div className="max-w-7xl mx-auto px-6">
-          <div className="text-center mb-16">
-            <h1 className="text-5xl md:text-6xl font-bold mb-6">
-              Tarifs Transparents
+        <div className="max-w-3xl mx-auto px-6">
+          <div className="text-center mb-12">
+            <h1 className="text-4xl md:text-5xl font-bold mb-6 leading-tight">
+              Taxis à Cannes : comprendre les tarifs et la réservation
             </h1>
-            <p className="text-xl text-muted-foreground">
-              Prix fixes, sans surprise. Service de qualité premium à des tarifs
-              compétitifs.
+            <p className="text-lg text-muted-foreground">
+              Informations générales sur la tarification des taxis et le rôle de
+              cannestaxi.fr — sans grille de prix commerciaux présentés comme
+              réglementaires.
             </p>
           </div>
 
-          {/* Pricing Table */}
-          <Card className="overflow-hidden mb-16">
-            <div className="overflow-x-auto">
-              <table className="w-full">
-                <thead className="bg-primary text-primary-foreground">
-                  <tr>
-                    <th className="px-6 py-4 text-left font-bold">De</th>
-                    <th className="px-6 py-4 text-left font-bold">Vers</th>
-                    <th className="px-6 py-4 text-right font-bold">Prix</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  {routes.map((route, i) => (
-                    <tr
-                      key={i}
-                      className="border-b border-border last:border-b-0 hover:bg-secondary transition-colors"
-                    >
-                      <td className="px-6 py-4">{route.from}</td>
-                      <td className="px-6 py-4">
-                        {route.href ? (
-                          <Link
-                            href={route.href}
-                            className="text-accent font-medium hover:underline underline-offset-2"
-                          >
-                            {route.to}
-                          </Link>
-                        ) : (
-                          route.to
-                        )}
-                      </td>
-                      <td className="px-6 py-4 text-right font-bold text-accent">
-                        {route.price}€
-                      </td>
-                    </tr>
-                  ))}
-                </tbody>
-              </table>
-            </div>
-            <p className="px-6 py-4 text-sm text-muted-foreground border-t border-border">
-              Détail du{" "}
-              <Link
-                href="/services/transfert-aeroport-nice-cannes"
-                className="text-accent font-semibold hover:underline underline-offset-2"
-              >
-                transport aéroport Nice Cannes
-              </Link>{" "}
-              (suivi de vol, T1/T2, quartiers desservis). Pour un{" "}
-              <Link
-                href="/services/taxi-conventionne-cpam-cannes"
-                className="text-accent font-semibold hover:underline underline-offset-2"
-              >
-                déplacement lié aux soins
-              </Link>
-              , le cadre CPAM se confirme à l’appel.
+          <Card className="p-8 mb-10 border border-border">
+            <h2 className="text-2xl font-bold mb-4">
+              Rôle de cannestaxi.fr
+            </h2>
+            <p className="text-muted-foreground leading-relaxed mb-4">
+              <strong className="text-foreground">cannestaxi.fr</strong> est un
+              service de mise en relation permettant aux voyageurs de transmettre
+              une demande de réservation à des chauffeurs de taxi professionnels
+              indépendants, titulaires des autorisations nécessaires.
+            </p>
+            <p className="text-muted-foreground leading-relaxed">
+              Les prestations de transport sont réalisées par les chauffeurs
+              partenaires, qui encaissent directement le règlement des courses.
+              Le site ne revendique pas d’être une centrale de réservation
+              déclarée, ni de disposer d’une licence de taxi au nom de
+              l’éditeur.
             </p>
           </Card>
 
-          {/* Additional Services */}
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-16">
-            <Card className="p-8">
-              <h3 className="text-2xl font-bold mb-6">Chauffeur Privé</h3>
-              <ul className="space-y-4 mb-8">
-                <li className="flex items-center gap-3">
-                  <Check className="w-5 h-5 text-accent shrink-0" />
-                  <span>Demi-journée (4h): 240€</span>
+          <div className="space-y-10 mb-12">
+            <section>
+              <h2 className="text-2xl font-bold mb-4">
+                Comment sont déterminés les tarifs de taxi ?
+              </h2>
+              <ul className="space-y-3 text-muted-foreground leading-relaxed list-disc pl-5">
+                <li>
+                  Les tarifs des taxis sont{" "}
+                  <strong className="text-foreground">réglementés</strong>{" "}
+                  (compteur et règles applicables selon le cadre en vigueur).
                 </li>
-                <li className="flex items-center gap-3">
-                  <Check className="w-5 h-5 text-accent shrink-0" />
-                  <span>Journée complète (8h): 420€</span>
+                <li>
+                  Les conditions tarifaires dépendent des règles applicables au
+                  trajet et au véhicule (commune d’autorisation, type de
+                  course, éventuels forfaits prévus par la réglementation
+                  lorsqu’ils existent).
                 </li>
-                <li className="flex items-center gap-3">
-                  <Check className="w-5 h-5 text-accent shrink-0" />
-                  <span>Itinéraires flexibles</span>
+                <li>
+                  Certains trajets peuvent relever de{" "}
+                  <strong className="text-foreground">
+                    forfaits réglementaires
+                  </strong>{" "}
+                  lorsqu’ils sont prévus par les textes ; ce site{" "}
+                  <strong className="text-foreground">
+                    n’affiche pas de grille commerciale
+                  </strong>{" "}
+                  présentée comme tarif officiel.
                 </li>
-                <li className="flex items-center gap-3">
-                  <Check className="w-5 h-5 text-accent shrink-0" />
-                  <span>Chauffeur professionnel</span>
+                <li>
+                  Les éventuels suppléments (nuit, attente, bagages
+                  volumineux, etc.) doivent respecter la réglementation
+                  applicable — ils ne sont pas fixés arbitrairement par le site.
+                </li>
+                <li>
+                  Le client{" "}
+                  <strong className="text-foreground">
+                    paie directement le chauffeur
+                  </strong>{" "}
+                  qui effectue la course.
                 </li>
               </ul>
-              <Link href="/reservation">
-                <Button className="w-full bg-accent text-accent-foreground hover:opacity-90">
-                  Réserver une journée
-                </Button>
-              </Link>
-            </Card>
+            </section>
 
-            <Card className="p-8">
-              <h3 className="text-2xl font-bold mb-6">Forfait Événement</h3>
-              <ul className="space-y-4 mb-8">
-                <li className="flex items-center gap-3">
-                  <Check className="w-5 h-5 text-accent shrink-0" />
-                  <span>Mariage: à partir de 500€</span>
+            <section>
+              <h2 className="text-2xl font-bold mb-4">
+                Demande de réservation
+              </h2>
+              <p className="text-muted-foreground leading-relaxed mb-4">
+                En transmettant une demande via le formulaire, vous indiquez
+                trajet, horaire et besoins. Un chauffeur partenaire peut alors
+                vous confirmer la prise en charge. La disponibilité n’est pas
+                garantie à l’avance ; le montant et les conditions applicables
+                sont ceux du cadre réglementaire et de la confirmation du
+                chauffeur.
+              </p>
+              <p className="text-muted-foreground leading-relaxed">
+                Pour les trajets fréquents (aéroport Nice, Monaco, gare,
+                palaces, etc.), consultez les pages services et guides
+                associés — informations pratiques, sans prix commerciaux
+                inventés.
+              </p>
+            </section>
+
+            <section>
+              <h2 className="text-2xl font-bold mb-4">
+                Pages utiles
+              </h2>
+              <ul className="space-y-2 text-muted-foreground">
+                <li>
+                  <Link
+                    href="/services/transfert-aeroport-nice-cannes"
+                    className="text-accent font-medium hover:underline"
+                  >
+                    Transfert aéroport Nice ↔ Cannes
+                  </Link>
                 </li>
-                <li className="flex items-center gap-3">
-                  <Check className="w-5 h-5 text-accent shrink-0" />
-                  <span>Festival: tarif spécial</span>
+                <li>
+                  <Link
+                    href="/services/cannes-monaco"
+                    className="text-accent font-medium hover:underline"
+                  >
+                    Trajet Cannes → Monaco
+                  </Link>
                 </li>
-                <li className="flex items-center gap-3">
-                  <Check className="w-5 h-5 text-accent shrink-0" />
-                  <span>Transport groupe</span>
+                <li>
+                  <Link
+                    href="/services/chauffeur-prive-cannes"
+                    className="text-accent font-medium hover:underline"
+                  >
+                    Mise à disposition / chauffeur
+                  </Link>
                 </li>
-                <li className="flex items-center gap-3">
-                  <Check className="w-5 h-5 text-accent shrink-0" />
-                  <span>Discrétion et service blanc</span>
+                <li>
+                  <Link
+                    href="/blog/taxi-cannes-saint-tropez-transfert-guide-2026"
+                    className="text-accent font-medium hover:underline"
+                  >
+                    Guide Cannes → Saint-Tropez
+                  </Link>
+                </li>
+                <li>
+                  <Link
+                    href="/services"
+                    className="text-accent font-medium hover:underline"
+                  >
+                    Tous les services
+                  </Link>
                 </li>
               </ul>
-              <Link href="/contact">
-                <Button className="w-full bg-accent text-accent-foreground hover:opacity-90">
-                  Devis personnalisé
-                </Button>
-              </Link>
-            </Card>
+            </section>
+
+            <section>
+              <h2 className="text-2xl font-bold mb-4">FAQ courte</h2>
+              <div className="space-y-4">
+                <details className="border border-border rounded-lg p-4">
+                  <summary className="font-semibold cursor-pointer">
+                    Pourquoi le site n’affiche-t-il plus de grille de prix ?
+                  </summary>
+                  <p className="mt-3 text-muted-foreground text-sm leading-relaxed">
+                    Pour éviter de présenter des montants commerciaux comme s’il
+                    s’agissait de tarifs réglementaires ou de forfaits officiels.
+                    Les règles applicables relèvent de la réglementation des
+                    taxis et de la confirmation du chauffeur.
+                  </p>
+                </details>
+                <details className="border border-border rounded-lg p-4">
+                  <summary className="font-semibold cursor-pointer">
+                    Qui encaisse le paiement ?
+                  </summary>
+                  <p className="mt-3 text-muted-foreground text-sm leading-relaxed">
+                    Le chauffeur qui réalise la course. cannestaxi.fr met en
+                    relation ; il n’effectue pas lui-même le transport.
+                  </p>
+                </details>
+                <details className="border border-border rounded-lg p-4">
+                  <summary className="font-semibold cursor-pointer">
+                    Comment obtenir une estimation ?
+                  </summary>
+                  <p className="mt-3 text-muted-foreground text-sm leading-relaxed">
+                    Décrivez votre trajet dans le{" "}
+                    <Link href="/reservation" className="text-accent underline">
+                      formulaire de réservation
+                    </Link>{" "}
+                    ou par téléphone. Le chauffeur partenaire peut vous préciser
+                    les modalités avant le départ, dans le respect des règles
+                    applicables.
+                  </p>
+                </details>
+              </div>
+            </section>
           </div>
 
-          {/* Info */}
-          <div className="bg-secondary p-8 rounded-lg">
-            <h3 className="font-bold text-lg mb-4">Informations Tarifaires</h3>
-            <ul className="space-y-3 text-muted-foreground">
-              <li>• Tous les tarifs incluent la TVA</li>
-              <li>• Surcharge de 20% entre 20h et 6h</li>
-              <li>• Gratuit: bagages, enfant -3 ans</li>
-              <li>• Attente (à partir de 15 min): 0,35€/min</li>
-              <li>• Réduction groupe à partir de 5 personnes</li>
-            </ul>
+          <div className="text-center bg-secondary p-8 rounded-lg">
+            <p className="mb-6 text-muted-foreground">
+              Prêt à transmettre une demande de prise en charge ?
+            </p>
+            <Link href="/reservation">
+              <Button className="bg-accent text-accent-foreground hover:opacity-90 px-8 py-6 text-lg">
+                Demander une réservation
+              </Button>
+            </Link>
+            <p className="mt-4 text-sm text-muted-foreground">
+              Ou{" "}
+              <Link href="/contact" className="text-accent underline">
+                nous contacter
+              </Link>
+            </p>
           </div>
         </div>
       </section>

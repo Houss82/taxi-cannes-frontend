@@ -1,7 +1,7 @@
 ---
 title: "Aéroport Nice → Cannes 2026 : Festival, Lions, congrès (durées & réservation)"
 date: "2026-05-07"
-excerpt: "Transfert aéroport Nice–Cannes pendant le Festival de Cannes, les Lions ou les gros congrès : durées réalistes, marges, prise en charge T1/T2 et tarifs alignés sur notre grille. Le guide pilier détaille bus, navette et comparatifs complets."
+excerpt: "Transfert aéroport Nice–Cannes pendant le Festival de Cannes, les Lions ou les gros congrès : durées réalistes, marges, prise en charge T1/T2 et informations sur les conditions de réservation. Le guide pilier détaille bus, navette et comparatifs complets."
 image: "/aeroport-nice-cannes.png"
 category: "Transferts & Déplacements"
 author: "Taxi Cannes"
@@ -14,10 +14,10 @@ Pour le **comparatif complet** (bus 210, navette, location, taxi premium, FAQ d�
 
 <div class="kpi-strip">
   <span class="badge info">30–50 min selon période</span>
-  <span class="badge success">Prix fixes : 95–100 €</span>
+  <span class="badge success">Chauffeur partenaire</span>
   <span class="badge info">T1 / T2 Nice</span>
   <span class="badge success">Suivi de vol</span>
-  <span class="badge accent">Van 8 p. : 120 €</span>
+  <span class="badge accent">Van 8 places</span>
 </div>
 
 ---
@@ -27,7 +27,7 @@ Pour le **comparatif complet** (bus 210, navette, location, taxi premium, FAQ d�
 En semaine « normale », l’**A8** et l’approche de **Cannes** se gèrent avec des durées proches de la moyenne. Dès qu’un **événement majeur** remplit les hôtels de la **Croisette** et les salles du Palais, trois choses changent :
 
 - **Files et bouchons** sur l’axe **Nice–Antibes–Cannes**, surtout en fin de matinée et fin d’après-midi ;
-- **Moins de véhicules disponibles** à la volée : un **taxi ou VTC réservé** avec **prix convenu à l’avance** évite l’incertitude du compteur ou de l’attente sur place ;
+- **Moins de véhicules disponibles** à la volée : un **taxi ou VTC réservé** réservé à l’avance évite l’incertitude de l’attente sur place ;
 - **Déposes réglementées** : le chauffeur s’adapte aux **accès temporaires** (dépose Palais, hôtels, accès piétons).
 
 Ce contenu prolonge notre **[calendrier des événements majeurs à Cannes 2026](/blog/evenements-majeurs-cannes-2026-guide-complet)** et se lit en complément du **[taxi Palais des Festivals](/blog/taxi-palais-des-festivals-cannes-acces-congres-evenements-2026)**.
@@ -99,38 +99,11 @@ Lien utile : **[taxi Palais des Festivals Cannes — accès & congrès 2026](/bl
 
 ---
 
-## Tarifs Taxi Cannes (alignement unique sur la grille)
+## Tarifs et conditions Taxi Cannes
 
-Nous appliquons la **même grille** que le [guide transfert aéroport Nice–Cannes](/blog/guide-transfert-aeroport-nice-cannes) pour éviter toute ambiguïté entre pages du site :
+Pour un trajet **Aéroport Nice → Cannes** (centre / ouest, palaces / Croisette / Palais des Festivals, ou van jusqu’à 8 passagers en Mercedes Vito), le **montant et les conditions sont confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable**. Le montant dépend notamment de la destination, du véhicule, du nombre de passagers et de bagages, et de la période (événements). Le règlement s’effectue directement auprès du chauffeur.
 
-<div class="content-box" style="overflow-x: auto; -webkit-overflow-scrolling: touch;">
-  <table style="width: 100%; border-collapse: collapse; margin: 1.5rem 0; min-width: 560px;">
-    <thead>
-      <tr style="background-color: #f3f4f6;">
-        <th style="padding: 12px 8px; text-align: left; border: 1px solid #e5e7eb; font-size: 0.875rem;">Destination à Cannes</th>
-        <th style="padding: 12px 8px; text-align: left; border: 1px solid #e5e7eb; font-size: 0.875rem;">Forfait indicatif (réservation)</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Centre / Ouest</strong> (itinéraire type centre-ville)</td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>95 €</strong></td>
-      </tr>
-      <tr style="background-color: #f9fafb;">
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Palaces / Croisette / Palais des Festivals</strong></td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>100 €</strong></td>
-      </tr>
-      <tr>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Van jusqu’à 8 passagers</strong> (Mercedes Vito)</td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>120 €</strong></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-_Jusqu’à 4 passagers et bagages standards sur berline/SUV sauf grille plus détaillée sur le guide ; confirmation au moment de la [réservation](/reservation)._
-
-**Pourquoi ce n’est pas le même prix qu’un taxi « compteur » pris à la volée au sortir des arrivées ?** : ici nous parlons d’un **service réservé**, **prix fixe convenu**, **véhicule premium** et **suivi de vol** — ligne directe avec la page [transfert aéroport Nice–Cannes](/services/transfert-aeroport-nice-cannes) et nos [tarifs](/tarifs).
+Cannestaxi.fr est un service de **mise en relation** avec des chauffeurs partenaires. Pour plus d’informations, voir la page [Tarifs](/tarifs) et la page [transfert aéroport Nice–Cannes](/services/transfert-aeroport-nice-cannes).
 
 ---
 
@@ -154,7 +127,7 @@ Téléphone **+33 7 56 82 77 99** ou [formulaire en ligne](/reservation).
 
 <details class="faq">
   <summary>Quel prix pour l’aéroport de Nice jusqu’au Palais des Festivals ?</summary>
-  <p>Sur notre grille actuelle : <strong>100 €</strong> en forfait réservation (palaces / Croisette / dépose Palais dans cette logique tarifaire). Détail dans le <a href="/blog/guide-transfert-aeroport-nice-cannes">guide pilier</a> · <a href="/services/transfert-aeroport-nice-cannes">taxi depuis l'aéroport Nice</a>.</p>
+  <p>Le <strong>montant et les conditions sont confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable</strong>, selon la dépose et la période. Le règlement s’effectue directement auprès du chauffeur. Détail dans le <a href="/blog/guide-transfert-aeroport-nice-cannes">guide pilier</a> · <a href="/services/transfert-aeroport-nice-cannes">taxi depuis l'aéroport Nice</a>.</p>
 </details>
 
 <details class="faq">
@@ -192,4 +165,4 @@ Téléphone **+33 7 56 82 77 99** ou [formulaire en ligne](/reservation).
 
 ---
 
-_Article publié en mai 2026. Durées et tarifs indicatifs ; confirmation à la réservation. Taxi Cannes._
+_Article publié en mai 2026. Durées indicatives ; montant et conditions confirmés par le chauffeur partenaire. Cannestaxi.fr : service de mise en relation._

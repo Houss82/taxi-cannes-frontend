@@ -19,8 +19,9 @@ export default function Footer() {
               <span className="font-bold text-lg">Taxi Cannes</span>
             </div>
             <p className="text-primary-foreground/80 text-sm leading-relaxed">
-              Service de taxi premium à Cannes depuis 2015. Qualité, confort et
-              ponctualité garantis.
+              cannestaxi.fr met en relation les voyageurs avec des chauffeurs de
+              taxi indépendants. Le transport et le règlement s&apos;effectuent
+              auprès du chauffeur partenaire.
             </p>
           </div>
 

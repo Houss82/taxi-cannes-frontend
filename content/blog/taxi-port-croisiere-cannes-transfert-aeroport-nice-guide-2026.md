@@ -22,7 +22,7 @@ Ce guide répond aux intentions « **taxi port Cannes croisière** », « **tran
 
 <div class="info-box">
 
-<strong>Conversion vs information.</strong> Vous voulez **réserver tout de suite** (prix fixe, van, port → T1/T2)&nbsp;? Ouvrez la **<a href="/services/transfert-port-croisiere-cannes-aeroport-nice">page service Taxi Cannes — port croisière → aéroport Nice</a>** (contenu court, orienté réservation). **Cet article** conserve les **tableaux, repères quais et FAQ** pour le référencement et l’aide à la décision.
+<strong>Conversion vs information.</strong> Vous voulez **réserver tout de suite** (chauffeur partenaire, van, port → T1/T2)&nbsp;? Ouvrez la **<a href="/services/transfert-port-croisiere-cannes-aeroport-nice">page service Taxi Cannes — port croisière → aéroport Nice</a>** (contenu court, orienté réservation). **Cet article** conserve les **tableaux, repères quais et FAQ** pour le référencement et l’aide à la décision.
 
 </div>
 
@@ -106,7 +106,7 @@ Après une croisière, les **valises** sont souvent **plus nombreuses** qu’apr
 
 <div class="info-box">
 
-<strong>Tarifs.</strong> Pour une **prise en charge précise port / croisière → NCE**, passez par la **[page service dédiée](/services/transfert-port-croisiere-cannes-aeroport-nice)** (devis aligné sur nos forfaits). Pour les **fourchettes indicatives générales** (jour / nuit, berline / van), voir le **tableau** du **[guide transfert aéroport Nice–Cannes](/blog/guide-transfert-aeroport-nice-cannes)** et la page **[transfert aéroport Nice](/services/transfert-aeroport-nice-cannes)**.
+<strong>Tarifs.</strong> Pour une **prise en charge précise port / croisière → NCE**, passez par la **[page service dédiée](/services/transfert-port-croisiere-cannes-aeroport-nice)** (montant et conditions confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable). Le règlement s’effectue directement auprès du chauffeur. Pour les **durées et options** (berline / van), voir le **[guide transfert aéroport Nice–Cannes](/blog/guide-transfert-aeroport-nice-cannes)** et la page **[transfert aéroport Nice](/services/transfert-aeroport-nice-cannes)**.
 
 </div>
 
@@ -175,4 +175,4 @@ Un **taxi** ou **transfert réservé** depuis le **port de Cannes** vers **Nice 
 
 ---
 
-_Article satellite « port croisière → aéroport Nice » — mai 2026. Horaires & quais&nbsp;: toujours vérifier auprès de votre croisiériste et des infos portuaires publiques (ex. Cannes port / compagnie). Tarifs&nbsp;: devis selon trajet._
+_Article satellite « port croisière → aéroport Nice » — mai 2026. Horaires & quais&nbsp;: toujours vérifier auprès de votre croisiériste et des infos portuaires publiques (ex. Cannes port / compagnie). Tarifs&nbsp;: montant et conditions confirmés par le chauffeur partenaire ; cannestaxi.fr est un service de mise en relation._

@@ -334,9 +334,9 @@ export default function LeSuquet() {
                   Combien coûte un trajet Croisette → Suquet ?
                 </summary>
                 <p className="mt-4 text-gray-700">
-                  Le trajet depuis la Croisette vers le Suquet coûte environ{" "}
-                  <strong>8€ à 12€</strong> pour une durée de 3 à 5 minutes.
-                  Contactez-nous pour un devis précis.
+                  Le trajet depuis la Croisette vers le Suquet est généralement
+                  court (souvent quelques minutes). Le montant est confirmé par
+                  le chauffeur partenaire ; paiement auprès de lui.
                 </p>
               </details>
               <details className="bg-white rounded-lg p-6 border border-gray-200">

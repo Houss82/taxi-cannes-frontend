@@ -25,7 +25,7 @@ export const metadata = {
   title:
     "Transfert port croisière Cannes → Aéroport Nice | Taxi Cannes",
   description:
-    "Taxi après débarquement au port de Cannes vers l’aéroport Nice T1/T2. Berline ou van, bagages, tarif forfaitaire confirmé à la réservation. +33 7 56 82 77 99.",
+    "Taxi après débarquement au port de Cannes vers l’aéroport Nice T1/T2. Mise en relation avec des chauffeurs de taxi indépendants ; montant et conditions confirmés par le chauffeur. +33 7 56 82 77 99.",
   keywords: [
     "transfert port cannes aeroport nice",
     "taxi port croisiere cannes",
@@ -59,7 +59,7 @@ const faqItems = [
   },
   {
     q: "Quel est le tarif du transfert Port de Cannes → Aéroport Nice ?",
-    a: "Le tarif forfaitaire est confirmé lors de la réservation. Consultez aussi la grille générale sur la page Tarifs. Aucun montant spécifique Port → Nice n'est affiché sur cette page.",
+    a: "cannestaxi.fr met en relation avec des chauffeurs de taxi indépendants. Le montant et les conditions sont confirmés par le chauffeur avant la prise en charge, selon la réglementation applicable, et le paiement s'effectue directement auprès du chauffeur. Aucun montant n'est affiché sur cette page ; voir la page Tarifs (informative).",
   },
   {
     q: "Peut-on réserver un van avec des bagages ?",
@@ -174,8 +174,8 @@ export default function TransfertPortCroisiereCannesNice() {
           </h1>
           <p className="text-lg md:text-xl lg:text-2xl mb-10 text-white/92 text-balance leading-relaxed">
             Débarquement, valises volumineuses, horaire de vol serré&nbsp;?{" "}
-            <strong>Tarif forfaitaire confirmé à la réservation</strong>, berline
-            ou <strong>van Mercedes</strong> selon les bagages —
+            <strong>Montant et conditions confirmés par le chauffeur</strong>, berline
+            ou van selon les bagages et la disponibilité —
             <span className="whitespace-nowrap"> 24h/24, 7j/7.</span>
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
@@ -221,8 +221,8 @@ export default function TransfertPortCroisiereCannesNice() {
               },
               {
                 icon: Shield,
-                label: "Forfait",
-                desc: "Confirmé à la réservation",
+                label: "Montant",
+                desc: "Confirmé par le chauffeur",
               },
               { icon: Luggage, label: "Grands coffres", desc: "Van si besoin" },
               { icon: Plane, label: "T1 & T2", desc: "Dépose aéroport" },
@@ -339,25 +339,26 @@ export default function TransfertPortCroisiereCannesNice() {
               ))}
             </ul>
             <p className="text-gray-700 leading-relaxed">
-              Nous orientons vers une <strong>berline</strong> ou un{" "}
-              <strong>van Mercedes</strong> selon la demande et la disponibilité.
-              Le véhicule est confirmé avant le départ.
+              La demande peut porter sur une <strong>berline</strong> ou un{" "}
+              <strong>van</strong>, selon la disponibilité des chauffeurs
+              indépendants. Le véhicule est confirmé par le chauffeur avant le départ.
             </p>
           </div>
 
           {/* Tarif */}
           <div className="rounded-2xl border-2 border-accent/30 bg-accent/5 p-8 md:p-10">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4 text-balance">
-              Tarif du transfert Port de Cannes → Nice
+              Paiement et montant du transfert Port de Cannes → Nice
             </h2>
             <p className="text-gray-800 leading-relaxed mb-4">
-              Le <strong>tarif forfaitaire</strong> de ce trajet est{" "}
-              <strong>confirmé lors de la réservation</strong>, selon le créneau,
-              le véhicule et les options demandées. Aucun montant spécifique
-              «&nbsp;Port → Nice&nbsp;» n&apos;est affiché sur cette page.
+              cannestaxi.fr met en relation avec des chauffeurs de taxi indépendants.
+              Le <strong>montant et les conditions sont confirmés par le chauffeur</strong>,
+              selon la réglementation applicable, le créneau, le véhicule et les
+              options demandées. Le paiement s&apos;effectue directement auprès
+              du chauffeur. Aucun montant n&apos;est affiché sur cette page.
             </p>
             <p className="text-gray-700 leading-relaxed">
-              Pour consulter la grille générale du site (autres liaisons), ouvrez
+              Pour des informations générales (page informative), ouvrez
               la page{" "}
               <Link
                 href="/tarifs"
@@ -488,7 +489,7 @@ export default function TransfertPortCroisiereCannesNice() {
                 "Prise en charge au port ou à proximité, selon consignes croisiériste",
                 "Dépose aéroport Nice T1 ou T2",
                 "Berline ou van selon passagers et bagages",
-                "Tarif forfaitaire confirmé à la réservation",
+                "Montant et conditions confirmés par le chauffeur, paiement auprès de lui",
                 "Disponibilité 24h/24 pour correspondances matin ou soir",
               ].map((t) => (
                 <li key={t} className="flex gap-3">
@@ -532,7 +533,7 @@ export default function TransfertPortCroisiereCannesNice() {
             <p className="text-primary-foreground/90 mb-8 max-w-lg mx-auto">
               Indiquez <strong>T1 ou T2</strong>, le <strong>navire</strong>, le{" "}
               <strong>créneau</strong> et les <strong>bagages</strong> — nous
-              confirmons le véhicule et le tarif forfaitaire.
+              le chauffeur indépendant confirme le véhicule, le montant et les conditions.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button

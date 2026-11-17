@@ -1,7 +1,7 @@
 ---
 title: "Taxi Cannes → Monaco : guide complet et service premium"
 date: "2025-12-06"
-excerpt: "Service de taxi premium entre Cannes et Monaco : Mercedes haut de gamme, chauffeurs professionnels, trajet direct par l'A8, disponibilité 24/7 et tarifs transparents. Réservez votre transfert dès maintenant."
+excerpt: "Service de taxi premium entre Cannes et Monaco : Mercedes haut de gamme, chauffeurs professionnels, trajet direct par l'A8, disponibilité 24/7 et montant confirmé par le chauffeur partenaire. Réservez votre transfert dès maintenant."
 image: "/taxi-premium-cannes-monaco.png"
 category: "Transport"
 author: "Taxi Cannes"
@@ -14,7 +14,7 @@ Le trajet **Cannes → Monaco** représente l'un des parcours les plus prestigie
 
 Avec une flotte composée exclusivement de véhicules Mercedes récents, des chauffeurs expérimentés maîtrisant parfaitement les itinéraires de la Côte d'Azur, et une disponibilité **24 heures sur 24 et 7 jours sur 7**, nous transformons chaque déplacement en une **expérience de voyage fluide, sécurisée et mémorable**.
 
-Dans ce guide complet, vous découvrirez tous les détails de notre service de taxi premium pour le trajet Cannes → Monaco : informations pratiques sur le parcours, présentation de notre flotte, avantages exclusifs, conseils d'organisation, tarification transparente, et réponses à toutes vos questions fréquentes.
+Dans ce guide complet, vous découvrirez tous les détails de notre service de taxi premium pour le trajet Cannes → Monaco : informations pratiques sur le parcours, présentation de notre flotte, avantages exclusifs, conseils d'organisation, informations sur les tarifs, et réponses à toutes vos questions fréquentes.
 
 ---
 
@@ -293,9 +293,9 @@ Voyager avec Taxi Cannes, c'est profiter d'un environnement :
 - **Confortable** : sièges ergonomiques, température optimale, espace généreux
 - **Élégant** : intérieurs soignés, véhicules impeccables
 
-### ✅ Tarification transparente et sans surprise
+### ✅ Montant et conditions confirmés
 
-Chez Taxi Cannes, **aucun coût caché**. Le prix communiqué lors de votre réservation est le montant exact que vous paierez. Pas de supplément de dernière minute, pas de frais cachés, pas de surprise désagréable.
+Le montant et les conditions sont confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable. Le règlement s’effectue directement auprès du chauffeur. Cannestaxi.fr est un service de mise en relation avec des chauffeurs partenaires.
 
 ### ✅ Service client réactif et disponible
 
@@ -407,14 +407,14 @@ Pour découvrir toutes les attractions et informations pratiques sur Monaco, con
 
 ## 💶 Tarifs et modalités de réservation
 
-### 💰 Tarification transparente
+### 💰 Informations sur les tarifs
 
-Nos tarifs pour le trajet Cannes → Monaco sont **fixes**, **clairs** et **sans surprise**. Le prix que nous vous communiquons lors de votre réservation est le montant exact que vous paierez, sans frais cachés ni supplément inattendu.
+Pour le trajet Cannes → Monaco, le **montant et les conditions sont confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable**. Le règlement s’effectue directement auprès du chauffeur.
 
-Pour connaître le tarif précis de votre transfert, nous vous invitons à :
+Pour obtenir les informations sur votre transfert, nous vous invitons à :
 
 - **Consulter notre service Cannes → Monaco** : [détails complets du service](/services/cannes-monaco)
-- **Voir nos tarifs** : [grille tarifaire transparente](/tarifs)
+- **Voir nos tarifs** : [informations sur les tarifs](/tarifs)
 - **Réserver en ligne** : [formulaire de réservation](/reservation)
 
 ### 📋 Options de service disponibles
@@ -488,7 +488,7 @@ Pour connaître le tarif précis de votre transfert, nous vous invitons à :
 
 <details class="faq">
   <summary>Proposez-vous un service aller-retour Cannes ↔ Monaco ?</summary>
-  <p>Oui, nous proposons des <strong>services aller-retour</strong> avec différentes options : retour immédiat après votre dépose, retour à une heure programmée, ou retour sur appel. Les tarifs aller-retour sont généralement avantageux et peuvent être adaptés selon vos besoins spécifiques. Contactez-nous pour obtenir un devis personnalisé.</p>
+  <p>Oui, nous proposons des <strong>services aller-retour</strong> avec différentes options : retour immédiat après votre dépose, retour à une heure programmée, ou retour sur appel. Le montant et les conditions sont confirmés par le chauffeur partenaire selon vos besoins spécifiques, dans le respect de la réglementation applicable.</p>
 </details>
 
 <details class="faq">
@@ -513,7 +513,7 @@ Notre objectif est simple : vous offrir le meilleur service de taxi premium sur 
 
 <div class="highlight-box">
   <strong>Prêt à réserver votre transfert premium Cannes → Monaco ?</strong><br/>
-  Consultez d’abord la page commerciale du forfait, puis finalisez en ligne ou par téléphone.
+  Consultez d’abord la page du service, puis finalisez en ligne ou par téléphone.
   
   <div class="cta">
     <a class="cta-button" href="/services/cannes-monaco">transfert Cannes → Monaco</a>

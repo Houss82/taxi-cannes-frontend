@@ -350,15 +350,16 @@ export default function LaBocca() {
                   Combien coûte un taxi depuis La Bocca vers la Croisette ?
                 </summary>
                 <p className="mt-4 text-gray-700">
-                  Comptez environ <strong>20€ à 35€</strong> selon l&apos;adresse
-                  exacte et le trafic. Détails dans notre{" "}
+                  Le montant dépend de l&apos;adresse exacte, du trafic et des
+                  règles applicables ; il est confirmé par le chauffeur
+                  partenaire. Détails pratiques dans notre{" "}
                   <Link
                     href="/blog/taxi-cannes-la-bocca-guide-2026"
                     className="text-accent font-semibold hover:underline"
                   >
                     guide taxi La Bocca
                   </Link>
-                  . Contactez-nous pour un devis précis.
+                  .
                 </p>
               </details>
               <details className="bg-white rounded-lg p-6 border border-gray-200">
@@ -414,7 +415,7 @@ export default function LaBocca() {
                   >
                     guide taxi Cannes Antibes
                   </Link>{" "}
-                  (forfait indicatif <strong>45 €</strong> depuis Cannes centre).
+                  (montant confirmé par le chauffeur partenaire).
                 </p>
               </details>
             </div>

@@ -56,18 +56,35 @@ export default function MentionsLegales() {
                   <div className="space-y-4 text-gray-800">
                     <div>
                       <p className="font-bold text-lg text-accent mb-2">
-                        Taxi Cannes
+                        cannestaxi.fr
                       </p>
-                      <p className="leading-relaxed">
-                        Service de transport de personnes avec chauffeur
+                      <p className="leading-relaxed mb-3">
+                        Site de mise en relation permettant aux voyageurs de
+                        transmettre une demande de réservation à des chauffeurs
+                        de taxi professionnels indépendants. Les prestations de
+                        transport sont réalisées par les chauffeurs partenaires,
+                        qui encaissent directement le règlement des courses.
+                      </p>
+                      <p className="text-sm bg-amber-50 border border-amber-200 text-amber-950 rounded-lg p-3 leading-relaxed">
+                        <strong>À COMPLÉTER AVANT PUBLICATION :</strong> raison
+                        sociale / forme juridique de l&apos;éditeur, nom du
+                        responsable de publication, adresse professionnelle
+                        complète, SIRET (si applicable), et tout autre
+                        identifiant légal obligatoire. Ne pas inventer ces
+                        informations.
                       </p>
                     </div>
                     <div className="flex items-start gap-3">
                       <MapPin className="w-5 h-5 text-accent shrink-0 mt-1" />
                       <div>
                         <p className="font-bold mb-1">Adresse :</p>
-                        <p>Cannes, Côte d&apos;Azur</p>
-                        <p>Alpes-Maritimes, France</p>
+                        <p className="text-amber-800 font-medium">
+                          À COMPLÉTER AVANT PUBLICATION
+                        </p>
+                        <p className="text-sm text-gray-600">
+                          (adresse professionnelle de l&apos;éditeur — ne pas
+                          publier une adresse non vérifiée)
+                        </p>
                       </div>
                     </div>
                     <div className="flex items-start gap-3">
@@ -104,12 +121,17 @@ export default function MentionsLegales() {
                   <h2 className="text-2xl font-bold mb-4 text-gray-900">
                     Directeur de publication
                   </h2>
-                  <p className="text-gray-800 leading-relaxed">
-                    Le directeur de publication est le représentant légal de{" "}
+                  <p className="text-gray-800 leading-relaxed mb-3">
+                    Le directeur de publication est le représentant légal de
+                    l&apos;éditeur du site{" "}
                     <strong className="font-bold text-accent">
-                      Taxi Cannes
+                      cannestaxi.fr
                     </strong>
                     .
+                  </p>
+                  <p className="text-sm bg-amber-50 border border-amber-200 text-amber-950 rounded-lg p-3">
+                    <strong>À COMPLÉTER AVANT PUBLICATION :</strong> identité
+                    nominative du directeur / responsable de publication.
                   </p>
                 </div>
               </div>

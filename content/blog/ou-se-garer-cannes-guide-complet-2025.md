@@ -381,12 +381,12 @@ Pour un séjour de **3 jours à Cannes** :
 
 **Option 2 : Transport privé**
 
-- Transfert aéroport Nice → Cannes (forfait réservation type berline) : **95€ à 100€** selon secteur — voir [guide transfert](/blog/guide-transfert-aeroport-nice-cannes)
-- Déplacements locaux (3 trajets) : 45€ à 60€
-- **Total estimé** : **140€ à 160€** (ordre de grandeur)
+- Transfert aéroport Nice → Cannes : montant et conditions confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable — voir [guide transfert](/blog/guide-transfert-aeroport-nice-cannes)
+- Déplacements locaux (3 trajets) : montant confirmé par le chauffeur partenaire
+- **Total** : à estimer selon les montants confirmés par le chauffeur partenaire
 - **Avantages** : Pas de stress, confort, gain de temps, service professionnel
 
-**Conclusion** : Le transport privé évite **stress**, **recherche de place** et **temps perdu** ; selon le coût réel du parking sur votre créneau et vos trajets locaux, le total peut se rapprocher ou dépasser cette fourchette — mais le **confort** et la **ponctualité** restent souvent décisifs en haute saison.
+**Conclusion** : Le transport privé évite **stress**, **recherche de place** et **temps perdu** ; selon le coût réel du parking sur votre créneau et le montant confirmé pour vos trajets, le total peut varier — mais le **confort** et la **ponctualité** restent souvent décisifs en haute saison.
 
 ---
 

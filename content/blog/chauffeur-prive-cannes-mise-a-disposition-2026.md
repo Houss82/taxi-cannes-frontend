@@ -1,7 +1,7 @@
 ---
 title: "Chauffeur privé à Cannes : mise à disposition demi-journée, journée et événements"
 date: "2026-07-08"
-excerpt: "Taxi Cannes propose chauffeur privé et mise à disposition 4h/8h : congrès, Croisette, palaces, événements. Mercedes Classe S, tarifs 240€/420€. FAQ 16 questions. +33 7 56 82 77 99."
+excerpt: "Taxi Cannes propose chauffeur privé et mise à disposition 4h/8h : congrès, Croisette, palaces, événements. Mercedes Classe S, montant confirmé par le chauffeur partenaire. FAQ 16 questions. +33 7 56 82 77 99."
 image: "/chauffeur-prive-cannes-croisette-classe-s.png"
 category: "Transferts & Déplacements"
 author: "Taxi Cannes"
@@ -49,7 +49,7 @@ Cet article est le **guide pilier** de notre offre mise à disposition. Il compl
 <div class="kpi-strip">
   <span class="badge success">Taxi Cannes premium</span>
   <span class="badge info">4h / 8h</span>
-  <span class="badge success">240€ / 420€</span>
+  <span class="badge success">Sur devis</span>
   <span class="badge info">Mercedes Classe S</span>
   <span class="badge accent">24h/24</span>
 </div>
@@ -58,7 +58,7 @@ Cet article est le **guide pilier** de notre offre mise à disposition. Il compl
 
 <h2 id="taxi-ou-chauffeur">Taxi Cannes ou chauffeur privé : quelle différence ?</h2>
 
-**Taxi Cannes** assure au quotidien des **trajets classiques** : [taxi Cannes aéroport Nice](/services/transfert-aeroport-nice-cannes), gare SNCF, Croisette, Antibes, Monaco… Un **forfait par trajet**, un chauffeur, une dépose.
+**Taxi Cannes** assure au quotidien des **trajets classiques** : [taxi Cannes aéroport Nice](/services/transfert-aeroport-nice-cannes), gare SNCF, Croisette, Antibes, Monaco… Un **trajet**, un chauffeur, une dépose.
 
 La **mise à disposition** (souvent appelée « chauffeur privé ») est une **prestation différente** : vous louez le chauffeur **pour une durée** (4 h ou 8 h typiquement) et vous effectuez **plusieurs déplacements** dans cette fenêtre horaire.
 
@@ -89,8 +89,8 @@ La **mise à disposition** (souvent appelée « chauffeur privé ») est une **p
       </tr>
       <tr style="background-color: #f9fafb;">
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Tarification</strong></td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">Au trajet (forfait)</td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>À l'heure / demi-journée / journée</strong></td>
+        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">Au trajet</td>
+        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Selon la durée de mise à disposition</strong></td>
       </tr>
       <tr>
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Usage typique</strong></td>
@@ -195,40 +195,11 @@ Poussettes, valises, horaires enfants, plages : le chauffeur dédié vous fait g
 
 ---
 
-<h2 id="tarifs">Tarifs indicatifs 4h / 8h</h2>
+<h2 id="tarifs">Tarifs et conditions 4h / 8h</h2>
 
-Repères publics sur notre page **[Tarifs](/tarifs)** :
+Pour une mise à disposition **4 h** (demi-journée), **8 h** (journée complète), en berline, SUV, van ou Mercedes Classe S (sur demande), le **montant et les conditions sont confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable**. Le montant dépend du planning, du véhicule, de la zone, de la période et de l'organisation. Le règlement s’effectue directement auprès du chauffeur.
 
-<div class="content-box" style="overflow-x: auto; -webkit-overflow-scrolling: touch;">
-  <table style="width: 100%; border-collapse: collapse; margin: 1.5rem 0; min-width: 600px;">
-    <thead>
-      <tr style="background-color: #f3f4f6;">
-        <th style="padding: 12px 8px; text-align: left; border: 1px solid #e5e7eb; font-size: 0.875rem;">Prestation</th>
-        <th style="padding: 12px 8px; text-align: left; border: 1px solid #e5e7eb; font-size: 0.875rem;">Indication</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Demi-journée (4h)</strong></td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>240€</strong> (repère)</td>
-      </tr>
-      <tr style="background-color: #f9fafb;">
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Journée complète (8h)</strong></td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>420€</strong> (repère)</td>
-      </tr>
-      <tr>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Mercedes Classe S</strong> (sur demande)</td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">Devis selon disponibilité</td>
-      </tr>
-      <tr style="background-color: #f9fafb;">
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Nuit (20h–6h)</strong></td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">Surcharge <strong>+20%</strong> sur la grille</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-Ces tarifs sont des **indications** : le devis définitif dépend du planning, du véhicule (berline / SUV / van / Classe S), de la zone et de l'organisation. Montant **confirmé avant le départ**.
+Cannestaxi.fr est un service de **mise en relation** avec des chauffeurs partenaires. Informations générales : page **[Tarifs](/tarifs)**.
 
 ---
 
@@ -290,12 +261,12 @@ Arrivée aéroport avec bagages : **[Transfert aéroport Nice–Cannes](/service
 
 <details class="faq">
   <summary>Quelle est la différence entre taxi et mise à disposition ?</summary>
-  <p>Le <strong>taxi classique</strong> = 1 trajet, forfait au trajet. La <strong>mise à disposition</strong> = plusieurs trajets sur une durée (4h/8h), même chauffeur, attente incluse dans l'organisation.</p>
+  <p>Le <strong>taxi classique</strong> = 1 trajet, une dépose. La <strong>mise à disposition</strong> = plusieurs trajets sur une durée (4h/8h), même chauffeur, attente incluse dans l'organisation.</p>
 </details>
 
 <details class="faq">
   <summary>Quel est le tarif d'une mise à disposition à Cannes ?</summary>
-  <p>Repères sur <a href="/tarifs">Tarifs</a> : <strong>240€ (4h)</strong> et <strong>420€ (8h)</strong>. Devis confirmé avant le départ.</p>
+  <p>Le <strong>montant et les conditions sont confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable</strong>, avant le départ. Le règlement s’effectue directement auprès du chauffeur. Voir la page <a href="/tarifs">Tarifs</a>.</p>
 </details>
 
 <details class="faq">
@@ -315,7 +286,7 @@ Arrivée aéroport avec bagages : **[Transfert aéroport Nice–Cannes](/service
 
 <details class="faq">
   <summary>Chauffeur disponible la nuit ?</summary>
-  <p>Oui, 24h/24. Surcharge <strong>+20%</strong> entre <strong>20h et 6h</strong>.</p>
+  <p>Oui, 24h/24 selon disponibilité. Les conditions applicables de nuit sont confirmées par le chauffeur partenaire.</p>
 </details>
 
 <details class="faq">
@@ -377,4 +348,4 @@ Arrivée aéroport avec bagages : **[Transfert aéroport Nice–Cannes](/service
 
 ---
 
-_Article mis à jour en juillet 2026. Tarifs et conditions indicatifs ; confirmation à la réservation. Taxi Cannes — +33 7 56 82 77 99._
+_Article mis à jour en juillet 2026. Montant et conditions confirmés par le chauffeur partenaire. Cannestaxi.fr : service de mise en relation. Taxi Cannes — +33 7 56 82 77 99._

@@ -28,9 +28,9 @@ import {
 const canonical = "https://www.cannestaxi.fr/services/cannes-monaco";
 
 export const metadata = {
-  title: "Taxi Cannes Monaco | Transfert dès 160 €",
+  title: "Taxi Cannes Monaco | Mise en relation avec un chauffeur",
   description:
-    "Taxi et transfert privé Cannes → Monaco dès 160 €. Prise en charge à Cannes, dépose Monte-Carlo ou Monaco-Ville. Environ 50 km / 45 min. Réservez en ligne ou par téléphone.",
+    "Transfert Cannes → Monaco : mise en relation avec des chauffeurs de taxi indépendants. Prise en charge à Cannes, dépose Monte-Carlo ou Monaco-Ville. Environ 50 km / 45 min. Montant et conditions confirmés par le chauffeur.",
   keywords: [
     "taxi Cannes Monaco",
     "transfert Cannes Monaco",
@@ -40,9 +40,9 @@ export const metadata = {
   ],
   alternates: { canonical },
   openGraph: {
-    title: "Taxi Cannes Monaco | Transfert dès 160 €",
+    title: "Taxi Cannes Monaco | Mise en relation avec un chauffeur",
     description:
-      "Transfert privé Cannes ↔ Monaco dès 160 €. Réservation en ligne ou par téléphone, véhicules premium.",
+      "Transfert Cannes ↔ Monaco : mise en relation avec des chauffeurs de taxi indépendants. Montant et conditions confirmés par le chauffeur.",
     url: canonical,
     siteName: "Taxi Cannes",
     locale: "fr_FR",
@@ -53,7 +53,7 @@ export const metadata = {
 const faqItems = [
   {
     q: "Quel est le prix d’un taxi de Cannes à Monaco ?",
-    a: "Le forfait public affiché est de 160 € pour Cannes → Monaco (voir la page Tarifs). Le montant est confirmé à la réservation.",
+    a: "cannestaxi.fr met en relation avec des chauffeurs de taxi indépendants et ne fixe pas le prix de la course. Le montant et les conditions sont confirmés par le chauffeur avant la prise en charge, selon la réglementation applicable. Le paiement s'effectue directement auprès du chauffeur. Voir notre page Tarifs (informative).",
   },
   {
     q: "Combien de temps faut-il entre Cannes et Monaco ?",
@@ -61,7 +61,7 @@ const faqItems = [
   },
   {
     q: "Peut-on réserver un taxi Monaco → Cannes ?",
-    a: "Oui. Le retour Monaco → Cannes peut être organisé. Tarif et conditions sur demande à la réservation — aucun forfait retour distinct n’est publié sur cette page.",
+    a: "Oui. Le retour Monaco → Cannes peut être organisé. Montant et conditions confirmés par le chauffeur avant la prise en charge, selon la réglementation applicable.",
   },
   {
     q: "Peut-on être pris en charge à son hôtel à Cannes ?",
@@ -103,7 +103,7 @@ const serviceSchema = {
   url: canonical,
   telephone: "+33 7 56 82 77 99",
   description:
-    "Transfert privé Cannes → Monaco dès 160 €. Prise en charge à Cannes, dépose à Monaco / Monte-Carlo.",
+    "Mise en relation avec des chauffeurs de taxi indépendants pour un transfert Cannes → Monaco / Monte-Carlo. Montant et conditions confirmés par le chauffeur.",
   areaServed: [
     { "@type": "City", name: "Cannes" },
     { "@type": "City", name: "Monaco" },
@@ -185,12 +185,12 @@ export default function CannesMonacoPage() {
             Cannes → Monaco
           </h1>
           <p className="text-lg md:text-xl mb-4 text-white/92 text-balance leading-relaxed">
-            Taxi et transfert privé Cannes ↔ Monaco : prise en charge à Cannes,
-            dépose Monte-Carlo ou Monaco-Ville.
+            Transfert Cannes ↔ Monaco : mise en relation avec des chauffeurs de taxi
+            indépendants. Prise en charge à Cannes, dépose Monte-Carlo ou Monaco-Ville.
           </p>
           <p className="text-base md:text-lg mb-8 text-white/85">
             ~50 km · ~45 min (conditions normales) ·{" "}
-            <strong className="text-white">dès 160 €</strong>
+            <strong className="text-white">montant confirmé par le chauffeur</strong>
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <Button
@@ -221,7 +221,7 @@ export default function CannesMonacoPage() {
             {[
               { icon: Clock, label: "~45 min", desc: "Conditions normales" },
               { icon: MapPin, label: "~50 km", desc: "Cannes → Monaco" },
-              { icon: CheckCircle, label: "160 €", desc: "Forfait public" },
+              { icon: CheckCircle, label: "Chauffeur indépendant", desc: "Montant confirmé par lui" },
               { icon: Calendar, label: "24h/24", desc: "Réservation" },
             ].map((info) => {
               const Icon = info.icon;
@@ -258,8 +258,9 @@ export default function CannesMonacoPage() {
               Vous avez besoin d’un{" "}
               <strong className="text-gray-900">transfert Cannes Monaco</strong>{" "}
               clair : heure de départ, adresse de prise en charge, point de
-              dépose dans la Principauté, prix connu à l’avance. C’est
-              l’objet de cette page.
+              dépose dans la Principauté. cannestaxi.fr vous met en relation
+              avec des chauffeurs de taxi indépendants ; le montant et les
+              conditions sont confirmés par le chauffeur.
             </p>
             <p className="text-gray-700 leading-relaxed">
               Pour préparer le trajet en détail (itinéraires, conseils,
@@ -277,23 +278,26 @@ export default function CannesMonacoPage() {
           {/* Tarif */}
           <div>
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-              Tarif taxi Cannes → Monaco
+              Paiement et montant de la course Cannes → Monaco
             </h2>
             <div className="rounded-2xl border-2 border-accent/40 bg-white p-8 md:p-10 shadow-md text-center mb-6">
-              <p className="text-sm font-bold text-accent uppercase tracking-wider mb-2">
-                Forfait public
+              <p className="text-lg text-gray-700 mb-3">
+                cannestaxi.fr met en relation avec des chauffeurs de taxi
+                indépendants.
               </p>
-              <p className="text-lg text-gray-700 mb-2">Cannes → Monaco</p>
-              <p className="text-5xl font-bold text-accent mb-4">160 €</p>
+              <p className="text-gray-700 mb-3">
+                Paiement directement auprès du chauffeur. Montant et conditions
+                confirmés par le chauffeur, selon la réglementation applicable.
+              </p>
               <p className="text-sm text-muted-foreground max-w-md mx-auto">
-                Prix affiché sur notre grille{" "}
+                Informations générales sur notre page{" "}
                 <Link
                   href="/tarifs"
                   className="text-accent font-semibold hover:underline underline-offset-2"
                 >
                   Tarifs
-                </Link>
-                . Confirmé à la réservation.
+                </Link>{" "}
+                (page informative).
               </p>
             </div>
             <div className="flex flex-col sm:flex-row gap-3 justify-center">
@@ -438,12 +442,11 @@ export default function CannesMonacoPage() {
               destination à Cannes.
             </p>
             <p className="text-gray-700 leading-relaxed mb-4">
-              Aucun forfait retour distinct n’est publié ici.{" "}
               <strong className="text-gray-900">
-                Tarif et conditions sur demande
+                Montant et conditions confirmés par le chauffeur
               </strong>{" "}
-              à la réservation. Nous ne promettons pas d’attente sur place ni
-              d’aller-retour au même prix sans confirmation préalable.
+              avant la prise en charge, selon la réglementation applicable.
+              Attente sur place ou aller-retour : à convenir avec le chauffeur.
             </p>
             <Button
               href="/reservation"
@@ -502,7 +505,7 @@ export default function CannesMonacoPage() {
                 Vous arrivez à l’aéroport de Nice&nbsp;?
               </h3>
               <p className="text-gray-700 text-sm leading-relaxed mb-4">
-                Pour un trajet Nice Aéroport → Cannes (prix fixe, T1/T2),
+                Pour un trajet Nice Aéroport → Cannes (T1/T2),
                 utilisez la page dédiée — ce n’est pas un Cannes → Monaco.
               </p>
               <Link
@@ -606,7 +609,7 @@ export default function CannesMonacoPage() {
             Réserver votre transfert Cannes Monaco
           </h2>
           <p className="text-lg text-primary-foreground/90 mb-8">
-            Forfait Cannes → Monaco 160 € · confirmation avant le départ.
+            Montant et conditions confirmés par le chauffeur · paiement directement auprès du chauffeur.
           </p>
           <div className="flex flex-col sm:flex-row gap-3 justify-center">
             <Button

@@ -102,7 +102,7 @@ La descente vers le centre (rue d’Antibes, commerces, hôtels hors Croisette) 
 
 Le taxi évite surtout le **stationnement** en centre : chercher une place, puis remonter au Cannet, prend souvent plus de temps que la course elle-même.
 
-Pas de tarif « Cannet → centre » sur notre [grille publique](/tarifs) : le montant est **annoncé avant le départ**, selon l’adresse et le trafic. Pour une réservation, passez par la page **[service de taxi au Cannet](/secteurs/le-cannet)** ou le téléphone.
+Le montant et les conditions sont confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable, selon l’adresse et le trafic (voir la page [Tarifs](/tarifs)). Le règlement s’effectue directement auprès du chauffeur. Pour une réservation, passez par la page **[service de taxi au Cannet](/secteurs/le-cannet)** ou le téléphone.
 
 ---
 
@@ -112,7 +112,7 @@ Un **taxi Le Cannet Croisette** ajoute le franchissement du centre jusqu’au fr
 
 Utile pour : hôtel Croisette, dîner, Palais des Festivals, retour de soirée vers une résidence au Cannet. Détail du quartier d’arrivée : page **[La Croisette](/secteurs/la-croisette)**.
 
-Là encore, **pas de forfait affiché** sur la grille tarifs pour cette course courte. On confirme le prix à la réservation ou à l’appel.
+Là encore, le montant et les conditions sont confirmés par le chauffeur partenaire à la réservation ou à l’appel.
 
 ---
 
@@ -153,7 +153,7 @@ Durées alignées sur le site (page [transfert aéroport Nice Cannes](/services/
   </table>
 </div>
 
-La grille publique (95 € centre / 100 € palaces / 120 € van) concerne les forfaits **Cannes**. Depuis Le Cannet, le montant peut s’aligner ou passer **sur devis** selon l’adresse exacte — c’est déjà indiqué dans le guide départ. On vous le dit **avant** de rouler.
+Depuis Le Cannet, le montant dépend de l’adresse exacte ; il est confirmé par le chauffeur partenaire **avant** de rouler, dans le respect de la réglementation applicable.
 
 Indiquez **T1 ou T2**, le **numéro de vol**, et si vous partez d’une résidence (code). Pour un vol matinal, réservez la veille : c’est le créneau où l’on a le plus de demandes depuis Rocheville et le Vieux Cannet.
 
@@ -203,7 +203,7 @@ Groupes et gros bagages : un van est possible **sur demande**, comme pour l’a�
 
 <details class="faq">
   <summary>Le Cannet → Croisette : quelle durée ?</summary>
-  <p>En pratique souvent <strong>10 à 20 minutes</strong> hors pic, davantage en été ou pendant un événement. Le prix se confirme à l’appel : il n’y a pas de forfait Croisette dédié sur la grille tarifs.</p>
+  <p>En pratique souvent <strong>10 à 20 minutes</strong> hors pic, davantage en été ou pendant un événement. Le montant et les conditions sont confirmés par le chauffeur partenaire à l’appel.</p>
 </details>
 
 <details class="faq">
@@ -213,7 +213,7 @@ Groupes et gros bagages : un van est possible **sur demande**, comme pour l’a�
 
 <details class="faq">
   <summary>Le Cannet → aéroport Nice : durée et tarif ?</summary>
-  <p>Durée type <strong>35 à 48 minutes</strong> hors pic, plutôt <strong>45 à 60 minutes</strong> en été. Le forfait aéroport Cannes (95–100 € berline, 120 € van) peut s’appliquer ou passer sur devis selon l’adresse au Cannet. Voir <a href="/services/transfert-aeroport-nice-cannes">transfert aéroport Nice Cannes</a>.</p>
+  <p>Durée type <strong>35 à 48 minutes</strong> hors pic, plutôt <strong>45 à 60 minutes</strong> en été. Le montant et les conditions sont confirmés par le chauffeur partenaire selon l’adresse au Cannet. Voir <a href="/services/transfert-aeroport-nice-cannes">transfert aéroport Nice Cannes</a>.</p>
 </details>
 
 <details class="faq">

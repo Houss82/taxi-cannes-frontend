@@ -262,7 +262,7 @@ Pour vous rendre aux marchés de Cannes, plusieurs options s'offrent à vous. Vo
       </tr>
       <tr style="background-color: #e0f2fe;">
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>🚖 Taxi</strong></td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">À partir de 15€</td>
+        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">Confirmé par le chauffeur partenaire</td>
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">Direct</td>
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">✅ Excellent</td>
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">✅ Pas nécessaire</td>
@@ -331,13 +331,9 @@ Notre service de taxi pour les marchés de Cannes résout tous les problèmes de
 
 ### 💶 Tarifs et réservation
 
-**Tarifs indicatifs** (varient selon votre trajet) :
+**Tarifs** : le montant et les conditions sont confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable, selon votre trajet (service simple, avec attente, multi-marchés). Le règlement s’effectue directement auprès du chauffeur.
 
-- **Service simple** (aller uniquement) : À partir de 15€ selon la distance
-- **Service avec attente** (aller-retour) : À partir de 35€ selon la distance et la durée d'attente
-- **Service multi-marchés** : Sur devis personnalisé selon le nombre de marchés
-
-Pour connaître le tarif précis de votre transport vers les marchés, consultez notre [page Tarifs](/tarifs) ou [contactez-nous](/contact) pour un devis personnalisé.
+Pour plus d'informations, consultez notre [page Tarifs](/tarifs) ou [contactez-nous](/contact).
 
 ---
 
@@ -521,7 +517,7 @@ Les marchés de Cannes sont l'endroit idéal pour découvrir les **spécialités
 
 <details class="faq">
   <summary>Combien coûte un transport vers les marchés de Cannes ?</summary>
-  <p>Le tarif dépend de plusieurs facteurs : la distance depuis votre point de départ, le type de service (simple, avec attente, multi-marchés), et le type de véhicule. Pour un <strong>service simple</strong> (aller uniquement), comptez à partir de <strong>15€</strong> selon la distance. Pour un <strong>service avec attente</strong> (aller-retour), comptez à partir de <strong>35€</strong>. Contactez-nous pour un devis personnalisé selon vos besoins précis.</p>
+  <p>Le montant dépend de plusieurs facteurs : la distance depuis votre point de départ, le type de service (simple, avec attente, multi-marchés), et le type de véhicule. Le <strong>montant et les conditions sont confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable</strong>, pour un service simple comme pour un service avec attente. Le règlement s’effectue directement auprès du chauffeur.</p>
 </details>
 
 <details class="faq">

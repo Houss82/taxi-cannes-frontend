@@ -11,7 +11,7 @@ import Card from "../components/ui/Card";
 export const metadata = {
   title: "Services - Taxi Cannes",
   description:
-    "Services de taxi premium à Cannes : transferts aéroport Nice, trajets vers Monaco, Saint-Tropez, Antibes. Chauffeur privé disponible 24/7.",
+    "Mise en relation avec des chauffeurs de taxi indépendants à Cannes : transferts aéroport Nice, trajets vers Monaco, Saint-Tropez, Antibes. Montant et conditions confirmés par le chauffeur.",
   keywords:
     "services taxi cannes, transfert aéroport nice, taxi monaco, taxi saint-tropez, chauffeur privé cannes",
 };
@@ -22,14 +22,14 @@ export default function Services() {
       title: "Transfert Aéroport Nice – Cannes",
       desc: "Service rapide et fiable vers/depuis l'aéroport Nice-Côte d'Azur",
       image: "/aeroport-nice-cannes.jpg",
-      details: ["Prix fixe", "Chauffeur à l'accueil", "24h/24 disponible"],
+      details: ["Montant confirmé par le chauffeur", "Terminaux T1 & T2", "Demande 24h/24"],
       href: "/services/transfert-aeroport-nice-cannes",
     },
     {
       title: "Port croisière Cannes → Aéroport Nice",
-      desc: "Débarquement, transfert prix fixe vers T1/T2 — van si bagages groupe",
+      desc: "Débarquement, transfert vers T1/T2 — van possible selon disponibilité",
       image: "/taxi-cannes-port-croisiere.jpeg",
-      details: ["Port → Nice réservé", "Valises / van", "Même sérieux qu’aéroport"],
+      details: ["Port → Nice sur demande", "Valises / van selon disponibilité", "Conditions confirmées par le chauffeur"],
       href: "/services/transfert-port-croisiere-cannes-aeroport-nice",
     },
     {
@@ -47,21 +47,21 @@ export default function Services() {
       title: "Trajets Palaces",
       desc: "Service VIP pour les hôtels Majestic, Martinez et Carlton",
       image: "/palace-cannes.jpg",
-      details: ["Discrétion garantie", "Service blanc", "Ponctualité premium"],
+      details: ["Hôtels Carlton, Martinez, Majestic", "Aéroport, gare, Palais", "Conditions confirmées par le chauffeur"],
       href: "/services/trajets-palaces",
     },
     {
       title: "Cannes → Monaco",
       desc: "Transfert vers la Principauté de Monaco",
       image: "/yacht-monaco.jpg",
-      details: ["Confort assuré", "Trajets réguliers", "WiFi à bord"],
+      details: ["Transfert vers Monaco", "Environ 50 km / 45 min", "Montant confirmé par le chauffeur"],
       href: "/services/cannes-monaco",
     },
     {
       title: "Cannes → Saint-Tropez",
       desc: "Découvrez la Côte d'Azur en style",
       image: "/saint-tropez-cannes.jpg",
-      details: ["Trajets panoramiques", "Durée: 1h30", "Forfait groupes"],
+      details: ["Trajets panoramiques", "Durée indicative : 1h30", "Montant confirmé par le chauffeur"],
       href: "/blog/taxi-cannes-saint-tropez-transfert-guide-2026",
     },
     {
@@ -79,17 +79,17 @@ export default function Services() {
       title: "Cannes → Grasse",
       desc: "Capitale du parfum : parfumeries, vieille ville, gare",
       image: "/taxi-cannes-grasse-2026.png",
-      details: ["Forfait 65 €", "Dépose parfumeries", "Aller-retour possible"],
+      details: ["Dépose parfumeries", "Aller-retour à convenir", "Montant confirmé par le chauffeur"],
       href: "/blog/taxi-cannes-grasse-transfert-guide-2026",
     },
     {
       title: "Chauffeur Privé",
-      desc: "Location avec chauffeur pour demi-journée ou journée complète",
+      desc: "Demande de chauffeur pour demi-journée ou journée (4 h / 8 h), à confirmer avec le chauffeur",
       image: "/chauffeur-prive.jpg",
       details: [
         "Itinéraires flexibles",
-        "Accueil personnalisé",
-        "Mercedes Classe S (selon dispo)",
+        "Disponibilité à confirmer",
+        "Véhicule selon disponibilité du chauffeur",
       ],
       href: "/services/chauffeur-prive-cannes",
     },
@@ -109,6 +109,10 @@ export default function Services() {
         <div className="absolute inset-0 bg-black/40" />
         <div className="relative z-10 text-center text-white">
           <h1 className="text-5xl md:text-6xl font-bold">Nos Services</h1>
+          <p className="mt-4 text-lg max-w-2xl mx-auto px-6">
+            cannestaxi.fr met en relation avec des chauffeurs de taxi
+            indépendants.
+          </p>
         </div>
       </section>
 
@@ -148,6 +152,15 @@ export default function Services() {
               </Card>
             ))}
           </div>
+          <p className="mt-10 text-sm text-muted-foreground text-center max-w-3xl mx-auto">
+            Paiement directement auprès du chauffeur. Montant et conditions
+            confirmés par le chauffeur, selon la réglementation applicable.
+            Informations générales sur la page{" "}
+            <Link href="/tarifs" className="text-accent font-semibold hover:underline">
+              Tarifs
+            </Link>
+            .
+          </p>
         </div>
       </section>
     </main>

@@ -316,10 +316,9 @@ export default function BoulevardCarnot() {
                   Croisette ?
                 </summary>
                 <p className="mt-4 text-gray-700">
-                  Le tarif dépend de la distance exacte et du trafic. Pour un
-                  trajet depuis la Croisette vers le Boulevard Carnot, comptez
-                  environ <strong>15€ à 25€</strong>. Contactez-nous pour un
-                  devis précis.
+                  Le montant dépend de la distance exacte, du trafic et de la
+                  réglementation applicable. Il est confirmé par le chauffeur
+                  partenaire ; le règlement s&apos;effectue auprès de lui.
                 </p>
               </details>
               <details className="bg-white rounded-lg p-6 border border-gray-200">

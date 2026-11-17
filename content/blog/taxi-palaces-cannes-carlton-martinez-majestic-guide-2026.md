@@ -1,7 +1,7 @@
 ---
 title: "Taxi palaces Cannes : Carlton, Martinez, Majestic — prise en charge & transferts"
 date: "2026-10-06"
-excerpt: "Prise en charge devant Carlton, Martinez ou Majestic : aéroport Nice (forfait 100 € Croisette / palaces), gare, Palais, bagages. Guide pratique pour réserver. +33 7 56 82 77 99."
+excerpt: "Prise en charge devant Carlton, Martinez ou Majestic : aéroport Nice (montant confirmé par le chauffeur partenaire), gare, Palais, bagages. Guide pratique pour réserver. +33 7 56 82 77 99."
 image: "/taxi-palaces-cannes-croisette-hero.png"
 category: "Transferts & Déplacements"
 author: "Taxi Cannes"
@@ -99,7 +99,7 @@ D’autres hôtels de la Croisette suivent le même protocole : **nom + entrée 
     <tr>
       <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">Carlton / Martinez / Majestic</td>
       <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">Aéroport Nice T1 ou T2</td>
-      <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">Transfert forfait</td>
+      <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">Transfert aéroport</td>
     </tr>
     <tr style="background-color: #f9fafb;">
       <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">Palace</td>
@@ -124,15 +124,15 @@ D’autres hôtels de la Croisette suivent le même protocole : **nom + entrée 
   </tbody>
 </table>
 
-**Gare SNCF** : utile après un check-out avec valises — indiquez l’horaire de train pour caler la marge. **Palais** : donnez l’entrée si vous la connaissez (les accès changent selon les événements). **Monaco** : transfert ponctuel depuis le palace ; forfait public **Cannes → Monaco 160 €** sur la grille **[Tarifs](/tarifs)** et la page **[transfert Cannes Monaco](/services/cannes-monaco)**.
+**Gare SNCF** : utile après un check-out avec valises — indiquez l’horaire de train pour caler la marge. **Palais** : donnez l’entrée si vous la connaissez (les accès changent selon les événements). **Monaco** : transfert ponctuel depuis le palace ; montant et conditions confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable ; voir la page **[Tarifs](/tarifs)** et la page **[transfert Cannes Monaco](/services/cannes-monaco)**.
 
 ---
 
 <h2 id="aeroport">Palace et aéroport Nice</h2>
 
-Sur la page **[transfert aéroport Nice–Cannes](/services/transfert-aeroport-nice-cannes)**, le forfait réservation **Aéroport Nice ↔ Croisette / palaces** est affiché à **100 €**. La grille **[Tarifs](/tarifs)** publie également **Aéroport Nice → Palaces : 100 €** (et **95 €** vers Cannes centre). Van 8 places : forfait **120 €** sur la page aéroport.
+Sur la page **[transfert aéroport Nice–Cannes](/services/transfert-aeroport-nice-cannes)**, le trajet **Aéroport Nice ↔ Croisette / palaces** (berline ou van 8 places) fait l’objet d’un montant et conditions confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable. Le règlement s’effectue directement auprès du chauffeur. Voir aussi la page **[Tarifs](/tarifs)**.
 
-Indiquez T1 ou T2, l’heure de vol et une marge de route (surtout en été ou jour d’événement). Montant confirmé à la réservation.
+Indiquez T1 ou T2, l’heure de vol et une marge de route (surtout en été ou jour d’événement). Montant et conditions confirmés par le chauffeur partenaire.
 
 Ce n’est pas une mise à disposition : un trajet, une dépose au terminal. Pour réserver ce type de course depuis un palace nommé, partez de **[trajets palaces](/services/trajets-palaces)** ou du [formulaire](/reservation).
 
@@ -151,7 +151,7 @@ Ce n’est pas une mise à disposition : un trajet, une dépose au terminal. Pou
   <tbody>
     <tr>
       <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">Un seul trajet (palace → aéroport, palace → gare)</td>
-      <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">Course / forfait</td>
+      <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">Course unique</td>
       <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong><a href="/services/trajets-palaces">Trajets palaces</a></strong> + aéroport si Nice</td>
     </tr>
     <tr style="background-color: #f9fafb;">
@@ -212,7 +212,7 @@ Ce guide traite l’angle **palace → déplacement**. Pour le détail Lions, Pa
 
 <details class="faq">
   <summary>Quel est le prix d’un taxi entre un palace et l’aéroport Nice ?</summary>
-  <p>Le forfait réservation <strong>Aéroport Nice ↔ Croisette / palaces</strong> est de <strong>100 €</strong> sur la page <a href="/services/transfert-aeroport-nice-cannes">transfert aéroport Nice–Cannes</a>. La grille <a href="/tarifs">Tarifs</a> affiche aussi <strong>Aéroport Nice → Palaces : 100 €</strong>. Montant confirmé à la réservation.</p>
+  <p>Le <strong>montant et les conditions sont confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable</strong>. Le règlement s’effectue directement auprès du chauffeur. Voir la page <a href="/services/transfert-aeroport-nice-cannes">transfert aéroport Nice–Cannes</a> et la page <a href="/tarifs">Tarifs</a>.</p>
 </details>
 
 <details class="faq">
@@ -237,7 +237,7 @@ Ce guide traite l’angle **palace → déplacement**. Pour le détail Lions, Pa
 
 <details class="faq">
   <summary>Peut-on partir du palace vers Monaco ?</summary>
-  <p>Oui, en transfert ponctuel. Voir <a href="/services/cannes-monaco">transfert Cannes → Monaco</a> (forfait public <strong>160 €</strong> Cannes → Monaco sur <a href="/tarifs">Tarifs</a>). Précisez le palace comme adresse de départ.</p>
+  <p>Oui, en transfert ponctuel. Voir <a href="/services/cannes-monaco">transfert Cannes → Monaco</a> (montant et conditions confirmés par le chauffeur partenaire ; voir <a href="/tarifs">Tarifs</a>). Précisez le palace comme adresse de départ.</p>
 </details>
 
 <details class="faq">
@@ -257,4 +257,4 @@ Ce guide traite l’angle **palace → déplacement**. Pour le détail Lions, Pa
 
 ---
 
-En résumé : depuis un palace cannois, ce qui compte c’est **l’hôtel nommé**, **l’entrée**, **les bagages** et **l’horaire** — surtout vers Nice (forfait **100 €** Croisette / palaces sur la grille aéroport). Pour réserver : **[trajets palaces Cannes](/services/trajets-palaces)** ou **+33 7 56 82 77 99**.
+En résumé : depuis un palace cannois, ce qui compte c’est **l’hôtel nommé**, **l’entrée**, **les bagages** et **l’horaire** — surtout vers Nice (montant confirmé par le chauffeur partenaire). Pour réserver : **[trajets palaces Cannes](/services/trajets-palaces)** ou **+33 7 56 82 77 99**.

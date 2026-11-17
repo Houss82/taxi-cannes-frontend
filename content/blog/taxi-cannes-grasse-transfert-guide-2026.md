@@ -1,7 +1,7 @@
 ---
 title: "Taxi Cannes Grasse 2026 : durée, tarif, parfumeries & réservation"
 date: "2026-07-24"
-excerpt: "Taxi Cannes Grasse : durée 25–40 min, forfait 65 €, parfumeries, vieille ville, gare SNCF. Aller-retour & mise à disposition. FAQ 14 questions. +33 7 56 82 77 99."
+excerpt: "Taxi Cannes Grasse : durée 25–40 min, montant confirmé par le chauffeur partenaire, parfumeries, vieille ville, gare SNCF. Aller-retour & mise à disposition. FAQ 14 questions. +33 7 56 82 77 99."
 image: "/taxi-cannes-grasse-2026.png"
 category: "Transferts & Déplacements"
 author: "Taxi Cannes"
@@ -21,9 +21,9 @@ keywords:
 
 # Taxi Cannes → Grasse 2026 : durée, tarif, parfumeries & réservation
 
-**Taxi Cannes Grasse** : liaison vers la **capitale mondiale du parfum** — **environ 25 à 40 minutes** selon trafic, **forfait type 65 €** sur notre page **[Tarifs](/tarifs)** (confirmation à la réservation). Idéal pour une visite **parfumerie**, la **vieille ville**, un rendez-vous pro ou une correspondance **gare SNCF Grasse**. Appelez le **+33 7 56 82 77 99** ou [réservez en ligne](/reservation).
+**Taxi Cannes Grasse** : liaison vers la **capitale mondiale du parfum** — **environ 25 à 40 minutes** selon trafic, **montant et conditions confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable** (voir la page **[Tarifs](/tarifs)**). Idéal pour une visite **parfumerie**, la **vieille ville**, un rendez-vous pro ou une correspondance **gare SNCF Grasse**. Appelez le **+33 7 56 82 77 99** ou [réservez en ligne](/reservation).
 
-Ce guide cible les recherches _taxi Cannes Grasse_, _transfert Cannes Grasse_ et _prix taxi Cannes Grasse_. Ce n'est **pas** un guide multi-villages : pour une **excursion Mougins + Grasse**, voir **[Villes et villages autour de Cannes](/blog/villages-autour-cannes-excursions-transport-2025)** et notre **[chauffeur privé / mise à disposition](/blog/chauffeur-prive-cannes-mise-a-disposition-2026)**.
+Ce guide cible les recherches _taxi Cannes Grasse_, _transfert Cannes Grasse_ et l’organisation opérationnelle du trajet. Pour un angle **Croisette / patrimoine du parfum** et la suite des déplacements **à Grasse**, voir aussi **[Cannes – Grasse en taxi : rejoindre la capitale du parfum depuis la Croisette](/blog/cannes-grasse-taxi-capitale-parfum-croisette)**. Ce n'est **pas** un guide multi-villages : pour une **excursion Mougins + Grasse**, voir **[Villes et villages autour de Cannes](/blog/villages-autour-cannes-excursions-transport-2025)** et notre **[chauffeur privé / mise à disposition](/blog/chauffeur-prive-cannes-mise-a-disposition-2026)**.
 
 <details class="toc">
   <summary>Sommaire de l'article</summary>
@@ -33,7 +33,7 @@ Ce guide cible les recherches _taxi Cannes Grasse_, _transfert Cannes Grasse_ et
     <li><a href="#destinations">Où aller à Grasse : parfumeries, centre, gare</a></li>
     <li><a href="#itineraires">Itinéraires depuis Cannes</a></li>
     <li><a href="#prise-en-charge">Prise en charge à Cannes</a></li>
-    <li><a href="#tarifs">Tarifs et forfaits</a></li>
+    <li><a href="#tarifs">Tarifs et conditions</a></li>
     <li><a href="#comparatif">Taxi vs bus vs voiture</a></li>
     <li><a href="#aller-retour">Aller-retour & demi-journée</a></li>
     <li><a href="#pourquoi-taxi-cannes">Pourquoi choisir Taxi Cannes ?</a></li>
@@ -44,7 +44,7 @@ Ce guide cible les recherches _taxi Cannes Grasse_, _transfert Cannes Grasse_ et
 
 <div class="kpi-strip">
   <span class="badge info">25 – 40 min</span>
-  <span class="badge success">Grille : 65 €</span>
+  <span class="badge success">Chauffeur partenaire</span>
   <span class="badge info">Parfumeries & vieille ville</span>
   <span class="badge success">Réservation 24h/24</span>
   <span class="badge accent">Chauffeur local Cannes</span>
@@ -157,9 +157,9 @@ Points de départ fréquents :
 
 ---
 
-<h2 id="tarifs">Tarifs et forfaits</h2>
+<h2 id="tarifs">Tarifs et conditions</h2>
 
-Sur notre page **[Tarifs](/tarifs)**, la liaison **Cannes → Grasse** est indiquée à **65 €**. C'est le **référent public** ; le montant définitif est **confirmé à la réservation** (véhicule, attente, détour Mougins, van).
+Pour la liaison **Cannes → Grasse**, le **montant et les conditions sont confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable** (véhicule, attente, détour Mougins, van). Le règlement s’effectue directement auprès du chauffeur. Cannestaxi.fr est un service de mise en relation ; voir la page **[Tarifs](/tarifs)**.
 
 <div class="content-box" style="overflow-x: auto; -webkit-overflow-scrolling: touch;">
   <table style="width: 100%; border-collapse: collapse; margin: 1.5rem 0; min-width: 600px;">
@@ -172,7 +172,7 @@ Sur notre page **[Tarifs](/tarifs)**, la liaison **Cannes → Grasse** est indiq
     <tbody>
       <tr>
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Cannes → Grasse</strong> (liaison standard)</td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>65 €</strong> — grille tarifaire</td>
+        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">Montant et conditions confirmés par le chauffeur partenaire</td>
       </tr>
       <tr style="background-color: #f9fafb;">
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Grasse → Cannes</strong> (retour)</td>
@@ -180,7 +180,7 @@ Sur notre page **[Tarifs](/tarifs)**, la liaison **Cannes → Grasse** est indiq
       </tr>
       <tr>
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Aller-retour + attente</strong> (visite parfumerie 2–3 h)</td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">Sur <strong>devis</strong> ou forfait <a href="/blog/chauffeur-prive-cannes-mise-a-disposition-2026">mise à disposition 4h</a></td>
+        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">Sur <strong>devis</strong> ou <a href="/blog/chauffeur-prive-cannes-mise-a-disposition-2026">mise à disposition 4h</a></td>
       </tr>
       <tr style="background-color: #f9fafb;">
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Van 6–8 places</strong></td>
@@ -188,7 +188,7 @@ Sur notre page **[Tarifs](/tarifs)**, la liaison **Cannes → Grasse** est indiq
       </tr>
       <tr>
         <td style="padding: 12px 8px; border: 1px solid #e5e7eb;"><strong>Nuit (20h–6h)</strong></td>
-        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">Surcharge <strong>+20 %</strong> sur la grille</td>
+        <td style="padding: 12px 8px; border: 1px solid #e5e7eb;">Conditions confirmées par le chauffeur partenaire</td>
       </tr>
     </tbody>
   </table>
@@ -237,7 +237,7 @@ Beaucoup de clients réservent :
 
 1. **Aller simple** Cannes → Grasse (visite autonome, retour en bus/TER) ;
 2. **Aller-retour** avec heure de reprise convenue ;
-3. **Mise à disposition 4 h** : plusieurs arrêts (parfumerie + centre + retour) — voir **[chauffeur privé Cannes](/blog/chauffeur-prive-cannes-mise-a-disposition-2026)** (repère **240 €** pour 4 h).
+3. **Mise à disposition 4 h** : plusieurs arrêts (parfumerie + centre + retour) — voir **[chauffeur privé Cannes](/blog/chauffeur-prive-cannes-mise-a-disposition-2026)** (conditions confirmées par le chauffeur partenaire).
 
 Indiquez dès la réservation si vous souhaitez une **attente** pendant la visite.
 
@@ -248,7 +248,7 @@ Indiquez dès la réservation si vous souhaitez une **attente** pendant la visit
 - **Chauffeurs locaux** : axes Cannes–Grasse, accès parfumeries et centre ;
 - **Flotte Mercedes** : berline, SUV, **van** sur demande ;
 - **Disponibilité 24h/24** ;
-- **Prix annoncé** à la réservation pour la liaison standard ;
+- **Montant et conditions confirmés** par le chauffeur partenaire pour la liaison standard ;
 - **Maillage** : [Antibes](/blog/taxi-cannes-antibes-juan-les-pins-transfert-guide-2026), [Monaco](/blog/taxi-cannes-monaco-guide-complet), [aéroport Nice](/services/transfert-aeroport-nice-cannes), [villages](/blog/villages-autour-cannes-excursions-transport-2025).
 
 ---
@@ -271,7 +271,7 @@ Indiquez : **date et heure**, **prise en charge à Cannes**, **destination préc
 
 <details class="faq">
   <summary>Quel est le prix d'un taxi Cannes Grasse ?</summary>
-  <p>Notre <a href="/tarifs">grille</a> indique <strong>65 €</strong> pour Cannes → Grasse. Le montant exact est <strong>confirmé à la réservation</strong>.</p>
+  <p>Le <strong>montant et les conditions sont confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable</strong>. Le règlement s’effectue directement auprès du chauffeur. Voir la page <a href="/tarifs">Tarifs</a>.</p>
 </details>
 
 <details class="faq">
@@ -316,7 +316,7 @@ Indiquez : **date et heure**, **prise en charge à Cannes**, **destination préc
 
 <details class="faq">
   <summary>Grasse ou Antibes depuis Cannes : quel trajet choisir ?</summary>
-  <p><strong>Antibes</strong> = littoral, ~15–25 min, 45 €. <strong>Grasse</strong> = collines / parfum, ~25–40 min, 65 €. Deux intentions différentes — voir aussi <a href="/blog/taxi-cannes-antibes-juan-les-pins-transfert-guide-2026">guide Antibes</a>.</p>
+  <p><strong>Antibes</strong> = littoral, ~15–25 min. <strong>Grasse</strong> = collines / parfum, ~25–40 min. Deux intentions différentes — voir aussi <a href="/blog/taxi-cannes-antibes-juan-les-pins-transfert-guide-2026">guide Antibes</a>.</p>
 </details>
 
 <details class="faq">
@@ -338,7 +338,7 @@ Indiquez : **date et heure**, **prise en charge à Cannes**, **destination préc
 
 <div class="highlight-box">
   <strong>Taxi Cannes → Grasse</strong><br/>
-  Liaison collines &amp; parfumeries : réservez votre créneau, précisez la destination exacte (parfumerie, gare, hôtel) et votre forfait vous est confirmé avant le départ.
+  Liaison collines &amp; parfumeries : réservez votre créneau, précisez la destination exacte (parfumerie, gare, hôtel) et le montant vous est confirmé par le chauffeur partenaire avant le départ.
 </div>
 
 <div class="cta">
@@ -348,4 +348,4 @@ Indiquez : **date et heure**, **prise en charge à Cannes**, **destination préc
 
 ---
 
-_Article publié en juillet 2026. Tarifs et temps de parcours indicatifs ; confirmation à la réservation. Taxi Cannes — +33 7 56 82 77 99._
+_Article publié en juillet 2026. Temps de parcours indicatifs ; montant et conditions confirmés par le chauffeur partenaire. Cannestaxi.fr : service de mise en relation. Taxi Cannes — +33 7 56 82 77 99._

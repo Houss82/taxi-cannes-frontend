@@ -1,5 +1,5 @@
 ---
-title: "Taxi Cannes La Bocca 2026 : plage, marché, tarifs & réservation"
+title: "Taxi Cannes La Bocca 2026 : plage, marché & réservation"
 date: "2026-08-07"
 excerpt: "Taxi Cannes La Bocca : plage, Avenue Francis Tonner, marché, résidences. Durées vers Croisette, aéroport Nice & Antibes. Chauffeur local 24h/24. FAQ 14 questions. +33 7 56 82 77 99."
 image: "/taxi-cannes-la-bocca-guide-2026.png"
@@ -19,7 +19,7 @@ keywords:
   - taxi port de la bocca
 ---
 
-**Taxi Cannes La Bocca** : le quartier **ouest** de Cannes — plage de sable, promenade, **Avenue Francis Tonner**, marché et résidences — génère chaque jour des demandes _taxi La Bocca_, _taxi Cannes La Bocca_ et _taxi plage La Bocca_. Ce guide répond à l’intention **informationnelle** (durées, tarifs, accès) et renvoie vers notre **[page secteur La Bocca](/secteurs/la-bocca)** pour réserver.
+**Taxi Cannes La Bocca** : le quartier **ouest** de Cannes — plage de sable, promenade, **Avenue Francis Tonner**, marché et résidences — génère chaque jour des demandes _taxi La Bocca_, _taxi Cannes La Bocca_ et _taxi plage La Bocca_. Ce guide répond à l’intention **informationnelle** (durées, accès, réservation) et renvoie vers notre **[page secteur La Bocca](/secteurs/la-bocca)** pour réserver.
 
 Ce n’est **pas** un guide multi-destinations : pour **Antibes / Juan-les-Pins**, voir **[Taxi Cannes Antibes](/blog/taxi-cannes-antibes-juan-les-pins-transfert-guide-2026)**. Pour l’**aéroport Nice**, le **[guide pilier](/blog/guide-transfert-aeroport-nice-cannes)** et la page **[transfert aéroport Nice Cannes](/services/transfert-aeroport-nice-cannes)**.
 
@@ -29,7 +29,7 @@ Ce n’est **pas** un guide multi-destinations : pour **Antibes / Juan-les-Pins*
     <li><a href="#pourquoi-bocca">Pourquoi un taxi à La Bocca ?</a></li>
     <li><a href="#quartier">Le quartier : plage, Francis Tonner, marché</a></li>
     <li><a href="#durees">Durées et trajets fréquents</a></li>
-    <li><a href="#tarifs">Tarifs indicatifs</a></li>
+    <li><a href="#tarifs">Tarifs et conditions</a></li>
     <li><a href="#aeroport">La Bocca ↔ aéroport Nice</a></li>
     <li><a href="#prise-en-charge">Prise en charge & déposes</a></li>
     <li><a href="#comparatif">Taxi vs voiture vs bus</a></li>
@@ -136,16 +136,11 @@ Les temps ci-dessous sont **indicatifs** (trafic Cannes, été, événements) :
 
 ---
 
-<h2 id="tarifs">Tarifs indicatifs</h2>
+<h2 id="tarifs">Tarifs et conditions</h2>
 
-Les montants exacts dépendent de l’**adresse**, du **trafic** et du **type de véhicule**. Ordres de grandeur :
+Pour les trajets depuis ou vers La Bocca (Croisette / centre, gare SNCF, aéroport Nice, Antibes), le **montant et les conditions sont confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable**, selon l’**adresse**, le **trafic** et le **type de véhicule**. Le règlement s’effectue directement auprès du chauffeur.
 
-- **La Bocca → Croisette / centre** : souvent **20 € à 35 €** ;
-- **La Bocca → gare SNCF** : course courte / moyenne — devis à la réservation ;
-- **La Bocca → aéroport Nice** : aligné sur la grille **[transfert aéroport](/services/transfert-aeroport-nice-cannes)** (forfait type **95–100 €** berline selon zone / palace, **120 €** van) — confirmation à la réservation ;
-- **La Bocca → Antibes** : logique proche du forfait **[Cannes → Antibes 45 €](/blog/taxi-cannes-antibes-juan-les-pins-transfert-guide-2026)** selon point exact.
-
-Voir aussi la page **[Tarifs](/tarifs)**. Attente au-delà de 15 min : facturation possible selon grille (ex. 0,35 €/min).
+Voir aussi la page **[Tarifs](/tarifs)**, la page **[transfert aéroport](/services/transfert-aeroport-nice-cannes)** et le **[guide Cannes → Antibes](/blog/taxi-cannes-antibes-juan-les-pins-transfert-guide-2026)**. Cannestaxi.fr est un service de mise en relation avec des chauffeurs partenaires.
 
 ---
 
@@ -213,7 +208,7 @@ Pour un **vol**, un **train** ou une **sortie plage avec enfants**, le taxi rest
 - **Chauffeurs locaux** — La Bocca, ouest cannois, A8 ;
 - **Flotte Mercedes** (berline, break, SUV, van sur demande) ;
 - **Disponibilité 24h/24** ;
-- **Prix annoncé** avant le départ pour les forfaits / devis ;
+- **Montant et conditions confirmés** par le chauffeur partenaire avant le départ ;
 - **Maillage** : [secteur La Bocca](/secteurs/la-bocca), [Antibes](/blog/taxi-cannes-antibes-juan-les-pins-transfert-guide-2026), [aéroport](/services/transfert-aeroport-nice-cannes), [gare](/blog/taxi-gare-cannes-service-transport-sncf-2025), [Le Cannet](/secteurs/le-cannet).
 
 ---
@@ -232,7 +227,7 @@ Indiquez date, heure, adresse La Bocca, destination et bagages.
 
 <details class="faq">
   <summary>Combien coûte un taxi La Bocca → Croisette ?</summary>
-  <p>Souvent <strong>20 € à 35 €</strong> selon l’adresse exacte et le trafic. Devis précis à la réservation.</p>
+  <p>Le <strong>montant et les conditions sont confirmés par le chauffeur partenaire, dans le respect de la réglementation applicable</strong>, selon l’adresse exacte et le trafic.</p>
 </details>
 
 <details class="faq">
@@ -247,7 +242,7 @@ Indiquez date, heure, adresse La Bocca, destination et bagages.
 
 <details class="faq">
   <summary>Desservez-vous le marché de La Bocca ?</summary>
-  <p>Oui, avec possibilité d’<strong>attente</strong> pendant les courses (tarif selon durée).</p>
+  <p>Oui, avec possibilité d’<strong>attente</strong> pendant les courses (conditions confirmées par le chauffeur partenaire selon la durée).</p>
 </details>
 
 <details class="faq">
@@ -257,7 +252,7 @@ Indiquez date, heure, adresse La Bocca, destination et bagages.
 
 <details class="faq">
   <summary>Taxi La Bocca vers Antibes : quel prix ?</summary>
-  <p>Liaison ouest proche — voir le <a href="/blog/taxi-cannes-antibes-juan-les-pins-transfert-guide-2026">guide Cannes Antibes</a> (forfait type <strong>45 €</strong> depuis Cannes centre ; confirmation selon adresse Bocca).</p>
+  <p>Liaison ouest proche — voir le <a href="/blog/taxi-cannes-antibes-juan-les-pins-transfert-guide-2026">guide Cannes Antibes</a> (montant et conditions confirmés par le chauffeur partenaire selon l’adresse à La Bocca).</p>
 </details>
 
 <details class="faq">
@@ -314,4 +309,4 @@ Indiquez date, heure, adresse La Bocca, destination et bagages.
 
 ---
 
-_Article publié en août 2026. Durées et tarifs indicatifs ; confirmation à la réservation. Taxi Cannes — +33 7 56 82 77 99._
+_Article publié en août 2026. Durées indicatives ; montant et conditions confirmés par le chauffeur partenaire. Cannestaxi.fr : service de mise en relation. Taxi Cannes — +33 7 56 82 77 99._
